@@ -5,128 +5,84 @@
     <title>User Comments Dashboard</title>
     <!-- Bootstrap CSS for responsive design -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Font Awesome for Icons -->
+    <!-- Font Awesome for Icons (Optional) -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
         body {
-            padding: 0;
-            margin: 0;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #f4f6f9;
+            padding: 20px;
+            background-color: #f8f9fa;
         }
-        .navbar {
+        .tag {
+            margin-right: 5px;
+            cursor: pointer;
+        }
+        .tag.active {
             background-color: #0d6efd;
+            color: white;
         }
-        .navbar-brand {
-            color: #fff !important;
-            font-weight: bold;
+        .comment {
+            background-color: #ffffff;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
         }
-        .tag-button {
-            margin-right: 10px;
+        .forum-section {
+            margin-bottom: 20px;
         }
-        .tag-button.active {
-            background-color: #fff !important;
-            color: #0d6efd !important;
-            border: 1px solid #0d6efd;
+        .card-user {
+            margin-bottom: 30px;
         }
-        .search-bar {
-            position: relative;
-        }
-        .search-bar i {
-            position: absolute;
-            top: 50%;
-            left: 15px;
-            transform: translateY(-50%);
-            color: #6c757d;
-        }
-        .search-input {
-            padding-left: 40px;
-        }
-        .comment-card {
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
-        }
-        .comment-card:hover {
-            transform: translateY(-5px);
+        .card-forum {
+            margin-bottom: 15px;
         }
         .badge-source {
             font-size: 0.9rem;
+            background-color: #17a2b8;
         }
-        .footer {
-            background-color: #0d6efd;
-            color: #fff;
-            padding: 15px 0;
-            position: fixed;
-            width: 100%;
-            bottom: 0;
-        }
-        @media (max-width: 576px) {
-            .search-bar {
-                margin-top: 15px;
-            }
-            .footer {
-                position: static;
-            }
+        .badge-forum {
+            font-size: 0.8rem;
+            background-color: #6c757d;
         }
     </style>
 </head>
 <body>
-    <!-- Navigation Bar -->
-    <nav class="navbar navbar-expand-lg">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">Comments Dashboard</a>
+    <div class="container">
+        <h1 class="mb-4">User Comments Dashboard</h1>
+        
+        <!-- Tags for Filtering Sources -->
+        <div class="mb-3">
+            <span class="badge bg-secondary tag active" data-source="All">All</span>
+            <span class="badge bg-secondary tag" data-source="Source 1">Source 1</span>
+            <span class="badge bg-secondary tag" data-source="Source 2">Source 2</span>
+            <span class="badge bg-secondary tag" data-source="Source 3">Source 3</span>
         </div>
-    </nav>
-
-    <div class="container mt-4 mb-5">
-        <div class="row">
-            <!-- Filter Buttons -->
-            <div class="col-12 mb-3">
-                <div class="btn-group" role="group" aria-label="Filter Tags">
-                    <button type="button" class="btn btn-outline-primary tag-button active" data-source="All">All</button>
-                    <button type="button" class="btn btn-outline-primary tag-button" data-source="Source 1">Source 1</button>
-                    <button type="button" class="btn btn-outline-primary tag-button" data-source="Source 2">Source 2</button>
-                    <button type="button" class="btn btn-outline-primary tag-button" data-source="Source 3">Source 3</button>
-                </div>
-            </div>
-            <!-- Search Bar -->
-            <div class="col-12 mb-4">
-                <div class="search-bar">
-                    <i class="fas fa-search"></i>
-                    <input type="text" id="search" class="form-control search-input" placeholder="Search by user..." onkeyup="filterUsers()">
-                </div>
-            </div>
+        
+        <!-- Search Bar -->
+        <div class="mb-4">
+            <input type="text" id="search" class="form-control" placeholder="Search by user..." onkeyup="filterUsers()">
         </div>
         
         <!-- Search Results -->
-        <div id="results" class="row"></div>
+        <div id="results"></div>
     </div>
-    
-    <!-- Footer -->
-    <footer class="footer text-center">
-        <div class="container">
-            <span>&copy; 2024 Your Company. All rights reserved.</span>
-        </div>
-    </footer>
     
     <!-- Bootstrap JS and dependencies -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <!-- Font Awesome for Icons -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
     
     <!-- Main JavaScript -->
     <script>
         // Array to hold all user data
         let allData = [];
         const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
-        let activeSource = 'All'; // Default to 'All'
-
-        // Fetch all JSON data on page load
+        let activeSource = 'All'; // Active source by default
+    
+        // Load all JSON data on page load
         window.onload = function() {
             loadAllJSON();
             setupTags();
         }
-
+    
         // Function to load all JSON files
         async function loadAllJSON() {
             try {
@@ -157,36 +113,39 @@
                 `;
             }
         }
-
+    
         // Function to set up tag click events
         function setupTags() {
-            const tags = document.querySelectorAll('.tag-button');
+            const tags = document.querySelectorAll('.tag');
             tags.forEach(tag => {
                 tag.addEventListener('click', function() {
                     const source = this.getAttribute('data-source');
-
-                    // Remove active class from all tags
+    
+                    // Deselect all tags
                     tags.forEach(t => {
                         t.classList.remove('active');
-                        t.classList.remove('bg-white');
-                        t.classList.add('btn-outline-primary');
+                        t.classList.add('bg-secondary');
                     });
-
-                    // Add active class to the clicked tag
+    
+                    // Select the clicked tag
                     this.classList.add('active');
-                    this.classList.remove('btn-outline-primary');
-                    this.classList.add('btn-primary');
-
+                    this.classList.remove('bg-secondary');
+    
                     // Update the active source
                     activeSource = source;
-
-                    // Filter and display the results
+    
+                    // Filter and display the users
                     displayResults(filterData());
                 });
             });
         }
-
-        // Function to filter data based on active source and search query
+    
+        // Function to filter users based on search query and active source
+        function filterUsers() {
+            displayResults(filterData());
+        }
+    
+        // Function to filter data
         function filterData() {
             const query = document.getElementById('search').value.toLowerCase();
             if (activeSource === 'All') {
@@ -197,46 +156,48 @@
                 );
             }
         }
-
+    
         // Function to display the filtered results
         function displayResults(data) {
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
-
+    
             if (data.length === 0) {
-                resultsDiv.innerHTML = '<div class="col-12"><div class="alert alert-warning text-center">No users found.</div></div>';
+                resultsDiv.innerHTML = '<div class="alert alert-warning">No users found.</div>';
                 return;
             }
-
+    
             data.forEach(user => {
+                // Create User Card
                 const userCard = document.createElement('div');
-                userCard.className = 'col-md-6 col-lg-4 mb-4';
+                userCard.className = 'card card-user';
                 userCard.innerHTML = `
-                    <div class="card comment-card h-100">
-                        <div class="card-body">
-                            <h5 class="card-title">${user.utilisateur} <span class="badge bg-info text-dark badge-source">${user.source}</span></h5>
-                            <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
+                    <div class="card-body">
+                        <h5 class="card-title">${user.utilisateur} <span class="badge badge-source">${user.source}</span></h5>
+                        <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
                 `;
-
+    
+                // Iterate through forums
                 user.forums.forEach(forum => {
-                    const forumSection = document.createElement('div');
-                    forumSection.className = 'forum-section';
-                    forumSection.innerHTML = `
-                        <h6>${forum.titre_du_forum} <span class="badge bg-secondary badge-source">Comments: ${forum.nbre_de_commentaires}</span></h6>
+                    // Create Forum Section
+                    const forumDiv = document.createElement('div');
+                    forumDiv.className = 'forum-section';
+                    forumDiv.innerHTML = `
+                        <h6>${forum.titre_du_forum} <span class="badge badge-forum">Comments: ${forum.nbre_de_commentaires}</span></h6>
                     `;
+    
+                    // Iterate through comments
                     forum.commentaires.forEach(comment => {
                         const commentDiv = document.createElement('div');
                         commentDiv.className = 'comment';
                         commentDiv.textContent = comment;
-                        forumSection.appendChild(commentDiv);
+                        forumDiv.appendChild(commentDiv);
                     });
-                    userCard.querySelector('.card-body').appendChild(forumSection);
+    
+                    userCard.appendChild(forumDiv);
                 });
-
-                userCard.innerHTML += `
-                        </div>
-                    </div>
-                `;
+    
+                userCard.innerHTML += '</div>';
                 resultsDiv.appendChild(userCard);
             });
         }
