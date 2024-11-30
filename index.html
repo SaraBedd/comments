@@ -34,8 +34,7 @@
         
         <!-- Tags for Filtering Sources -->
         <div class="mb-3">
-            <span class="badge bg-primary tag active" data-source="All">All</span>
-            <span class="badge bg-secondary tag" data-source="Source 1">Source 1</span>
+            <span class="badge bg-secondary tag active" data-source="Source 1">Source 1</span>
             <span class="badge bg-secondary tag" data-source="Source 2">Source 2</span>
             <span class="badge bg-secondary tag" data-source="Source 3">Source 3</span>
         </div>
@@ -54,25 +53,25 @@
     
     <!-- Main JavaScript -->
     <script>
-        // Array to hold all user data
+        // Variable pour stocker toutes les données utilisateurs
         let allData = [];
         const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
-        let activeSource = 'All'; // Default to 'All'
+        let activeSource = 'Source 1'; // Source active par défaut
 
-        // Fetch all JSON data on page load
+        // Charger toutes les données JSON au chargement de la page
         window.onload = function() {
             loadAllJSON();
             setupTags();
         }
 
-        // Function to load all JSON files
+        // Fonction pour charger tous les fichiers JSON
         async function loadAllJSON() {
             try {
                 const baseUrl = window.location.origin + window.location.pathname;
                 const promises = sources.map((source, index) => fetch(source)
                     .then(response => {
                         if (!response.ok) {
-                            throw new Error(`HTTP error! Status: ${response.status} for ${source}`);
+                            throw new Error(`Erreur HTTP! Statut: ${response.status} pour ${source}`);
                         }
                         return response.json();
                     })
@@ -85,59 +84,44 @@
                     })
                 );
                 await Promise.all(promises);
-                displayResults(allData);
+                displayResults(allData.filter(user => user.source === activeSource));
             } catch (error) {
-                console.error('Error loading JSON files:', error);
+                console.error('Erreur lors du chargement des fichiers JSON:', error);
                 document.getElementById('results').innerHTML = `
                     <div class="alert alert-danger">
-                        <strong>Error loading data:</strong> ${error.message}
+                        <strong>Erreur lors du chargement des données:</strong> ${error.message}
                     </div>
                 `;
             }
         }
 
-        // Function to set up tag click events
+        // Fonction pour configurer les événements de clic sur les tags
         function setupTags() {
             const tags = document.querySelectorAll('.tag');
             tags.forEach(tag => {
                 tag.addEventListener('click', function() {
                     const source = this.getAttribute('data-source');
 
-                    if (source === 'All') {
-                        activeSource = 'All';
-                        tags.forEach(t => {
-                            if (t.getAttribute('data-source') === 'All') {
-                                t.classList.add('active');
-                                t.classList.remove('bg-secondary');
-                                t.classList.remove('bg-primary');
-                            } else {
-                                t.classList.remove('active');
-                                t.classList.add('bg-secondary');
-                            }
-                        });
-                    } else {
-                        activeSource = source;
-                        // Remove 'active' from all tags except the clicked one
-                        tags.forEach(t => {
-                            if (t.getAttribute('data-source') === source) {
-                                t.classList.add('active');
-                                t.classList.remove('bg-secondary');
-                                t.classList.remove('bg-primary');
-                            } else {
-                                t.classList.remove('active');
-                                if (t.getAttribute('data-source') === 'All') {
-                                    t.classList.remove('bg-primary');
-                                    t.classList.add('bg-secondary');
-                                }
-                            }
-                        });
-                    }
+                    // Désactiver tous les tags
+                    tags.forEach(t => {
+                        t.classList.remove('active');
+                        t.classList.add('bg-secondary');
+                    });
+
+                    // Activer le tag cliqué
+                    this.classList.add('active');
+                    this.classList.remove('bg-secondary');
+
+                    // Mettre à jour la source active
+                    activeSource = source;
+
+                    // Filtrer et afficher les utilisateurs
                     filterUsers();
                 });
             });
         }
 
-        // Function to filter users based on search query and active source
+        // Fonction pour filtrer les utilisateurs en fonction de la recherche et de la source active
         function filterUsers() {
             const query = document.getElementById('search').value.toLowerCase();
             let filteredData;
@@ -153,7 +137,7 @@
             displayResults(filteredData);
         }
 
-        // Function to display the filtered results
+        // Fonction pour afficher les résultats filtrés
         function displayResults(data) {
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
