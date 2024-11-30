@@ -44,6 +44,15 @@
             font-size: 0.8rem;
             background-color: #6c757d;
         }
+        .forum-title {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+        .forum-comments {
+            font-size: 0.9rem;
+            color: #6c757d;
+            margin-bottom: 10px;
+        }
     </style>
 </head>
 <body>
@@ -183,7 +192,10 @@
                     const forumDiv = document.createElement('div');
                     forumDiv.className = 'forum-section';
                     forumDiv.innerHTML = `
-                        <h6>${forum.titre_du_forum} <span class="badge badge-forum">Comments: ${forum.nbre_de_commentaires}</span></h6>
+                        <div class="d-flex justify-content-between align-items-center">
+                            <h6 class="forum-title">${forum.titre_du_forum}</h6>
+                            <span class="badge badge-forum">Comments: ${forum.nbre_de_commentaires}</span>
+                        </div>
                     `;
     
                     // Iterate through comments
