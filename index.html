@@ -5,74 +5,136 @@
     <title>User Comments Dashboard</title>
     <!-- Bootstrap CSS for responsive design -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for Icons -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
         body {
-            padding: 20px;
+            padding: 0;
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f6f9;
         }
-        .tag {
-            margin-right: 5px;
-            cursor: pointer;
-        }
-        .tag.active {
+        .navbar {
             background-color: #0d6efd;
-            color: white;
         }
-        .comment {
-            background-color: #f8f9fa;
-            padding: 10px;
-            border-radius: 5px;
-            margin-bottom: 10px;
+        .navbar-brand {
+            color: #fff !important;
+            font-weight: bold;
         }
-        .forum-section {
-            margin-bottom: 20px;
+        .tag-button {
+            margin-right: 10px;
+        }
+        .tag-button.active {
+            background-color: #fff !important;
+            color: #0d6efd !important;
+            border: 1px solid #0d6efd;
+        }
+        .search-bar {
+            position: relative;
+        }
+        .search-bar i {
+            position: absolute;
+            top: 50%;
+            left: 15px;
+            transform: translateY(-50%);
+            color: #6c757d;
+        }
+        .search-input {
+            padding-left: 40px;
+        }
+        .comment-card {
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+        }
+        .comment-card:hover {
+            transform: translateY(-5px);
+        }
+        .badge-source {
+            font-size: 0.9rem;
+        }
+        .footer {
+            background-color: #0d6efd;
+            color: #fff;
+            padding: 15px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        @media (max-width: 576px) {
+            .search-bar {
+                margin-top: 15px;
+            }
+            .footer {
+                position: static;
+            }
         }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1 class="mb-4">User Comments Dashboard</h1>
-        
-        <!-- Tags for Filtering Sources -->
-        <div class="mb-3">
-            <span class="badge bg-secondary tag active" data-source="All">All</span>
-            <span class="badge bg-secondary tag" data-source="Source 1">Source 1</span>
-            <span class="badge bg-secondary tag" data-source="Source 2">Source 2</span>
-            <span class="badge bg-secondary tag" data-source="Source 3">Source 3</span>
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Comments Dashboard</a>
         </div>
-        
-        <!-- Search Bar -->
-        <div class="mb-3">
-            <input type="text" id="search" class="form-control" placeholder="Search by user..." onkeyup="filterUsers()">
+    </nav>
+
+    <div class="container mt-4 mb-5">
+        <div class="row">
+            <!-- Filter Buttons -->
+            <div class="col-12 mb-3">
+                <div class="btn-group" role="group" aria-label="Filter Tags">
+                    <button type="button" class="btn btn-outline-primary tag-button active" data-source="All">All</button>
+                    <button type="button" class="btn btn-outline-primary tag-button" data-source="Source 1">Source 1</button>
+                    <button type="button" class="btn btn-outline-primary tag-button" data-source="Source 2">Source 2</button>
+                    <button type="button" class="btn btn-outline-primary tag-button" data-source="Source 3">Source 3</button>
+                </div>
+            </div>
+            <!-- Search Bar -->
+            <div class="col-12 mb-4">
+                <div class="search-bar">
+                    <i class="fas fa-search"></i>
+                    <input type="text" id="search" class="form-control search-input" placeholder="Search by user..." onkeyup="filterUsers()">
+                </div>
+            </div>
         </div>
         
         <!-- Search Results -->
-        <div id="results"></div>
+        <div id="results" class="row"></div>
     </div>
+    
+    <!-- Footer -->
+    <footer class="footer text-center">
+        <div class="container">
+            <span>&copy; 2024 Your Company. All rights reserved.</span>
+        </div>
+    </footer>
     
     <!-- Bootstrap JS and dependencies -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Font Awesome for Icons -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/js/all.min.js"></script>
     
     <!-- Main JavaScript -->
     <script>
-        // Variable pour stocker toutes les données utilisateurs
+        // Array to hold all user data
         let allData = [];
         const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
-        let activeSource = 'All'; // Source active par défaut
-    
-        // Charger toutes les données JSON au chargement de la page
+        let activeSource = 'All'; // Default to 'All'
+
+        // Fetch all JSON data on page load
         window.onload = function() {
             loadAllJSON();
             setupTags();
         }
-    
-        // Fonction pour charger tous les fichiers JSON
+
+        // Function to load all JSON files
         async function loadAllJSON() {
             try {
                 const baseUrl = window.location.origin + window.location.pathname;
                 const promises = sources.map((source, index) => fetch(source)
                     .then(response => {
                         if (!response.ok) {
-                            throw new Error(`Erreur HTTP! Statut: ${response.status} pour ${source}`);
+                            throw new Error(`HTTP error! Status: ${response.status} for ${source}`);
                         }
                         return response.json();
                     })
@@ -87,42 +149,44 @@
                 await Promise.all(promises);
                 displayResults(filterData());
             } catch (error) {
-                console.error('Erreur lors du chargement des fichiers JSON:', error);
+                console.error('Error loading JSON files:', error);
                 document.getElementById('results').innerHTML = `
                     <div class="alert alert-danger">
-                        <strong>Erreur lors du chargement des données:</strong> ${error.message}
+                        <strong>Error loading data:</strong> ${error.message}
                     </div>
                 `;
             }
         }
-    
-        // Fonction pour configurer les événements de clic sur les tags
+
+        // Function to set up tag click events
         function setupTags() {
-            const tags = document.querySelectorAll('.tag');
+            const tags = document.querySelectorAll('.tag-button');
             tags.forEach(tag => {
                 tag.addEventListener('click', function() {
                     const source = this.getAttribute('data-source');
-    
-                    // Désactiver tous les tags
+
+                    // Remove active class from all tags
                     tags.forEach(t => {
                         t.classList.remove('active');
-                        t.classList.add('bg-secondary');
+                        t.classList.remove('bg-white');
+                        t.classList.add('btn-outline-primary');
                     });
-    
-                    // Activer le tag cliqué
+
+                    // Add active class to the clicked tag
                     this.classList.add('active');
-                    this.classList.remove('bg-secondary');
-    
-                    // Mettre à jour la source active
+                    this.classList.remove('btn-outline-primary');
+                    this.classList.add('btn-primary');
+
+                    // Update the active source
                     activeSource = source;
-    
-                    // Filtrer et afficher les utilisateurs
+
+                    // Filter and display the results
                     displayResults(filterData());
                 });
             });
         }
-    
-        // Fonction pour filtrer les données en fonction de la source active et de la recherche
+
+        // Function to filter data based on active source and search query
         function filterData() {
             const query = document.getElementById('search').value.toLowerCase();
             if (activeSource === 'All') {
@@ -133,42 +197,46 @@
                 );
             }
         }
-    
-        // Fonction pour afficher les résultats filtrés
+
+        // Function to display the filtered results
         function displayResults(data) {
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
-    
+
             if (data.length === 0) {
-                resultsDiv.innerHTML = '<div class="alert alert-warning">No users found.</div>';
+                resultsDiv.innerHTML = '<div class="col-12"><div class="alert alert-warning text-center">No users found.</div></div>';
                 return;
             }
-    
+
             data.forEach(user => {
                 const userCard = document.createElement('div');
-                userCard.className = 'card mb-3';
+                userCard.className = 'col-md-6 col-lg-4 mb-4';
                 userCard.innerHTML = `
-                    <div class="card-body">
-                        <h5 class="card-title">${user.utilisateur} <span class="badge bg-info text-dark">${user.source}</span></h5>
-                        <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
+                    <div class="card comment-card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">${user.utilisateur} <span class="badge bg-info text-dark badge-source">${user.source}</span></h5>
+                            <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
                 `;
-    
+
                 user.forums.forEach(forum => {
-                    const forumDiv = document.createElement('div');
-                    forumDiv.className = 'forum-section';
-                    forumDiv.innerHTML = `
-                        <h6>${forum.titre_du_forum} <span class="badge bg-secondary">Comments: ${forum.nbre_de_commentaires}</span></h6>
+                    const forumSection = document.createElement('div');
+                    forumSection.className = 'forum-section';
+                    forumSection.innerHTML = `
+                        <h6>${forum.titre_du_forum} <span class="badge bg-secondary badge-source">Comments: ${forum.nbre_de_commentaires}</span></h6>
                     `;
                     forum.commentaires.forEach(comment => {
                         const commentDiv = document.createElement('div');
                         commentDiv.className = 'comment';
                         commentDiv.textContent = comment;
-                        forumDiv.appendChild(commentDiv);
+                        forumSection.appendChild(commentDiv);
                     });
-                    userCard.appendChild(forumDiv);
+                    userCard.querySelector('.card-body').appendChild(forumSection);
                 });
-    
-                userCard.innerHTML += '</div>';
+
+                userCard.innerHTML += `
+                        </div>
+                    </div>
+                `;
                 resultsDiv.appendChild(userCard);
             });
         }
