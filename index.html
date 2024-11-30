@@ -12,46 +12,47 @@
             padding: 20px;
             background-color: #f8f9fa;
         }
+
         .tag {
             margin-right: 5px;
             cursor: pointer;
         }
+
         .tag.active {
             background-color: #0d6efd;
             color: white;
         }
-        .comment {
-            background-color: #ffffff;
-            padding: 10px;
-            border-radius: 5px;
-            margin-bottom: 10px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-        }
-        .forum-section {
-            margin-bottom: 20px;
-        }
+
         .card-user {
             margin-bottom: 30px;
         }
-        .card-forum {
+
+        .forum-section {
             margin-bottom: 15px;
+            border: 1px solid #dee2e6;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #ffffff;
         }
-        .badge-source {
-            font-size: 0.9rem;
-            background-color: #17a2b8;
-        }
-        .badge-forum {
-            font-size: 0.8rem;
-            background-color: #6c757d;
-        }
+
         .forum-title {
             font-weight: bold;
-            margin-bottom: 5px;
+            font-size: 1rem;
+            margin: 0;
+            color: #343a40;
         }
+
+        .forum-comments-line {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #dee2e6;
+            display: flex;
+            justify-content: flex-end;
+        }
+
         .forum-comments {
             font-size: 0.9rem;
             color: #6c757d;
-            margin-bottom: 10px;
         }
     </style>
 </head>
@@ -85,13 +86,13 @@
         let allData = [];
         const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
         let activeSource = 'All'; // Active source by default
-    
+
         // Load all JSON data on page load
-        window.onload = function() {
+        window.onload = function () {
             loadAllJSON();
             setupTags();
-        }
-    
+        };
+
         // Function to load all JSON files
         async function loadAllJSON() {
             try {
@@ -122,60 +123,60 @@
                 `;
             }
         }
-    
+
         // Function to set up tag click events
         function setupTags() {
             const tags = document.querySelectorAll('.tag');
             tags.forEach(tag => {
-                tag.addEventListener('click', function() {
+                tag.addEventListener('click', function () {
                     const source = this.getAttribute('data-source');
-    
+
                     // Deselect all tags
                     tags.forEach(t => {
                         t.classList.remove('active');
                         t.classList.add('bg-secondary');
                     });
-    
+
                     // Select the clicked tag
                     this.classList.add('active');
                     this.classList.remove('bg-secondary');
-    
+
                     // Update the active source
                     activeSource = source;
-    
+
                     // Filter and display the users
                     displayResults(filterData());
                 });
             });
         }
-    
+
         // Function to filter users based on search query and active source
         function filterUsers() {
             displayResults(filterData());
         }
-    
+
         // Function to filter data
         function filterData() {
             const query = document.getElementById('search').value.toLowerCase();
             if (activeSource === 'All') {
                 return allData.filter(user => user.utilisateur.toLowerCase().includes(query));
             } else {
-                return allData.filter(user => 
+                return allData.filter(user =>
                     user.utilisateur.toLowerCase().includes(query) && user.source === activeSource
                 );
             }
         }
-    
+
         // Function to display the filtered results
         function displayResults(data) {
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
-    
+
             if (data.length === 0) {
                 resultsDiv.innerHTML = '<div class="alert alert-warning">No users found.</div>';
                 return;
             }
-    
+
             data.forEach(user => {
                 // Create User Card
                 const userCard = document.createElement('div');
@@ -184,8 +185,9 @@
                     <div class="card-body">
                         <h5 class="card-title">${user.utilisateur} <span class="badge badge-source">${user.source}</span></h5>
                         <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
+                    </div>
                 `;
-    
+
                 // Iterate through forums
                 user.forums.forEach(forum => {
                     // Create Forum Section
@@ -194,10 +196,12 @@
                     forumDiv.innerHTML = `
                         <div class="d-flex justify-content-between align-items-center">
                             <h6 class="forum-title">${forum.titre_du_forum}</h6>
-                            <span class="badge badge-forum">Comments: ${forum.nbre_de_commentaires}</span>
+                        </div>
+                        <div class="forum-comments-line">
+                            <span class="forum-comments">Comments: ${forum.nbre_de_commentaires}</span>
                         </div>
                     `;
-    
+
                     // Iterate through comments
                     forum.commentaires.forEach(comment => {
                         const commentDiv = document.createElement('div');
@@ -205,11 +209,10 @@
                         commentDiv.textContent = comment;
                         forumDiv.appendChild(commentDiv);
                     });
-    
+
                     userCard.appendChild(forumDiv);
                 });
-    
-                userCard.innerHTML += '</div>';
+
                 resultsDiv.appendChild(userCard);
             });
         }
