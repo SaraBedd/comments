@@ -34,7 +34,8 @@
         
         <!-- Tags for Filtering Sources -->
         <div class="mb-3">
-            <span class="badge bg-secondary tag active" data-source="Source 1">Source 1</span>
+            <span class="badge bg-secondary tag active" data-source="All">All</span>
+            <span class="badge bg-secondary tag" data-source="Source 1">Source 1</span>
             <span class="badge bg-secondary tag" data-source="Source 2">Source 2</span>
             <span class="badge bg-secondary tag" data-source="Source 3">Source 3</span>
         </div>
@@ -56,14 +57,14 @@
         // Variable pour stocker toutes les données utilisateurs
         let allData = [];
         const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
-        let activeSource = 'Source 1'; // Source active par défaut
-
+        let activeSource = 'All'; // Source active par défaut
+    
         // Charger toutes les données JSON au chargement de la page
         window.onload = function() {
             loadAllJSON();
             setupTags();
         }
-
+    
         // Fonction pour charger tous les fichiers JSON
         async function loadAllJSON() {
             try {
@@ -84,7 +85,7 @@
                     })
                 );
                 await Promise.all(promises);
-                displayResults(allData.filter(user => user.source === activeSource));
+                displayResults(filterData());
             } catch (error) {
                 console.error('Erreur lors du chargement des fichiers JSON:', error);
                 document.getElementById('results').innerHTML = `
@@ -94,59 +95,55 @@
                 `;
             }
         }
-
+    
         // Fonction pour configurer les événements de clic sur les tags
         function setupTags() {
             const tags = document.querySelectorAll('.tag');
             tags.forEach(tag => {
                 tag.addEventListener('click', function() {
                     const source = this.getAttribute('data-source');
-
+    
                     // Désactiver tous les tags
                     tags.forEach(t => {
                         t.classList.remove('active');
                         t.classList.add('bg-secondary');
                     });
-
+    
                     // Activer le tag cliqué
                     this.classList.add('active');
                     this.classList.remove('bg-secondary');
-
+    
                     // Mettre à jour la source active
                     activeSource = source;
-
+    
                     // Filtrer et afficher les utilisateurs
-                    filterUsers();
+                    displayResults(filterData());
                 });
             });
         }
-
-        // Fonction pour filtrer les utilisateurs en fonction de la recherche et de la source active
-        function filterUsers() {
+    
+        // Fonction pour filtrer les données en fonction de la source active et de la recherche
+        function filterData() {
             const query = document.getElementById('search').value.toLowerCase();
-            let filteredData;
-
             if (activeSource === 'All') {
-                filteredData = allData.filter(user => user.utilisateur.toLowerCase().includes(query));
+                return allData.filter(user => user.utilisateur.toLowerCase().includes(query));
             } else {
-                filteredData = allData.filter(user => 
+                return allData.filter(user => 
                     user.utilisateur.toLowerCase().includes(query) && user.source === activeSource
                 );
             }
-
-            displayResults(filteredData);
         }
-
+    
         // Fonction pour afficher les résultats filtrés
         function displayResults(data) {
             const resultsDiv = document.getElementById('results');
             resultsDiv.innerHTML = '';
-
+    
             if (data.length === 0) {
                 resultsDiv.innerHTML = '<div class="alert alert-warning">No users found.</div>';
                 return;
             }
-
+    
             data.forEach(user => {
                 const userCard = document.createElement('div');
                 userCard.className = 'card mb-3';
@@ -155,7 +152,7 @@
                         <h5 class="card-title">${user.utilisateur} <span class="badge bg-info text-dark">${user.source}</span></h5>
                         <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
                 `;
-
+    
                 user.forums.forEach(forum => {
                     const forumDiv = document.createElement('div');
                     forumDiv.className = 'forum-section';
@@ -170,7 +167,7 @@
                     });
                     userCard.appendChild(forumDiv);
                 });
-
+    
                 userCard.innerHTML += '</div>';
                 resultsDiv.appendChild(userCard);
             });
