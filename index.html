@@ -34,6 +34,7 @@
         
         <!-- Tags for Filtering Sources -->
         <div class="mb-3">
+            <span class="badge bg-primary tag active" data-source="All">All</span>
             <span class="badge bg-secondary tag" data-source="Source 1">Source 1</span>
             <span class="badge bg-secondary tag" data-source="Source 2">Source 2</span>
             <span class="badge bg-secondary tag" data-source="Source 3">Source 3</span>
@@ -56,7 +57,7 @@
         // Array to hold all user data
         let allData = [];
         const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
-        const activeSources = new Set(['Source 1', 'Source 2', 'Source 3']); // All sources active by default
+        let activeSource = 'All'; // Default to 'All'
 
         // Fetch all JSON data on page load
         window.onload = function() {
@@ -101,28 +102,54 @@
             tags.forEach(tag => {
                 tag.addEventListener('click', function() {
                     const source = this.getAttribute('data-source');
-                    if (activeSources.has(source)) {
-                        activeSources.delete(source);
-                        this.classList.remove('active');
-                        this.classList.add('bg-secondary');
+
+                    if (source === 'All') {
+                        activeSource = 'All';
+                        tags.forEach(t => {
+                            if (t.getAttribute('data-source') === 'All') {
+                                t.classList.add('active');
+                                t.classList.remove('bg-secondary');
+                                t.classList.remove('bg-primary');
+                            } else {
+                                t.classList.remove('active');
+                                t.classList.add('bg-secondary');
+                            }
+                        });
                     } else {
-                        activeSources.add(source);
-                        this.classList.remove('bg-secondary');
-                        this.classList.add('active');
+                        activeSource = source;
+                        // Remove 'active' from all tags except the clicked one
+                        tags.forEach(t => {
+                            if (t.getAttribute('data-source') === source) {
+                                t.classList.add('active');
+                                t.classList.remove('bg-secondary');
+                                t.classList.remove('bg-primary');
+                            } else {
+                                t.classList.remove('active');
+                                if (t.getAttribute('data-source') === 'All') {
+                                    t.classList.remove('bg-primary');
+                                    t.classList.add('bg-secondary');
+                                }
+                            }
+                        });
                     }
                     filterUsers();
                 });
             });
         }
 
-        // Function to filter users based on search query and active sources
+        // Function to filter users based on search query and active source
         function filterUsers() {
             const query = document.getElementById('search').value.toLowerCase();
-            const filteredData = allData.filter(user => {
-                const matchesName = user.utilisateur.toLowerCase().includes(query);
-                const isActiveSource = activeSources.has(user.source);
-                return matchesName && isActiveSource;
-            });
+            let filteredData;
+
+            if (activeSource === 'All') {
+                filteredData = allData.filter(user => user.utilisateur.toLowerCase().includes(query));
+            } else {
+                filteredData = allData.filter(user => 
+                    user.utilisateur.toLowerCase().includes(query) && user.source === activeSource
+                );
+            }
+
             displayResults(filteredData);
         }
 
