@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>User Comments Dashboard</title>
+    <!-- Bootstrap CSS for responsive design -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+        }
+        .tag {
+            margin-right: 5px;
+            cursor: pointer;
+        }
+        .tag.active {
+            background-color: #0d6efd;
+            color: white;
+        }
+        .comment {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+        .forum-section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mb-4">User Comments Dashboard</h1>
+        
+        <!-- Tags for Filtering Sources -->
+        <div class="mb-3">
+            <span class="badge bg-secondary tag" data-source="Source 1">Source 1</span>
+            <span class="badge bg-secondary tag" data-source="Source 2">Source 2</span>
+            <span class="badge bg-secondary tag" data-source="Source 3">Source 3</span>
+        </div>
+        
+        <!-- Search Bar -->
+        <div class="mb-3">
+            <input type="text" id="search" class="form-control" placeholder="Search by user..." onkeyup="filterUsers()">
+        </div>
+        
+        <!-- Search Results -->
+        <div id="results"></div>
+    </div>
+    
+    <!-- Bootstrap JS and dependencies -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Main JavaScript -->
+    <script>
+        // Array to hold all user data
+        let allData = [];
+        const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
+        const activeSources = new Set(['Source 1', 'Source 2', 'Source 3']); // All sources active by default
+
+        // Fetch all JSON data on page load
+        window.onload = function() {
+            loadAllJSON();
+            setupTags();
+        }
+
+        // Function to load all JSON files
+        async function loadAllJSON() {
+            try {
+                const baseUrl = window.location.origin + window.location.pathname;
+                const promises = sources.map((source, index) => fetch(source)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`HTTP error! Status: ${response.status} for ${source}`);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        const sourceName = `Source ${index + 1}`;
+                        data.forEach(user => {
+                            user.source = sourceName;
+                            allData.push(user);
+                        });
+                    })
+                );
+                await Promise.all(promises);
+                displayResults(allData);
+            } catch (error) {
+                console.error('Error loading JSON files:', error);
+                document.getElementById('results').innerHTML = `
+                    <div class="alert alert-danger">
+                        <strong>Error loading data:</strong> ${error.message}
+                    </div>
+                `;
+            }
+        }
+
+        // Function to set up tag click events
+        function setupTags() {
+            const tags = document.querySelectorAll('.tag');
+            tags.forEach(tag => {
+                tag.addEventListener('click', function() {
+                    const source = this.getAttribute('data-source');
+                    if (activeSources.has(source)) {
+                        activeSources.delete(source);
+                        this.classList.remove('active');
+                        this.classList.add('bg-secondary');
+                    } else {
+                        activeSources.add(source);
+                        this.classList.remove('bg-secondary');
+                        this.classList.add('active');
+                    }
+                    filterUsers();
+                });
+            });
+        }
+
+        // Function to filter users based on search query and active sources
+        function filterUsers() {
+            const query = document.getElementById('search').value.toLowerCase();
+            const filteredData = allData.filter(user => {
+                const matchesName = user.utilisateur.toLowerCase().includes(query);
+                const isActiveSource = activeSources.has(user.source);
+                return matchesName && isActiveSource;
+            });
+            displayResults(filteredData);
+        }
+
+        // Function to display the filtered results
+        function displayResults(data) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+
+            if (data.length === 0) {
+                resultsDiv.innerHTML = '<div class="alert alert-warning">No users found.</div>';
+                return;
+            }
+
+            data.forEach(user => {
+                const userCard = document.createElement('div');
+                userCard.className = 'card mb-3';
+                userCard.innerHTML = `
+                    <div class="card-body">
+                        <h5 class="card-title">${user.utilisateur} <span class="badge bg-info text-dark">${user.source}</span></h5>
+                        <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
+                `;
+
+                user.forums.forEach(forum => {
+                    const forumDiv = document.createElement('div');
+                    forumDiv.className = 'forum-section';
+                    forumDiv.innerHTML = `
+                        <h6>${forum.titre_du_forum} <span class="badge bg-secondary">Comments: ${forum.nbre_de_commentaires}</span></h6>
+                    `;
+                    forum.commentaires.forEach(comment => {
+                        const commentDiv = document.createElement('div');
+                        commentDiv.className = 'comment';
+                        commentDiv.textContent = comment;
+                        forumDiv.appendChild(commentDiv);
+                    });
+                    userCard.appendChild(forumDiv);
+                });
+
+                userCard.innerHTML += '</div>';
+                resultsDiv.appendChild(userCard);
+            });
+        }
+    </script>
+</body>
+</html>
