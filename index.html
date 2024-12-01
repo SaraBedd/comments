@@ -5,6 +5,8 @@
     <title>User Comments Dashboard</title>
     <!-- Bootstrap CSS for responsive design -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome for Icons (Optional) -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
         body {
             padding: 20px;
@@ -15,6 +17,7 @@
             margin-bottom: 20px;
         }
 
+        /* Base Tag Styles */
         .tag {
             cursor: pointer;
             font-size: 0.9rem;
@@ -23,16 +26,66 @@
             background-color: #e9ecef;
             display: inline-block;
             border: 2px solid transparent;
+            transition: background-color 0.3s, color 0.3s;
+            margin-right: 5px;
         }
 
+        /* Active Tag Style */
         .tag.active {
-            background-color: #0d6efd;
             color: white;
             border-color: #0d6efd;
         }
 
+        /* Specific Tag Colors */
+        .tag-all {
+            background-color: #6c757d; /* Gray for 'All' */
+            color: white;
+        }
+
+        .tag-source1 {
+            background-color: #e74c3c; /* Red for 'Source 1' */
+            color: white;
+        }
+
+        .tag-source2 {
+            background-color: #27ae60; /* Green for 'Source 2' */
+            color: white;
+        }
+
+        .tag-source3 {
+            background-color: #f39c12; /* Orange for 'Source 3' */
+            color: white;
+        }
+
+        /* Active State Overrides */
+        .tag-all.active {
+            background-color: #343a40; /* Darker Gray when active */
+        }
+
+        .tag-source1.active {
+            background-color: #c0392b; /* Darker Red when active */
+        }
+
+        .tag-source2.active {
+            background-color: #1e8449; /* Darker Green when active */
+        }
+
+        .tag-source3.active {
+            background-color: #d68910; /* Darker Orange when active */
+        }
+
         .card-user {
+            background-color: #ffffff;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow for elevation */
+            border: none;
+            border-radius: 10px;
             margin-bottom: 30px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .card-user:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
         }
 
         .forum-section {
@@ -76,11 +129,47 @@
         .comment {
             margin-top: 10px;
             padding-top: 10px;
+            background-color: #ffffff;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
         }
 
         .comment + .comment {
             border-top: 1px solid #dee2e6;
             padding-top: 15px;
+        }
+
+        /* Background for Results Container */
+        #results {
+            background-color: #343a40; /* Dark Gray */
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        /* Override card background inside #results */
+        #results .card-user {
+            background-color: #495057; /* Slightly lighter dark */
+            color: #ffffff; /* White text for readability */
+        }
+
+        #results .forum-section {
+            background-color: #6c757d; /* Medium Gray for forum sections */
+            color: #ffffff; /* White text */
+        }
+
+        #results .comment {
+            background-color: #adb5bd; /* Light Gray for comments */
+            color: #343a40; /* Dark text */
+        }
+
+        /* Ensure badges inside #results have appropriate colors */
+        #results .badge-source {
+            background-color: #17a2b8;
+        }
+
+        #results .badge-forum {
+            background-color: #6c757d;
         }
     </style>
 </head>
@@ -90,10 +179,10 @@
         
         <!-- Tags for Filtering Sources -->
         <div class="tag-container">
-            <span class="tag active" data-source="All">All</span>
-            <span class="tag" data-source="Source 1">Source 1</span>
-            <span class="tag" data-source="Source 2">Source 2</span>
-            <span class="tag" data-source="Source 3">Source 3</span>
+            <span class="tag active tag-all" data-source="All">All</span>
+            <span class="tag tag-source1" data-source="Source 1">Source 1</span>
+            <span class="tag tag-source2" data-source="Source 2">Source 2</span>
+            <span class="tag tag-source3" data-source="Source 3">Source 3</span>
         </div>
         
         <!-- Search Bar -->
@@ -161,7 +250,7 @@
                     // Remove 'active' class from all tags
                     tags.forEach(t => t.classList.remove('active'));
 
-                    // Add 'active' class to the selected tag
+                    // Add 'active' class to the clicked tag
                     this.classList.add('active');
 
                     // Update the active source
@@ -206,7 +295,7 @@
                 userCard.className = 'card card-user';
                 userCard.innerHTML = `
                     <div class="card-body">
-                        <h5 class="card-title">${user.utilisateur}</h5>
+                        <h5 class="card-title">${user.utilisateur} <span class="badge badge-source">${user.source}</span></h5>
                         <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
                     </div>
                 `;
@@ -219,10 +308,7 @@
                     forumDiv.innerHTML = `
                         <div class="d-flex justify-content-between align-items-center">
                             <h6 class="forum-title">${forum.titre_du_forum}</h6>
-                            <span class="forum-tag">${user.source}</span>
-                        </div>
-                        <div class="forum-comments-line">
-                            <span class="forum-comments">Comments: ${forum.nbre_de_commentaires}</span>
+                            <p class="forum-comments"><strong>Total Comments:</strong> ${forum.nbre_de_commentaires}</p>
                         </div>
                     `;
 
