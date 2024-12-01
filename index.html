@@ -13,9 +13,6 @@
 
         .tag-container {
             margin-bottom: 20px;
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
         }
 
         .tag {
@@ -24,11 +21,7 @@
             padding: 5px 10px;
             border-radius: 20px;
             background-color: #e9ecef;
-        }
-
-        .tag.active {
-            background-color: #0d6efd;
-            color: white;
+            display: inline-block;
         }
 
         .card-user {
@@ -48,6 +41,16 @@
             font-size: 1rem;
             margin: 0;
             color: #343a40;
+        }
+
+        .forum-tag {
+            font-size: 0.8rem;
+            padding: 5px 10px;
+            border-radius: 20px;
+            background-color: #17a2b8; /* Source color */
+            color: white;
+            display: inline-block;
+            margin-top: 5px;
         }
 
         .forum-comments-line {
@@ -80,7 +83,7 @@
         
         <!-- Tags for Filtering Sources -->
         <div class="tag-container">
-            <span class="tag active" data-source="All">All</span>
+            <span class="tag" data-source="All">All</span>
             <span class="tag" data-source="Source 1">Source 1</span>
             <span class="tag" data-source="Source 2">Source 2</span>
             <span class="tag" data-source="Source 3">Source 3</span>
@@ -148,16 +151,6 @@
                 tag.addEventListener('click', function () {
                     const source = this.getAttribute('data-source');
 
-                    // Deselect all tags
-                    tags.forEach(t => {
-                        t.classList.remove('active');
-                        t.classList.add('bg-secondary');
-                    });
-
-                    // Select the clicked tag
-                    this.classList.add('active');
-                    this.classList.remove('bg-secondary');
-
                     // Update the active source
                     activeSource = source;
 
@@ -200,7 +193,7 @@
                 userCard.className = 'card card-user';
                 userCard.innerHTML = `
                     <div class="card-body">
-                        <h5 class="card-title">${user.utilisateur} <span class="badge badge-source">${user.source}</span></h5>
+                        <h5 class="card-title">${user.utilisateur}</h5>
                         <p class="card-text"><strong>Total Comments:</strong> ${user.total_des_commentaires}</p>
                     </div>
                 `;
@@ -213,6 +206,7 @@
                     forumDiv.innerHTML = `
                         <div class="d-flex justify-content-between align-items-center">
                             <h6 class="forum-title">${forum.titre_du_forum}</h6>
+                            <span class="forum-tag">${user.source}</span>
                         </div>
                         <div class="forum-comments-line">
                             <span class="forum-comments">Comments: ${forum.nbre_de_commentaires}</span>
