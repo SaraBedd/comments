@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <title>IND8108 - Commentaires des étudiants - A24</title>
@@ -29,7 +29,7 @@
 
         .tag.active {
             color: white;
-            border-color: #0d6efd;
+            border-color: #17a2b8;
         }
 
         .tag-all {
@@ -53,19 +53,19 @@
         }
 
         .tag-all.active {
-            background-color: #358093 
+            background-color: #358093;
         }
 
         .tag-source1.active {
-            background-color: #358093
+            background-color: #358093;
         }
 
         .tag-source2.active {
-            background-color: #358093 
+            background-color: #358093;
         }
 
         .tag-source3.active {
-            background-color: #358093 
+            background-color: #358093;
         }
 
         #results {
@@ -173,7 +173,10 @@
             <span class="tag active tag-all" data-source="Tous">Tous</span>
             <span class="tag tag-source1" data-source="Comportements Créatifs">Comportements Créatifs</span>
             <span class="tag tag-source2" data-source="TED Talk">TED Talk</span>
-            <span class="tag tag-source3" data-source="Articles">Articles</span>
+            <span class="tag tag-source3" data-source="Article Kaufman">Article Kaufman</span>
+            <span class="tag tag-source4" data-source="Article Lubart">Article Lubart</span>
+            <span class="tag tag-source5" data-source="Article Gabora">Article Gabora</span>
+            <span class="tag tag-source6" data-source="Article Amabile">Article Amabile</span>
         </div>
         
         <div class="mb-4">
@@ -187,7 +190,24 @@
     
     <script>
         let allData = [];
-        const sources = ['utilisateurs1.json', 'utilisateurs2.json', 'utilisateurs3.json'];
+        const sources = [
+            '1_CC.json',        // Comportements Créatifs
+            '2_Ted.json',       // TED Talk
+            '3_Kaufman.json',   // Article Kaufman
+            '4_Lubart.json',    // Article Lubart
+            '5_Gabora.json',    // Article Gabora
+            '6_Amabile.json'    // Article Amabile
+        ];
+        
+        const sourceNames = [
+            'Comportements Créatifs',
+            'TED Talk',
+            'Article Kaufman',
+            'Article Lubart',
+            'Article Gabora',
+            'Article Amabile'
+        ];
+        
         let activeSource = 'Tous';
 
         window.onload = function () {
@@ -205,7 +225,7 @@
                         return response.json();
                     })
                     .then(data => {
-                        const sourceName = `Source ${index + 1}`;
+                        const sourceName = sourceNames[index];
                         data.forEach(user => {
                             user.source = sourceName;
                             allData.push(user);
@@ -230,12 +250,16 @@
                 tag.addEventListener('click', function () {
                     const source = this.getAttribute('data-source');
 
+                    // Retirer la classe 'active' de tous les tags
                     tags.forEach(t => t.classList.remove('active'));
 
+                    // Ajouter la classe 'active' au tag cliqué
                     this.classList.add('active');
 
+                    // Mettre à jour la source active
                     activeSource = source;
 
+                    // Filtrer et afficher les utilisateurs
                     displayResults(filterData());
                 });
             });
