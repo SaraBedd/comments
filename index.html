@@ -74,9 +74,17 @@
             background-color: #d68910; /* Darker Orange when active */
         }
 
+        /* Results Container Background */
+        #results {
+            background-color: #343a40; /* Dark Gray */
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        /* User Card Styles */
         .card-user {
             background-color: #ffffff;
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2); /* Stronger shadow for elevation */
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2); /* Elevated shadow */
             border: none;
             border-radius: 10px;
             margin-bottom: 30px;
@@ -88,6 +96,7 @@
             box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
         }
 
+        /* Forum Section Styles */
         .forum-section {
             margin-bottom: 15px;
             border: 1px solid #dee2e6;
@@ -126,10 +135,12 @@
             color: #6c757d;
         }
 
+        /* Comment Styles */
         .comment {
             margin-top: 10px;
             padding-top: 10px;
-            background-color: #ffffff;
+            background-color: #adb5bd; /* Light Gray for comments */
+            color: #343a40; /* Dark text */
             padding: 10px;
             border-radius: 5px;
             box-shadow: 0 2px 4px rgba(0,0,0,0.05);
@@ -140,14 +151,7 @@
             padding-top: 15px;
         }
 
-        /* Background for Results Container */
-        #results {
-            background-color: #343a40; /* Dark Gray */
-            padding: 20px;
-            border-radius: 5px;
-        }
-
-        /* Override card background inside #results */
+        /* Override card background inside #results for better contrast */
         #results .card-user {
             background-color: #495057; /* Slightly lighter dark */
             color: #ffffff; /* White text for readability */
@@ -159,7 +163,7 @@
         }
 
         #results .comment {
-            background-color: #adb5bd; /* Light Gray for comments */
+            background-color: #adb5bd; /* Light Gray for comments in dark background */
             color: #343a40; /* Dark text */
         }
 
