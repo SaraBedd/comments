@@ -1,0 +1,996 @@
+[
+    {
+        "utilisateur": "Ahmed Baba Gah El Hilal",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "Methodology for Introducing Creativity in Requirements Engineering",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "L'article publié par Vitor Santos, Henrique Mamede, Clara Silveira et Leonilde Reis présente une approche structurée de l'intégration de la créativité dans le processus d'ingénierie des exigences (Requirements Engineering, ou RE). Les auteurs proposent d'utiliser diverses techniques créatives, telles que le brainstorming et les stimulis aléatoires, pour améliorer la définition des exigences du système et ainsi favoriser des solutions plus axées sur l'utilisateur et plus adaptables dans le développement de logiciels.L'inclusion d'une étude de cas pratique démontre l'efficacité de la méthodologie dans l'identification et l'élaboration de stratégies de prestation de services mieux adaptées aux besoins de la communauté.",
+                    "Je suis assez d'accord avec ton premier point! Durant un de mes stages j'étais dans l'équipe de développement et les exigences qu'on recevait étaient parfois contradictoires, redondantes, ou un peu des deux. L'application de méthodes de créativités uniformes auraient sauvé beaucoup de temps aux deux équipes, mais le problème réside comme dans beaucoup d'autres cas dans le fait de à réussir à implémenter la créativité dans un domaine assez vaste (celui de l'entreprise par exemple, surtout si elle est grande)."
+                ]
+            },
+            {
+                "titre_du_forum": "Mentalhealth and creativity, The mad genius myth",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hi Giovanni,\n\nGreat read! The dual-pathway model was indeed fascinating, albeit subjective as to how creativity is measured in general and how some particular aspects of it are measured too (like intelligence). While i personally think the approach is a bit simplistic (but to be expected when dealing with such a complex thematic), i do think that it raises the question of creativity and mental health and that it could pave the way for future research, especially since it's only theoritical and doesn't have a practical angle.\n\nI liked when the paper highlighted a finding from Drapeau and DeBrule regarding the link between creative domains and mental health, where it showed the elevated risk of suicidal ideation in students with high creative achievement in architectural design. This trend extends to other creative fields like visual arts, creative writing, theater/film, and dance, but at moderate levels of risk compared to architecture. I think this suggest that the mental health challenges associated with creativity are not uniform but domain-specific, or maybe there are other parameters in play ? It naturally warrants further research.\n\nRegarding the creative cognitive reappraisal and its role as an active tool for emotional regulation, I found myself wondering if it  could be applied in therapeutic settings more systematically, especially for individuals with anxiety or depression. I would be curious to see a paper on this (which emphasizes once again the need for future research on this, deeper and more practical). \n\nThanks for the read!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Aimée Christella Emerimana",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité : Approches en ergonomie et en psychologie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut  Félix et Caroline,\n\nL'article présente une approche interdisciplinaire  en combinant psychologie et ergonomie pour étudier la créativité. Cette perspective permet d'examiner à la fois les processus cognitifs individuels et les facteurs environnementaux qui influencent la pensée créative.\nLes points forts sont:\n- L'analyse des facteurs cognitifs et contextuels\n- Les études expérimentales sur des étudiants en ingénierie\n- Le lien établi entre créativité et innovation\n- Les méthodes d'évaluation proposées\n\nLes limites sont :\n- Manque d'approfondissement des applications pratiques en milieu professionnel\n- Développement insuffisant de l'ergonomie cognitive\n- Besoin de plus d'études de cas concrets"
+                ]
+            },
+            {
+                "titre_du_forum": "Le processus créatif dans une pédagogie du projet au sein de l’enseignement du design textile à l’école obligatoire en Suisse",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Théo et Syntich,\nJe suis d'accord avec votre analyse du modèle \"conception-réalisation-socialisation\" présenté dans l'article. Ce modèle est utile pour l'enseignement du design textile car il permet :\n\nUne rupture constructive avec l'enseignement traditionnel en favorisant l'autonomie créative\nLe développement de la pensée conceptuelle à travers la recherche de solutions innovantes\nL'utilisation productive des contraintes comme catalyseurs de créativité\nL'acquisition de compétences pratiques et collaboratives essentielles\n\nDans le cas de la trousse, les défis rencontrés ont stimulé la créativité des élèves plutôt que de la limiter. Cette approche pédagogique semble donc réussir à transformer les obstacles en opportunités d'apprentissage et d'innovation."
+                ]
+            },
+            {
+                "titre_du_forum": "Le numérique comme outil pour développer la créativité",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Cet article étudie l'impact de l'apprentissage par projet (PBL) basé sur la pensée design (DT) dans un contexte STEAM (Science, Technologie, Ingénierie, Arts et Mathématiques) sur la créativité et la pensée computationnelle (CT) des élèves de collège. En intégrant la pensée design dans une approche d'apprentissage STEAM, l'étude vise à améliorer des aspects clés de la créativité (fluidité, flexibilité, originalité, élaboration) et des compétences de CT chez les élèves, en particulier pour des tâches de complexité moyenne à élevée. Les résultats montrent que les élèves exposés à cette méthode ont significativement amélioré leurs compétences créatives et computationnelles, tandis que le groupe témoin ne montre pas de progrès similaires. Cette approche pédagogique démontre ainsi un potentiel pour le développement de compétences créatives essentielles à l'innovation.",
+                    "Salut Marina,\nJe suis d'accord que l'environnement d'apprentissage est important. La valorisation de l'erreur et l'expérimentation sont des facteurs importants pour développer la créativité et la pensée computationnelle. La formation des enseignants est effectivement un point clé - ils doivent être capables de créer cet environnement sécurisant qui encourage la prise de risque et l'innovation. Concernant l'adaptation du DT-PBL dans des contextes avec ressources limitées, on pourrait imaginer des projets ancrés dans les problématiques locales. Par exemple, les élèves pourraient travailler sur l'amélioration de la gestion des déchets dans leur école ou la création de solutions pour économiser l'eau. Ces projets développeraient les mêmes compétences tout en ayant un impact concret sur leur environnement.\nil faudrait déterminer le rôle de l'enseignant dans la mise en place de tels projets et mettre en place des programmes de formation appropriés."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Alexandra Nappini",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité, ressource potentielle de l’enfant et l’adolescent, à évaluer,révéler et développer",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hello!\n\nThis article is an interesting  reflection on creativity, especially in the context of the growth and development of children and adolescents.\nThe authors highlight how creativity, often perceived as a natural talent or a skill related exclusively to artistic spheres, can be valued and cultivated, just like intelligence. Common thinking believes that creativity cannot be cultivated or trained, and this article explains that this is not true. \n\nThe distinction between “intellectual potential” and “creative potential” is fascinating : Intellectual potential is based on the ability to solve problems and assimilate knowledge, while creative potential concerns the ability to generate original and innovative ideas by adapting them to the context.\nThe EPoC battery represents an innovative approach, that offers specific measurement tools that can identify creative talents in varied fields such as graphic arts and literature. This can help the developoment of potentials often overlooked in traditional schooling.\nI've also appricieted the emphasis on alternative school environments, such as Montessori and Freinet schools, where children perform better on tests of divergent and convergent thinking, showing that more flexible educational methodologies may actually foster the development of creativity.\nFinally , this article stimulates a deep reflection on how our educational system can evolve to enhance and encourage creativity in young people, and how important it is to recognize this potential.\n\nI found several similarities with the article I've analyzed : both treat creativity as a resource that can be developed and measured and delve into how environment and emotions influence creative potential, so reading this article was very enjoyable for me."
+                ]
+            },
+            {
+                "titre_du_forum": "Positive emotions’ influence on attitude toward change, creative thinking and their relationship",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hello,The article I'm going to propose explores the impact of positive emotions on creativity and resistance to change among adolescents, framed in Broaden and Build theory. By expanding cognitive flexibility, positive emotions enhance creative dimensions such as fluency, flexibility, and originality, which are critical for innovative thinking. In addition, a higher positivity ratio has been shown to promote balanced self-evaluation and reduce resistance to change.This study highlights a strong connection between emotional well-being and creativity, a link often overlooked in educational or professional settings. It suggests that fostering positive emotions is not only beneficial for mental health, but also critical for unlocking individuals' creative potential and adaptability. It would be fascinating to see more schools and workplaces apply these findings, creating environments where positivity is cultivated as a basis for growth and innovation."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ali Jaidi",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Valeur Organisationnelle",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Synthese : Cet article explore l'impact des valeurs organisationnelles sur la créativité, en comparant une fondation à but non lucratif (HANDI) et une entreprise industrielle (FLUID). Il conclut que des valeurs bien communiquées et alignées avec les motivations des employés favorisent la créativité, mais avertit des risques liés à une inadéquation entre les valeurs personnelles et organisationnelles.Je n'arrive pas a annoter directement sur le document. Voici mes commentaire : Résumé (p. 153) :\"Notre objectif est de proposer des éléments de réponse à l’amélioration de l’engagement et de l’attachement d’un individu à l’organisation afin d’accroître sa motivation intrinsèque à réaliser des tâches créatives.\"→ Commentaire : Ce passage introduit une problématique pertinente, mais il manque une définition opérationnelle de \"valeurs organisationnelles.\" Cela pourrait clarifier l'impact spécifique sur la créativité.Introduction (p. 154-155) :\"Les organisations doivent se repositionner au sein de la société et prendre leurs responsabilités face aux défis sociétaux mondiaux tels que le changement climatique.\"→ Surligné : Cela met en lumière la tendance actuelle des entreprises à intégrer des objectifs sociaux. La question reste cependant : dans quelle mesure ces initiatives influencent-elles directement la créativité individuelle ou collective ?Discussion (p. 165-167) :\"Les entreprises doivent recruter non seulement en fonction des compétences, mais aussi des convictions personnelles.\"→ Surligné : Cela pose un défi pratique pour le recrutement. Comment mesurer objectivement les convictions personnelles sans introduire de biais ou de discrimination ?"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Anna Mermet-Bijon",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Is Creativity Expressed at Home Related to Creativity Expressed at School? A Re-Examination of the Creativity Gap with Gifted and Nongifted Students",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ton article proposé est vraiment très intéressant et pose vraiment la question de de refonte des programmes éducatifs pour justement encourager les compétences créatives et ainsi limiter le fossé créatif qui peut y avoir entre la maison et l’école. \nComme l’étude le démontre bien, la créativité semble décliner entre le début de l’adolescence et l’âge adulte. Cela pourrait aussi inspirer des changements pédagogiques pour inclure davantage d'opportunités créatives pour les lycéens, même au milieu de leurs obligations académiques accrues, afin de contrer cette chute de la créativité. Il en est de même pour les enfants doués ou non, l’étude montre bien qu’il existe une différence de capacité créative. Il faudrait peut-être donc là aussi trouver de nouvelles approches pour permettre à tous les enfants, qu'ils soient doués ou non, de développer leur créativité de manière cohérente et continue, quel que soit le contexte.\n \nCependant, je trouve que du fait de son échantillon géographiquement restreint (des élèves du Koweït), cette étude possède des limites et réduit donc la portée des généralisations faites. Aussi, l’usage de l'échelle CAAC, focalisée sur des domaines spécifiques, pourrait ne pas rendre compte de toutes les formes de créativité qui existent."
+                ]
+            },
+            {
+                "titre_du_forum": "Impact of Generative Stimuli on the Creativity of Designers in Combinational Design",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article analyse l'influence de deux types de stimuli, visuelles et génératifs, sur la créativité des designers. Les résultats indiquent que les stimulis génératifs jouent un rôle plus efficace dans le processus de création par rapport aux images combinées qualifiées de « réelles ». L'analyse met aussi en évidence que l'expérience dans le design est cruciale et encourage « la nouveauté » dans les stimuli génératifs. Bien que l'échantillon soit limité, les résultats suggèrent que les designers possédant un degré d'étude supérieur (dans une école de design) peuvent mieux exploiter ces stimulations, ce qui les rend plus inspirés pour concevoir des créations innovantes."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Axel Marques",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité didactique pour sortir des classes, des manuels, des habitus de l’enseignement de l’Histoire : une Recherche design en éducation en didactique de l’histoire au Secondaire II",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans cet article l’autrice explique le concept de créativité\ndidactique et en quoi son adoption au sein du corps enseignants mais aussi au\nprès des élèves, serait une opportunité face aux changements de comportement et\nà la manière dont la gen Z appréhende l’apprentissage. Deux dispositifs sont\ndécrits : l’histoire oral et les visites de musée et l’autrice explique en\nquoi les approches créatives permettraient aux futurs enseignants de développer\ndes activités/enseignements adaptés aux besoins des élèves."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Beatriz Andrade-Odar",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Psychology and Marketing - 2022 - Ameen - Toward advancing theory on creativity in marketing and artificial intelligence",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "oh vraiment intéréssant! \nBon questionnement! Justement en te lisant je me posais la question sur l'impact négatif que ca pouvait amener,  car avec l'IA , l'humain pourrait voir sa créativité diminuée s'il se fie uniquement aux réponses de l'IA! Les facteurs influants la créativité que l'on a vu en classe, seraient donc diminués car le processus même de pensée serait enlevé de l'équation (à part pour poser le problème/beosin à l'IA). Est- ce que ca rendrait notre pensée critique paresseuse? \n\nAutre point: je me dis tout le temps, autant qu'en santé, que l'IA devrait être un outil pour nous aider mais jamais remplacer notre jugement critique. Si nous pouvions utiliser l'IA de manière startégique et consciente, de manière à agrémenter notre pensée (et non la remplacer), je pense que nous pourrions en sortir des bénéfices, et donc du positif! L'IA pourrait contribuer à nous donner des concepts différents auxquels nous n'avons pas pensé, ce qui pourrait nous aider à créer des liens improbables au début de notre processus de pensée et influencer notre processus de créativité!\n\nEn tout, super intéréssant, ca fait réfléchir!"
+                ]
+            },
+            {
+                "titre_du_forum": "STEM vs. STEAM Education and Student Creativity: A Systematic Literature Review",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article (2021) cherche a établir:1. A travers quelle approche conceptuelle STEM/STEAM ont été préparées les interventions didactiques utilisées pour développer la créativité des élèves ? 2. Sous quelle perspective la créativité a-t-elle été évaluée et quels instruments ont été utilisés pour ce faire ? 3. Quelles raisons les auteurs identifient-ils pour expliquer l'effet des interventions basées sur l'approche STEM/STEAM sur la créativité ?La conclusion détermine que l'argument en faveur de la mise en œuvre de l'éducation STEAM par rapport à l'éducation STEM, en vue de développer ou de promouvoir la créativité des élèves, n'est pas en accord avec les preuves issues des études empiriques.Ce que j'en retiens, pourquoi c'était intéréssant et les liens fait avec les concepts de la classe:La créativité influence fortement les études STEM en promouvant des compétences essentielles comme la pensée critique, l'innovation et la résolution de problèmes complexes. Ces programmes favorisent la créativité en combinant des disciplines variées, en utilisant des approches basées sur les projets et l’apprentissage pratique. Ces méthodologies stimulent des dimensions clés de la créativité, telles que la flexibilité, l'originalité et la fluidité des idées, mais montrent des impacts variables selon les niveaux scolaires et les contextes. En intégrant les arts (STEAM), la créativité est encore renforcée, ouvrant des opportunités pour des solutions plus innovantes et multidimensionnelles.C'était un article trèes intéréssant qui décrivait aussi quelques outils de mesure de la créativité et de méthodes d'enseignements que l'on a vécu en classe, comme l'orientation enseignement-jeu et un environnement plus libre pour apprendre (surtout vécu dans nos projets!)"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Clarice Goulet",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Adolescence : créativité et transformation de soi",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui m'a marqué dans le texte c'est l'idée de la créativité comme étant fortement non linéaire, pouvant augmenter mais aussi diminuer selon les périodes. Il y est également mention de notre capacité à influer sur notre créativité, et à l'importance de sa construction jeune. En admettant que notre éducation encourage et accompagne plus les démarches créatives dans de nombreux domaines, verrait-onn un changement drastique de la capacité créative à l'âge adulte?\nEn ce qui concerne la chute de créativité vers 13 ans dûe à des changements, dont des changements d'intérêt : ne serait-ce pas les fondations pour une plus grande créativité plus tard, le temps que nos connaissances se consolident dans ces nouveaux domaines? On ne peut pas être créatif en débutant, mais avoir des horizons élargis aide à la créativité.\nMerci pour cette belle lecture !"
+                ]
+            },
+            {
+                "titre_du_forum": "Exploring the Role of Creativity in Software Engineering",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article vise à étudier le rôle de la créativité dans l'ingénierie logicielle, domaine qui cherche à implémenter de nouvelles solutions ou à réimaginer/réadapter d'anciens modèles. L'ingénierie logicielle couvre tous les aspects, de l'analyse-conception à l'implémentation et à l'amélioration continue. Ces domaines nécessitent donc un certain niveau de créativité, et cet article vise, au travers de travaux avec des experts dans le domaine, à faire ressortir la valeur ajoutée de la créativité, les techniques créatives utilisées, la manière dont la créativité peut être reconnue, les raisons d'être créatif et l'environnement nécessaire pour faciliter le travail créatif."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Coline Fulcran",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "Étude de la littérature sur la créativité en sciences de  l’éducation dans les pays francophones",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L’article de De Smet, Raileanu et Romero aborde l’évolution de la recherche sur la créativité en sciences de l'éducation dans les pays francophones, en mettant en lumière les défis culturels et institutionnels qui freinent son intégration. Je suis d’accord sur l’importance de la culture éducative dans la perception de la créativité, mais j’ajouterais que l’article pourrait aller plus loin en proposant des pistes concrètes pour aider les enseignants à intégrer la créativité malgré les pressions académiques. De plus, l’étude aurait pu comparer les approches francophones à celles d’autres contextes éducatifs pour offrir des solutions inspirées de méthodologies internationales."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité : Approches en ergonomie et en psychologie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article présente différentes approches pour comprendre et étudier la créativité en psychologie et en ergonomie, en se concentrant sur les méthodes d’évaluation et les stratégies pour stimuler la pensée créative dans divers contextes. Effectivement, il est pertinent de lier psychologie et ergonomie pour saisir la complexité de la créativité, mais l’article aurait pu approfondir l'impact des méthodes spécifiques sur la créativité en milieu professionnel. Une analyse plus poussée des applications pratiques, notamment en ergonomie cognitive, pourrait aussi offrir des perspectives intéressantes pour ceux qui cherchent à intégrer des processus créatifs dans leur environnement de travail."
+                ]
+            },
+            {
+                "titre_du_forum": "The reciprocal relationship between openness and creativity: from neurobiology to multicultural environments",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article examine la relation réciproque entre l’ouverture d’esprit et la créativité, en explorant comment des facteurs allant de la neurobiologie aux environnements multiculturels influencent cette interaction. En réponse à Paloma, je suis d’accord, il est essentiel de considérer le rôle de l’ouverture dans le développement de la créativité, mais j’ajouterais que l’article aurait pu approfondir l'impact des contextes multiculturels spécifiques. Peut être qu'une exploration plus détaillée des mécanismes neurobiologiques associés à l’ouverture pourrait mieux éclairer sur la manière dont la plasticité cérébrale soutient la pensée créative, enrichissant ainsi les implications éducatives de cette étude."
+                ]
+            },
+            {
+                "titre_du_forum": "Effects of divergent thinking training on students’ scientific  creativity",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article rend compte de l’impact d’une formation en pensée divergente sur la créativité scientifique des étudiants, en examinant comment les différences individuelles (potentiel créatif et domaine de connaissance) l'influencent. La formation, basée sur des stratégies cognitives telles que l’association, la décomposition et la combinaison, a réellement amélioré la créativité de tous les étudiants. Les résultats montrent que tous les élèves qui ont bénéficié de la formation, quel que soit leur potentiel créatif initial, ont vu leur créativité améliorée. Mais ceux ayant un niveau de connaissances plus élevé en sciences en ont tiré un profit supérieur. L’étude permet alors de conclure que combiner l’enseignement de la pensée divergente avec l'acquisition de connaissances optimise le développement de la créativité scientifique. Cette approche pourrait/devrait être appliquée dans les programmes éducatifs en sciences."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "David Potvin",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Methodology for Introducing Creativity in Requirements Engineering",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve cet article particulièrement intéressant car lorsque j'ai effectué mon stage obligatoire en génie logiciel, l'un des plus grand problèmes qu'on rencontrait, c'était justement la formulation des requis pour l'équipe de développement. Souvent, les requis était incomplets, vagues et parfois même contradictoires. Ce faisant tout avait pour effet de ralentir la livraison des fonctionnalités et nécessitait l'organisation de nouvelles rencontres avec les différentes parties prenantes de mon projet. La méthodologie proposé par les auteurs est quelque chose que je pourrais voir être implémenté au seins des entreprises pour lesquelles j'ai travaillé. En effet, l'application de la créativité dans la définition des requis était complètement négligé. L'utilisation du brainstorming lors de l'étape de 'Clarification de l'objectif' suscite ma curiosité car elle a pour effet d'encourager la collaboration et la communication entre le client et les développeurs. Par conséquent, cela aide à établir un compréhension commune du problème à résoudre et cela peut aider a décomposer le problème en plusieurs plus petits problèmes simples. Vers la fin de l'article, les auteurs mentionnent que dans de futures travaux, la méthodologie qu'ils proposent pourrait être appliqué dans le domaine académique également. Je trouve cela bien car elle peut aider à combler le fossé existant entre la domaine de la théorie et celui de la pratique. Quels ajustements seraient nécessaire à apporter pour l'adapter au contexte académique ? L'une des difficultés que je vois à l'horizon pour ces futures travaux c'est que dans le milieu académique, les ressources disponibles sont souvent plus limités que dans l'industrie. Cependant, le milieu académique est souvent plus ouvert à l'expérimentation de nouvelles méthodes."
+                ]
+            },
+            {
+                "titre_du_forum": "Fostering Creativity in Seniors and Freshman  Students of Engineering",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article scientifique présente une étude menée auprès d'un groupe 32 d'étudiants de première année (groupe 1)et d'un groupe 26 d'étudiants de dernière année (groupe 2) dans un programme d'ingénierie électronique et a pour objectif d'explorer la relation entre une approche éducative fondée sur la réalisation de projets visant à résoudre un problématique dans le cadre d'un cours (Project-Based Learning) combinée à l'utilisation d'un processus créatif et l'impact que cela a sur le niveau de créativité des étudiants.Concrètement, les étudiants ont résolut un problématique en suivant 4 phases parmis lesquelles des méthodes de pensée créative sont utilisées : une phase d'analyse dans laquelle les étudiants cherchent à comprendre la problématique proposée (brainwriting), une phase de génération d'idées pour résoudre la problématique (brainstorming), une phase d'évaluation dans laquelle les étudiants utilisent entre autre la méthode SCAMPER pour améliorer des idées et une phase de communication dans laquelle les étudiant présentent leurs solutions et à partir de laquelle ils obtiennent une rétroaction permettant d'itérer sur la solution. Les phases permettent de développer des compétences cruciale à la profession d'ingénieur telles que la communication, la collaboration et l'écoute, tout en favorisant le développement de la pensée convergente et divergente.Cette étude a trouvé qu'il existe une relation bénéfique entre la promotion de la créativité et l'apprentissage basé sur les projets, que certaines métriques du test de la créativité CEDA comme la fluidité et la flexibilité ont augmentés auprès des deux groupe d'étudiant mais que la différence est davantage notable auprès du groupe 1, que le stade auquel se situe les étudiants dans leur programme d'étude a un impact sur les solutions proposés : les étudiants de première année sollicitent davantage des connaissances qui ne sont pas issue de leur domaine d'étude, mais elles sont moins élaborées contrairement aux étudiants de dernière année.Malgré des résultats prometteurs, cette étude devrait être reproduite sur un plus large échantillon, car elle a été menée auprès de deux groupes d'étudiants d'une taille relativement réduite et qui sont issue que d'un seul programme d'ingénierie, ce qui ne permet pas de tirer des conclusions définitives."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Emile Fournier",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Relation entre la créativité et le bien-être",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Bonjour,Je vous présente l'article \"Creativity and Well-being: A Meta-analysis\" publié en 2021 dans le Journal of creative behavior par Selcuk Acar, Harun Tadik, Danielle Myers, Carian Sman et Recep Uysal.Dans cet article, les publicateurs tentent de trouver un lien entre la créativité et le bien-être. D'abbord, l'article aborde le sujet des impacts positifs et négatifs vu par des chercheurs, à travers d'autre articles scientifique publiés dans le passé. Ensuite, il parles de la vision présente de la créativité à  travers d'autres recherches. Ils ont ensuite fait une étude statistique en regroupant des articles scientifiques faisant le lien entre le bien-être et la créativité (je recommande de passer cette sections, elle est très axé sur l'aspect mathématique. Finalement, ils arrivent à la cobclusion qu'il y a bel et bien un lien entre les deux aspect, cependant, ils y a encore un peu d'imbiguité (je vous laisse découvrir par vous-même. J'ai trouvé cet article très intéressant au niveau des nombreuses sources utilisé et lur divergences d'opinions.Bonne lecture!"
+                ]
+            },
+            {
+                "titre_du_forum": "Adolescence : créativité et transformation de soi",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai trouvé très intéressant l'idée que les jeunes utilisent la créativité comme un outil d'adaptations pour faire face à des défis émotionnel et identitaire pendant l'adolescence. Il est vrai que plusieurs jeune se tournent vers la rédaction ou l'art, des activités qui demande souvent de la créativité, lorsque ceux-ci n'ont pas d'autres moyens pour gérer des situations. Le fait d'encourager des écoles a favoriser un tel comportement est une excellente idée, car elle pourrait aider beaucoup de jeunes . En ce moment, on voit énormément d'adolescent piègé dans des activités liés aux écrans, ce qui n'aide certainement pas leur situations. Ces habitudes pourraient avoir un impact négatif dans leur vie adulte en ce qui concerne leur créativité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Émile Glorieux",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Les valeurs de l’organisation,  moteur de créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis complètement d'accord avec toi ! L'article montre super bien comment les valeurs d'une organisation boostent la créativité, et l'étude sur HANDI et FLUID rend ça hyper concret. J'aime beaucoup l'accent sur la motivation intrinsèque, qui est clairement la clé pour une créativité durable. Les suggestions pour engager les employés sont aussi bien pensées. L'étude comparative apporte vraiment un plus pour comprendre tout ça."
+                ]
+            },
+            {
+                "titre_du_forum": "Étude de la littérature sur la créativité en sciences de  l’éducation dans les pays francophones",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article fournit une analyse de la littérature scientifique francophone sur la créativité dans le domaine de l'éducation à tout les niveaux, identifiant cinq principaux champs de connaissances. Il souligne l'importance de la créativité comme compétence essentielle du 21e siècle, dans de l'enseignement artistique ainsi que dans la pensée informatique. Les auteurs concluent que la créativité doit être davantage intégrée dans les pratiques éducatives pour répondre aux défis actuels de l’apprentissage."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Emile Villette",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Mindfulness and creativity: Implications for thinking and learning",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article présenté [1] parle des interactions possibles entre la pleine conscience et la créativité, particulièrement sur l'utilisation de cette dernière pour renforcer le processus créatif dans le cadre éducatif. L'article conclut que bien que la relation entre les deux concepts est complexe, il y a suffisamment de preuves pour supporter qu'il y a une relation mutuellement bénéfique entre les éléments étudiés (c'est-à-dire que pratiquer la pleine conscience peut renforcer la créativité de l'individu).Les trouvailles de l'article sont multiples :- Les exercices de \"balade de la conscience\" délibérés, penser sans contraintes, sans objectif renforce potentiellement le processus créatif- Les individus pratiquant régulièrement la méditation exhibent des bienfaits sur le processus créatif dans le milieu éducatif- Créer un cadre réduisant la \"peur du jugement\" est propice au processus créatif. En somme, un safe-space crée des conditions plus ad hoc.En outre, l'article va évidemment beaucoup plus en profondeur dans les concepts susnommés, je vous invite à le consulter, il est très intéressant ![1] Henriksen, Danah, et al. “Mindfulness and Creativity: Implications for Thinking and Learning.” Thinking Skills and Creativity, vol. 37, Sept. 2020, p. 100689. ScienceDirect, https://doi.org/10.1016/j.tsc.2020.100689."
+                ]
+            },
+            {
+                "titre_du_forum": "\"Définir la créativité comme un processus d'élaboration de sens en éducation\" d'Alexandra Bernier",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "salut, voici le document completé avec mes commentaires et surlignages de passage importants!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Emmanuel Merakos",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Creativity in education: Teaching for creativity development",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Votre commentaire est intéressant et apporte une perspective unique sur l'article. J’ai aussi trouvé captivant la manière dont l'article met en avant l'intégration des théories de la créativité, notamment à travers des lectures, des devoirs et un projet final qui rassemblent toutes les notions abordées. Cette méthodologie montre bien comment les environnements d'apprentissage peuvent stimuler la créativité des apprenants tout en encourageant les enseignants à adopter des approches innovantes et dynamiques. Merci d’avoir partagé cette réflexion, elle ajoute une belle dimension au sujet !"
+                ]
+            },
+            {
+                "titre_du_forum": "Encouraging Creative Ideas in the Engineering Design Process for Science Classes",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Favoriser la créativité dans l’enseignement du génie\nnécessite un équilibre entre des processus systématiques et des opportunités\nd’exploration imaginative. La créativité est définie comme la capacité à\ngénérer des idées originales et utiles, influencée par des facteurs sociaux\n(environnements collaboratifs) et des facteurs internes (engagement émotionnel\net compétences cognitives). Une méthode marquante de l’étude est le concept «\nUn objet, un matériau », où l’association d’éléments aléatoires permet de concevoir\ndes produits innovants, démontrant comment les contraintes peuvent stimuler\nl’originalité. Cette approche rappelle la technique du mind mapping, où les\nconnexions entre différents sujets favorisent l’émergence d’idées inattendues,\nainsi que l’utilisation de stimuli nouveaux, qui encouragent à penser au-delà\ndes cadres conventionnels. L’étude conclut que la créativité dans le génie\ns’épanouit lorsqu’on combine résolution de problèmes structurée et génération\nd’idées libres, favorisant l’innovation à travers une exploration\ninterdisciplinaire et itérative."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Giacomo Giacca",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "The Effect of Entrepreneurship Education and Creativity on Students’ Entrepreneurial Intention",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hi! I read the article \"The Effect of Entrepreneurship Education and Creativity on Students’ Entrepreneurial Intention\". I think this article is fantastic, and I found it truly insightful. It highlights how creativity and entrepreneurship education can shape students’ entrepreneurial intentions, which resonates with my belief that creativity can enhance every stage of our lives. Universities play a role in fostering innovation, but it cannot be the only thing we talk about when we talk about entrepreneurship. I really think that true entrepreneurial spirit grow up in dynamic, creative environments. We need more open, inspiring spaces where aspiring entrepreneurs can feel free to explore on their innovation journey and create something new."
+                ]
+            },
+            {
+                "titre_du_forum": "Is Creativity Expressed at Home Related to Creativity Expressed at School? A Re-Examination of the Creativity Gap with Gifted and Nongifted Students",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hi Mewen!\nI am so fascineted about this article cause I think it's one of the biggest misunderstanding nowadays. I am very aligned with the concept about which: \"We are the result of the environment in which we are and the people we stay with\" and I concern to what people support on the environment. I agree about the importance of the environment for the expression of creativity and how it can limit or foster the expression of creative potential, both at school and at home; but I think this is not the final destination about our journey inside creativity: everyone can change and improve his sense of creativity to discover new talents and path never explored before. \nWe have not to define ourselves deu to one fact or different situations; maybe we are not in the right environment, maybe we are not appreciated cause the people there are not aligned with our values, maybe we just have to change a bit of our path and take the unknown one to become more appreciated and improve also the situation around us!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Giorgia Piscicelli",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "The influence of virtual reality on design process creativity in basic design studios",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "It was interesting to read this article, not only for the content but also because it is similar to the one that I proposed (\"Creativity as Key Trigger to Cognitive Achievement: Effects of Digital and Analog Learning Interventions\").  Both studies highlight the importance of creativity and motivation in the learning and cognitive experience, but the one regarding VR is more focused on the practical use of VR to improve creativity and engagement in the design process, showing how this technology could facilitate the achievement of \"Flow\" and enhance the academic experience. \n\nThis article impressed me a lot because it explores the potential of this technology in overcoming the limits of traditional educational training methods, allowing students to develop more innovative ideas in a more natural and stimulating environment. It is very interesting the distinction between immersive and non-immersive environments, particularly the description of the \"presence\" effect in the virtual space that allows the stimulation of creativity and creates a more engaging environment. Moreover, VR seems to be the ideal way for students to transform their imagination into concrete visualization, which is one of the most important processes in the design field. Finally, VR enables the growth of motivation for the individual student,  creating a more stimulating environment that pushes students to express their total and maximum creative potential."
+                ]
+            },
+            {
+                "titre_du_forum": "Creativity as Key Trigger to Cognitive Achievement: Effects of Digital and Analog Learning Interventions",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Summary: The article analyses how creativity can enhance cognitive\nachievement in science education for eighth-grade students. The study proposes the\napplication of two gamified escape games (“EduBreakout”), one digital and one\nanalog, to examine the relationship between learning and creativity. This study\nhighlights that creativity, through “Act” (that is the concretization of ideas)\nand “Flow” (that is the process during which the acting person becomes fully\nabsorbed in the tasks and starts to explore innovative ideas and solutions), improves\nlearning skills and knowledge retention. Both the didactic methods are\neffective, but the digital one seems to be more successful for knowledge retention\nin the long term period. Moreover, the article argues that it is important to\nchange the figure of teachers, which must be converted into a figure of a\nmentor. This approach makes the learning experience more engaging and\nencourages self-direct exploration.\n\nPersonal thoughts: It was very interesting to read this\narticle, not only for the research itself but also for the results that turned\nout and for the definition of creativity that it proposes, based on the\nconcepts of “Act” and “Flow”. Understanding how creativity can effectively\nstimulate and improve cognitive and learning processes is always surprising,\nbut this case study demonstrates this connection through concrete and\ncalculated data. Moreover, the innovative vision that the authors offer shows\nhow these new teaching and learning methods (gamified methods) can really influence\npositively the educational processes inside schools. Personally, I would have\nliked to experience a similar approach during my academic career."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Giovanni Leone",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "STEM vs. STEAM Education and Student Creativity: A Systematic Literature Review",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Personally I think that there are too many factor and variables that could influence creativity during a whole study journey both in STEM and STEAM studies to be evaluated with a peer review methodology. It would be way more useful to compare very similar corses that differs only by the inclusion of arts in it and repeat it various time to give a statistical reliability to it. Another of this factors is that especially in humanistic subjects such as Arts there is a very big impact due to the teaching tecniques and the personal preference of the teacher. In fact as you said in one of your notes, in some context the students feel more prone to try to be creative, because of lower pressure and this is strongly influenced by the teaching style and evaluation method selected by the professor."
+                ]
+            },
+            {
+                "titre_du_forum": "Mentalhealth and creativity, The mad genius myth",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hi everyone. This paper offers a fascinating and complex view of the relationship between creativity and mental health, breaking away from the common image of the “mad genius” to propose a more nuanced reading. The authors introduce the dual-pathway model, which differentiates creativity as a “disposition” – a stable personality trait that may have a negative association with psychological well-being – and creativity as a “strategy” – a flexible approach that, on the contrary, can improve mental health.Curiously for me one of the most interesting findings is the idea, proposed in one the analyzed articles by the review, that creativity can be used as a practice to regulate emotions, for example through the “creative cognitive reappraisal.” In practice, this means using creativity to reshape the way we perceive difficult or stressful events, turning them into less negative experiences. This approach not only reduces stress but also helps to foster greater well-being. I found this last thing very interesting also if it was not the focus of the article.Returning to the article its basically concludes that the relation between mental health varies on the type of creativity we consider:If creativity is a stable trait of personality it appears to be linked to worse mental health, otherwise if it is a strategy used by the individual it appears o be linked with an overall better mental health The results of the various studies very varies basing on the way you measure creativity, on the contest and on the individual intelligence. Also the type of mental disease appear to affect the findings bipolarism and schizophrenia are normally more linked to increased creativity instead “passive” disease such as anxiety and depression relate negatively."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Guillaume De Palma Demers",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "The Effect of Entrepreneurship Education and Creativity on Students’ Entrepreneurial Intention",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Thanks for sharing Giacomo!\n\nEntrepreneurship truly puts you in front of challenges and quite literally forces you to be creative. Whether it is by trying new things or to find solutions to your operational problems, nothing beats entrepreneurship in terms of testing yourself and pushing the creative boundaries. \n\nI really appreciate that the article ends up by recommending that more entrepreneurship be taught in schools. This is deeply valuable for society today."
+                ]
+            },
+            {
+                "titre_du_forum": "Why Most Published Research Findings Are False",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Dans une recherche frappante de 2005, John Ioannidis trouve que la majorité des publications scientifiques sont fausses. John Ioannidis est un chercheur médical très cité, avec un index H de 239 sur Google Scholar en janvier 2023. (Wikipédia)De 1998 à 2010, Ioannidis a été président du département d’hygiène et d’épidémiologie de la faculté de médecine de l’Université d’Ioannina en Grèce. En 2002, il est devenu professeur auxiliaire à la faculté de médecine de l’Université Tufts. Il a également été président de la Society for Research Synthesis Methodology. (Wikipédia)Il occupe quatre postes universitaires à l’Université Stanford : professeur de médecine, professeur d’épidémiologie et de santé des populations, professeur (par courtoisie) de statistiques et professeur (par courtoisie) de science des données biomédicales. [10]Il est directeur du Centre de recherche sur la prévention de Stanford, et co-directeur, avec Steven N. Goodman, du Centre d’innovation en méta-recherche à Stanford. (Wikipédia)Je vous partage le sommaire ici et le lien vers l'article: \"On s’inquiète de plus en plus du fait que la plupart des résultats de recherche publiés sont faux. La probabilité qu’une affirmation de recherche soit vraie peut dépendre de la puissance et du biais de l’étude, du nombre d’autres études sur la même question et, surtout, du rapport entre les relations vraies et les relations nulles entre les relations sondées dans chaque domaine scientifique. Dans ce cadre, un résultat de recherche a moins de chances d’être vrai lorsque les études menées dans un domaine sont plus petites ; lorsque l’ampleur de l’effet est plus petite ; lorsqu’il y a un plus grand nombre et moins de présélection de relations testées ; où il y a une plus grande souplesse dans les plans, les définitions, les résultats et les modes d’analyse ; lorsqu’il y a plus d’intérêts et de préjudices financiers et autres ; et lorsque plus d’équipes sont impliquées dans un domaine scientifique à la recherche d’une signification statistique. Les simulations montrent que pour la plupart des plans et des paramètres d’étude, il est plus probable qu’une affirmation de recherche soit fausse que vraie. De plus, pour de nombreux domaines scientifiques actuels, les résultats de recherche revendiqués peuvent souvent être de simples mesures précises du biais dominant. Dans cet essai, je discute des implications de ces problèmes pour la conduite et l’interprétation de la recherche.\"Why Most Published Research Findings Are False - PMCIoannidis JP. Why most published research findings are false. PLoS Med. 2005 Aug;2(8):e124. doi: 10.1371/journal.pmed.0020124. Epub 2005 Aug 30. Erratum in: PLoS Med. 2022 Aug 25;19(8):e1004085. doi: 10.1371/journal.pmed.1004085. PMID: 16060722; PMCID: PMC1182327.",
+                    "En rapport avec la créativité, il est important de considéré que la somme de ce qui est publié aujourd'hui en science est énorme et la qualité des publications est analysée plus que jamais. La complexité des méthodes de recherches peut parfois créer un écran de fumer quant à la qualité des réponses produites. Néanmoins, la créativité et l'innovation implique l'échec. Il faut essayer de nouvelles choses et prendre position, quitte à ce qu'on ait pas toujours raison ou qu'il y ait quelques failles dans notre modèle. Dans ce même sens, il est important de demeurrer ouvert et auto-critique afin d'admettre ses erreurs et ainsi progresser."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Hugo Baudin",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité didactique pour sortir des classes, des manuels, des habitus de l’enseignement de l’Histoire : une Recherche design en éducation en didactique de l’histoire au Secondaire II",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Axel ! Super intéressant ton article. Il est intéressant de voir qu'il y a des études scientifiques qui prouvent des bons résultats pour une nouvelle façon d'enseigner. Malgré que les avantages soient connus, il reste encore très rare que ce soit mis en classe dans les écoles. Comme le dit l'article, ceci est sûrement à cause d'une peur des profs de ne pas couvrir le programme. Je pense qu'on a utilisé une forme d'enseignement créatif dans le cour avec un système d'apprentissage loin des processus conventionnels, on faisait des jeux et des discussions mais au final on a appris beaucoup sans cours magistraux."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité, ressource potentielle de l’enfant et l’adolescent, à évaluer,révéler et développer",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cette article met en place le concept de Haut Potentiel Créatif en opposition du Haut Potentiel Intellectuel. Il s'intéresse à l'évaluation de la créativité chez les enfants sur différents domaines : la créativité graphique et verbale et distingue la divergence, la convergence. Les auteurs montrent que l'intelligence et la créativité ne sont pas corrélés. Une évaluation de la créativité est étudiée avec différents indicateurs et fait écho à l'aspect détaillé en classe par Sophie sur ses méthodes d'évaluation de la créativité durant sa thèse. Il est remarquable que l'on retrouve beaucoup de concept détaillé en classe dans cet article."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ismaël Mohammed",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "DÉVELOPPER LA CRÉATIVITÉ EN DIDACTIQUE : PRATIQUES MULTIMODALES ET NUMÉRIQUES",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Kevin, j’ai aimé ta recommandation de cet article de Brunel et Lemieux. C'était pertinent que les auteurs traitent de l'utilisation d'outils numériques dans le développement de la créativité pédagogique. On remarque l'effet de la technologie sur la créativité et comment c'est un outil important. Aussi, c'était bien que l'étude traite des programmes d'enseignement au Québec, c'était pertinent à notre réalité."
+                ]
+            },
+            {
+                "titre_du_forum": "Applying project-based learning and SCAMPER teaching strategies in engineering education to explore the influence of creativity on cognition, personal motivation, and personality traits. (2020)",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article a comme sujet l’impact des projets intégrateurs\net de la méthode SCAMPER sur la créativité dans l’éducation en génie. L’étude\névalue comment ces méthodes affectent les compétences cognitives, la motivation\net la personnalité des étudiants en génie. En utilisant Moodle, les enseignants\nont mis en place des activités afin d’enseigner des méthodes créatives. Par la\nsuite, après un projet intégrateur, l’évolution des compétences cognitives et\nde la personnalité fut étudiée. Bonne lecture!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Jean-Philippe Bernard",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Les valeurs de l’organisation,  moteur de créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article réalisé par Sophie Bollinger et Marion Neukam\nfournit une analyse en lien avec les valeurs de l’organisation qui se retrouve à\nêtre un moteur de créativité. L’article souligne l’importance de l’innovation\ndans l’essor d’organisation et de comment arriver à bonifier la stimulation d’idée\ninnovante. Trois facteurs motivationnels permettent cette stimulation tels que\nla motivation intrinsèque, extrinsèque et transitive. Il y a aussi des\nsuggestions ayant comme but d’améliorer l’engagement et l’attachement des\nindividus à une organisation afin d’accroître sa motivation intrinsèque à\nréaliser des tâches créatives. Finalement, ce qui est très intéressant c’est qu’il\ny a eu une étude entre une entreprise à but non lucratif (fondation HANDI) et\nune entreprise à but lucratif (FLUID). Cette étude permet d’avoir du concret\nsur lequel ce basé et est très pertinent à mon avis pour ce genre d’étude très\ntechnique. Bonne lecture!"
+                ]
+            },
+            {
+                "titre_du_forum": "Étude de la littérature sur la créativité en sciences de  l’éducation dans les pays francophones",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Très bon article focussant sur l’étude de la littérature sur la créativité en sciences de l’éducation dans les pays francophones. Je partage la même idée que Coline, il serait bien de comparer les approches francophones à d’autres approches provenant de l’internationale. Comme il est mentionné dans le texte :\n‘’ Le découpage d’un plan d’études, qui cloisonne souvent la créativité hors des disciplines ou la réserve aux seules disciplines artistiques, fait que cette dernière peut apparaître comme complètement détachée des objectifs disciplinaires’’\nLe classique stéréotype qui stipule que la créativité se retrouve simplement dans les domaines artistiques freine la possibilité d’amener ce concept dans d’autres compétences enseignées à l’école. Il est possible de constater cette résistance à promouvoir des segments sur la créativité dans nos écoles excluant l’enseignement supérieur ou universitaire. En effet, Nous observons dans le corpus de sélection que la plupart portent sur la créativité dans l’enseignement supérieur ou universitaire (37,5 %). Finalement, j’aimerais apporter une parenthèse. Considérant que la jeune génération qui est sur nos bancs d’école à beaucoup de problème de concentration. Serait-ce bien d’incorporer des courtes périodes dédiées à la créativité? Cela pourrait faire de légère pause dynamique à l’intérieur des cours en plus de faire interagir les étudiants entre eux."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Kenza Baspin",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Créativité, apprentissage, intelligence et personnalité_Guillaume Furst",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le texte analyse la créativité sous deux processus : la divergence, qui inclut la flexibilité et la génération d’idées nouvelles, et la convergence, qui concerne l’évaluation et la focalisation des idées. Il met en lumière comment un équilibre entre ces processus peut soutenir l’intelligence créative. En utilisant une approche multivariée, les auteurs mesurent divers aspects comme l'originalité et la concentration pour comprendre les comportements cognitifs et émotionnels propres à chaque phase de la créativité. Des tableaux permettent de classer les comportements liés aux différentes étapes du processus créatif.https://moodle.polymtl.ca/pluginfile.php/1247658/mod_forum/post/320259/Cr%C3%A9ativit%C3%A9%2C%20apprentissage%2C%20intelligence%20et%20personnalit%C3%A9_Guillaume%20Furst.pdf?time=1730229287760"
+                ]
+            },
+            {
+                "titre_du_forum": "Une créativité entravée ? Les techniques d’aide à la création selon l’approche organologique",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Rukhama !\n\nTon texte est très intéressant et il y a particulièrement un élément qui m'a marqué : le fait que la créativité serait propre à l'être humain. Cette vision, selon moi, mériterait d'être discuté. En effet, non seulement l’évolution de l’intelligence artificielle commence à remettre en question cette séparation en démontrant des capacités de création qui imitent, voire rivalisent avec, la créativité humaine (comme la génération d’images ou de textes originaux), mais l’idée que les animaux seraient exclus de la créativité mérite aussi un regard plus nuancé.\n\nOn sait aujourd'hui que certains animaux ont des comportements qui semblent faire appel à une forme de créativité. Les corbeaux de Nouvelle-Calédonie, par exemple, sont connus pour concevoir et ajuster des outils pour extraire de la nourriture, et cette flexibilité suggère une pensée originale plutôt qu’un simple comportement instinctif. De la même manière, les dauphins font preuve d’inventivité dans la création de bulles d’air en forme d’anneaux, un jeu qui semble découler d’une exploration ludique plutôt que d’une nécessité de survie. Les chimpanzés, quant à eux, utilisent des stratégies innovantes pour résoudre des problèmes sociaux ou environnementaux, adaptant des comportements qu’ils n’ont jamais appris ou observés. C'est d'ailleurs le cas de beaucoup d'espèces menacés par le changement climatique : l'adaptation. Cela s'inscrit dans la réflexion vu en cours sur l'accès aux différentes ressources et l'influence des adversités de la vie sur notre propre créativité (par exemple un handicap).\n\nAussi, la nature elle-même regorge de structures et de processus qui sont si ingénieux que les scientifiques et les ingénieurs cherchent à les imiter à travers le biomimétisme comme nous l'avons vu en cours. Par exemple, la structure des ailes de certains oiseaux inspire la conception aérodynamique des avions. Le biomimétisme est une démonstration puissante de la créativité de la nature. Il montre que les solutions complexes et novatrices, développées par des millions d’années d’évolution, dépassent souvent notre propre capacité d’invention. \n\nCes exemples soulèvent maintes questions : à quel point la créativité humaine est-elle réellement unique ? Peut-on réellement définir la créativité comme une capacité exclusivement humaine, ou s'agit-il plutôt d'une faculté qui existe sur un continuum à travers différentes espèces, manifestée de manières variées et en fonction de leurs environnements et besoins spécifiques ? \n\nPar ailleurs, cette discussion invite aussi à se questionner sur les définitions mêmes de la créativité. Si elle se limite à la capacité de générer des idées artistiques ou conceptuelles, elle peut sembler spécifiquement humaine. Mais si elle englobe l’innovation adaptative, alors elle devient beaucoup plus inclusive. L’environnement et la survie jouent un rôle central dans l’expression de la créativité chez les animaux, qui ne cherchent pas à créer pour l’art ou l’abstraction, mais pour répondre aux défis de la vie. Cela nous rappelle que la créativité n’est pas nécessairement un luxe ou un ornement de l’intelligence humaine, mais une nécessité d’évolution et d’adaptation que l’on retrouve dans toute la nature ."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Kevin Doyle",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "DÉVELOPPER LA CRÉATIVITÉ EN DIDACTIQUE : PRATIQUES MULTIMODALES ET NUMÉRIQUES",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Bonjour,Cet article de Magali Brunel et Amélie Lemieux sur comment développer la créativité en didactique publié le 16 décembre 2022, explore les pratiques multimodales et numériques pour développer la créativité en didactique. Les auteurs mettent en évidence l'importance de la créativité comme compétence transversale et montrent comment les outils numériques peuvent faciliter des approches pédagogiques innovantes. L'étude souligne les avantages et les défis de l'intégration de ces pratiques dans les contextes éducatifs.Bonne lecture et bonne journée!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Kirollos Guendi",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Mindfulness and creativity: Implications for thinking and learning",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'analyse de l'article démontre les bénéfices potentiels de la pleine conscience pour stimuler la créativité dans l'éducation. Une exploration des différents contextes éducatifs et des pratiques spécifiques pour intégrer la pleine conscience dans l'enseignement serait bénéfique. Le concept de \"safe space\" est bien introduit, mais il pourrait être élargi pour inclure des facteurs sociaux et émotionnels. Enfin, des recherches futures pourraient explorer les limites de cette relation et les variables qui joue sur son efficacité."
+                ]
+            },
+            {
+                "titre_du_forum": "Creative Cognition in Engineering and Technology",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article Creative Cognition in Engineering and Technology explore comment les ingénieurs et les techniciens utilisent leur cerveau pour être créatifs et trouver des solutions à des problèmes complexes. Il décrit les différentes étapes du processus créatif, de la préparation à l'application des idées. L'expérience est importante, mais elle peut parfois freiner la créativité, tandis que travailler en équipe permet d'apporter de nouvelles idées grâce à la diversité des points de vue. L'environnement de travail et les outils numériques jouent aussi un rôle important pour stimuler la créativité. Enfin, l'article insiste sur l'importance de combiner la réflexion individuelle et le travail en groupe pour favoriser l'innovation."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Laure-Anne Margaux Réau",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "Étude de la littérature sur la créativité en sciences de  l’éducation dans les pays francophones",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis d'accord avec toi, ce serait intéressant d'avoir des courtes périodes dédiées à la créativité, comme les jeux que l'on fait en début de cours par exemple. Comme tu dis, en plus de développer la créativité, on encourage l'interaction entre les étudiants. Je pense aussi que casser un cycle monotone d'apprentissage, avec une période de jeux de 5min par exemple, peut rajouter un stimuli aux élèves et recapter leur attention.\n\nTrès bon article, merci du partage. Je pense qu'intégrer la créativité en classe est essentielle, autant l'enseigner aux étudiants pour leur futur, que dans la stratégie d'enseignement des enseignants. Et comme Coline l'a mentionné, s'inspirer des techniques d'apprentissages internationales ne peut être que bénéfique."
+                ]
+            },
+            {
+                "titre_du_forum": "Gender and creative ability: Mean differences and performance variability",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Super intéressant ! Merci du partage.\n\nC'est vrai, je ne m'étais jamais demandé dans quelles mesures les genres influencent la créativité... Comme Paloma l'a joliment dit, me voilà aussi rassurée de voir que les hormones ne sont pas responsables de notre niveau de créativité ! Ça colle bien avec le mythe qu'on a déconstruit en classe, comme quoi les individus naîtraient créatifs ou non. \n\nÉtant donné que beaucoup de stéréotypes de genres existent et influencent indéniablement les enfants, cela ne semble pas étonnant qu'on retrouve des différences dans la créativité. Mais à quel point ? Il est toujours intéressant de mener des études scientifiques rigoureuses pour se baser sur des mesures concrètes et non des croyances, pour déconstruire petit à petit les stéréotypes.Par contre, je n'ai pas bien compris: pour évaluer la créativité, on se base sur 6 critères, dont la créativité ?J'ai lu rapidement l'article mais je n'ai pas trouvé l'endroit où cela est détaillé. Si quelqu'un peut m'éclairer, ce serait très apprécié 🌞\n\nAu passage, j'ai appris l'existence du \"greater male variability hypothesis (GMVH)\" ! \nAlors merci encore pour ce partage. Ça fait réfléchir."
+                ]
+            },
+            {
+                "titre_du_forum": "Psychology and Marketing - 2022 - Ameen - Toward advancing theory on creativity in marketing and artificial intelligence",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Bonsoir, Voici l'article \"Toward advancing theory on creativity in marketing andartificial intelligence\", publié en septembre 2022 par Nisreen Ameen, Gagan Deep Sharma, Shlomo Tarba, Amar Rao, Ritika Chopra.Cet article propose une revue littéraire sur les impacts de l'intelligence artificielle dans la créativité au sein du marketing. Les auteurs proposent une méthodologie scientifique très rigoureuse. Ils définissent les différents facteurs de la créativité et définissent également les compétences de l'IA pour répondre aux diverses tâches dans le marketing. Enfin, ils présentent leurs résultats et divers axes de recherche pour des études futures, car c'est un sujet encore peu exploré étant donné que l'IA est une technologie très récente.Je pense que les auteurs ont bien respecté leur sujet, mais ils se concentrent uniquement sur la capacité ou non de l'IA à être créative. Étudier les impacts négatifs de celle-ci aurait aussi été pertinent. Par exemple, vu que l'IA est de plus en plus utilisée pour des tâches spécifiques, l'humain a de la visibilité sur les résultats produits par l'IA et beaucoup moins sur le processus ou la réflexion pour créer ces résultats. Je pense que ce manque de visibilité est un frein à la créativité pour effectuer ces tâches.Bonne lecture !",
+                    "Oui, je pense vraiment qu'il faut voir l'IA comme un outil, et non comme une entité (ce qu'on voit souvent dans les films de science-fiction). Et donc si c'est un outil, comme tu dis, il faut apporter un regard critique sur comment on l'utilise, et toujours s'interroger sur le processus pour réaliser n'importe quelle tâche.\nComme il n'y a pas beaucoup de recherche qui a été faite sur ce sujet, les auteurs ont fait un premier jet, une simple étude bibliographique. Il n'y a pas de recherche concrète avec des mesures ou autre. Mais ce serait bien de voir des recherches sur ce sujet à l'avenir !"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Marcien Fossuo Fokam",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Susciter les effets de la créativité collective au cours du processus de création : exemple d’un dispositif pédagogique",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article étudie les capacités de créativité en groupe. Elle souligne les différentes perspectives théoriques sur la créativité \ncollective selon le contexte organisationnel, social ou de groupe et met en évidence le caractère interdisciplinaire de ce concept et les \nnuances terminologiques utilisées. L'étude cherche à savoir si les différences ou diversités des apprenants constituent un atout dans processus de créativité en groupe."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Marina Guendi",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Le numérique comme outil pour développer la créativité",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Salut Aimée et Meriem,\n\nVous soulevez de bons points sur l’impact de la pensée design dans le modèle STEAM pour développer la créativité et la pensée computationnelle chez les élèves. Aimée, tu as raison de parler des facteurs qui stimulent la créativité. On pourrait aussi se demander comment un environnement qui encourage la collaboration et l’expérimentation peut jouer un rôle clé. Par exemple, en valorisant l’erreur comme une étape normale de l’apprentissage, on pourrait mieux aider les élèves à développer des compétences transdisciplinaires.\n\nMeriem, j’aime ton idée d’adapter ce modèle dans des écoles avec peu de ressources. Ce serait intéressant de tester si le DT-PBL peut donner des résultats positifs dans des environnements variés. Par exemple, des projets pratiques et locaux, comme la création de solutions pour des problèmes quotidiens, pourraient garder la même authenticité, même avec des moyens limités.\n\nAu final, pour que le DT-PBL STEAM soit vraiment efficace, la formation des enseignants est essentielle. Une méthode qui mélange empathie, créativité, et pensée compu",
+                    "Mon pdf"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Martin Creuze",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Adolescence : créativité et transformation de soi",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article de Baptiste Barbot et Todd Lubart explore le rôle central de la créativité dans le développement identitaire des adolescents, en soulignant comment elle favorise une représentation positive de soi et facilite l'expression personnelle. Les auteurs examinent les recherches existantes et proposent des implications pratiques pour encourager les activités créatives durant cette période cruciale de la vie."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité, ressource potentielle de l’enfant et l’adolescent, à évaluer,révéler et développer",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Effectivement, cet article reprend plein d'éléments que nous avons vu en classe.De manière générale, l'article examine le développement de la créativité chez les enfants, en mettant l'accent sur les façons de mesurer leur potentiel créatif et d'évaluer leurs capacités à produire des idées originales. Il explore les différentes approches pour évaluer la créativité, via des épreuves de pensée divergente (exploratoire) et de pensée convergente (intégrative). Par exemple comment des exercices spécifiques (comme intégrer plusieurs objets dans un dessin) peuvent révéler les aptitudes créatives.Voici le fichier avec mes commentaires"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Massine Azzoug",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Adolescence : créativité et transformation de soi",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En lisant ce texte, j'ai bien noté que la créativité joue un rôle central pendant l’adolescence. Les auteurs expliquent comment elle aide les jeunes à se construire, à exprimer leur identité et à relever les défis propres à cette période. Ce qui m’a frappé, c’est le lien que j’ai pu faire avec l’article d’Isabelle Puozzo, que j'ai annoté dans une autre discussion, où elle souligne aussi l’importance d’intégrer la créativité dans l’éducation. Elle montre que la créativité peut stimuler la motivation et l'engagement des élèves en prenant en compte leurs émotions et leurs compétences spécifiques. Pour moi, c’est clair : la créativité n’est pas juste un « bonus », mais quelque chose d’essentiel pour que les jeunes puissent se découvrir et grandir. Les deux textes se rejoignent pour affirmer que la créativité en classe est un puissant outil pour aider les adolescents à s'épanouir et à renforcer leur confiance en eux. Voici le text pour ceux que ça intéresse"
+                ]
+            },
+            {
+                "titre_du_forum": "Pédagogie de la créativité : de l’émotion à l’apprentissage\" par Isabelle Puozzo",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article parle de l’importance de la créativité à l’école, en montrant comment elle se mêle aux émotions et à la façon dont on pense et apprend. L’auteure utilise des théories comme celles de Bandura et Lubart pour montrer que l’apprentissage, c’est un mélange de cerveau, de cœur, et de contexte. Elle propose des méthodes créatives pour motiver les élèves, en s’adaptant aux règles de l’école et aux besoins de chacun. Bref, la créativité, c’est bien plus qu’un simple talent : c’est un vrai moteur pour apprendre et enseigner autrement. Voici mon texte Annoté."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Matéo Farines",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "Encouraging Creative Ideas in the Engineering Design Process for Science Classes",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut, je trouve ton article vraiment intéressant et très instructif ! notamment sur la pertinente distinction entre l’ingénierie et la science : là où la science cherche à comprendre le monde naturel, l’ingénierie vise à répondre aux besoins sociétaux en développant des solutions pratiques, souvent dans un cadre de contraintes économiques. L’article se distingue également par ses outils concrets, tels que les grilles d’évaluation de design et les modèles itératifs, qui offrent un cadre structuré pour accompagner les projets éducatifs. Enfin, j’ai beaucoup aimé l’insistance sur l’importance de mêler réflexion théorique et pratique (« mains sur, cerveau en action »), tout en montrant que les contraintes réalistes ne limitent pas la créativité mais, au contraire, la stimulent pour trouver des solutions innovantes et adaptées."
+                ]
+            },
+            {
+                "titre_du_forum": "Gender and creative ability: Mean differences and performance variability",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Cet article\nexplore les différences de genre dans les capacités créatives, en examinant la\nperformance moyenne et la variabilité chez les enfants et les adolescents, en\nEspagne, dans les domaines de la créativité verbale (conte d'histoires) et\nfigurative (dessin de figures incomplètes). Les auteurs analysent six critères\nde performance (créativité, originalité, appréciation, élaboration, humour et\nutilisation des émotions) pour évaluer la créativité. L'étude suggère que les\ndifférences de genre en créativité peuvent être influencées par des facteurs\ntels que les capacités verbales et l'intelligence émotionnelle",
+                    "Voici l'analyse"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Matis Hogue",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "La gestion des  communautés de  connaissances au sein des  espaces de créativité et  innovation : une variété de  logiques de collaboration",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Selon moi, les étudiants considèrent souvent la créativité comme un processus collectif qui nécessite un environnement stimulant. Ils soulignent que la diversité des idées et la capacité à partager sans jugement favorisent l'émergence de solutions innovantes. Selon eux, la créativité peut être nourrie dans des espaces où la collaboration est encouragée, mais nécessite aussi un certain cadre pour être pleinement exploitée.Aussi, il est évident que la gestion de ces communautés joue un rôle crucial dans la stimulation de l'innovation. En effet, ces espaces collaboratifs permettent d’encourager les échanges d'idées entre individus aux compétences variées, ce qui est essentiel pour la créativité. Je pense qu’une des clés réside dans la capacité de ces communautés à s’adapter aux besoins des participants, en favorisant un environnement où la diversité des points de vue est non seulement acceptée, mais aussi valorisée. Ces dynamiques favorisent l’émergence d’idées nouvelles et la résolution de problèmes complexes. Cependant, il me semble aussi que la créativité doit être guidée par un cadre précis pour éviter la dispersion des efforts. Un équilibre entre liberté d’expression et structure est, à mon avis, indispensable pour que ces communautés atteignent leur plein potentiel créatif. En somme, la gestion des connaissances dans ces espaces créatifs est essentielle pour stimuler l'innovation de manière efficace et durable."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Meriem Hassani",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Le numérique comme outil pour développer la créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Aimée Christella, \nJe trouve que ton article souligne bien l'impact du PBL basé sur la pensée design (DT) dans un contexte STEAM, notamment sur la créativité et la pensée computationnelle des élèves. En mettant l'accent sur des aspects comme la fluidité, la flexibilité et l'originalité, cette méthode montre comment l'intégration de disciplines STEAM avec une approche centrée sur l'utilisateur peut transformer l'apprentissage. Par exemple, des projets où les élèves conçoivent des solutions pour des défis réels, comme des dispositifs écologiques ou des applications pour améliorer leur quotidien, illustrent comment cette méthode développe des compétences transdisciplinaires essentielles.\nIl serait intéressant de penser à adapter ce modèle à des contextes scolaires variés, y compris ceux avec des ressources limitées, en utilisant par exemple des outils gratuits ou des matériaux recyclés pour les projets. Comparer les résultats avec des programmes intégrant les arts ou des approches STEM traditionnelles peut aussi offrir un éclairage complémentaire sur la manière dont le DT-PBL STEAM se distingue en termes d'impact sur l'innovation et la créativité des élèves. Cela montre qu'avec un bon encadrement, même des environnements modestes peuvent tirer parti de cette approche pédagogique dynamique."
+                ]
+            },
+            {
+                "titre_du_forum": "\"Définir la créativité comme un processus d'élaboration de sens en éducation\" d'Alexandra Bernier",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article \"Définir la créativité comme un processus d'élaboration de sens en éducation\" d'Alexandra Bernier propose une approche socioculturelle de la créativité en la définissant comme un processus d'élaboration de sens, particulièrement dans le contexte éducatif. L'auteure explore les différentes phases historiques de la créativité, de l'étude des personnalités aux approches cognitivistes et enfin à une perspective socioculturelle, mettant en avant l'influence du contexte social et culturel sur le processus créatif. L'article souligne les difficultés rencontrées par les enseignants pour évaluer et enseigner cette compétence transversale et plaide pour une approche centrée sur le processus créatif, plutôt que seulement sur le résultat final. En reliant créativité, résolution de problèmes et régulation des apprentissages, Bernier met en lumière l'importance de la médiation culturelle et des interactions sociales pour développer les compétences créatives des élèves. Ce choix d'article est motivé par son analyse approfondie de la créativité dans l'éducation, un thème clé pour comprendre comment cette compétence peut être développée et évaluée dans un contexte éducatif complexe et diversifié."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mewen Le Cam",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Créativité, apprentissage, intelligence et personnalité_Guillaume Furst",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Très intéressant cet article de Fürst ! J’ai particulièrement apprécié la remarque sur la distinction entre créativité \"quotidienne\" et \"éminente\". Ça me fait réfléchir aux implications pour l'évaluation de la créativité dans un cadre éducatif et ça fait un lien avec l'article que j'ai choisi. Par exemple, est-ce que l'éducation devrait valoriser davantage la créativité quotidienne pour encourager tous les élèves, pas seulement ceux ayant des très bons résultats ?\n\nJ'ai aussi trouvé intéressante la question sur la mesure de la créativité, en particulier le choix d'outils d'évaluation variés. Peut-être que l’article aurait pu aborder plus en profondeur l'influence du support (papier vs numérique) sur les résultats en créativité, parce que, comme tu le mentionnes, on sait que certains étudiants peuvent être plus inspirés en écrivant à la main qu'en utilisant un clavier. \n\nEt enfin, j'ai trouvé que la réflexion sur le rôle de l’humeur et du contexte pour favoriser la \"Divergence\" et la \"Convergence\" est aussi très intéressante. Reste à trouver comment appliquer ces principes en classe pour stimuler la créativité..."
+                ]
+            },
+            {
+                "titre_du_forum": "Is Creativity Expressed at Home Related to Creativity Expressed at School? A Re-Examination of the Creativity Gap with Gifted and Nongifted Students",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article étudie la différence de créativité exprimée à la maison et à l'école chez des élèves \"doués\" et \"non doués\", dans un contexte scolaire au Koweït. Les chercheurs ont observé que l'environnement joue un rôle crucial dans l'expression de la créativité. Leur étude a révélé un écart de créativité plus prononcé chez les élèves \"non doués\", qui expriment généralement plus de créativité en dehors de l'école qu'en son sein. Les élèves \"doués\" montrent un résultat similaire mais avec un écart de créativité entre l'école et la maison plus faible.https://moodle.polymtl.ca/pluginfile.php/1247658/mod_forum/post/321233/Creativity_Article_Annoted.pdf"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mountaga Camara",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "Gender and creative ability: Mean differences and performance variability",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Franchement, cet article m'a fait réfléchir sur la manière dont on perçoit la créativité et les stéréotypes liés au genre. J'ai trouvé intéressant que les filles soient souvent meilleures dans des tâches comme la narration ou l'élaboration, mais que ces différences restent faibles. Cela me fait penser que les stéréotypes sur la \"grande variabilité masculine\" pourraient être exagérés, surtout à des âges plus jeunes.\n\nCe qui m'a marqué, c'est la conclusion sur l'impact potentiel des compétences verbales et de l'intelligence émotionnelle sur la créativité. Ça montre qu'on ne peut pas juste réduire la créativité à des critères simples comme l'originalité. Par contre, je trouve que l'étude aurait été encore plus pertinente si elle incluait des adolescents plus âgés ou des jeunes adultes, parce que c'est là que beaucoup de différences peuvent commencer à apparaître, selon moi.\n\nEn tout cas, ça me donne envie de creuser plus sur le lien entre les facteurs culturels, éducatifs et cette fameuse \"égalité relative\" dans la créativité. Peut-être que les attentes sociales jouent un rôle bien plus grand qu'on ne le pense !"
+                ]
+            },
+            {
+                "titre_du_forum": "Apprendre à être créatif : une étude comparative du développement de la créativité comme compétence numérique",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Cet article explore le développement de la créativité chez des élèves du secondaire dans des environnements riches en technologies comparés à des cadres traditionnels. Les résultats montrent que des approches utilisant des laboratoires numériques favorisent une pensée créative mesurée par le Torrance Test for Creative Thinking. L’étude met en avant l’importance des outils technologiques pour stimuler l’originalité et la fluidité dans la créativité​.",
+                    "https://journals.openedition.org/edso/174 Voici le lien."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Niamké Jean-Félix Ahonzo",
+        "total_des_commentaires": 10,
+        "forums": [
+            {
+                "titre_du_forum": "Étude de la littérature sur la créativité en sciences de  l’éducation dans les pays francophones",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Salut Raphael, ton idée est excellente, car demander aux étudiants de créer des exercices force une double réflexion : maîtriser les notions et les présenter de manière accessible, ce qui stimule vraiment la créativité. Cela pourrait aussi s’appliquer en physique, par exemple en concevant des problèmes expérimentaux, ou en informatique, avec des mini-projets de programmation pour illustrer des concepts. En plus de renforcer les connaissances, cela aide à développer des compétences  comme la pédagogie et la communication. Les élèves se mettront aussi à la place des profs. Je suis d’accord que c’est une pratique qu’on devrait voir.",
+                    "C'est vraiment un bon article, il explore vraiment la créativité dans l'éducation en pays francophones. J'ai beaucoup aimé le fait qu'on parle de l'importance des environnements éducatifs qui permettent de stimuler la créativité des élèves et enseignants."
+                ]
+            },
+            {
+                "titre_du_forum": "Susciter les effets de la créativité collective au cours du processus de création : exemple d’un dispositif pédagogique",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Marcien, ton article met en lumière l'importance de la créativité collective et comment la diversité au sein d'un groupe peut devenir un atout. C'est intéressant de voir comment des perspectives variées enrichissent le processus créatif, surtout dans un contexte pédagogique. Je trouve également pertinent que l’article souligne l’aspect interdisciplinaire de la créativité collective, car cela reflète bien la complexité de la créativité. Par exemple, dans des projets collaboratifs, chaque membre peut apporter des compétences uniques qui stimulent l'innovation."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité : Approches en ergonomie et en psychologie",
+                "nbre_de_commentaires": 4,
+                "commentaires": [
+                    "L’article explore la créativité à travers deux disciplines : la psychologie et l'ergonomie. Les auteurs discutent des facteurs cognitifs, sociaux et contextuels influençant la créativité, notamment la motivation, les émotions et l’environnement de travail. Ils présentent également des approches pour favoriser la créativité, telles que l'adaptation des espaces de travail et la collaboration. Il y a aussi des études expérimentales qui sont fait sur des étudiants en ingénierie afin de voir comment nait la créativité au sein d'un groupe. Les auteurs font aussi un parallèle entre créativité et innovation. Ils mettent en évidence des méthodes pour évaluer et stimuler la créativité qui est essentielle dans le domaine professionnel.",
+                    "Salut Aimée, je pensais au fait que l'approche dans cet article est intéressante pour notre bac en génie. On sait très bien que c'est important l'environnement de travail pour se concentrer et produire un bon travail que ce soit au sein d'un groupe ou individuel. Les espaces de travail collaboratifs qu'on a (je pense surtout aux salles d'OPU avec les sortes de grands tiroirs pour minimiser le bruit et la vue des autres) peuvent stimuler les idées innovantes et l'approche de notre cerveau à résoudre les problèmes. Je trouve particulièrement intéressant que l'article aborde les études expérimentales avec des étudiants en ingénierie, car cela montre comment la créativité peut se manifester dans des domaines techniques et structurés.",
+                    "Et surtout l'expérience avec les étudiants lorsque je l,ai lu je me suis retrouvé un peu dans l'article, en fait j'ai trouvé cette partie vraiment intéressante",
+                    "Salut Coline, tu soulèves un bon point sur le fait qu'il y a un manque de contenu approfondi sur l'impact de méthodes sur la créativité. Ce serait pertinent de voir comment les méthodes d'évaluation de la créativité et les stratégies proposées peuvent être mises en œuvre concrètement dans des environnements de travail.  Par exemple, l'intégration de l'ergonomie cognitive pourrait améliorer la gestion de l'espace et des outils, facilitant ainsi la créativité au quotidien."
+                ]
+            },
+            {
+                "titre_du_forum": "Methodology for Introducing Creativity in Requirements Engineering",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C’est fascinant de voir comment des techniques créatives comme le brainstorming ou les stimulis aléatoires peuvent être appliquées à l’ingénierie.\n\nSi je peux faire un lien avec mon bac en génie chimique, lorsqu'on a un projet de développement de nouveaux procédés de fabrication, intégrer la créativité pourrait permettre d’identifier des solutions innovantes pour optimiser l’efficacité énergétique ou réduire les émissions de GES. Par exemple, un brainstorming sur les méthodes de séparation des composants (Choisir entre plusieurs équipements lequel pourrait assurer une séparation efficace ou une bonne pureté de produit final) dans un réacteur chimique pourrait conduire à des approches qu'on ne penserait pas. Mais il faut toujours garder en tête le fait qu'on doit garder une solution économiquement viable."
+                ]
+            },
+            {
+                "titre_du_forum": "Gender and creative ability: Mean differences and performance variability",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Matéo, ton article est l'un des plus intéressant que j'ai lu, merci pour le partage. \nOn voit bien dans l'article que les stéréotypes de genre peuvent influencer non seulement la perception de la créativité, mais aussi la manière dont elle est valorisée dans différents contextes sociaux et culturels. Par exemple, les attentes sociales peuvent mener à ce que des hommes soient encouragés à être créatifs dans des domaines plus \"visibles\", comme l'art ou la science.\n\nConcernant les biais, ceux des enseignants et des évaluateurs peuvent jouer un rôle important dans l’évaluation des performances créatives. les biais sont combinés à des stéréotypes de genre et peuvent affecter la confiance en soi qui est importante dans l'expression de la créativité. Je pense que ça pourrait être intéressant d'explorer plus en profondeur comment les biais affectent les performances créatives dans des environnements académiques et professionnels."
+                ]
+            },
+            {
+                "titre_du_forum": "Relation entre la créativité et le bien-être",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Emile, il me semble que l'ambiguïté dont tu parles c'est dans le fait que la créativité peut avoir des effets positifs sur le bien-être, mais cela dépend du contexte et du type de créativité. Il ya des formes de créativité comme celles quand on est sous-pression qui peuvent je pense impacter le bien-être psychologique"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nisrine Hamroun",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Methodology for Introducing Creativity in Requirements Engineering",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve que ton analyse de l'article souligne des éléments très pertinents, notamment dans tes commentaires. J'ai trouvé que l'article ressort des méthodologies qui intègrent la durabilité et qui sont dispersées en 5 dimensions : humaine, sociale, économique, technique et environnementale, ce qui s'aligne avec les besoins et les objectifs du DD. Cela répond aux besoins des utilisateurs. Aussi, l'utilisation des techniques créatives telles que l'outil Idea Box et le Brutethinking permet de répondre à des problèmes assez complexes  Je trouve que la liaison entre la créativité et la durabilité est très pertinente, tout en mettant les besoins humains au cœur du processus."
+                ]
+            },
+            {
+                "titre_du_forum": "Penser l’avenir de manière créative : un enjeu central de l’éducation en vue du développement durable",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article explore la manière dont on peut intégrer la créativité dans l'éducation, notamment la pensée prospective, afin de mieux répondre aux différents défis liés au développement durable. Il montre comment les différentes approches décrites permettent de croître l'imagination des élèves tout en les poussant à développer une réflexion critique et une créativité utile face aux enjeux globaux du développement durable. L'article montre aussi l'importance de former les enseignants afin qu'ils puissent stimuler la créativité chez les étudiants, leur permettant non seulement d'utiliser la pensée prospective pour résoudre les problèmes actuels, mais aussi d anticiper les defis futurshttps://journals.openedition.org/rfp/5152"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Paloma Bert",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "Gender and creative ability: Mean differences and performance variability",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article met l'accent sur les variations de performance et les stéréotypes associés. Il montre qu'il n'y a pas de différences systématiques entre les sexes en termes de capacité créative moyenne, mais que les hommes et les femmes peuvent présenter des variations dans leurs performances créatives, souvent influencées par des facteurs sociaux et culturels. J'étais rassurée de découvrir que les hormones n'ont pas d'influence dans nos capacités créatives car c'est une idée que je m'efforce de défendre au quotidien. J'ai trouvé très intéressant le fait que les stéréotypes de genre peuvent jouer un rôle dans la manière dont la créativité est perçue et valorisée, affectant en retour la confiance des individus et leur performance. L'approche nuancée de l'article est également intéressante, car elle va au-delà de la simple comparaison de moyennes et met en lumière les éléments contextuels qui influencent la créativité. Par contre, j’aurais aimé que l’article examine davantage les mécanismes spécifiques qui expliquent ces variations de performance, par exemple les attentes sociales ou les biais implicites qui peuvent exister dans les environnements professionnels et académiques.\n\nConcernant les commentaires de Matéo, il a souligné l'importance de considérer les biais de genre dans les évaluations créatives, ce que je trouve pertinent. Toutefois, il semble un peu trop catégorique en affirmant que ces biais sont les seules raisons de la variabilité des performances. Il serait intéressant de nuancer cette idée, en prenant en compte aussi des facteurs individuels, comme la confiance en soi ou les styles créatifs différents qui peuvent varier indépendamment du genre."
+                ]
+            },
+            {
+                "titre_du_forum": "Mindfulness and creativity: Implications for thinking and learning",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L’article met en lumière la relation entre la pleine conscience (mindfulness) et la créativité, en soulignant que cette pratique peut favoriser des modes de pensée plus flexibles et ouverts, essentiels pour stimuler la créativité. Il est intéressant de constater que la méditation, en cultivant la concentration et la présence, aide à réduire les distractions mentales, ce qui laisse place à une plus grande créativité. Étant déjà familière avec certaines de ces idées grâce au yoga, je trouve que la pleine conscience va au-delà de la simple gestion du stress, et joue un rôle crucial dans la libération des capacités créatives. Cependant, bien que ces concepts soient fascinants, je pense qu’ils ne sont pas une solution miracle. La créativité dépend aussi de nombreux autres facteurs, comme l’environnement et l’expérience personnelle.\n\nLes commentaires d'Emile souligne bien le fait que l'impact de la pleine conscience sur la créativité n'est pas immédiat et demande du temps. Je trouve son avis pertinent, car comme dans le yoga, la pleine conscience nécessite de la patience pour observer des effets durables. Toutefois, je pense qu’il est important de reconnaître que chaque individu réagit différemment à ces pratiques."
+                ]
+            },
+            {
+                "titre_du_forum": "The reciprocal relationship between openness and creativity: from neurobiology to multicultural environments",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Raya et all (2023)Synthèse : L'article met en lumière la relation mutuelle entre l'ouverture à la diversité et la créativité, en soulignant que ces deux éléments se renforcent et se nourrissent mutuellement. Il explore comment, d'un point de vue neurobiologique, l'ouverture à de nouvelles idées et perspectives stimule la créativité en activant des processus cognitifs différents. Dans des environnements multiculturels, cette dynamique devient essentielle pour résoudre des conflits, car des idées innovantes émergent de la diversité des expériences et des valeurs. En cultivant un climat d'inclusion, les organisations favorisent non seulement la créativité, mais aussi la collaboration et l'innovation. L'article suggère que cette approche a des répercussions positives, non seulement sur les individus mais aussi sur les organisations et les sociétés en général, en permettant de trouver des solutions efficaces à des problématiques complexes.Mon avis en quelques mots : L'article présente des idées intéressantes, mais j'ai trouvé qu'il abordait beaucoup de points évidents sur l'importance de la diversité et de la créativité dans les environnements multiculturels, ce qui m'a un peu donné l'impression qu'il \"enfonçait des portes ouvertes\". Cependant, la section neurobiologique a vraiment capté mon attention. Comprendre les mécanismes biologiques sous-jacents qui lient l'ouverture d'esprit à la créativité était fascinant et ajoutait une perspective plus profonde et originale au sujet"
+                ]
+            },
+            {
+                "titre_du_forum": "Effects of divergent thinking training on students’ scientific  creativity",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'étude analyse l'impact de l'entraînement à la pensée divergente sur la créativité scientifique des étudiants. Elle montre que les techniques visant à stimuler la pensée créative, telles que la génération d'idées multiples et la résolution de problèmes de manière non conventionnelle, peuvent améliorer la créativité dans un contexte scientifique. Les résultats suggèrent que la pensée divergente favorise la flexibilité cognitive et permet aux étudiants d'approcher les problèmes sous différents angles, ce qui est essentiel pour l'innovation. Toutefois, l'impact reste variable selon les disciplines et les méthodes d'enseignement, et une prise en compte des différences individuelles est nécessaire.\nLes commentaires de Coline soulignent bien que l'entraînement à la pensée divergente pourrait ne pas être suffisant pour garantir une créativité durable à long terme et l'importance d'un environnement propice à l'expérimentation et à l'échec. Je trouve cet avis pertinent, car la simple formation en pensée divergente ne semble pas tout expliquer. Il est crucial de créer un cadre où les étudiants se sentent libres de prendre des risques et d'explorer sans crainte de jugement, ce qui renforcerait davantage l'efficacité de cet entraînement. Cependant, l'idée que la pensée divergente soit un bon point de départ pour stimuler la créativité me semble tout de même fondée, à condition d'être accompagnée d'autres pratiques pédagogiques."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Raphaël Delforge",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Définir La la créativité comme un processus d’élaboration de sens en éducation",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'article explore la créativité comme une compétence clé,\nindispensable dans l'éducation contemporaine pour répondre aux\nenjeux sociétaux et culturels. Il analyse son évolution, passant\nd'une vision mystique et individuelle à une approche socioculturelle\nintégrant le processus créatif dans un cadre collectif. L'étude\nmet l'accent sur l'importance d'évaluer non seulement les résultats\ncréatifs, mais aussi le processus lui-même, et propose des\nstratégies pour que les enseignants intègrent cette compétence de\nmanière transversale, valorisant la pensée critique et l'innovation\ndans l'apprentissage."
+                ]
+            },
+            {
+                "titre_du_forum": "Étude de la littérature sur la créativité en sciences de  l’éducation dans les pays francophones",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce serait intéressant de voir comment intégrer des jeux \"classiques\" de créativité dans des contextes plus techniques comme l'informatique, la physique, etc. Pour moi, une première idée à laquelle j'ai pensé pendant mes études est de demander aux étudiants de réaliser eux-mêmes des exercices pour les autres étudiants. De un, cela permet aux élèves de maîtriser bien mieux les notions à apprendre, et de 2, elle force l'étudiant à prendre une approche de création autour d'un concept tout nouveau pour lui. C'est une perspective intéressante car souvent c'est sur cette aspect qu'on peut être \"bloqué\" dans nos processus créatifs. Je suis étonné que ce soit une mesure que je n'ai jamais vu être mis en oeuvre jusqu'à aujourd'hui sauf en classes prépa en France. Dans ce sens, je n'ai jamais mis ma créativité autant à l'épreuve que pendant cette période-là."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ravy Por",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Définir La la créativité comme un processus d’élaboration de sens en éducation",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En effet, il est également pertinent de mentionner que c'est dans le contexte sociogéographique au Québec, vu que ce peut être différent en fonction de la localisation. Le PFEQ (Programme de formation de l'école québécoise: \néducation préscolaire, enseignement primaire) du MEQ (Ministère de l'Éducation du Québec) met de l'avant la créativité ainsi que la résolution de problème. Historiquement, la définition de la créativité était ambiguë., de ce fait, il n'a pas toujours été simple de l'évaluer. La créativité est un processus où l'article propose d'évaluer les élèves selon le processus, les apprentissage et la compréhension plutôt que sur l'œuvre/l'artéfact. Le processus peut être comparable au processus de résolution de problème, une compétence aussi transversale."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Rukhama Adlai Florestal",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Étude de la littérature sur la créativité en sciences de  l’éducation dans les pays francophones",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cette étude est très intéressante. En effet, il étudie la créativité dans l'enseignement du monde francophones. Cette étude a permis de voir cinq champs de connaissances : 1) enseignement et développement personnel, 2) résolution de problèmes et pensée informatique, 3) approche artistique, 4) formations et/ou programmes éducatifs, et 5) facteurs de développement de la créativité. J'ai trouvé intéressant que l'article reconnaisse que les gens utilisent le terme de créativité un peu n'importe comment, ce qui est un clin d'oeil à ce qui est vu en classe. Finalement, les auteurs reconnaissent aussi certaines limites de leur étude, ce qui encourage le lecteur à faire plus de recherche de son côté afin d'approfondir sa compréhension. \nLes commentaires précédents sont très pertinents, en effet, ouvrir le contexte de cette étude à un contexte beaucoup plus internationale ne pourrait qu'enrichir les solutions proposées. En effet, inclure le monde anglophone, par exemple, permettrait d'accéder à la grande quantité de recherche qui existe déjà sur le domaine de créativité ce que l'article reconnait implicitement en écrivant en anglais dans une partie de son texte, l'asbract qui est ce que beaucoup de gens vont voir en premier en trouvant l'article."
+                ]
+            },
+            {
+                "titre_du_forum": "Une créativité entravée ? Les techniques d’aide à la création selon l’approche organologique",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En utilisant l'approche organologique de la créativité, l'auteure explore comment les techniques d'aide à la création et les différents outils techniques peuvent favoriser ou contraindre l'innovation. Elle explique également comment le cadre entourant la créativité (qu'il soit technique ou organisationnel) peut entraver l'expression créative. Elle réalise des études sur différentes entreprises afin d'analyser comment la création est influencée par les individus, les outils techniques et l'organisation elle-même."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sara Beddouch",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "STEM vs. STEAM Education and Student Creativity: A Systematic Literature Review",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Dans cet article, les auteurs explorent l'effet des approches éducatives STEM (Science, Technologie, Ingénierie et Mathématiques) et STEAM (STEM avec l'ajout des Arts) sur le développement de la créativité des étudiants. En réalisant une revue de la littérature, ils cherchent à déterminer si l'inclusion des arts dans l'éducation STEAM améliore la créativité par rapport à l'approche STEM traditionnelle. Les résultats indiquent que les deux approches ont un impact positif sur la créativité des étudiants et il n'existe pas de preuves suffisantes pour affirmer que STEAM est plus efficace que STEM dans ce domaine. Après avoir lu cet article, je me rends compte que simplement ajouter les arts au programme STEM ne suffit pas pour améliorer la créativité. Ça montre que ce sont surtout les méthodes d'enseignement qui encouragent la pensée créative, peu importe la matière. Au final, l'article souligne qu'il faut clarifier ce qu'on entend par STEM et STEAM et mener plus de recherches pour comprendre comment ces approches peuvent vraiment développer la créativité chez les étudiants.",
+                    "You raised excellent points  and I definitely agree that more controlled and comparative studies are needed to provide clearer data on whether the arts truly have a unique influence on creativity. One interesting takeaway from the article is that both STEM and STEAM approaches, despite their differences, have been shown to positively impact student creativity. This seems to be mainly due to effective teaching strategies, which resonates with your second point about the significant role of teaching techniques and the teacher's personal approach. As you mentioned, teachers who create a low-pressure environment can encourage students to be more creative. It appears that fostering creativity is less about the specific inclusion of the arts and more about how the material is taught and the atmosphere the teacher cultivates in the classroom.\n\nThanks for sharing your thoughts!"
+                ]
+            },
+            {
+                "titre_du_forum": "The Effect of Entrepreneurship Education and Creativity on Students’ Entrepreneurial Intention",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hi Giacomo! I loved your article and reading your annotations!\n\nYou mentioned how past experiences and personal life significantly impact one's desire to become an entrepreneur. I completely agree and wonder how much individual background and resilience play a role alongside education and creativity. It got me thinking: how do we even measure or integrate those personal factors into educational programs?\n\nI also totally agree with the idea of creating spaces for creativity in universities. But I wonder if it’s just as important to change the way we teach. If universities embraced more experiential, risk-friendly methods, could that make the whole journey feel more real and less theoretical?"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Syntich Kalala Tshibanda",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Creativity in education: Teaching for creativity development",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article explore la valeur de la créativité dans la conception\npédagogique de la formation des enseignants et futurs enseignants. L'objectif\nprincipal de cette recherche est d'encourager et d'évaluer la créativité dans\nl'éducation, notamment par la pratique du développement des apprenants et des\nenvironnements d'apprentissages. Deux principales approches étaient utilisées\npar les apprenants, une séquence de lectures et de devoirs et un projet final intégrant\ntoute les théories abordée tout au long du cours y compris l'application de la\ncréativité."
+                ]
+            },
+            {
+                "titre_du_forum": "Le processus créatif dans une pédagogie du projet au sein de l’enseignement du design textile à l’école obligatoire en Suisse",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hey Theo,\n\nL'article est intéressant, le modèle proposer \"conception - réalisation - socialisation, est un modèle qui permet de sortir du modèle traditionnel d'enseignement a un modèle d'enseignement de conception car celui-ci permet aux apprenants de développer l'activité de conception qui favorise la recherche des solutions nouvelles adaptées au contexte. C’est une approche qui se distingue des autres approches pédagogiques par sa capacité à développer la créativité de l'élève en privilégiant la création. Aussi, l'article met également en évidence les contraintes qui, poussent les élèves à la recherche des solutions, par exemple, les élèves qui ont utilisés les contraintes rencontrées dans la conception et à la réalisation de la trousse ont pu les utiliser pour développer des idées nouvelles adaptées au contexte, ceci a donné aux élèves la capacité d'exploration et d'expérimentation des solutions créatives."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Tamara Kalout",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "A Minimal Theory of Creative Ability",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article présente la Minimal Theory of Creative Ability (MTCA) qui affirme que la créativité repose principalement sur deux composantes essentielles : l’intelligence et l’expertise. Cette théorie décrit les différences individuelles en créativité et explique que les réalisations créatives sont spécifiques à un domaine donné. Pour évaluer la créativité, il suffit de mesurer l'intelligence et l'expertise propre à ce domaine. Les auteurs reconnaissent des limites possibles à cette théorie, notamment l'apparition de facteurs externes, le rôle de la motivation et les traits de personnalité. Cependant, ils considèrent que ces caractéristiques sont secondaires dans l'évaluation de la créativité, qui repose avant tout sur les capacités cognitives et l'expertise.Voici mon article annoté :"
+                ]
+            },
+            {
+                "titre_du_forum": "Exploring the Role of Creativity in Software Engineering",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve ton analyse vraiment intéressante, surtout sur l’importance de l’environnement et des techniques pour favoriser la créativité. Je pense que tu as raison de souligner que ces éléments sont souvent négligés, alors qu’ils jouent un rôle important dans la résolution de problèmes complexes. J’ai trouvé aussi intéressant ce que tu dis sur la difficulté de mesurer la créativité : c’est très subjectif et propre à chaque individu que c’est un vrai défi. Je pense que renforcer ces aspects dans l’éducation, comme tu le mentionnes, permettrait non seulement de combler l’écart avec les besoins de l’industrie, mais aussi de mieux intégrer des approches plus nuancées et adaptées à chaque personne."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Théo Dubus",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Le processus créatif dans une pédagogie du projet au sein de l’enseignement du design textile à l’école obligatoire en Suisse",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article explore le processus créatif dans une pédagogie par projet appliquée à l’enseignement du design textile en Suisse. En mobilisant des outils comme le carnet de processus créatif, les auteurs analysent comment les élèves, placés en posture d’apprentis concepteurs, développent leur créativité à travers les étapes de conception, réalisation et socialisation de produits textiles. L’étude met en évidence l'importance de facteurs cognitifs, émotionnels, et environnementaux pour enrichir le processus créatif, tout en soulignant les bénéfices éducatifs de la pédagogie du projet, notamment en termes de développement de l’autonomie, de la pensée critique, et de compétences collaboratives."
+                ]
+            },
+            {
+                "titre_du_forum": "Pédagogie de la créativité : de l’émotion à l’apprentissage\" par Isabelle Puozzo",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article explore la créativité en milieu scolaire, en mettant en lumière son rôle dans le développement émotionnel et cognitif des élèves. En s’appuyant sur des cadres théoriques tels que le sentiment d’efficacité personnelle de Bandura et l’approche multivariée de Lubart, l’auteure montre que la créativité dépasse la simple production d’idées ou d’objets : elle agit comme une passerelle entre l’émotion, la réflexion critique et l’action concrète. Les dispositifs pédagogiques présentés intègrent des tâches ouvertes et des supports créatifs, permettant aux élèves d’expérimenter une pensée divergente tout en favorisant des émotions positives, comme le calme ou la motivation. Ces approches, bien que novatrices, interrogent les méthodes d’évaluation actuelles et soulèvent des questions sur la formation des enseignants pour intégrer pleinement cette dynamique. Ainsi, la créativité devient non seulement un outil pédagogique mais aussi un levier pour transformer l’apprentissage en une expérience émotionnellement engageante et cognitivement stimulante.Voici mon texte annoté avec mes textes complémentaires :"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Victor Curtil",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "STEM vs. STEAM Education and Student Creativity: A Systematic Literature Review",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article est intéressant de par meme sa nature de Literature Review et met en lumière une idée clé : l’ajout des arts dans STEAM ne garantit pas forcément une amélioration de la créativité par rapport à STEM. De ce que j'en ai compris sont surtout les méthodes pédagogiques et la façon d’encourager la pensée innovante qui semblent jouer un rôle majeur et que développer la créativité chez les étudiants demande plus qu’une simple combinaison de disciplines. pour finir selon moi que le cadre d’apprentissage joue également pour beaucoup"
+                ]
+            },
+            {
+                "titre_du_forum": "A Minimal Theory of Creative Ability",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article propose une approche intrigante avec sa \"théorie minimale de la créativité\" (MTCA), qui associe intelligence et expertise comme bases essentielles de la capacité créative. C’est intéressant car cette vision simplifiée remet en question l’idée de tests généraux pour mesurer la créativité, en insistant sur l’importance du contexte et des compétences spécifiques. Cela offre une piste sur la manière d’explorer et d’évaluer la créativité de manière plus ciblée"
+                ]
+            },
+            {
+                "titre_du_forum": "The influence of virtual reality on design process creativity in basic design studios",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cette étude discute de comment les environnements virtuels immersifs influencent la créativité des étudiants en design. Les résultats montrent que les environnements immersifs, comparés aux non immersifs, augmentent la motivation, le flow, et les capacités spatiales, ce qui aide le processus créatif. Bien que l’utilisation de la VR immersive avance dans les écoles de design, plusieurs institutions ne suivent pas encore ce rythme. Souvent, les enseignants mettent l'accent sur les compétences techniques sans trop se soucier des éléments qui soutiennent la créativité. Cette étude propose des idées pour mieux intégrer la créativité dans l'enseignement du design."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Yasmine Chaabouni",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "Les valeurs de l’organisation,  moteur de créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Aticle très intéressant! La créativité est essentielle à l’innovation elle repose sur un équilibre entre la motivation intrinsèque des individus et le soutien organisationnel. Les valeurs d’une organisation jouent un rôle déterminant comme tu l'as soulevé justement, car elles influencent l’engagement des collaborateurs et leur capacité à s’investir dans des tâches créatives. Cependant ce qui est intéressant de constater c'est qu'une mission sociale ou des valeurs fortes ne suffisent pas seules : elles doivent être clairement communiquées et alignées avec les actions quotidiennes pour maintenir la motivation. Un point marquant est l’importance du \"sens du travail\" et du \"sens au travail\" : les collaborateurs doivent non seulement percevoir la valeur de leur contribution, mais également disposer des moyens, en temps et en ressources, pour concrétiser leurs idées cela rejoint ce qui a été discuté en classe en évoquant les moyens."
+                ]
+            },
+            {
+                "titre_du_forum": "Créativité, apprentissage, intelligence et personnalité_Guillaume Furst",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve l'article très intéressant et particulièrement le fait que la créativité est influencée par une combinaison complexe de facteurs, notamment la personnalité, l’intelligence, et l’environnement comme nous l'avons abordé en classe! Des traits de personnalité comme l’ouverture, la curiosité ou la persévérance jouent un rôle clé également ce qui favorise la génération d’idées originales (divergence) et leur élaboration (convergence).\nL’intelligence, bien qu’étroitement liée, n’explique qu’une partie de la créativité, elle nécessitant également un contexte stimulant, un équilibre émotionnel et des approches interdisciplinaires. Ainsi, il est intéressant de voir que la créativité émerge à l’intersection de capacités cognitives, de motivation et d’un environnement qui encourage l’exploration et l’innovation!"
+                ]
+            },
+            {
+                "titre_du_forum": "Creativity in education: Teaching for creativity development",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve très intéressant votre commentaire! Egalement j'aime comment on mentionne que a créativité peut être intégrée dans l'enseignement grâce à la formation des enseignants. Cela est rès intéressant car l'enseignant joue un rôle important dans la vie d'un élève. Je trouve qu'il a le pouvoir soit de l'encourager à aller de l'avant et exploiter ses capacités ou à l'inverse le bloquer. Par ailleurs, les résultats mettent en lumière plusieurs facteurs influençant la créativité en éducation. Comme l'inclusion explicite de théories de la créativité dans la conception des leçons et des projets est essentielle. Ces théories offrent des cadres pour guider la création d'activités novatrices et dynamiques, favorisant la pensée critique et l'exploration. Aussi, les environnements d'apprentissage jouent un rôle clé : des tâches ouvertes, des activités collaboratives et des approches interdisciplinaires encouragent les étudiants à explorer diverses perspectives et à générer des idées originales. En plus, l'utilisation de connaissances passées pour résoudre de nouveaux problèmes ou créer des artefacts (comme des graphiques, des vidéos ou des plans de fitness) est un levier puissant pour stimuler la créativité."
+                ]
+            },
+            {
+                "titre_du_forum": "Apprendre à être créatif : une étude comparative du développement de la créativité comme compétence numérique en milieu d’apprentissage riche en technologies",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans l'article \"Apprendre à être créatif : une étude comparative du développement de la créativité comme compétence numérique en milieu d’apprentissage riche en technologies\" publié en automne 2022 par Michel T. Léger, professeur à l’Université de Moncton, l'auteur explore comment des environnements riches en technologies influencent la pensée créative des élèves du secondaire. Cette recherche compare deux groupes d’élèves: l’un travaillant dans un laboratoire de fabrication numérique et l’autre dans une classe traditionnelle. La créativité a été mesurée à l’aide du Torrance Test for Creative Thinking (TTCT), un outil qui est reconnu qui évalue divers aspects de la pensée créative : fluidité, flexibilité, originalité, et élaboration. Les scores sont obtenus à travers des activités impliquant la construction et la complétude de figures, permettant une évaluation standardisée et quantitative. Suite à leurs études, les résultats montrent une amélioration significative des indices de créativité chez les élèves ayant appris dans des environnements riches en technologies. Ces élèves ont présenté des augmentations notables de leurs scores entre le début et la fin du semestre, contrairement au groupe contrôle, où les progrès étaient faibles ou inexistants. L’étude souligne que l’environnement externe, comme nous l'avons abordé en classe,  joue un rôle clé dans le développement de la créativité. Un environnement stimulant, comme un laboratoire numérique, offre des outils et un cadre favorisant l’expérimentation et la pensée innovante. On n'aborde pas vraiment les causes de ces résultats en profondeur mais je pense que un environnement favorable donne la possibilité d'explorer sans crainte de l’échec ou du jugement. Dans le laboratoire numérique mentionné dans l'article, les élèves ont accès à des outils variés leur permettant de matérialiser leurs idées. Cette liberté d’essayer, de modifier et d’adapter développe la fluidité et la flexibilité, deux dimensions clés de la pensée créative. Quand un environnement laisse la place à l’expérimentation, il valorise les processus plutôt que les résultats. Cela favorise la confiance et libère l’esprit pour créer. En comparaison, un cadre traditionnel, souvent axé sur des règles strictes ou des résultats attendus mettent des limites à cette liberté.https://moodle.polymtl.ca/pluginfile.php/1247658/mod_forum/post/322559/cvachon-1262A.pdf"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ying Chen Gao",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Psychology and Marketing - 2022 - Ameen - Toward advancing theory on creativity in marketing and artificial intelligence",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Une des affirmations que j'ai trouvées particulièrement intéressantes dans ton article est le fait que l'IA ne possède pas de motivation intrinsèque : son unique objectif est de résoudre une problématique de manière objective à l'aide des informations qui lui sont fournies. Une des conclusions de l'article scientifique que j'ai analysé corrobore cette idée, soulignant que la motivation intrinsèque et la créativité sont deux facteurs interreliés. Cela confère à l'humain un avantage indéniable sur l'IA.\n\nJe partage également vos avis selon lesquels l'IA doit être utilisée en complémentarité avec l'humain, et non en remplacement de celui-ci. Le projet final d'un cours que j'ai pris la session dernière, Méthodes probabilistes et statistiques pour l'I.A, constituait justement à construire un modèle statistique servant à prédire le prix de vente d'une liste d'embarcations de plaisance à partir d’un ensemble de données existantes comportant une vingtaine de facteurs influents. Il ne s'agissait pas simplement de prendre un modèle d'IA pré-entraîné disponible en ligne, mais bien de tester, modifier et combiner plusieurs modèles d'IA avec des techniques statistiques pour intégrer des combinaisons de notions apprises dans le cours de manière créative."
+                ]
+            },
+            {
+                "titre_du_forum": "How Creativity in STEAM Modules Intervenes with Self-Efficacy and Motivation",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article explore l’impact de l’intégration des arts dans les disciplines académiques, en élargissant le cadre des STEM (science, technologie, ingénierie, mathématiques) pour inclure les arts et passer au modèle STEAM. Cette étude s’appuie sur le projet Creations, qui introduit des activités artistiques dans un contexte éducatif auprès d’enfants et d’adolescents âgés de 9 à 18 ans. Des évaluations ont été réalisées sur divers sous-facteurs, tels que la motivation professionnelle, l’auto-efficacité (confiance en sa capacité à accomplir une tâche), les processus cognitifs de pensée active et le flow (un état d’immersion totale dans une activité). Ces facteurs ont été mesurés par des sondages administrés avant et après la mise en place des activités du projet.Les résultats montrent que les activités artistiques ont eu un impact positif sur l’auto-efficacité et les processus cognitifs, tandis que la motivation professionnelle et le flow n’ont pas été significativement affectés. Une conclusion notable de cette étude est que la créativité, l’auto-efficacité et la motivation sont des éléments interdépendants, ce qui justifie les efforts croissants pour susciter l’intérêt des élèves dans le cadre de l’éducation moderne.Article: https://www.mdpi.com/2227-7102/10/3/70P. S. Ouvrir avec Edge pour voir les commentaires dans l'analyse"
+                ]
+            }
+        ]
+    }
+]
