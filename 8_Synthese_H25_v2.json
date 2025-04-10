@@ -1,6 +1,7 @@
 [
     {
         "utilisateur": "Alejandro Armas Segovia",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -14,6 +15,7 @@
     },
     {
         "utilisateur": "Alexandre Stephane Njoh",
+        "groupe": "Loutre",
         "total_des_commentaires": 28,
         "forums": [
             {
@@ -174,6 +176,7 @@
     },
     {
         "utilisateur": "Alexia Samuel",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -187,6 +190,7 @@
     },
     {
         "utilisateur": "Alexis Senay",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -200,6 +204,7 @@
     },
     {
         "utilisateur": "Alix-Xiang Claing",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 4,
         "forums": [
             {
@@ -234,6 +239,7 @@
     },
     {
         "utilisateur": "Amine Kazdar",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -248,6 +254,7 @@
     },
     {
         "utilisateur": "Aurélie Roseberry",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -261,6 +268,7 @@
     },
     {
         "utilisateur": "Béatrice Moras",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -274,6 +282,7 @@
     },
     {
         "utilisateur": "Bryan El Bitar",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -287,6 +296,7 @@
     },
     {
         "utilisateur": "Bryan Tadié",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -300,6 +310,7 @@
     },
     {
         "utilisateur": "Chadi Badri",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -313,6 +324,7 @@
     },
     {
         "utilisateur": "Claire Sordet",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -326,6 +338,7 @@
     },
     {
         "utilisateur": "Clara Grandisson Arsenault",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -339,6 +352,7 @@
     },
     {
         "utilisateur": "David Anastacio",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -352,6 +366,7 @@
     },
     {
         "utilisateur": "David Cochrane-Campbell",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -365,6 +380,7 @@
     },
     {
         "utilisateur": "Émile Asselin",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -378,6 +394,7 @@
     },
     {
         "utilisateur": "Émily St-Onge",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -391,6 +408,7 @@
     },
     {
         "utilisateur": "Emma Sabourin",
+        "groupe": "Loutre",
         "total_des_commentaires": 3,
         "forums": [
             {
@@ -418,6 +436,7 @@
     },
     {
         "utilisateur": "Floranne Lagüe-Charbonneau",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -431,6 +450,7 @@
     },
     {
         "utilisateur": "Garance Condomines",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -444,6 +464,7 @@
     },
     {
         "utilisateur": "Hernan Felipe Gonzalez Contreras",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -457,6 +478,7 @@
     },
     {
         "utilisateur": "Jacob Therrien",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -470,6 +492,7 @@
     },
     {
         "utilisateur": "Jaylen Reid",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -483,6 +506,7 @@
     },
     {
         "utilisateur": "Jing Bo Zhang",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -496,6 +520,7 @@
     },
     {
         "utilisateur": "Juliette Leduc",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -509,6 +534,7 @@
     },
     {
         "utilisateur": "Karl Élie Abari",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -522,6 +548,7 @@
     },
     {
         "utilisateur": "Lisa Boutiba",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -535,6 +562,7 @@
     },
     {
         "utilisateur": "Loriane Costantino",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -548,6 +576,7 @@
     },
     {
         "utilisateur": "Mathieu Lauzier",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -561,6 +590,7 @@
     },
     {
         "utilisateur": "Meryle Armoudon",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -574,6 +604,7 @@
     },
     {
         "utilisateur": "Michael Ogbaghebriel",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -587,6 +618,7 @@
     },
     {
         "utilisateur": "Omar Bamrim",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -600,6 +632,7 @@
     },
     {
         "utilisateur": "Samuel Kouakou",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -613,6 +646,7 @@
     },
     {
         "utilisateur": "Samuel Ramos",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -626,6 +660,7 @@
     },
     {
         "utilisateur": "Sarah-Jade Lessard",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -646,6 +681,7 @@
     },
     {
         "utilisateur": "Sebastien Negrut",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -659,6 +695,7 @@
     },
     {
         "utilisateur": "Sophie Cournoyer",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -672,6 +709,7 @@
     },
     {
         "utilisateur": "Théo Lefebvre-Tixier",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 4,
         "forums": [
             {
@@ -706,6 +744,7 @@
     },
     {
         "utilisateur": "Vana Nerguizian",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -719,6 +758,7 @@
     },
     {
         "utilisateur": "Xavier Bourque",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -732,6 +772,7 @@
     },
     {
         "utilisateur": "Yahya Badrane",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -745,6 +786,7 @@
     },
     {
         "utilisateur": "Younes Bennani",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -758,6 +800,7 @@
     },
     {
         "utilisateur": "Zachary Champagne",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -771,6 +814,7 @@
     },
     {
         "utilisateur": "Zachary Meziani",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
