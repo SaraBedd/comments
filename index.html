@@ -2,195 +2,147 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>IND8108 - Commentaires des étudiants - A24</title>
+    <!-- Updated Title to reflect H25 -->
+    <title>IND8108 - Commentaires des étudiants - H25</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     <style>
         body {
             padding: 20px;
-            background-color: #cccccc;
+            background-color: #f0f0f0; /* Lighter background */
         }
 
-        .tag-container {
+        /* --- Tag Styling --- */
+        .tag-filter-section {
             margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid #ccc;
+        }
+
+         .tag-filter-section h5 {
+             font-size: 1rem;
+             margin-bottom: 10px;
+             color: #495057;
+         }
+
+        .tag-container {
+             margin-bottom: 10px; /* Space below tags within a section */
         }
 
         .tag {
             cursor: pointer;
             font-size: 0.9rem;
-            padding: 5px 10px;
+            padding: 6px 12px;
             border-radius: 20px;
             background-color: #e9ecef;
+            color: #495057;
             display: inline-block;
-            border: 2px solid transparent;
-            transition: background-color 0.3s, color 0.3s;
-            margin-right: 5px;
+            border: 1px solid #ced4da;
+            transition: background-color 0.3s, color 0.3s, border-color 0.3s, box-shadow 0.3s;
+            margin-right: 8px;
+            margin-bottom: 8px;
         }
 
         .tag.active {
-            color: white;
-            border-color: #17a2b8;
+             filter: brightness(90%);
+             box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+             font-weight: 500;
         }
 
-        .tag-all {
-            background-color: #17a2b8;
-            color: white;
-        }
+        /* Source Tags (Example: using BS colors) */
+        .tag-source { background-color: #cfe2ff; border-color: #b6d4fe; color: #084298; } /* Primary light */
+        .tag-source.active { background-color: #0d6efd; border-color: #0a58ca; color: white; } /* Primary */
 
-        .tag-source1 {
-            background-color: #17a2b8;
-            color: white;
-        }
+        /* Group Tags */
+        .tag-groupe-tous    { background-color: #6c757d; color: white; border-color: #6c757d;}
+        .tag-groupe-loutre  { background-color: #fd7e14; color: white; border-color: #fd7e14; } /* Otter Orange */
+        .tag-groupe-flamant { background-color: #e83e8c; color: white; border-color: #e83e8c; } /* Flamingo Pink */
+        .tag-groupe-inconnu { background-color: #adb5bd; color: white; border-color: #adb5bd;}
 
-        .tag-source2 {
-            background-color: #17a2b8;
-            color: white;
-        }
+        .tag-groupe-tous.active { filter: brightness(85%); box-shadow: inset 0 1px 3px rgba(0,0,0,0.3); }
+        .tag-groupe-loutre.active { filter: brightness(85%); box-shadow: inset 0 1px 3px rgba(0,0,0,0.3); }
+        .tag-groupe-flamant.active { filter: brightness(85%); box-shadow: inset 0 1px 3px rgba(0,0,0,0.3); }
+        .tag-groupe-inconnu.active { filter: brightness(85%); box-shadow: inset 0 1px 3px rgba(0,0,0,0.3); }
 
-        .tag-source3 {
-            background-color: #17a2b8;
-            color: white;
-        }
 
-        .tag-source4 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-source5 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-source6 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-source7 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-source8 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-source9 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-source10 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-source11 {
-            background-color: #17a2b8;
-            color: white;
-        }
-
-        .tag-all.active {
-            background-color: #358093;
-        }
-
-        .tag-source1.active {
-            background-color: #358093;
-        }
-
-        .tag-source2.active {
-            background-color: #358093;
-        }
-
-        .tag-source3.active {
-            background-color: #358093;
-        }
-
-        .tag-source4.active {
-            background-color: #358093;
-        }
-
-        .tag-source5.active {
-            background-color: #358093;
-        }
-
-        .tag-source6.active {
-            background-color: #358093;
-        }
-
-        .tag-source7.active {
-            background-color: #358093;
-        }
-
-        .tag-source8.active {
-            background-color: #358093;
-        }
-
-        .tag-source9.active {
-            background-color: #358093;
-        }
-
-        .tag-source10.active {
-            background-color: #358093;
-        }
-
-        .tag-source11.active {
-            background-color: #358093;
-        }
-
+        /* --- Card Styling --- */
         #results {
-            background-color: #cccccc;
-            padding: 20px;
+            padding: 0;
             border-radius: 5px;
         }
 
         .card-user {
             background-color: #ffffff;
-            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
             border: none;
-            border-radius: 10px;
-            margin-bottom: 30px;
+            border-radius: 8px;
+            margin-bottom: 20px;
             transition: transform 0.2s, box-shadow 0.2s;
         }
 
         .card-user:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+            transform: translateY(-3px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
         }
 
+        .card-header-user {
+             background-color: #f8f9fa;
+             padding: 0.75rem 1.25rem;
+             border-bottom: 1px solid #dee2e6;
+             border-top-left-radius: 8px;
+             border-top-right-radius: 8px;
+             display: flex; /* Use flexbox for alignment */
+             justify-content: space-between; /* Space out elements */
+             align-items: center; /* Vertically align items */
+        }
+
+        .card-title-user {
+            margin-bottom: 0; /* Remove bottom margin */
+            font-size: 1.1rem;
+        }
+
+         .user-info-badges {
+             display: flex;
+             gap: 0.5rem; /* Add space between badges */
+             align-items: center;
+         }
+
+        .badge { /* Ensure BS5 badge styles are applied */
+             display: inline-block;
+             padding: .35em .65em;
+             font-size: .75em;
+             font-weight: 700;
+             line-height: 1;
+             color: #fff;
+             text-align: center;
+             white-space: nowrap;
+             vertical-align: baseline;
+             border-radius: .375rem;
+        }
+        /* Group Badge Specific Backgrounds */
+        .bg-loutre { background-color: #fd7e14 !important; }
+        .bg-flamant { background-color: #e83e8c !important; }
+        .bg-inconnu { background-color: #6c757d !important; }
+        /* Source Badge Background */
+        .bg-source { background-color: #198754 !important; } /* Example: Green */
+
         .forum-section {
-            margin-bottom: 15px;
-            border: 1px solid #dee2e6;
+            margin: 15px;
+            border: 1px solid #e9ecef;
             padding: 15px;
             border-radius: 5px;
-            background-color: #ffffff;
+            background-color: #fdfdff;
         }
+         .forum-section:last-child {
+            margin-bottom: 0;
+        }
+
 
         .forum-title {
             font-weight: bold;
             font-size: 1rem;
-            margin: 0;
+            margin-bottom: 0.5rem;
             color: #343a40;
-        }
-
-        .forum-tag {
-            font-size: 0.8rem;
-            padding: 5px 10px;
-            border-radius: 20px;
-            background-color: #17a2b8;
-            color: white;
-            display: inline-block;
-            margin-top: 5px;
-        }
-
-        .forum-comments-line {
-            margin-top: 10px;
-            padding-top: 10px;
-            border-top: 1px solid #dee2e6;
-            display: flex;
-            justify-content: flex-end;
         }
 
         .forum-comments {
@@ -200,213 +152,321 @@
 
         .comment {
             margin-top: 10px;
-            padding-top: 10px;
-            background-color: #eeeeee;
-            color: #343a40;
+            background-color: #e9ecef;
+            color: #212529;
             padding: 10px;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            border-radius: 4px;
+            font-size: 0.95rem;
+            white-space: pre-wrap;
+            border: 1px solid #ced4da;
         }
 
         .comment + .comment {
-            border-top: 1px solid #dee2e6;
-            padding-top: 15px;
+           margin-top: 8px;
         }
 
-        #results .card-user {
-            background-color: #cccccc;
-            color: #343a40;
-        }
-
-        #results .forum-section {
-            background-color: #cccccc;
-            color: #343a40;
-        }
-
-        #results .comment {
-            background-color: #eeeeee;
-            color: #343a40;
-        }
-
-        #results .badge-source {
-            background-color: #17a2b8;
-        }
-
-        #results .badge-forum {
-            background-color: #6c757d;
-        }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1 class="mb-4">IND8108 - Tableau de Bord des Commentaires - A24</h1>
-        
-        <div class="tag-container">
-            <span class="tag active tag-all" data-source="Tous">Tous</span>
-            <span class="tag tag-source1" data-source="Comportements Créatifs">Comp. Créatifs</span>
-            <span class="tag tag-source2" data-source="TED Talk">TED Talk</span>
-            <span class="tag tag-source3" data-source="Article Kaufman">Kaufman</span>
-            <span class="tag tag-source4" data-source="Article Lubart">Lubart</span>
-            <span class="tag tag-source5" data-source="Article Gabora">Gabora</span>
-            <span class="tag tag-source6" data-source="Article Amabile">Amabile</span>
-            <span class="tag tag-source7" data-source="Facteurs Influence">Facteurs d'influence</span>
-            <span class="tag tag-source8" data-source="Synthese Facteurs">Synthèse des facteurs</span>
-            <span class="tag tag-source9" data-source="Articles Scientifiques">Articles Scientifiques</span>
-            <span class="tag tag-source10" data-source="Poster">Poster</span>
-            <span class="tag tag-source11" data-source="Mouse Trap">Mouse Trap</span>
+        <h1 class="mb-4">IND8108 - Tableau de Bord des Commentaires - H25</h1>
 
+        <!-- Section for Source Filters -->
+        <div class="tag-filter-section">
+            <h5>Filtrer par Source :</h5>
+            <div class="tag-container" id="source-tag-container">
+                <!-- Source tags will be generated here -->
+            </div>
         </div>
-        
+
+        <!-- Section for Group Filters -->
+        <div class="tag-filter-section">
+            <h5>Filtrer par Groupe :</h5>
+            <div class="tag-container" id="group-tag-container">
+                <span class="tag tag-groupe-tous active" data-groupe="Tous">Tous les Groupes</span>
+                <span class="tag tag-groupe-loutre" data-groupe="Loutre">Loutre</span>
+                <span class="tag tag-groupe-flamant" data-groupe="Flamant rose">Flamant rose</span>
+                <span class="tag tag-groupe-inconnu" data-groupe="Inconnu">Groupe Inconnu</span>
+            </div>
+        </div>
+
+
         <div class="mb-4">
             <input type="text" id="search" class="form-control" placeholder="Chercher par nom d'utilisateur..." onkeyup="filterUsers()">
         </div>
-        
-        <div id="results"></div>
+
+        <div id="results">
+             <div class="alert alert-info">Chargement des données...</div>
+        </div>
     </div>
-    
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    
+
     <script>
-        let allData = [];
+        let allData = []; // Will store combined data from all sources
+
+        // --- Updated list of source files with suffix ---
         const sources = [
-            '1_CC.json',        // Comportements Créatifs
-            '2_Ted.json',       // TED Talk
-            '3_Kaufman.json',   // Article Kaufman
-            '4_Lubart.json',    // Article Lubart
-            '5_Gabora.json',    // Article Gabora
-            '6_Amabile.json',   // Article Amabile
-            '7_Facteurs.json',  // Facteurs Influence
-            '8_Synthese.json',  // Synthese Facteurs
-            '9_Articles.json',  // Articles Scientifiques
-            '10_Poster.json',   // Poster
-            '11_Mouse.json'     // Mouse Trap
+            '1_CC_H25_v2.json',        // Comportements Créatifs
+            '2_Ted_H25_v2.json',       // TED Talk
+            '3_Kaufman_H25_v2.json',   // Article Kaufman
+            '4_Lubart_H25_v2.json',    // Article Lubart
+            '5_Gabora_H25_v2.json',    // Article Gabora
+            '6_Amabile_H25_v2.json',   // Article Amabile
+            '7_Facteurs_H25_v2.json',  // Facteurs Influence
+            '8_Synthese_H25_v2.json',  // Synthese Facteurs
+            '9_Articles_H25_v2.json',  // Articles Scientifiques
+            '10_Poster_H25_v2.json',   // Poster
+            '11_Mouse_H25_v2.json'     // Mouse Trap
         ];
-        
+
+        // --- Corresponding names for the source tags ---
         const sourceNames = [
-            'Comportements Créatifs',
-            'TED Talk',
-            'Article Kaufman',
-            'Article Lubart',
-            'Article Gabora',
-            'Article Amabile',
-            'Facteurs Influence',
-            'Synthese Facteurs',
-            'Articles Scientifiques',
-            'Poster',
-            'Mouse Trap'
+            'Comp. Créatifs',        // Short name for tag 1_CC
+            'TED Talk',              // Short name for tag 2_Ted
+            'Kaufman',               // Short name for tag 3_Kaufman
+            'Lubart',                // Short name for tag 4_Lubart
+            'Gabora',                // Short name for tag 5_Gabora
+            'Amabile',               // Short name for tag 6_Amabile
+            'Facteurs Influence',    // Short name for tag 7_Facteurs
+            'Synthèse Facteurs',     // Short name for tag 8_Synthese
+            'Articles Scientifiques',// Short name for tag 9_Articles
+            'Poster',                // Short name for tag 10_Poster
+            'Mouse Trap'             // Short name for tag 11_Mouse
         ];
-        
-        let activeSource = 'Tous';
+
+        // --- Variables to track active filters ---
+        let activeSource = 'Tous'; // Default source filter
+        let activeGroupe = 'Tous'; // Default group filter
 
         window.onload = function () {
-            loadAllJSON();
-            setupTags();
+            generateSourceTags(); // Create source tags dynamically
+            loadAllJSON();        // Load data from all specified files
+            setupTagListeners();  // Setup click listeners for ALL tags
         };
 
+        // --- Dynamically creates the source filter tags ---
+        function generateSourceTags() {
+             const container = document.getElementById('source-tag-container');
+             container.innerHTML = ''; // Clear existing
+
+             // Add 'Tous' tag first
+             const allTag = document.createElement('span');
+             allTag.className = 'tag tag-source active'; // Active by default
+             allTag.setAttribute('data-source', 'Tous');
+             allTag.textContent = 'Toutes les Sources';
+             container.appendChild(allTag);
+
+             // Add tag for each source file
+             sourceNames.forEach((name, index) => {
+                 const sourceTag = document.createElement('span');
+                 sourceTag.className = `tag tag-source`; // General source tag class
+                 sourceTag.setAttribute('data-source', name); // Use the short name as the value
+                 sourceTag.textContent = name;
+                 container.appendChild(sourceTag);
+             });
+        }
+
+
+        // --- Loads data from all JSON files specified in 'sources' ---
         async function loadAllJSON() {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '<div class="alert alert-info">Chargement des données...</div>'; // Show loading message
+            allData = []; // Clear previous data before loading
+
             try {
-                const promises = sources.map((source, index) => fetch(source)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error(`Erreur HTTP! Statut: ${response.status} pour ${source}`);
-                        }
-                        return response.json();
-                    })
-                    .then(data => {
-                        const sourceName = sourceNames[index];
-                        data.forEach(user => {
-                            user.source = sourceName;
-                            allData.push(user);
-                        });
-                    })
+                // Create an array of fetch promises
+                const promises = sources.map((sourceFile, index) =>
+                    fetch(sourceFile)
+                        .then(response => {
+                            if (!response.ok) {
+                                 // Specific error for 404
+                                if (response.status === 404) {
+                                    console.warn(`Fichier source '${sourceFile}' non trouvé. Il sera ignoré.`);
+                                    return []; // Return empty array if file not found, don't stop others
+                                }
+                                throw new Error(`Erreur HTTP! Statut: ${response.status} pour ${sourceFile}`);
+                            }
+                            return response.json();
+                        })
+                        .then(data => {
+                            // Get the corresponding friendly source name
+                            const sourceName = sourceNames[index];
+                            // Add the 'source' property to each user object from this file
+                            // Also ensure 'groupe' exists, defaulting to 'Inconnu' if missing
+                            data.forEach(user => {
+                                user.source = sourceName;
+                                user.groupe = user.groupe || 'Inconnu'; // Important: Handle missing group field
+                            });
+                            return data; // Return the processed data array
+                        })
+                        .catch(error => {
+                            // Log individual file errors but continue loading others
+                            console.error(`Erreur lors du chargement de ${sourceFile}:`, error.message);
+                            // Optionally display a warning to the user about the missing file
+                            return []; // Return empty array on error for this file
+                        })
                 );
-                await Promise.all(promises);
-                displayResults(filterData());
-            } catch (error) {
-                console.error('Erreur lors du chargement des fichiers JSON:', error);
-                document.getElementById('results').innerHTML = `
+
+                // Wait for all promises to settle (either resolve or reject)
+                const results = await Promise.all(promises);
+
+                // Concatenate the data from all successfully loaded files
+                results.forEach(dataArray => {
+                    allData = allData.concat(dataArray);
+                });
+
+                 // Add a check if allData is still empty after loading attempts
+                if (allData.length === 0) {
+                     resultsDiv.innerHTML = '<div class="alert alert-danger">Aucune donnée n\'a pu être chargée. Vérifiez que les fichiers JSON existent et sont corrects.</div>';
+                     return;
+                 }
+
+
+                console.log(`Données combinées chargées:`, allData);
+                displayResults(filterData()); // Display initial results after loading
+
+            } catch (error) { // Catch potential errors from Promise.all if needed (less likely now)
+                console.error('Erreur générale lors du chargement des fichiers JSON:', error);
+                resultsDiv.innerHTML = `
                     <div class="alert alert-danger">
-                        <strong>Erreur lors du chargement des données:</strong> ${error.message}
+                        <strong>Erreur générale lors du chargement des données:</strong> ${error.message}
                     </div>
                 `;
             }
         }
 
-        function setupTags() {
-            const tags = document.querySelectorAll('.tag');
-            tags.forEach(tag => {
+        // --- Sets up click event listeners for BOTH source and group tags ---
+        function setupTagListeners() {
+            const allTags = document.querySelectorAll('.tag'); // Select ALL tags
+
+            allTags.forEach(tag => {
                 tag.addEventListener('click', function () {
-                    const source = this.getAttribute('data-source');
+                    const dataSource = this.getAttribute('data-source');
+                    const dataGroupe = this.getAttribute('data-groupe');
 
-                    // Retirer la classe 'active' de tous les tags
-                    tags.forEach(t => t.classList.remove('active'));
+                    // Determine if this is a source or group tag
+                    if (dataSource !== null) { // It's a source tag
+                        activeSource = dataSource;
+                        // Update active class for source tags only
+                        document.querySelectorAll('#source-tag-container .tag').forEach(t => t.classList.remove('active'));
+                        this.classList.add('active');
+                    } else if (dataGroupe !== null) { // It's a group tag
+                        activeGroupe = dataGroupe;
+                        // Update active class for group tags only
+                        document.querySelectorAll('#group-tag-container .tag').forEach(t => t.classList.remove('active'));
+                        this.classList.add('active');
+                    }
 
-                    // Ajouter la classe 'active' au tag cliqué
-                    this.classList.add('active');
-
-                    // Mettre à jour la source active
-                    activeSource = source;
-
-                    // Filtrer et afficher les utilisateurs
+                    // Re-filter and display results after any tag click
                     displayResults(filterData());
                 });
             });
         }
 
+        // --- Triggered by search input ---
         function filterUsers() {
             displayResults(filterData());
         }
 
+        // --- Filters data based on ALL active criteria (search, source, group) ---
         function filterData() {
             const query = document.getElementById('search').value.toLowerCase();
-            if (activeSource === 'Tous') {
-                return allData.filter(user => user.utilisateur.toLowerCase().includes(query));
-            } else {
-                return allData.filter(user =>
-                    user.utilisateur.toLowerCase().includes(query) && user.source === activeSource
-                );
+            let filtered = allData;
+
+            // 1. Filter by search query
+            if (query) {
+                filtered = filtered.filter(user => user.utilisateur.toLowerCase().includes(query));
             }
+
+            // 2. Filter by active SOURCE (if not 'Tous')
+            if (activeSource !== 'Tous') {
+                filtered = filtered.filter(user => user.source === activeSource);
+            }
+
+            // 3. Filter by active GROUP (if not 'Tous')
+            if (activeGroupe !== 'Tous') {
+                filtered = filtered.filter(user => user.groupe === activeGroupe);
+            }
+
+            return filtered;
         }
 
+        // --- Displays the filtered data ---
         function displayResults(data) {
             const resultsDiv = document.getElementById('results');
-            resultsDiv.innerHTML = '';
+            resultsDiv.innerHTML = ''; // Clear previous
 
-            if (data.length === 0) {
-                resultsDiv.innerHTML = '<div class="alert alert-warning">Aucun utilisateur trouvé.</div>';
+            if (!data || data.length === 0) {
+                resultsDiv.innerHTML = '<div class="alert alert-warning">Aucun utilisateur trouvé pour les filtres sélectionnés.</div>';
                 return;
             }
+
+             // Sort data alphabetically by username before displaying
+            data.sort((a, b) => a.utilisateur.localeCompare(b.utilisateur));
+
 
             data.forEach(user => {
                 const userCard = document.createElement('div');
                 userCard.className = 'card card-user';
-                userCard.innerHTML = `
-                    <div class="card-body">
-                        <h5 class="card-title">${user.utilisateur} <span class="badge badge-source">${user.source}</span></h5>
-                        <p class="card-text"><strong>Commentaires Totaux :</strong> ${user.total_des_commentaires}</p>
+
+                // Determine group badge class
+                let groupeBadgeClass = 'bg-inconnu';
+                if (user.groupe === 'Loutre') groupeBadgeClass = 'bg-loutre';
+                else if (user.groupe === 'Flamant rose') groupeBadgeClass = 'bg-flamant';
+
+                // Card Header with User Info, Source, and Group Badges
+                const cardHeader = document.createElement('div');
+                cardHeader.className = 'card-header-user';
+                cardHeader.innerHTML = `
+                    <h5 class="card-title-user">${user.utilisateur}</h5>
+                    <div class="user-info-badges">
+                         <span class="badge bg-source">${user.source}</span> <!-- Source Badge -->
+                         <span class="badge ${groupeBadgeClass}">${user.groupe}</span> <!-- Group Badge -->
+                         <span class="badge bg-secondary">Total: ${user.total_des_commentaires}</span> <!-- Total Comments Badge -->
                     </div>
                 `;
+                userCard.appendChild(cardHeader);
 
-                user.forums.forEach(forum => {
-                    const forumDiv = document.createElement('div');
-                    forumDiv.className = 'forum-section';
-                    forumDiv.innerHTML = `
-                        <div class="d-flex justify-content-between align-items-center">
-                            <h6 class="forum-title">${forum.titre_du_forum}</h6>
-                            <p class="forum-comments"><strong>Commentaire(s) :</strong> ${forum.nbre_de_commentaires}</p>
-                        </div>
-                    `;
+                 // Card Body for Forums
+                const cardBody = document.createElement('div');
+                cardBody.className = 'card-body pt-2';
 
-                    forum.commentaires.forEach(comment => {
-                        const commentDiv = document.createElement('div');
-                        commentDiv.className = 'comment';
-                        commentDiv.textContent = comment;
-                        forumDiv.appendChild(commentDiv);
+                if (user.forums && user.forums.length > 0) {
+                     // Sort forums alphabetically by title
+                     user.forums.sort((a, b) => a.titre_du_forum.localeCompare(b.titre_du_forum));
+
+                    user.forums.forEach(forum => {
+                        const forumDiv = document.createElement('div');
+                        forumDiv.className = 'forum-section';
+                        forumDiv.innerHTML = `
+                            <div class="d-flex justify-content-between align-items-start mb-2">
+                                <h6 class="forum-title mb-0">${forum.titre_du_forum}</h6>
+                                <span class="forum-comments text-nowrap"><strong>Comm:</strong> ${forum.nbre_de_commentaires}</span>
+                            </div>
+                        `;
+
+                        if (forum.commentaires && forum.commentaires.length > 0) {
+                            forum.commentaires.forEach(commentText => {
+                                const commentDiv = document.createElement('div');
+                                commentDiv.className = 'comment';
+                                // Replace newline characters with <br> for display
+                                commentDiv.innerHTML = commentText.replace(/\n/g, '<br>');
+                                forumDiv.appendChild(commentDiv);
+                            });
+                        } else {
+                             const noCommentDiv = document.createElement('p'); // Use paragraph for better spacing
+                             noCommentDiv.className = 'fst-italic text-muted small mt-2 mb-0'; // Adjusted classes
+                             noCommentDiv.textContent = 'Aucun commentaire pour ce forum.';
+                             forumDiv.appendChild(noCommentDiv);
+                        }
+                        cardBody.appendChild(forumDiv);
                     });
+                } else {
+                     cardBody.innerHTML = '<p class="text-muted px-3">Aucun forum trouvé pour cet utilisateur dans cette source.</p>';
+                }
 
-                    userCard.appendChild(forumDiv);
-                });
-
+                userCard.appendChild(cardBody);
                 resultsDiv.appendChild(userCard);
             });
         }

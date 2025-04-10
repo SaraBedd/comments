@@ -1,0 +1,415 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>IND8108 - Commentaires des étudiants - A24</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        body {
+            padding: 20px;
+            background-color: #cccccc;
+        }
+
+        .tag-container {
+            margin-bottom: 20px;
+        }
+
+        .tag {
+            cursor: pointer;
+            font-size: 0.9rem;
+            padding: 5px 10px;
+            border-radius: 20px;
+            background-color: #e9ecef;
+            display: inline-block;
+            border: 2px solid transparent;
+            transition: background-color 0.3s, color 0.3s;
+            margin-right: 5px;
+        }
+
+        .tag.active {
+            color: white;
+            border-color: #17a2b8;
+        }
+
+        .tag-all {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source1 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source2 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source3 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source4 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source5 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source6 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source7 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source8 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source9 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source10 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-source11 {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .tag-all.active {
+            background-color: #358093;
+        }
+
+        .tag-source1.active {
+            background-color: #358093;
+        }
+
+        .tag-source2.active {
+            background-color: #358093;
+        }
+
+        .tag-source3.active {
+            background-color: #358093;
+        }
+
+        .tag-source4.active {
+            background-color: #358093;
+        }
+
+        .tag-source5.active {
+            background-color: #358093;
+        }
+
+        .tag-source6.active {
+            background-color: #358093;
+        }
+
+        .tag-source7.active {
+            background-color: #358093;
+        }
+
+        .tag-source8.active {
+            background-color: #358093;
+        }
+
+        .tag-source9.active {
+            background-color: #358093;
+        }
+
+        .tag-source10.active {
+            background-color: #358093;
+        }
+
+        .tag-source11.active {
+            background-color: #358093;
+        }
+
+        #results {
+            background-color: #cccccc;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        .card-user {
+            background-color: #ffffff;
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+            border: none;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        .card-user:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+        }
+
+        .forum-section {
+            margin-bottom: 15px;
+            border: 1px solid #dee2e6;
+            padding: 15px;
+            border-radius: 5px;
+            background-color: #ffffff;
+        }
+
+        .forum-title {
+            font-weight: bold;
+            font-size: 1rem;
+            margin: 0;
+            color: #343a40;
+        }
+
+        .forum-tag {
+            font-size: 0.8rem;
+            padding: 5px 10px;
+            border-radius: 20px;
+            background-color: #17a2b8;
+            color: white;
+            display: inline-block;
+            margin-top: 5px;
+        }
+
+        .forum-comments-line {
+            margin-top: 10px;
+            padding-top: 10px;
+            border-top: 1px solid #dee2e6;
+            display: flex;
+            justify-content: flex-end;
+        }
+
+        .forum-comments {
+            font-size: 0.9rem;
+            color: #6c757d;
+        }
+
+        .comment {
+            margin-top: 10px;
+            padding-top: 10px;
+            background-color: #eeeeee;
+            color: #343a40;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        .comment + .comment {
+            border-top: 1px solid #dee2e6;
+            padding-top: 15px;
+        }
+
+        #results .card-user {
+            background-color: #cccccc;
+            color: #343a40;
+        }
+
+        #results .forum-section {
+            background-color: #cccccc;
+            color: #343a40;
+        }
+
+        #results .comment {
+            background-color: #eeeeee;
+            color: #343a40;
+        }
+
+        #results .badge-source {
+            background-color: #17a2b8;
+        }
+
+        #results .badge-forum {
+            background-color: #6c757d;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mb-4">IND8108 - Tableau de Bord des Commentaires - A24</h1>
+        
+        <div class="tag-container">
+            <span class="tag active tag-all" data-source="Tous">Tous</span>
+            <span class="tag tag-source1" data-source="Comportements Créatifs">Comp. Créatifs</span>
+            <span class="tag tag-source2" data-source="TED Talk">TED Talk</span>
+            <span class="tag tag-source3" data-source="Article Kaufman">Kaufman</span>
+            <span class="tag tag-source4" data-source="Article Lubart">Lubart</span>
+            <span class="tag tag-source5" data-source="Article Gabora">Gabora</span>
+            <span class="tag tag-source6" data-source="Article Amabile">Amabile</span>
+            <span class="tag tag-source7" data-source="Facteurs Influence">Facteurs d'influence</span>
+            <span class="tag tag-source8" data-source="Synthese Facteurs">Synthèse des facteurs</span>
+            <span class="tag tag-source9" data-source="Articles Scientifiques">Articles Scientifiques</span>
+            <span class="tag tag-source10" data-source="Poster">Poster</span>
+            <span class="tag tag-source11" data-source="Mouse Trap">Mouse Trap</span>
+
+        </div>
+        
+        <div class="mb-4">
+            <input type="text" id="search" class="form-control" placeholder="Chercher par nom d'utilisateur..." onkeyup="filterUsers()">
+        </div>
+        
+        <div id="results"></div>
+    </div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    
+    <script>
+        let allData = [];
+        const sources = [
+            '1_CC.json',        // Comportements Créatifs
+            '2_Ted.json',       // TED Talk
+            '3_Kaufman.json',   // Article Kaufman
+            '4_Lubart.json',    // Article Lubart
+            '5_Gabora.json',    // Article Gabora
+            '6_Amabile.json',   // Article Amabile
+            '7_Facteurs.json',  // Facteurs Influence
+            '8_Synthese.json',  // Synthese Facteurs
+            '9_Articles.json',  // Articles Scientifiques
+            '10_Poster.json',   // Poster
+            '11_Mouse.json'     // Mouse Trap
+        ];
+        
+        const sourceNames = [
+            'Comportements Créatifs',
+            'TED Talk',
+            'Article Kaufman',
+            'Article Lubart',
+            'Article Gabora',
+            'Article Amabile',
+            'Facteurs Influence',
+            'Synthese Facteurs',
+            'Articles Scientifiques',
+            'Poster',
+            'Mouse Trap'
+        ];
+        
+        let activeSource = 'Tous';
+
+        window.onload = function () {
+            loadAllJSON();
+            setupTags();
+        };
+
+        async function loadAllJSON() {
+            try {
+                const promises = sources.map((source, index) => fetch(source)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Erreur HTTP! Statut: ${response.status} pour ${source}`);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        const sourceName = sourceNames[index];
+                        data.forEach(user => {
+                            user.source = sourceName;
+                            allData.push(user);
+                        });
+                    })
+                );
+                await Promise.all(promises);
+                displayResults(filterData());
+            } catch (error) {
+                console.error('Erreur lors du chargement des fichiers JSON:', error);
+                document.getElementById('results').innerHTML = `
+                    <div class="alert alert-danger">
+                        <strong>Erreur lors du chargement des données:</strong> ${error.message}
+                    </div>
+                `;
+            }
+        }
+
+        function setupTags() {
+            const tags = document.querySelectorAll('.tag');
+            tags.forEach(tag => {
+                tag.addEventListener('click', function () {
+                    const source = this.getAttribute('data-source');
+
+                    // Retirer la classe 'active' de tous les tags
+                    tags.forEach(t => t.classList.remove('active'));
+
+                    // Ajouter la classe 'active' au tag cliqué
+                    this.classList.add('active');
+
+                    // Mettre à jour la source active
+                    activeSource = source;
+
+                    // Filtrer et afficher les utilisateurs
+                    displayResults(filterData());
+                });
+            });
+        }
+
+        function filterUsers() {
+            displayResults(filterData());
+        }
+
+        function filterData() {
+            const query = document.getElementById('search').value.toLowerCase();
+            if (activeSource === 'Tous') {
+                return allData.filter(user => user.utilisateur.toLowerCase().includes(query));
+            } else {
+                return allData.filter(user =>
+                    user.utilisateur.toLowerCase().includes(query) && user.source === activeSource
+                );
+            }
+        }
+
+        function displayResults(data) {
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = '';
+
+            if (data.length === 0) {
+                resultsDiv.innerHTML = '<div class="alert alert-warning">Aucun utilisateur trouvé.</div>';
+                return;
+            }
+
+            data.forEach(user => {
+                const userCard = document.createElement('div');
+                userCard.className = 'card card-user';
+                userCard.innerHTML = `
+                    <div class="card-body">
+                        <h5 class="card-title">${user.utilisateur} <span class="badge badge-source">${user.source}</span></h5>
+                        <p class="card-text"><strong>Commentaires Totaux :</strong> ${user.total_des_commentaires}</p>
+                    </div>
+                `;
+
+                user.forums.forEach(forum => {
+                    const forumDiv = document.createElement('div');
+                    forumDiv.className = 'forum-section';
+                    forumDiv.innerHTML = `
+                        <div class="d-flex justify-content-between align-items-center">
+                            <h6 class="forum-title">${forum.titre_du_forum}</h6>
+                            <p class="forum-comments"><strong>Commentaire(s) :</strong> ${forum.nbre_de_commentaires}</p>
+                        </div>
+                    `;
+
+                    forum.commentaires.forEach(comment => {
+                        const commentDiv = document.createElement('div');
+                        commentDiv.className = 'comment';
+                        commentDiv.textContent = comment;
+                        forumDiv.appendChild(commentDiv);
+                    });
+
+                    userCard.appendChild(forumDiv);
+                });
+
+                resultsDiv.appendChild(userCard);
+            });
+        }
+    </script>
+</body>
+</html>
