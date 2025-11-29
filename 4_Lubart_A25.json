@@ -1,0 +1,227 @@
+[
+    {
+        "utilisateur": "Anyssa Côté-Lefort",
+        "groupe": "otter",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "rôle important du problem finding",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve qu'on peut faire un lien direct avec le projet personnel que l'on vient tout juste de faire dans ce cours. Identifier quel sujet j'allais creuser dans mon projet a été le coeur de mon processus créatif. Une fois identifié, la solution était assez simple."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité, une boucle ?",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Selon moi, le concept de boucle est en effet beaucoup plus proche de la réalité qu'un parcours linéraire. On peut faire un beau parallèle avec les notions d'ingénierie qu'on voit à Polytechnique. Souvent dans des projets, il va y avoir des retours en arrière ou il se peut même qu'on ait à recommencer. Dans la majorité des cas, cela permet de parvenir à un meilleur résultat!"
+                ]
+            },
+            {
+                "titre_du_forum": "Évolution des modèles créatifs",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tout à fait d’accord avec l’idée qu’il n’existe pas de recette universelle à la créativité! J’oserais même dire, heureusement qu’il n’y en a pas, car autrement, est-ce que la créativité existerait vraiment?"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Audrey Ann Lamirande-Bolduc",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Évolution des modèles créatifs",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Ce que j’ai trouvé intéressant dans l’article de Lubart, c’est la façon dont il retrace l’évolution des modèles du processus créatif, du fameux modèle en quatre étapes (préparation, incubation, illumination, vérification) vers des conceptions plus dynamiques et flexibles. Il montre bien que la créativité ne suit pas forcément une séquence linéaire, mais qu’elle peut être faite de boucles, de retours en arrière et de multiples sous-processus (comme la définition du problème, la pensée divergente ou l’évaluation) qui interagissent entre eux.",
+                    "J’aime aussi l’idée que la créativité ne se réduit pas à une « recette universelle » mais varie selon les individus, les contextes et même les domaines d’application. Ça rend le processus beaucoup plus vivant et réaliste, en phase avec ce qu’on observe souvent dans nos propres démarches créatives."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ewald Jordan Ngandjui Tchuente",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Progrès cyclique?",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet article m’a particulièrement intéressé car je suis en train de développer un projet personnel entrepreneurial pour mon derniers cours de projet intégrateur ; il propose de dépasser le modèle linéaire classique de la créativité (préparation → incubation → illumination → vérification) pour adopter une vision plus fluide, récursive et contextuelle de tout le processus créatif. \nDans le cadre de mon application, cela signifie que je peux embrasser les phases d’exploration (divergence) et de consolidation (convergence) de façon cyclique ; au lieu d’attendre un “moment Euréka”, je vais créer un flux continu d’idéation-révision et adapter activement le processus à mon contexte d’utilisateur et marché."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Fanta Sacko",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité, une boucle ?",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Lubart est le plus convaincant quand il casse l’illusion d’un “parcours en 4 étapes” bien rangé et assume la boucle: formuler le bon problème, générer, évaluer, revenir, recommencer. J’aime l’idée de boîte à outils modulable selon le moment et le domaine; c’est utile en pratique."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Marc Awaad",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Complexité du processus créatif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La lecture de l’article de Lubart m’a fait réaliser que le processus créatif est bien plus complexe qu’un simple modèle en quatre étapes. L’auteur montre qu’il s’agit plutôt d’une combinaison flexible de sous-processus qui changent selon la personne, la tâche et le contexte. Cette perspective m’a donné une vision plus dynamique et réaliste de la créativité et de ses mécanismes. Elle m’a aussi fait réfléchir au fait qu’un processus créatif peut facilement dévier ou s’interrompre, et qu’il faut parfois revenir en arrière ou même repartir de zéro."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nathan Satchlian",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Créativité plus qu'un système linéaire",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Absolument d’accord avec ton analyse ! Dans notre projet de groupe, on a utilisé le CPS (Creative Problem Solving) et un des problèmes qu’on a rencontrés avec le modèle classique des quatre étapes, c’est qu’on passait plus de temps à essayer de se repérer qu’à avancer. De manière naturelle, notre groupe utilisait un processus itératif, avec plusieurs allers-retours entre les idées et les étapes.\n\nCela dit, la structure du CPS nous a quand même donné une direction claire pour savoir où s’en aller. À mon avis, un processus hybride qui accepte les allers-retours tout en gardant un cadre général serait l’idéal."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Noah Lehideux",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "rôle important du problem finding",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans le texte, Lubart met l’accent sur le problem finding, c’est-à-dire identifier un problème de manière originale avant même d’essayer de le résoudre. En effet, il déconstruit l’idée que la créativité est simplement liée à la recherche de solutions en indiquant que reconnaître un problème et le reformuler différemment est un acte créatif en soi."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Omar Ben Khaled",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Évolution des modèles créatifs",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "On voit aussi qu'il est important de donner du temps à l'incubation, c'est à dire le moment où on laisse reposer ses idées avant qu'une solution apparaisse."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Othmane Lakhdar",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Créativité plus qu'un système linéaire",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En lisant le texte de Lubart, ce qui m’a marqué est sa critique du modèle classique en quatre étapes du processus créatif. Il montre que ce modèle est trop simple pour décrire la réalité, puisque la créativité n’avance pas de manière linéaire mais plutôt en allers-retours, avec des sous-processus qui s’entremêlent. Je trouve intéressante sa position selon laquelle la créativité dépend davantage de la qualité et de la combinaison de plusieurs mécanismes (comme la formulation du problème, la génération d’idées ou l’évaluation) que d’un déroulement fixe et universel. Cela rend le processus plus réaliste et mieux adapté aux différences entre individus et domaines."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Salma Latfi",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "vraies dynamiques du processus créatif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui m’a particulièrement marquée dans l’article de Lubart, c’est la manière dont il met en tension la persistance des modèles en quatre étapes hérités de Wallas avec les données empiriques qui en montrent les limites. Il souligne quelque chose de fondamental mais souvent oublié dans les cours de créativité : notre obsession pour des modèles linéaires simplifiés nous rassure, mais elle correspond très mal à la nature réelle du processus créatif, qui ressemble davantage à un enchevêtrement dynamique de micro-processus qu’à une séquence ordonnée. J’ai trouvé particulièrement intéressant son insistance sur la récursivité, notamment lorsque les artistes, écrivains ou scientifiques reviennent à des phases de problématisation en plein milieu du travail, ce qui contredit complètement le schéma classique préparation–incubation–illumination–vérification. Cette idée, renforcée par les observations de Getzels et Csikszentmihalyi sur les étudiants en art, déplace vraiment le débat : ce n’est plus la présence d’étapes fixes qui caractérise la créativité, mais la capacité à moduler, relancer et recombiner continuellement les subprocessus en fonction de la situation. À mon sens, c’est là que l’article est le plus riche : il ne propose pas simplement un modèle alternatif, mais invite à accepter que la créativité est par nature instable, idiosyncratique et profondément contextuelle."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sucy Han",
+        "groupe": "otter",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Créativité plus qu'un système linéaire",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai eu la même réflexion que toi, l'article a bien expliqué pourquoi la créativité est bien plus qu'un processus linéaire. On peut même faire des liens avec le cours, où on a vu qu'utiliser qu'utiliser une combinaison d'approches créatives favorisait la stimulation de la créativité."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité: un modèle non-linéaire",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce texte m’amène à réaliser que la créativité est une dynamique complexe qui varie selon les individus, les contextes et les objectifs. Le modèle classique en 4 étapes, bien qu’utile pour structurer la pensée, semble trop rigide pour refléter la réalité des démarches créatives. Dans mon expérience, les moments d’« illumination » ne surviennent pas toujours après une incubation passive, mais parfois en faisant des liens avec d’autres idées. Cela me fait penser que pour stimuler la créativité, il ne suffit pas d’attendre l’inspiration, il faut créer des conditions favorables, comme la diversité des expériences et la motivation intrinsèque, ou encore d'utiliser des approches créatives."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Tarek Halabi",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Décomposer le processus créatif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L’article de Lubart montre bien que le modèle classique en quatre étapes reste une référence, mais qu’il simplifie trop la réalité du travail créatif. La créativité apparaît plutôt comme un processus mouvant, fait d’allers-retours, de blocages et de reprises. Ce qui me semble le plus intéressant, c’est l’attention portée aux sous-processus comme la recherche de problèmes, la génération d’idées ou l’évaluation. Cela rend l’étude de la créativité plus proche de ce que l’on vit réellement lorsqu’on invente ou crée."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Wilfried Fonkoua Kaptue",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "rôle important du problem finding",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que je trouve particulièrement intéressant, c’est la façon dont il valorise l’étape d’identification du problème comme un acte créatif à part entière. Souvent, on pense que la créativité commence au moment de la recherche de solutions, mais ici, on réalise qu’elle naît bien avant, dans la manière même de formuler ou de redéfinir un problème."
+                ]
+            },
+            {
+                "titre_du_forum": "Comprendre et enseigner la creativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'enseignement de la créativité implique donc le perfectionnement de ces compétences : savoir formuler les bonnes questions, penser hors des sentiers battus, laisser les idées fermenter avant de les juger, tout en stimulant la curiosité et l'adaptabilité. L'analyse des ces cognitifs de la créativité s'avèrent complexes, étant donné qu'elle ne se conforme pas à un modèle rigide de mécanisme :conformément aux propositions de Lubart, elle découle d'une interaction dynamique entre différents sous-processus mentaux (déterminer, produire, élaborer, reformuler) spécifiques à chaque personne. L’éducation à la créativité passe donc par le développement de ces habiletés  tels que : apprendre à poser les bons problèmes, penser de manière divergente, laisser mûrir les idées et les évaluer au bon moment  tout en favorisant la curiosité et la flexibilité. Ce type de recherche est essentiel, car il permet de mieux comprendre les mécanismes du raisonnement créatif et d’améliorer les approches pédagogiques qui stimulent l’innovation."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Xavier St-Germain",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Les étapes pour la processus cognitifs de la créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En lisant le texte, il devient évident que les processus cognitifs impliqués dans la créativité varient considérablement d’un individu à l’autre. De plus, leur étude est complexe, car le processus créatif se compose d’une série d’étapes ou de sous-procédures interdépendantes, chacune mobilisant différents mécanismes cognitifs et métacognitifs. Cette multiplicité et cette dynamique rendent difficile la construction de modèles unifiés et la mesure précise des opérations mentales en jeu.\nL’éducation à la créativité passe notamment par le changement de contraintes et de conditions qui influencent la manière dont les idées sont générées ou évaluées. En modifiant ces contraintes qu’elles soient environnementales, cognitives ou liées à la tâche , il devient possible d’apprendre comment le processus créatif fonctionne et se développe.\nEnfin, mener des recherches de ce type est pertinent, car cela permet de mieux comprendre à la fois les limites des modèles actuels du processus créatif et leurs apports."
+                ]
+            }
+        ]
+    }
+]

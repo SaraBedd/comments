@@ -1,0 +1,247 @@
+[
+    {
+        "utilisateur": "Anyssa Côté-Lefort",
+        "groupe": "otter",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Rôle de la motivation intrinsèque",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Effectivement, j’ai l’impression qu’on peut même faire un parallèle avec Abstract et Chef’s Table, où les personnes étaient parfois guidées par leurs émotions et par ce qui les motivait, plutôt que, comme tu l’as bien dit, lorsqu’on est forcé de produire un résultat créatif."
+                ]
+            },
+            {
+                "titre_du_forum": "Évolution de la théorie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Un point que j'ai trouvé intéressant dans cet article est l'évolution de la théorie à travers le temps. En effet, c'est uniquement à partir de 2008 que l'état affectif s'ajoute à la théoriqe comme étant un facteur d'influence de la créativité. Considérant qu'elle a été créée en 1983, je trouve ça a pris beaucoup d'années avant d'être intégré."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Audrey Ann Lamirande-Bolduc",
+        "groupe": "flamingo",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "Rôle de la motivation intrinsèque",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Effectivement, le rôle central de la motivation intrinsèque me parle beaucoup à moi aussi. Je trouve que ca vient également renforcer le fait que l’innovation ne vient pas seulement des compétences ou du talent, mais est aussi affectée grandement par la passion et le sentiment de liberté qu’on ressent en travaillant."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité sous forme de travail évolutif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que je trouve particulièrement intéressant dans le texte d’Amabile, c’est sa vision du processus créatif comme un enchaînement souple d’étapes plutôt qu’une méthode rigide. Elle montre que l’analyse du problème, la génération d’idées et la validation des solutions se nourrissent mutuellement dans un va-et-vient constant. Cette approche rend la créativité beaucoup plus réaliste : elle n’est pas un “moment d’inspiration magique”, mais un travail évolutif fait d’essais, d’erreurs et d’ajustements."
+                ]
+            },
+            {
+                "titre_du_forum": "Opinion sur le texte d'amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je partage tout à fait vos points de vue, surtout sur l’importance de l’environnement et des valeurs collectives dans l’expression de la créativité. Ce que j’ajouterais, c’est qu’Amabile montre bien que cette interaction entre les composantes internes (comme la motivation et les compétences) et externes (comme le climat social ou culturel) crée un véritable effet multiplicateur. Même une personne très compétente peut voir sa créativité freinée si le contexte est trop rigide, alors qu’un milieu ouvert et valorisant peut transformer de simples idées en innovations concrètes."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Aurélie Nichols",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Motivation en entreprise",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le début de ce texte sur la motivation individuel me rappelait beaucoup la théorie qui a été vue dans le cadre de ce cours et je n'était pas surprise de lire les 4 éléments jouant un rôle dans la créativité d'un individu. Ce qui m'a plus intéressé était l'évolution de la théorie, en se concentrant davantage à la créativité en entreprise. Dans mon article scientifique, les expériences effectuées ont obtenus des résultats très similaires sur l'impact d'un manque de ressources et sur l'importance de la motivation intrinsèque sur la créativité des employés."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Édouard Chartrand",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité sous forme de travail évolutif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'allais dans la même direction que vous dans ma réflexion sur ce texte.\nL'aspect itératif jumelé aux quatres composantes est vraiment intéressant et directement ancré dans le contenu du cours. L'exemple de l'E ink a été pour moi assez enrichissant, je trouve qu'il couvrait très bien la théorie présentée (et en plus je l'ai lu sur ma liseuse, ça m'a fait sourire!)"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ewald Jordan Ngandjui Tchuente",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Origine de la créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L’article met en lumière que la créativité n’est pas seulement une question d’inspiration soudaine mais dépend d’une combinaison de compétences domain-spécifiques, de processus pertinents de pensée créative, de motivation intrinsèque, et d’un environnement social favorable.\nIl rappelle aussi que même les récompenses ou structures externes peuvent nuire à la créativité si elles diminuent la motivation intrinsèque ou bloquent le processus créatif."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Fanta Sacko",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité sous forme de travail évolutif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve votre point de vue très juste, surtout sur l’idée que la créativité n’est pas un “moment magique”, mais bien un travail progressif. Ce que j’ai trouvé intéressant dans le texte d’Amabile, c’est que son modèle montre pourquoi ce va-et-vient entre essais, erreurs et ajustements fonctionne : les quatre composantes du processus créatif (motivation, expertise, méthodes de pensée, environnement social) interagissent et nourrissent le travail créatif à chaque étape.\nÇa m’a fait comprendre que si une idée progresse, ce n’est pas juste grâce à l’inspiration, mais parce que ces composantes sont bien activées ensemble. Cela rend la créativité beaucoup plus accessible : ce n’est pas un “talent”, c’est un système qui peut être construit et amélioré."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Justin Bourassa",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Opinion sur le texte d'amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé cette théorie très intéressante parce qu’elle montre que la créativité n’est pas réservée à des personnes exceptionnelles, mais qu’elle peut venir de chacun si les bonnes conditions sont réunies. J’aime l’idée que notre entourage et notre motivation jouent un rôle aussi important que le talent. Par contre, je pense que la théorie aurait pu parler davantage de l’influence de la société ou de la culture, qui ont aussi un impact sur la façon dont on exprime notre créativité."
+                ]
+            },
+            {
+                "titre_du_forum": "Évolution de la théorie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Tu as raison, c’est intéressant de voir que l’état affectif n’a été ajouté qu’en 2008. Ça montre que la recherche sur la créativité évolue avec le temps. Je pense que les émotions ont longtemps été sous-estimées, alors qu’elles influencent beaucoup notre façon de penser et de créer. L’ajout de ce facteur rend la théorie d’Amabile plus complète et plus proche de la réalité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Marc Awaad",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Créativité et récompenses",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé bien intéressant le lien entre le développement de la créativité et les récompenses. Amabile montre que les récompenses ne nuisent pas toujours à la créativité, mais que tout dépend de leur effet perçu. Si elles donnent l’impression de contrôler, elles réduisent la motivation intrinsèque, mais si elles reconnaissent la compétence ou soutiennent l’effort, elles peuvent au contraire renforcer l’envie de créer. Cette nuance apporte un éclairage utile sur la façon de motiver quelqu’un sans limiter sa créativité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nathan Satchlian",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Rôle de la motivation intrinsèque",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis du même avis. Je remarque que je trouve mes meilleures idées quand je suis motivé intrinsèquement. Bien sûr, une partie de ça vient du fait que je suis prêt à mettre plus d’heures, mais je pense aussi que la motivation facilite l’accès à toute la « mind map » liée à nos  « domain-relevant skills ». En fait, je crois que les personnes qu’on considère comme les plus créatives sont surtout celles qui savent optimiser l’interaction entre les quatres différentes composantes de la créativité mentionné dans l'article."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Othmane Lakhdar",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "La passion comme moteur essentiel de la créativité selon Amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans son texte, Amabile explique que la créativité dépend à la fois des compétences, des processus cognitifs et de la motivation intrinsèque, tout en étant fortement influencée par l’environnement social. Je trouve cette approche pertinente, surtout l’idée que la passion pour une tâche stimule vraiment la créativité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Salma Latfi",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "La nuance essentielle de la motivation dans la créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que je trouve particulièrement frappant dans cet article, c’est la nuance qu’Amabile apporte à son propre principe d’intrinsic motivation. On retient souvent son message comme étant « les récompenses tuent la créativité », mais ici elle complexifie vraiment cette idée en introduisant la notion de motivational synergy où certains apports extrinsèques, lorsqu’ils confirment la compétence ou renforcent l’autonomie, peuvent au contraire amplifier l’engagement intrinsèque. Cela rend la théorie beaucoup plus applicable dans les organisations réelles, où les systèmes d’évaluation et de reconnaissance ne peuvent pas simplement disparaître. Cette évolution montre à quel point les théories de la créativité doivent être sensibles aux dynamiques psychologiques mais aussi contextuelles du travail moderne. C’est probablement une des forces de ce modèle : sa capacité à intégrer progressivement la réalité organisationnelle sans perdre son ancrage psychologique initial."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sucy Han",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Les facteurs de la créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La théorie de cet article appuie beaucoup les faits que nous avons abordé en classe, comme la motivation intrinsèque et l'environnement social. Nos intérêts et nos passions orientent beaucoup nos décisions créatives, comme lors du choix de sujet pour le projet personnel. Comme j'ai pu le constater en faisant mon projet, j'ai eu beaucoup plus de plaisir à faire un produit qui m'intéressait, même en sachant qu'il avait une récompense externe relié (soit la note ou encore la reconnaissance). Pour ce qui est des facteurs d'environnement, j'ai trouvé intéressant que l'auteure mentionne certains aspects qui défavorisent la motivation intrinsèque, comme le contrôle excessif et la pression."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Tarek Halabi",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Opinion sur Amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui me semble moins convaincant dans l’article d’Amabile, c’est que plusieurs conclusions apparaissent presque évidentes une fois formulées. Par exemple, l’idée que la créativité est favorisée par un environnement qui encourage l’autonomie, la collaboration et la reconnaissance paraît assez intuitive, et on pourrait dire qu’elle relève davantage du bon sens que d’une véritable découverte théorique."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Tia Guy Assaf",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Rôle de la motivation intrinsèque",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui m’a frappée dans ce modèle, c’est l’importance donnée à la motivation intrinsèque dans le processus créatif. Je me reconnais dans cette idée, car souvent mes meilleures idées émergent quand je suis guidée par la curiosité ou le plaisir, et non par une pression externe. Cela m’a fait réfléchir à la manière dont mes propres projets évoluent selon mes sources de motivation."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Wilfried Fonkoua Kaptue",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "La créativité sous forme de travail évolutif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Oui bien dit Audrey Ann ! 😊\nJ’ai eu la même impression en lisant Amabile ; sa façon de décrire la créativité comme un processus vivant, fait d’essais et d’erreurs, rend le concept beaucoup plus concret. On sent que la créativité, c’est avant tout une construction progressive, pas juste une idée qui tombe du ciel !"
+                ]
+            },
+            {
+                "titre_du_forum": "Opinion sur le texte d'amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis entièrement d'accord avec Justin : ce que j'aime dans la théorie d'Amabile, c'est qu'elle rend la créativité accessible à tous. Elle démontre qu'il ne s'agit pas d'un talent exclusif à une élite, mais d'une aptitude que tout un chacun peut cultiver si son environnement est propice et sa motivation authentique..J’aime aussi l’idée que la créativité découle d'un équilibre entre passion, compétences et environnement social. A l'instar de Justin, je trouve préférable d'intégrer l'aspect culturel et sociétal, étant donné que nos valeurs et nos vécus communs ont un impact considérable sur la façon dont nous exprimons et stimulons notre créativité."
+                ]
+            }
+        ]
+    }
+]

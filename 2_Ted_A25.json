@@ -1,0 +1,502 @@
+[
+    {
+        "utilisateur": "Alessandro Sibani",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Les mathématiques inattendues derrière « La Nuit étoilée» de Van Gogh",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "À mon avis, en reprenant l’intuition de Tia, le tableau peut paraître turbulent parce que notre système visuel est sensibilisé à certains contrastes et textures. Si la répartition des détails dans le ciel rappelle des motifs naturels, nous le percevons comme vivant et dynamique, bien avant d’en faire une lecture mathématique.\n\n\nIn my opinion, picking up Tia’s intuition, the painting may feel turbulent because our visual system is tuned to certain contrasts and textures. If the distribution of details in the sky resembles natural patterns, we perceive it as alive and dynamic, long before we ever reach for equations."
+                ]
+            },
+            {
+                "titre_du_forum": "Le pouvoir des contraintes créatives - Brandon Rodriguez",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai aimé le contraste entre améliorer l’existant et repartir de zéro. Sur Mars, quand une tactique atteignait sa limite, l’équipe changeait d’architecture (des airbags à la “sky crane”). Dans notre travail, on peut alterner : suivre une voie itérative tant que ça progresse, puis passer à une voie innovante quand les petits réglages n’avancent plus. Si les micro-tweaks n’ont plus d’effet, mieux vaut repartir d’un concept neuf.\n\n\nI liked the contrast between improving what exists and starting fresh. On Mars, when one tactic hit a ceiling, the team changed architecture (from airbags to the sky crane). In our work, we can alternate: stay on an iterative path while it keeps moving forward, then switch to an innovative approach when incremental tweaks stall. If small tweaks stop having impact, it’s better to start with a new concept."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Anyssa Côté-Lefort",
+        "groupe": "otter",
+        "total_des_commentaires": 8,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Quand on y songe, les vidéos qui deviennent virales sont souvent celles qui provoque une réaction, comme tu l'as dit, qui attirent l'attention. \nComme on a pu voir dans des épisodes d'Abstract et de Chef's Table, la provocation est un point que certains créateurs vont tenter d'aller chercher. Si je me souviens bien, dans l'épisode de Thinker Hatfield, il a créé une paire de chaussure où il avait poussé loin sa réflexion. Il aimait bien imaginer des concepts qui dérangeaient les gens."
+                ]
+            },
+            {
+                "titre_du_forum": "Les mathématiques inattendues derrière « La Nuit étoilée» de Van Gogh",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Je trouve que la notion d'intuition que tu as apporté est pertinente dans tout ça. En effet, je me doute que Van Gogh n'a pas effectué de calculs mathématiques afin de représenter son oeuvre. Alors il aurait intuitivement illustré le phénomène physique, sans pour autant avoir de connaissances poussées à ce sujet.\nAlors pour faire l'avocat du diable, je me demande si cela ne serait pas le fruit d'un pur hasard?",
+                    "J'ajouterais un point qui m'a marqué dans la vidéo. Ils mentionnent que ce que Van Gogh a réussi à illustrer ne se retrouve pas dans les oeuvres d'artistes qui ont produit des pièces d'art similaires. Alors comment a-t-il fait pour être le seul à réussir cet 'exploit'?"
+                ]
+            },
+            {
+                "titre_du_forum": "Le chemin du \"possible adjacent\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'aime beaucoup ta dernière phrase ''la créativité n’est pas réservée à quelques génies, mais qu’elle peut exister dans chaque petit pas qu’on ose faire vers l’inconnu''. Si je me permets, je crois qu'elle t'a possiblement marquée parce qu'elle rend plus accessible la créativité. On n'a pas toujours besoin de viser grand lorsqu'on parle de créativité. On se fie souvent aux grandes créations artistiques très connues, en oubliant que la créativité peu faire partie du quotidien."
+                ]
+            },
+            {
+                "titre_du_forum": "Art et math, la turbulence",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que je trouve fascinant dans ton commentaire, c'est de voir comment la science peut être reliée à l'émotion. L'état de turbulence dans lequel Van Gogh se trouvait lui a permis de représenter le phénomène scientifique des courants turbulents. \n\nC'est rare que l'on évoque les liens entre le côté émotionnel et les sciences. Je serais intriguée d'en apprendre davantage à ce sujet."
+                ]
+            },
+            {
+                "titre_du_forum": "Wayne McGregor: Le processus créatif d'un chorégraphe en temps réel",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que je retiens est que lorsque Wayne McGregor effectue un mouvement, les danseurs n'essayent pas forcément de le reproduire à 100%. En effet, il capture des éléments clés qu'ils intégrent à leur manière, sans pour autant reproduire le mouvement initial à la perfection. C'est génial puisque Wayne ne s'attend pas à la perfection, il veut que les danseurs crée leur propre interprétation. Ça me rapelle qu'il n'y a pas qu'une seule bonne façon de faire les choses. La créativité est un processus doté d'itérations et qui n'est certes, pas parfait."
+                ]
+            },
+            {
+                "titre_du_forum": "Le pouvoir des contraintes créatives - Brandon Rodriguez",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Comme plusieurs d'entre vous l'ont bien décrit, les contraintes peuvent servir de point de départ à la créativité. Je me permets de faire un parallèle avec mon projet personnel fait dans ce cours. J'ai trouvé ça extrêmement difficile de débuter le tout, mais une fois que j'ai trouvé mon idée autour de laquelle je voulais graviter, je me sentais beaucoup plus à l'aise. Cela était fort probablement puisque mes options étaient réduites et donc les contraintes étaient plus grandes.",
+                    "Le point marquant de la vidéo fut lorsque la narrateur a mentionné que les 'erreurs' peuvent parfois mener à de grandes découvertes comme tu l'a aussi écrit. Je trouve cela intéressant puisque ça ouvre la porte à essayer plein de choses et être créatif dans nos processus... on pourrait possiblement découvrir un nouveau remède miracle!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Aurélie Nichols",
+        "groupe": "otter",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C'est une belle façon de voir les choses! \nAussi, avec ce que tu mentionnes sur le fait qu'une minorité décide de ce qui serait populaire à l'époque, je me demande comment ceci a changer aujourd'hui avec la popularité des reels et des TikTok? J'imagine que la créativité est toujours un élément important dans les vidéos qui deviennent viraux mais qu'avec la quantité de vidéos qui deviennent viraux sur ces plateformes, que la créativité est de moins en moins nécessaires. Une meilleure compréhension d'une avec laquelle le public voudra \"interagir\"  est plus importante."
+                ]
+            },
+            {
+                "titre_du_forum": "Le principe de \"possible adjacent\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En écoutant la définition du principe de \"possible adjacent\" dans cette vidéo, j'ai fait un grand lien avec la théorie que j'ai appris dans mon premier cours de psychoéducation. Le concept de zone proximale de développement chez un enfant est une connaissance qui est a portée d'apprentissage avec l'aide d'un adulte (apprendre à parler, à compter, etc.). Avec la matière de \"possible adjacent\", ça montre que notre cerveau à toujours découvert de nouvelles choses d'une façon similaire mais que lorsqu'on entre dans des concepts plus complexes, l'apprentissage ou l'innovation ne vient pas seulement de nos parents mais pourrait venir de discussions avec d'autres scientifiques ou de beaucoup d'expériences dans le domaine."
+                ]
+            },
+            {
+                "titre_du_forum": "The unexpected math behind Van Gogh's \"Starry Night\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Entièrement d'accord. Aussi, ça montre réellement le talent de l'artiste! Juste avec une observation d'un phénomène, il était capable de le représenter avec une si grande précision que son oeuvre suit les lois mathématiques et physiques en lien avec le phénomène. Ceci montre que cet artiste utilisait ses compétences dans d'autres domaines que la créativité afin de créer ses oeuvres."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ewald Jordan Ngandjui Tchuente",
+        "groupe": "otter",
+        "total_des_commentaires": 6,
+        "forums": [
+            {
+                "titre_du_forum": "The unexpected math behind Van Gogh's \"Starry Night\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce Ted talk montre à quel point les mathématiques peuvent révéler la beauté cachée derrière une œuvre d’art. J’ai trouvé fascinant que Van Gogh, sans le savoir, ait peint quelque chose d’aussi proche des équations de la turbulence."
+                ]
+            },
+            {
+                "titre_du_forum": "Le chemin du \"possible adjacent\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Loreto explore le concept de l’« adjacent possible », cet espace entre ce qui existe déjà et ce qui pourrait émerger, comme moteur mathématique de la nouveauté. \nPour ton projet média ou info-produit, cela suggère de ne pas partir d’un vide total mais plutôt d’un point déjà établi puis d’y ajouter un élément inattendu. En partant d’une audience que tu connais déjà, d’un format que tu maîtrises, que peux-tu ajouter d’inhabituel pour ouvrir une nouvelle voie ?\nUne question à te poser : quel petit changement dans ton actuel modèle pourrait te propulser vers une « zone adjacente » d’innovation que personne dans ton secteur n’a encore explorée ?"
+                ]
+            },
+            {
+                "titre_du_forum": "Récit sur le site de Agbogbloshie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Son récit sur le site de Agbogbloshie à Accra montre qu’un lieu perçu comme déchet et fin de cycle peut devenir moteur d’innovation quand on le ré-interprète comme « ressource ».\nCe qui résonne particulièrement pour ton univers média / info-produit : souvent les « contraintes », les « déchets », les « restructures » dans un business sont des terrains d’expérimentation inexplorés. Et si tu transformais un problème actuel (budget serré, audience limitée, niche trop restreinte) en un laboratoire d’innovation, à l’image de ce qu’il a fait ?\nPetite question : dans ton business, quel « déchet » ou « ressource ignorée » pourrais-tu commencer à regarder sous ce prisme d’innovation aujourd’hui ?"
+                ]
+            },
+            {
+                "titre_du_forum": "La liberté totale?",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L’idée que la liberté totale peut parfois paralyser alors que des contraintes ciblées catalysent l’innovation m’a particulièrement marqué. \nDans ton contexte (média, info-produit, marketing), cela veut dire qu’imposer un cadre (budget limité, durée courte, seuls 3 canaux, thème précis) peut générer des idées plus audacieuses que « tout est possible ».\nQuestion à explorer : quelle est la contrainte que tu pourrais te fixer aujourd’hui (par exemple « créer une vidéo en moins de 48h avec 500 $ ») pour forcer l’émergence d’une idée surprenante ?"
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité n'est pas un éclair",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "McGregor nous rappelle que la créativité n’est pas uniquement un éclair d’inspiration, mais un « penser » à travers le corps : il présente trois méthodes « corps à corps », « le corps comme objet de pensée », « tâche-autonomie » pour briser l’habitude et générer du mouvement inédit.Ce que j’en retiens et qui me paraît particulièrement utile au-delà de la danse : lorsque l’on crée (que ce soit une vidéo, une formation, une marque), sortir du cadre mental habituel et passer à l’action, « faire », « bouger », «manipuler »  permet de découvrir des formes nouvelles de pensée.\nUne question : comment pourrais-tu transposer cette approche « penser par le corps » dans ton propre domaine (média, info-produit, marketing) pour générer des idées inattendues ?"
+                ]
+            },
+            {
+                "titre_du_forum": "Virale!",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cette vidéo m’a particulièrement intéressé puisque je travaille présentement sur un projet entrepreneurial pour mon projet final en genie logiciel, et la question de la visibilité est centrale pour acquérir mes premiers utilisateurs.\nJ’ai trouvé pertinent la façon dont Kevin Allocca explique que la viralité dépend non seulement du contenu lui-même, mais aussi des tastemakers, de la participation active de la communauté et d’un élément d’inattendu. Cela me donne des pistes concrètes pour penser la stratégie de diffusion de mon application."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Fanta Sacko",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "la créativité n’est pas l’absence de contraintes",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai beaucoup apprécié cette vidéo : elle m’a rappelé que la créativité n’est pas l’absence de contraintes, mais justement la manière dont on danse avec elles pour inventer.👉 Comme le souligne Brandon Rodriguez, quand on commence “avec tout possible”, on peut vite être bloqué·e par trop de liberté. Alors que lorsque l’on pose des limites, de temps, de matériaux, de moyens, c’est comme si ces frontières devenaient un territoire à explorer, non un obstacle. Ça m’a fait réfléchir sur un projet personnel auquel je travaille : j’avais envie de proposer “quelque chose de grand”, sans trop poser de limites. Cette vidéo m’a donné envie de revenir aux bases : “Qu’est-ce que je peux faire avec ça”, et “Quelle couleur, quel son, quel matériau je limite volontairement ?”.En fin de compte, je crois que la contrainte crée la forme, et que dans cet espace restreint, l’imagination peut vraiment “s’élancer”."
+                ]
+            },
+            {
+                "titre_du_forum": "Art et math, la turbulence",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que vous soulevez tous les deux est très éclairant : la turbulence n’est pas seulement un phénomène scientifique difficile à modéliser, elle peut aussi devenir un langage visuel lorsque l’intuition artistique prend le relais. Ce qui m’a frappée dans la vidéo, c’est que Van Gogh n’a pas représenté la turbulence « techniquement », mais à travers une sensibilité émotionnelle qui, paradoxalement, rejoint des motifs physiques réels."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Jeanne Collet",
+        "groupe": "otter",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis d'accord avec vous, mais je pense que si les gens partagent cette vidéo c'est parce que quelque part ils l'a trouvent originale et créative. Qu'est ce qui leur feraient plus partager cette vidéo plutôt qu'une autre sinon ? \nDe plus, je pense que l'imprévu comme il a dit peut grandement ajouter de la créativité à une vidéo ou a un projet, comme on avait pu le voir en classe lors des présentations des projets personnels."
+                ]
+            },
+            {
+                "titre_du_forum": "Le pouvoir des contraintes créatives - Brandon Rodriguez",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Vous avez globalement retranscrit toutes mes impressions sur la vidéo. Les contraintes nous guident bien plus qu'elles nous restreignent, elles nous permettent de savoir où l'on va pour pouvoir atteindre un objectif donné. \nCe que je trouve très interessant en plus, c'est ce que le narrateur dit au tout début. C'est que quoi qu'on fasse on a toujours des contraintes. Même quand on la consigne c'est \"Créer quelque chose\", ce qui est très vague comme sujet, on a toujours des contraintes implicites. Par exemple, contraintes de temps, de moyens, de capacité etc... Je pense que lorsqu'on a un sujet comme ça on commence inconsciemment par se fixer certaines limites/contraintes (en tout cas c'est mon cas). Cela permet de mieux structurer notre chemin créatif."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Justin Bourassa",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je pense que la viralité, comme Kevin Allocca l’explique, n’est pas forcément un signe de créativité. Désormais, beaucoup de vidéos deviennent virales non pas parce qu’elles sont originales, mais parce qu’elles suivent une tendance. À mon avis, ce n’est pas toujours les contenus les plus créatifs qui sont mis de l’avant, mais ceux qui attirent rapidement l’attention."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mahée Blanchard",
+        "groupe": "flamingo",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "Les mathématiques inattendues derrière « La Nuit étoilée» de Van Gogh",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé la vidéo intéressante car elle montre un lien auquel on ne pense pas toujours entre l’art et la science. Ce qui m’a marqué, c’est que Van Gogh, à une période où il traversait une grande instabilité personnelle, a réussi à représenter quelque chose d’aussi complexe que la turbulence, un phénomène qui reste difficile à décrire même pour les scientifiques. Cela montre que l’art peut parfois capter des réalités que la science peine à représenter.\nLe tableau ne se limite donc pas à une dimension esthétique, il devient aussi un point de rencontre entre deux univers différents : l’émotion et la connaissance. Cette idée amène à voir La Nuit étoilée autrement et à réfléchir sur la façon dont les sciences et les arts peuvent se compléter."
+                ]
+            },
+            {
+                "titre_du_forum": "Wayne McGregor: Le processus créatif d'un chorégraphe en temps réel",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Dans cette conférence, on suit le processus de création d'un chorégraphe. Au début, il décrit son parcours et on peut relever des facteurs que l’on retrouve souvent chez les créatifs, comme on a pu en discuter dans les forums (Abstract et Chef’s Table). Son parcours a été influencé par le soutien de ses parents, la possibilité d’expérimenter et un modèle comme John Travolta. Il a le sentiment d’avoir quelque chose à partager à travers la danse.\nPour lui, chorégraphier n’est pas seulement créer des pas, mais une façon de penser avec le corps. Il décrit trois approches de cette pensée physique. La première est le transfert direct : il propose un geste que les danseurs mémorisent et réinterprètent. La deuxième consiste à considérer les danseurs comme des objets architecturaux, en donnant des consignes du type « si… alors… ». La troisième est basée sur des tâches, où les danseurs ont l’autonomie de faire leurs propres choix.\nIl collabore aussi avec des chercheurs de différents domaines comme l’anthropologie, l’économie ou les neurosciences. Cela montre que pour lui, la danse est aussi un moyen collectif d’explorer de nouvelles façons de comprendre et de percevoir le monde.\nCe que j’en retiens, c’est que sa démarche dépasse la simple création de danse. Elle montre que la créativité peut se développer grâce aux essais, aux échanges et à l’apport d’autres disciplines. La danse devient alors un moyen de réfléchir ensemble et une autre façon de voir les choses. Comme on a pu le voir avec votre chorégraphie de présentation de thèse.",
+                    "Et même si cela n'est pas le fond de la conférence, il faut souligner la grande maîtrise de mémoire de corps des danseurs c'est impressionnant !"
+                ]
+            },
+            {
+                "titre_du_forum": "Le pouvoir des contraintes créatives - Brandon Rodriguez",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans cette vidéo, le narrateur met en avant l’idée que la créativité a besoin de contraintes pour exister. C’est assez paradoxal, car on a tendance à penser que la liberté totale favorise l’imagination. Pourtant, si on nous demandait de créer n’importe quoi, sans cadre ni objectif, on serait vite bloqué, sans savoir par où commencer. Les contraintes servent donc de repères : elles orientent, structurent et stimulent la réflexion. Elles ne freinent pas la créativité, elles la rendent possible.\nL’exemple des missions vers Mars illustre bien cette idée. À chaque nouvelle contrainte – atterrir sans contaminer le sol, puis faire descendre un rover trop lourd pour un système d’airbags – les ingénieurs ont dû trouver une autre solution. Cela montre qu’il y a deux façons d’avancer : soit en améliorant l’existant, soit en inventant une approche complètement nouvelle. Dans les deux cas, c’est la contrainte qui pousse à innover.\nLe narrateur rappelle aussi que beaucoup de découvertes majeures sont nées d’erreurs ou d’accidents, comme la pénicilline ou le plastique. Ces trouvailles montrent que la créativité n’est pas toujours un processus planifié. Ce que je trouve intéressant, c’est la manière dont cette idée renverse notre vision habituelle de la création : au lieu de voir les limites comme des obstacles, on peut les considérer comme le point de départ du progrès."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Marc Awaad",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "la créativité n’est pas l’absence de contraintes",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai l'impression aussi que, quand on pense activement à une idée, même si l'on commence avec de la liberté totale, on finit toujours par se poser des contraintes. Par exemple, si on prend l'exemple de la vidéo, dans lequel on peut créer n'importe quoi, sans limites. Naturellement, il faudrait passer par une série de questions.\n\nQuel problème j'essaie de résoudre avec mon invention? Quels sont les matériaux dont j'ai besoin? Quelles techniques devrais-je utiliser pour assembler le tout?\n\nLes questions de ce type viennent en fait construire des contraintes afin de nous donner une vision, et aident notre créativité en lui donnant une direction claire."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nathan Satchlian",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je pense que toutes vos interprétations sont intéressantes. Pour moi, ce qui me surprend, c’est qu’une vidéo n’a pas besoin d’avoir les trois facteurs pour devenir virale. En faisant une métacognition sur mes propres interactions sur les réseaux sociaux, j’ai remarqué qu’il m’arrive parfois de repartager la même vidéo plusieurs fois simplement parce que je la trouve trop drôle, intéressante ou originale. Donc, je vois ces facteurs comme des influences possibles sur la viralité, mais pas comme des conditions nécessaires."
+                ]
+            },
+            {
+                "titre_du_forum": "Les mathématiques inattendues derrière « La Nuit étoilée» de Van Gogh",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Oui, j’étais vraiment surpris par ce “fait”. Ça m’a tout de suite fait penser à l’épisode de Chef’s Table avec Magnus Nilsson. Il disait que beaucoup de connaissances disparaissent en seulement trois générations si elles ne sont pas transmises. Donc c’est bien possible que ses sources d’inspiration n’aient tout simplement pas survécu à l’épreuve du temps."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nha-Thi Vuong",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Wayne McGregor: Le processus créatif d'un chorégraphe en temps réel",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "À mon avis, les danseurs ont réalisé un merveilleux travail de créativité. D'une certaine façon, Wayne McGregor est celui qui transmet aux danseurs les connaissances et les outils nécessaires pour développer une chorégraphie originale.\n\nDans la première section, ils ont su conserver l'essence des mouvements représentés et les interpréter en accord avec leur propre corps. Dans la deuxième section, ils ont simplement reçu des instructions, puis ont créé des mouvements en fonction de leur propre interprétation. Enfin, dans la dernière section, ils étaient entièrement laissés à eux-mêmes. \n\nAinsi, on passe d'un premier niveau de créativité, où l'on modifie légèrement quelque chose de connu, à un deuxième niveau plus élaboré, où l'on crée à partir d'une structure et des connaissances externes. Puis, dans le dernier niveau, la création s'exprime sans aucune limite.\n\nJe dois souligner que Wayne McGregor m'a particulièrement impressionnée par ses différentes représentations du mot TED. Et bien sûr, les danseurs m’ont également marquée par leur capacité à mémoriser une chorégraphie après une seule exposition."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nicola Serafin",
+        "groupe": "flamingo",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "What I found most interesting is the psychological side of virality, people share not just because they like a video, but because they want to belong.\nAt the end of the talk, Allocca even shows how viewers creatively remix the original videos to feel part of the trend; like the “Nyan Cat” versions (the cat watching the cat, the old-time version, or even the Mexican and French ones).\n\nFrançais :\nCe que j’ai trouvé le plus intéressant, c’est l’aspect psychologique de la viralité : les gens partagent non seulement parce qu’ils aiment une vidéo, mais aussi parce qu’ils veulent appartenir à un groupe.\nÀ la fin de la présentation, Allocca montre même comment les internautes remixent de façon créative les vidéos originales pour se sentir partie de la tendance, comme les différentes versions de “Nyan Cat” (le chat qui regarde le chat, la version rétro, ou encore les versions mexicaine et française)."
+                ]
+            },
+            {
+                "titre_du_forum": "Le chemin du \"possible adjacent\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "I really appreciated the scientific approach Loreto used. He describes creativity as operating in the “adjacent possible”,which is a mathematical space at the edge of what we already know and what we might yet discover. In his words, “When one more step into the adjacent possible is taken, the space of possibilities grows.” This framing connects directly with how we studied creative processes that alternate between exploration and evaluation through metacognition.J’ai beaucoup aimé l’approche scientifique que Loreto utilise pour parler de la créativité. Il décrit celle-ci comme un processus qui agit dans “l’adjacent possible”, un espace mathématique à la frontière entre ce que nous connaissons déjà et ce que nous pourrions encore découvrir. Comme il le dit : « Chaque fois qu’on fait un pas de plus dans l’adjacent possible, l’espace des possibilités s’agrandit. » Cette idée rejoint parfaitement ce que nous avons étudié sur les processus créatifs qui alternent entre exploration et évaluation grâce à la métacognition."
+                ]
+            },
+            {
+                "titre_du_forum": "Innovation \"Frugale\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "What impressed me most about Osseo-Asare’s talk is how he shows creativity emerging from the ground up, in a place where almost everything is a constraint. In Ghana’s massive scrapyard, people transform discarded materials into resources, collaborate, and invent new solutions every day, it’s a form of spontaneous and collective innovation.The talk reminds us that true creativity doesn’t depend on resources, but on the ability to see possibilities where others see only limits.Français :Ce qui m’a le plus marqué dans la conférence d’Osseo-Asare, c’est la façon dont il montre une créativité qui naît d’en bas, dans un lieu où presque tout est une contrainte. Dans l’immense casse du Ghana, les gens transforment les déchets en ressources, collaborent et inventent de nouvelles solutions chaque jour,  c’est une forme d’innovation spontanée et collective.La vidéo nous rappelle que la véritable créativité ne dépend pas des ressources, mais de la capacité à voir des possibilités là où les autres ne voient que des limites."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Noah Lehideux",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je comprends ton point de vue, mais selon Kevin Allocca, la viralité peut justement être liée à la créativité, même si elle ne s’exprime pas toujours de manière traditionnelle. Dans sa présentation, il explique que les vidéos virales naissent souvent grâce à trois éléments : les tastemakers, la participation des communautés et l’imprévisibilité de la créativité. Il montre que certaines vidéos deviennent virales parce qu’un influenceur ou un média les met en avant, mais aussi parce qu’elles pousse a des réinterprétations créatives de la part du public. Par exemple, la vidéo de “Double Rainbow” a suscité des milliers de vidéos humoristiques, montrant une forme de créativité collective."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Noémie Beuel",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Wayne McGregor: Le processus créatif d'un chorégraphe en temps réel",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "ce qui m'a particulièrement interpelé dans cette vidéo, c'est la capacité de ces danseurs a créer leur pas. Par exemple, avec une seule lettre, ceux-ci peuvent créer des dizaines de mouvements en bougeant quelque chose de différent, en allant vers l'avant, vers l'arrière, la droite, la gauche, au sol, etc.. et le tout avec une fluidité impréssionante. Et comme tu dis, on assiste ici a 3 niveaux de créativité, et peut importe le niveau de créativité, chacun à sa propre signature de style, ce qui rend chaque mouvement encore plus créatif car personne ne peut copier exactement ce qu'ils vont faire."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Salma Latfi",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "ferrailleurs d’Agbogbloshie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui m’a vraiment frappée dans le talk de DK Osseo Asare, c’est la manière dont il renverse complètement la logique habituelle de l’innovation. Au lieu de présenter la technologie comme un produit fini qui descend des laboratoires vers la société, il montre que l’innovation peut naître du bas vers le haut, dans des environnements que l’on considère souvent comme informels ou “non qualifiés”. Le message est beaucoup plus profond qu’une simple valorisation du recyclage : il met en lumière une intelligence distribuée, collective, qui se développe dans les contraintes matérielles extrêmes. Ce que les ferrailleurs d’Agbogbloshie font n’est pas seulement réparer des objets, c’est démontrer une capacité d’ingénierie frugale, une créativité située, adaptative, qui répond à des besoins réels avec une économie de moyens fascinante. Ce renversement m’a particulièrement touchée parce qu’il oblige à questionner notre propre biais occidental sur ce qui “compte” comme innovation. Ce que montre Osseo Asare, c’est que la créativité ne dépend ni du capital, ni d’un écosystème technologique sophistiqué, mais d’un rapport vivant au matériau et à la contrainte. Et quelque part, c’est une critique subtile du modèle dominant d’innovation : parfois, la réponse ne se trouve pas dans plus de ressources, mais dans une capacité à voir autrement ce que l’on a déjà sous la main."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sofia Slaim",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Le chemin du \"possible adjacent\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tout à fait d'accord avec toi. J'aimerais simplement ajouter que cela correspond assez bien à ce qu'on a appris dans le cours. C'est à dire le fait que pour pouvoir être créatif dans un domaine il faut savoir ce que ce domaine renferme (L'idée des frontières de la boite de connaissance). La créativité ne nait donc pas du hasard comme on semble penser mais bien d'une recherche méthodique et scientifique"
+                ]
+            },
+            {
+                "titre_du_forum": "Innovation \"Frugale\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Bonjour,\nje suis d'accord avec ce que tu dis. Cependant, j'aimerais rajouter un point. Comme tu dis, la créativité ne dépend pas forcément des ressources, mais dans le cas de Agbobgloshie, je crois que ça dépend principalement des ressources ou plus particulièrement de l'environnement dans laquelle elle se trouve. .On célèbre souvent l’ingéniosité née dans des environnements comme Agbogbloshie, mais cela peut aussi masquer des enjeux sociaux, économiques et environnementaux plus lourds. Je crois que cela montre que la créativité peut souvent naitre d'enjeux beaucoup plus importants et c'est à se demander si dans certains cas, la créativité est-elle plutôt une nécéssité ?"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Tarek Halabi",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "la créativité n’est pas l’absence de contraintes",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Bon point ! D’après mon expérience, une liberté totale sans contraintes est la situation la plus difficile pour moi, du moins au début. Je suis paralysé par toutes les directions possibles. S’imposer à soi-même des contraintes est une bonne façon de faire avancer les choses."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Tia Guy Assaf",
+        "groupe": "otter",
+        "total_des_commentaires": 6,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En regardant la vidéo de Kevin Allocca, ce qui m’a le plus marqué, c’est quand il explique que trois éléments rendent une vidéo virale : les tastemakers, la participation du public et l’imprévisibilité. Je trouve que ça rejoint vos deux points : certaines vidéos attirent l’attention sans grande originalité, comme le dit Justin, mais c’est souvent grâce aux réactions et aux partages du public qu’elles deviennent vraiment créatives, comme le souligne Noah. Finalement, la créativité ne vient pas seulement du créateur initial, mais de toute la communauté qui s’en empare et la transforme."
+                ]
+            },
+            {
+                "titre_du_forum": "Les mathématiques inattendues derrière « La Nuit étoilée» de Van Gogh",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je partage tout à fait ton point de vue. Ce que j’ai aussi trouvé fascinant, c’est la manière dont cette vidéo montre que les émotions et la science peuvent s’exprimer à travers un même geste créatif. Van Gogh n’a pas seulement peint ce qu’il voyait, il a intuitivement représenté un phénomène physique que même les chercheurs peinent encore à modéliser.\nCela m’a fait réfléchir à la puissance de l’intuition humaine : parfois, l’art précède la science en captant des vérités invisibles. La Nuit étoilée devient alors bien plus qu’une œuvre esthétique : c’est un pont entre la sensibilité et la connaissance."
+                ]
+            },
+            {
+                "titre_du_forum": "Le chemin du \"possible adjacent\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tout à fait d’accord avec vous. Moi aussi, j’ai trouvé que l’approche scientifique de Loreto rend la créativité à la fois plus concrète et fascinante. Ce que j’ai particulièrement aimé, c’est la manière dont il relie la découverte du « nouveau » à la frontière de ce qui est déjà connu. Il montre que l’innovation ne naît pas du hasard, mais d’un enchaînement de petites explorations qui ouvrent, peu à peu, de nouvelles possibilités.\n\nJ’ai aussi trouvé très intéressant le lien qu’il fait entre la créativité et l’apprentissage. En expliquant que chaque nouveauté dépend d’un “possible adjacent”, il nous invite à voir la créativité comme un processus continu : plus on explore, plus on agrandit notre espace de découverte. Cette idée m’a vraiment marquée, parce qu’elle montre que la créativité n’est pas réservée à quelques génies, mais qu’elle peut exister dans chaque petit pas qu’on ose faire vers l’inconnu."
+                ]
+            },
+            {
+                "titre_du_forum": "Innovation \"Frugale\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis complètement d’accord avec vous . Moi aussi, j’ai trouvé fascinante la façon dont Osseo-Asare montre que la créativité peut naître là où on ne s’y attend pas. J’ai aimé comment il transforme ce que beaucoup considèrent comme des “déchets” en une véritable source d’innovation. Cela prouve que la créativité ne dépend pas forcément des ressources, mais plutôt du regard qu’on porte sur ce qui nous entoure, et Agbogbloshie en est la preuve parfaite.\n\nCe qui m’a aussi marquée, c’est la dimension humaine et collective de cette créativité. On voit comment elle réunit les gens autour d’un même objectif : apprendre, partager et créer à partir de ce qu’ils ont. C’est une belle leçon sur la manière dont la collaboration peut devenir un véritable moteur d’innovation."
+                ]
+            },
+            {
+                "titre_du_forum": "Wayne McGregor: Le processus créatif d'un chorégraphe en temps réel",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis d’accord avec vous deux sur l’importance de la mémoire, de la précision et de la liberté que McGregor laisse à ses danseurs. Ce que j’ai trouvé encore plus fascinant, c’est la manière dont il construit la chorégraphie à partir d’improvisations, sans plan préétabli. On voit que la créativité vient vraiment du processus lui-même, pas seulement du résultat final. J’ai aussi aimé quand il parle du physical thinking, cette idée de “penser avec le corps”. Ça m’a fait réaliser que la créativité peut naître du geste, du ressenti et du dialogue entre les danseurs. C’est une approche très inspirante, parce qu’elle montre que même dans un cadre artistique exigeant, l’expérimentation et la confiance dans le moment présent restent essentielles."
+                ]
+            },
+            {
+                "titre_du_forum": "Le pouvoir des contraintes créatives - Brandon Rodriguez",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tout à fait d’accord . Ce que j’ai aussi trouvé intéressant dans cette vidéo, c’est la manière dont les contraintes peuvent canaliser la créativité plutôt que la bloquer. Comme tu l’as mentionné avec les missions sur Mars, ces limites obligent à penser autrement et à repousser les frontières du possible. J’ai aussi aimé la conclusion du narrateur : les contraintes ne sont pas seulement des obstacles, mais la base même de la créativité. Cela m’a fait réfléchir à nos propres projets à Polytechnique, souvent ce sont les restrictions de temps ou de ressources qui nous poussent à trouver les meilleures idées."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Wassim Hamadache",
+        "groupe": "flamingo",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "Why videos go viral",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve aussi important de souligner que dans le contexte des « anciens médias », les divertissements étaient à sens unique, et c'était une minorité qui décidait de ce qui serait populaire. Or, Allocca insiste sur le fait que l'une des caractéristiques de cette nouvelle sorte de culture est que tout le monde a accès à la création et qu'il n'y a « personne pour donner le feu vert à votre idée ». \n\nCela signifie que la popularité est définie uniquement par le public. Cette absence de « portier » (gatekeeper) est essentielle pour comprendre pourquoi l'« inattendu » peut émerger. Des vidéos comme « Double arc-en-ciel » ou « Nyan Cat », que personne n'aurait pu prédire, deviennent des moments culturels parce que le public se les approprie et que la vidéo sur le web permet à n'importe quelle création de devenir « complètement célèbre ». \n\nCe basculement dans le pouvoir, où le public définit la popularité, nous fait tous sentir « un peu propriétaires de notre propre culture populaire ». C’est ce qui va définir le divertissement du futur, contrairement aux caractéristiques des anciens médias."
+                ]
+            },
+            {
+                "titre_du_forum": "Le chemin du \"possible adjacent\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tout à fait d’accord avec le fait que la créativité ne relève pas du hasard mais d’une recherche méthodique aux frontières du connu. Ce qui m’a particulièrement marqué dans le discours de Vittorio Loreto, c'est la façon dont cette intuition a été transformée en une véritable science prédictive.\n\nLoreto et son équipe n'ont pas seulement élaboré une formule mathématique pour le « possible adjacent » ; ils sont ensuite « redescendus sur Terre » pour collecter des téraoctets de données dans des systèmes très différents (Wikipédia, Twitter, logiciels, musique) afin de confronter leur théorie à la réalité. Cette démarche a permis de confirmer la prédiction selon laquelle le taux d'innovation décroît régulièrement au fil du temps, signifiant que l'innovation devient de plus en plus difficile à mesure que le progrès avance. Ce qui rend son approche si puissante, c'est cette capacité à étayer l'intuition avec de la substance scientifique et à faire des prévisions concrètes sur la manière dont le nouveau survient."
+                ]
+            },
+            {
+                "titre_du_forum": "A choreographer's creative process in real time",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'ambiguïté des mouvements reflète la vision de McGregor, qui voit la chorégraphie comme un « procédé de pensée physique » visant à « aider à penser différemment à propos des choses », plutôt qu'une communication littérale. Face à un stimulus comme le « T », les danseurs ne doivent pas « copier exactement », mais saisir le « sens kinétique du mouvement » pour générer leurs propres séquences. De même, l'expansion du « E » est une « méthode basée sur des tâches », où une « image mentale éclatante » confère aux danseurs l'« autonomie de prendre toutes les décisions eux-mêmes ». Cette approche exploite le corps, considéré comme la chose « la plus technologiquement instruite que nous avons », pour l'innovation."
+                ]
+            },
+            {
+                "titre_du_forum": "Innovation \"Frugale\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C’est une excellente remarque concernant la nécessité. Cependant, ce qui m’a également frappé dans le plus grand contraste révélé dans le discours de Osseo-Asare, c’est que cette créativité n’est pas seulement une question de ressources ou de survie, mais aussi une méthode d'apprentissage et de transfert de savoirs. \n\nÀ Agbogbloshie, l'innovation est profondément liée à la manière dont les compétences sont transmises. On y observe un contraste marquant entre l’apprentissage actif et ludique transmis de maître à apprenti, qui se fait en créant et en pratiquant, et le modèle scolaire plus traditionnel où les étudiants prennent des notes mais peuvent se voir « court-circuiter un potentiel esprit d'initiative » car ils ont la théorie mais pas la pratique. Ce modèle d'enseignement sur le terrain permet d'assurer que créer est un cycle, qui englobe le fait de « refaire et défaire » pour récupérer les matériaux qui permettront de créer à nouveau.\n\nL'approche dite « Sankofa Innovation » vise justement à coupler le savoir-faire des créateurs de rue aux connaissances techniques des étudiants et professeurs du secteur STEAM (science, technologie, ingénierie, arts et mathématiques), dans l'idée que pour prospérer, une communauté doit s'appuyer sur son passé (son savoir-faire existant) pour maîtriser les procédés actuels. Cela démontre que la créativité est intrinsèquement liée à la transmission de compétences et à la collaboration intergénérationnelle et interdisciplinaire, en extrayant les méthodes et modèles qui fonctionnent déjà afin de pousser la fabrication locale et mener une économie circulaire."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Xavier St-Germain",
+        "groupe": "flamingo",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "The unexpected math behind Van Gogh's \"Starry Night\"",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai eu la même réaction que toi . C'est aussi drôle que dans ces moments turbulent , l'artiste à été capable de représenté la turbulence dans ses oeuvres d'art."
+                ]
+            },
+            {
+                "titre_du_forum": "A choreographer's creative process in real time",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’éprouve de la difficulté à lire l’expression transmise par les mouvements du corps dans une chorégraphie. Cela s’explique par le fait que chaque mouvement peut, pour moi, évoquer une multitude de significations possibles. Par exemple, dans les mouvements associés au « T » dans la présentation TED, les gestes utilisés pour écraser ou représenter la lettre auraient pu tout aussi bien, à mes yeux, illustrer quelqu’un qui abaisse un objet ou accomplir un geste sans lien direct avec la lettre T. Ainsi, il devient difficile de communiquer un message clair lorsque celui-ci peut être interprété de façons très différentes par chaque observateur.\nCependant, ce qui m’a fasciné, ce sont les chorégraphies de mouvements qui naissent à partir d’un simple élément. Un bon exemple est celui de  lorsqu’il décrit la lettre « E » dans l’espace et parvient à générer une multitude de mouvements simplement en élargissant cette lettre ou en la projetant vers le public. Ce procédé constitue une forme de génération de mouvement particulièrement intrigante et qui représente, selon moi, une approche prometteuse pour développer des chorégraphies."
+                ]
+            },
+            {
+                "titre_du_forum": "Art et math, la turbulence",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Pour avoir étudier les courants turbulent en ingénerie chimique, il est vrait qu'il est très difficile de prédire la turbulence d'un écoulement dans une conduite. Il est très fascinant qu'un peintre ait la capacité de représenté ce phénomène visuel de manière artistique. L'un des facteurs de la créativité est l'état émotionnel d'une personne. Or,c'est  dans les moments les plus turbulent  dans sa vie que Van gogh a été capable de représenté l'état turbulent de l'écoulement . Cette connection a été pour moi un élément très fascinant à constater lors de cette vidéo."
+                ]
+            }
+        ]
+    }
+]
