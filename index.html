@@ -466,7 +466,7 @@
                                 const commentDiv = document.createElement('div');
                                 commentDiv.className = 'comment';
                                 // Basic check for non-empty comment before replacing newlines
-                                const displayComment = commentText ? commentText.replace(/\n/g, '<br>') : '[Commentaire vide]';
+                                const displayComment = commentText ? commentText.replace(/\n/g, '<br>') : '[Pièce jointe]';
                                 commentDiv.innerHTML = displayComment;
                                 forumDiv.appendChild(commentDiv);
                             });
