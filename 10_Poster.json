@@ -1,23 +1,11 @@
 [
     {
-        "utilisateur": "Abdenour Taoufella",
+        "utilisateur": "Adame Oumamass",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "6 moyens pour libérer le potentiel créatif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Voici mon poster"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Ahmed Baba Gah El Hilal",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Améliorer sa Créativité en 6 Points",
+                "titre_du_forum": "La carte au trésor créatif 🏴‍☠️",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     ""
@@ -26,59 +14,12 @@
         ]
     },
     {
-        "utilisateur": "Aimée Christella Emerimana",
-        "total_des_commentaires": 6,
-        "forums": [
-            {
-                "titre_du_forum": "7 pièges à éviter pour améliorer la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve ce poster très expressif et j'aime que tu abordes les facteurs qui ont une influence négative sur la créativité. je trouve qu'on n'a pas beaucoup exploré ces facteurs, et la manière que tu as choisi de les présenter est percutante. est ce que tu aurais des idées de solution  à appliquer pour neutraliser chacun des poisons?"
-                ]
-            },
-            {
-                "titre_du_forum": "5 façons pour améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je suis d'accord avec les stratégies que tu proposes pour améliorer la créativité. Ton post me fait penser à celui sur les 7 poisons de la créativité car je trouve que les solutions que tu proposes sont adaptés aux problématiques qui y sont  présentés. Je trouve qu'il facile de tomber dans la routine et d'être rigide dans nos façons de faire. Bien que ça soit pratique car ca permet de gagner du temps, ou de se mettre en mode automatique, je pense que le défi consiste à accepter de sortir de ce confort et de relever de nouveaux défis dans le processus de réflexion"
-                ]
-            },
-            {
-                "titre_du_forum": "5 jeux pour «BOOSTER» votre créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Le poster est vraiment stylé et j,aime beaucoup les idées de jeux que tu proposes. je pense qu'on peut facilement jouer à ces jeux dans différents contextes."
-                ]
-            },
-            {
-                "titre_du_forum": "Les 6 Superpouvoirs pour dynamiser ta Créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve que ton post résume bien toutes les techniques vues en cours lors des différentes présentation. j'aime les support visuels que utilises, on comprend directement sans avoir à tout lire. c'est super synthétisé"
-                ]
-            },
-            {
-                "titre_du_forum": "6 étapes et questions pour augmenter sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "je me demande si le fait de choisir la méthodologie à appliquer ne limite pas le processus créatif en tant que tel. ne serait-il pas intéressant de laisser les pensées s'orienter librement et appliquer une méthodologie structurée une fois que l'idée est claire?"
-                ]
-            },
-            {
-                "titre_du_forum": "CREATE - Comment favoriser la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "j'aime bien comment tu présente toutes les étapes de  la créativité en utilisant les notions qu'on a abordé en cours. sur l'exploration, je trouve que malheureusement les attentes sociales sont limitantes à ce niveau, car ce n'est pas toujours encouragé. il n'est pas étonnant d'entendre des discours qui qualifient l'exploration de paresse et manque d'ambitions."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Alexandra Jourba",
+        "utilisateur": "Amina Djemah",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "6 manières de booster sa créativité",
+                "titre_du_forum": "Poster stimulation de la créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     ""
@@ -87,11 +28,12 @@
         ]
     },
     {
-        "utilisateur": "Ali Jaidi",
+        "utilisateur": "Anass Siraj",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "6 maniere d'augmenter sa créativité",
+                "titre_du_forum": "6 clés pour libérer sa créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     ""
@@ -100,227 +42,495 @@
         ]
     },
     {
-        "utilisateur": "Alice De Rette",
+        "utilisateur": "Ayoub Issiakhem",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "7 moyens de booster ta créativité",
+                "titre_du_forum": "Améliorer sa créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Voici le poster que j'ai réalisé"
+                    "Poster fait à l'aide de Canva"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Beatriz Andrade-Odar",
+        "utilisateur": "Caroline Gagnon",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "7 façons de d'améliorer votre créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Voici mon poster!Merci!"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "David Potvin",
-        "total_des_commentaires": 2,
-        "forums": [
-            {
-                "titre_du_forum": "CREATE - Comment favoriser la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "L'esthétique et l'aspect théorique sont au rendez-vous à mon avis ! Je trouve cela très intéressant que tu aies trouvé une manière de rassembler ces six principes (très intéressants et faciles à comprendre, en passant) pour favoriser la créativité sous un acronyme simple à retenir, qui fait partie du champ lexical de la 'créativité'. De plus, chaque image que tu as choisie est pertinente et illustre parfaitement le principe auquel elle se rapporte. Par conséquent, cela offre une méthode supplémentaire pour aider les personnes qui lisent le poster à se souvenir des principes que tu proposes."
-                ]
-            },
-            {
-                "titre_du_forum": "6 MÉTHODES EFFICACES POUR AMÉLIORER TA CRÉATIVITÉ",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Emile Fournier",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "5 façon d'améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Voici mon poster"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Emmanuel Merakos",
-        "total_des_commentaires": 2,
-        "forums": [
-            {
-                "titre_du_forum": "7 moyens d'être plus créatif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ça rend vraiment bien ! Le format, les dessins et le style \"post-it\" rendent le tout super facile à lire et à comprendre, probablement pour tous les âges. Beau boulot !"
-                ]
-            },
-            {
-                "titre_du_forum": "5 ways to be more creative poster",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Fatima Zahra Diker",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "comment améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "François Tourigny",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "CREATE - Comment favoriser la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Giacomo Giacca",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "6 ways to improve your creativity - Postcards",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Creativity is like a collection of postcards: each one captures a unique idea, a moment in the creative journey. Just as postcards bring stories from different places, each technique for enhancing creativity opens up new discoveries and perspectives. Every postcard adds to the full picture, just as every idea, technique, and experience enriches the creative path of our life. To bring this concept, I used freehand writing on each card to make them feel like authentic postcards."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Guillaume De Palma Demers",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "6 pilliers de la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Ismaël Mohammed",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Poster - 5 méthodes pour stimuler la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Kenza Baspin",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "8 façons d'améliorer votre créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Bonjour, voici ma revisite des 8 façons d'améliorer votre créativité"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Kevin Doyle",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "8 façons d'améliorer la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Khalid Hamid",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "7 pièges à éviter pour améliorer la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Une nouvelle approche pour découvrir les 7 pièges à éviter afin de stimuler et protéger la créativité."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Kirollos Guendi",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "6 Principes clés pour stimuler votre créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Louis-Philippe Bock",
-        "total_des_commentaires": 2,
         "forums": [
             {
                 "titre_du_forum": "Poster",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Clémentine Chailleux",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Improve your creativity (ice cream edition)",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Dounia Hage",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "La carte au trésor créatif 🏴‍☠️",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve ton poster vraiment original, l’idée de la carte au trésor représente bien le processus créatif. On voit clairement les étapes comme la divergence et les contraintes, donc c’est bien lié au cours."
+                ]
+            },
+            {
+                "titre_du_forum": "La créativité comme entraînement",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'’ai voulu représenter la créativité comme un entraînement de natation, parce que comme dans le sport, elle se développe avec la pratique, les essais/erreurs et l’environnement. Je me suis basé sur les concepts vus en cours comme le rôle du besoin, de la discipline et du bagage technique. Étant moi-même nageuse, c’est ce qui m’a donné l’idée de faire ce parallèle.Note: Utilisation de AI pour simuler l'image (Chat GPT)"
+                ]
+            },
+            {
+                "titre_du_forum": "Poster",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve l’idée intéressante parce que c’est une situation concrète, donc ça sort des exemples classiques."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Emilien Bel",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "poster créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Voici une version design"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Emma-Rose Martineau",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "An article about creativity from the magazine ten voge",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'aime vraiment la façon comment tu as représenté les façons d'améliorer la créativité. C'est différent et tu sors du contexte plus scolaire. L'esthétique du poster est super intéressant aussi"
+                ]
+            },
+            {
+                "titre_du_forum": "Un voyage vers la créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai voulu créer un processus, en faisant un parallèle avec les différentes étapes du voyage, qui pourrait favoriser le développement d'idées créativesUn modèle Canva a été adapté pour ce poster."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Erika Vaillancourt",
+        "groupe": "Loutre",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "8 façons de développer sa créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            },
+            {
+                "titre_du_forum": "Manifeste de l'astronaute créatif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Très original comme Poster, j'adore le thème de l'espace et la création de nouvelle galaxie"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Francis Trahan",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "poster Francis",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Poster fait manuellement"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Gabriel Asselin",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Poster créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Voici mon poster !Poster\n[Fichier joint : Poster]"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Grégory Lagrandcourt",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Stimuler sa créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je ne maitrise pas très bien les outils comme Canva et autre pour le design, donc j'ai opté pour la génération d'image (moyen de mettre en pratique l’idée que la créativité n’est pas réservée aux artistes !), à partir des 6 étapes que j'ai retenu pour mes projets perso et qui me semblent pertinentes."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Jason Nader",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Poster - Thématique soccer",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Générer à l'aide de l'intélligence artificielle."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "John Abou Nakoul",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Poster ameliorer creativite",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Julien Légaré",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Comment stimuler sa créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le poster à été fait avec l'outil Canvas"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Juliette Morency",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Le trajet de métro créatif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Image générée par ChatGPT"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Juliette Saint-Germain",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "6 trucs pour améliorer sa créativité!",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Khaoula Wakkach",
+        "groupe": "Loutre",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "An article about creativity from the magazine ten voge",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai représenté le poster comme s’il était tiré d’un magazine pour adolescent(e)s, car je trouve ce format à la fois attirant et amusant. Tout a été réalisé sur Canva."
+                ]
+            },
+            {
+                "titre_du_forum": "Poster creativite",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Tellement originale comme idée ! Ça m’a vraiment impressionné."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Kiné Marie Dieng",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "6 jours où tu développes ta créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Poster \"6 jours où tu développes ta créativité\""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Malika Mandiaba Diaby",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Poster",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'image des ceintures a été générée sur chat GPT et le montage réalisé sur Canva."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Maria Fernanda Facetti",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Poster",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Note: L'image a été générée à l'aide de copilot"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Maya Zedek",
+        "groupe": "Loutre",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "La carte au trésor créatif 🏴‍☠️",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ton poster est très original!"
+                ]
+            },
+            {
+                "titre_du_forum": "Poster au sujet de la créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Voici un poster que je suggère quand il s'agit d'expliquer brièvement le concept de créativité"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mélodie Thomas",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "6 conseils pour (ne pas) améliorer sa créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mohamed Benbrika",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "6 clés pour cultiver sa créativité ;)",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Fait sur Canva"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mohamed Waridi Bennouna",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Menu de la créatvité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'aime beaucoup, les prix sont abordables !"
+                ]
+            },
+            {
+                "titre_du_forum": "Poster",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Réalisé sur Canvas (petit clin d'oeil nostalgique !)"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nofissa Khaif",
+        "groupe": "Loutre",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Cultiver sa créativité 🌱💐",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai bien aimé ton analogie avec le fait de cultiver une plante, ça permet de faire un lien entre les concepts de façon original"
+                ]
+            },
+            {
+                "titre_du_forum": "Poster",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai imaginé la créativité comme une salle de contrôle où chaque commande active une façon différente de stimuler nos idéesNote: Visuel réalisé avec l’aide de ChatGPT"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Olivia Danan",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Menu de la créatvité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Rayane Ighil",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Stimuler sa créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Richema Métellus",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Poster - Le Sandwich Créatif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le rendu final (l’image présentée ici) a été généré par Chatgpt."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Rim Zoglat",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Cultiver sa créativité 🌱💐",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ryan Llaguri",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Poster Ryan",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Source: ChatGPT"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sara-Maude Sauvé",
+        "groupe": "Loutre",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Boost your creativity",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Wow très joli!"
+                ]
+            },
+            {
+                "titre_du_forum": "Poster!!",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Voici mon poster!"
                 ]
-            },
-            {
-                "titre_du_forum": "6 façons de stimuler la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Voici mon poster!cid:2D0F797F-A8E2-4AF3-9306-C82592466E1C"
-                ]
             }
         ]
     },
     {
-        "utilisateur": "Lydia Ouaret",
+        "utilisateur": "Selma Bicha",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "5 jeux pour «BOOSTER» votre créativité",
+                "titre_du_forum": "Boost your creativity",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     ""
@@ -329,11 +539,12 @@
         ]
     },
     {
-        "utilisateur": "Marcien Fossuo Fokam",
+        "utilisateur": "Serafin Saritsky Ramirez",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "10 conseils pour développer sa créativité",
+                "titre_du_forum": "Ameliorer sa creativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     ""
@@ -342,25 +553,12 @@
         ]
     },
     {
-        "utilisateur": "Marina Guendi",
-        "total_des_commentaires": 2,
-        "forums": [
-            {
-                "titre_du_forum": "Marina Guendi - Poster",
-                "nbre_de_commentaires": 2,
-                "commentaires": [
-                    "",
-                    "Suite aux similitudes avec le poster de Kenza, voici une nouvelle version modifiée que j’ai préparée pour refléter mes propres idées tout en respectant l’inspiration initiale."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Martin Creuze",
+        "utilisateur": "Serena-Mputu Nkongolo",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "6 façons d'améliorer sa créativité",
+                "titre_du_forum": "Booster sa créativité, c'est comme s'entraîner au gym!",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     ""
@@ -369,358 +567,85 @@
         ]
     },
     {
-        "utilisateur": "Massine Azzoug",
+        "utilisateur": "Thibault Fourvel",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Essor de Créativité",
+                "titre_du_forum": "Manifeste de l'astronaute créatif",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "5 Points qui permettent de trouver de nouvelles perspective d'idées et d'entrainer son cerveau pour une meilleur fléxibilité mentale"
+                    "La créativité est un univers entier à explorer. Voici quelques conseils pour votre exploration spatiale :"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Matéo Farines",
+        "utilisateur": "Wadie Aymen Ghennani",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "6 moyens pour développer votre créativité.",
+                "titre_du_forum": "Booster votre Créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    ""
+                    "Voici ci joint mon Poster: Booster votre créativité. les idées sont les miennes et l'idée du visuelle mais j'ai utilisé l'IA pour finaliser le poster."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Matis Hogue",
-        "total_des_commentaires": 2,
-        "forums": [
-            {
-                "titre_du_forum": "8 façon d'être créatif",
-                "nbre_de_commentaires": 2,
-                "commentaires": [
-                    "Voici mon poster!",
-                    "voici mon poster!"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Mewen Le Cam",
+        "utilisateur": "Warda Belem",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "6 ways to improve your creativity",
+                "titre_du_forum": "Les clés de la créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    ""
+                    "Illustration générée à l’aide de ChatGPT ; contenu original de ma part."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Mountaga Camara",
+        "utilisateur": "William Parker",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Visuel pour Améliorer sa créativié",
+                "titre_du_forum": "Poster créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    ""
+                    "Note: L'image a été générée à l'aide de Chatgpt.com"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Myriam Veaute",
+        "utilisateur": "Yacine Barka",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "5 manières pour améliorer sa créativité",
+                "titre_du_forum": "5 façons de développer sa créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    ""
+                    "Note : Les images ont été générées avec l'IA"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Niamké Jean-Félix Ahonzo",
-        "total_des_commentaires": 6,
-        "forums": [
-            {
-                "titre_du_forum": "6 pilliers de la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut Guillaume, j'aime bien ton affiche mais ça laisse à se questionner quand tu parler d'oser faire l'impensable haha! Mais je comprends très bien ton point, c'est la phrase qui m'a le plus captivé!"
-                ]
-            },
-            {
-                "titre_du_forum": "comment améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut Fatima, c'est un beau poster, avec le fond de cirque qui donne un air amusant et fun. J'aime bien le fait que tu aies mentionné qu'il faille être curieux pour améliorer sa créativité et je trouve que ça fait un bon parallèle avec ce qu'on a vu en classe. Comme quoi, la créativité ça se nourrit!"
-                ]
-            },
-            {
-                "titre_du_forum": "8 façon d'être créatif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut Matis, j'aime ton point sur l'exposition à des sources d'inspirations variées. être en constante condition d'apprentissage, se cultiver davantage, exposer son cerveau à la connaissance et même au divertissement, c'est comme si on lui apporte de l'eau fraîche constamment on peut etre donc sur de notre processus créatif à long terme"
-                ]
-            },
-            {
-                "titre_du_forum": "7 pièges à éviter pour améliorer la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'adore ton poster Khalid, le visuel surtout. Rien à dire. Surtout le gars en haut qui est totalement perdu et cloisonnée. L'image exprime bien comment nos peurs peuvent nous emprisonner et nous empêcher d'exploiter notre potentiel créatif"
-                ]
-            },
-            {
-                "titre_du_forum": "5 façons pour améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut Nisrine, ton premier point est vraiment accurate. Quand on est confronté à d'autres situations dont on avait pas l'habitude, le cerveau commence a développer des réflexes, des mécanismes de pensées, il explore, analyse, génère des idées etc.. Au delà de ça, j'aime le fait que ton poster est sobre et clair."
-                ]
-            },
-            {
-                "titre_du_forum": "CREATE - Comment favoriser la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime bien la sorte de petit chemin à gauche avec les lettres. Ça illustre une sorte de chemin créatif."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Nisrine Hamroun",
+        "utilisateur": "Yassine Seddaoui",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "5 façons pour améliorer sa créativité",
+                "titre_du_forum": "Poster creativite",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Voici mon poster des 5 façons pour améliorer sa créativité. Bonne lecture"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Noël Mhanna",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Les 6 Superpouvoirs pour dynamiser ta Créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Ravy Por",
-        "total_des_commentaires": 2,
-        "forums": [
-            {
-                "titre_du_forum": "6 étapes et questions pour augmenter sa créativité",
-                "nbre_de_commentaires": 2,
-                "commentaires": [
-                    "Un aide-mémoire en 6 étapes avec quelques questions",
-                    "j'ai ajouté une 7e étape"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Sara Beddouch",
-        "total_des_commentaires": 17,
-        "forums": [
-            {
-                "titre_du_forum": "5 façon d'améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je suis d'accord avec ton point sur les pauses. Il ne faut pas avoir peur de se ressourcer afin de reprendre de l'énergie. De plus, le simple fait de faire autre chose, comme une marche à l'extérieur, fait travailler notre esprit et nous aide ainsi à trouver d'autres solutions."
-                ]
-            },
-            {
-                "titre_du_forum": "Poster",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut,\nJe trouve que le point 2 est original ! Il est vrai que notre état d'esprit peut impacter notre créativité. Être positif et enthousiaste peut nous aider à accepter des idées qui répondent mieux au problème, mais que nous aurions potentiellement rejetées sous un état d'esprit plus négatif."
-                ]
-            },
-            {
-                "titre_du_forum": "8 façons d'améliorer la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Bonjour,\nJ'aime bien le premier point à propos du brainwriting. Le fait d'échanger les feuilles pousse les collègues à mélanger leurs idées et créer des solutions plus créatives qui ne seraient pas apparues individuellement."
-                ]
-            },
-            {
-                "titre_du_forum": "Visuel pour Améliorer sa créativié",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Bonjour,\nJe suis bien d'accord avec l'idée de prendre des pauses. Il est trop facile de se laisser absorber par son travail, et cela peut nous nuire si on ne prend pas de pauses pendant plusieurs heures. Le fait de se reposer quelques minutes et de quitter son poste de travail permet de se ressourcer afin de trouver de nouvelles idées.\nCependant, je dois avouer que l'affiche est un peu difficile à lire. \nPar curiosité, combien de temps cela a pris pour avoir une image d'IA comme celle-ci, sachant que le \"prompting\" peut prendre beaucoup de temps et surtout avec de l'écriture dans l'image ?"
-                ]
-            },
-            {
-                "titre_du_forum": "Améliorer sa Créativité en 6 Points",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Bonjour Ahmed,\nJe suis bien d'accord avec le point 3. Il faut parfois forcer notre esprit à être ouvert aux idées qui pourraient ne pas nous paraître adéquates. Collecter des solutions variées peut nous permettre d'éveiller des connexions inattendues."
-                ]
-            },
-            {
-                "titre_du_forum": "5 Approches pour le développement de sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut Yasmine,\nJ'adore ton point sur considérer l'échec comme une opportunité ! En effet, l'échec nous donne une opportunité d'introspection. Cela peut ouvrir notre esprit à trouver des solutions alternatives qui seraient encore meilleures que nos idées initiales."
-                ]
-            },
-            {
-                "titre_du_forum": "Marina Guendi - Poster",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime bien le point 2 sur les nouvelles activités ! Cela peut nous pousser hors de notre zone de confort, ce qui ouvre nos horizons.\nAs-tu utilisé du AI pour générer l'image correspondant au titre ? L'écriture est rigolote !"
-                ]
-            },
-            {
-                "titre_du_forum": "6 pilliers de la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Bonjour Guillaume,\nJe suis bien d'accord avec la bulle à propos d'explorer de nouveaux domaines. Explorer d'autres champs peut nous donner une meilleure perspective à haut niveau sur le contexte de ce sur quoi on travaille, ce qui peut impacter positivement notre approche."
-                ]
-            },
-            {
-                "titre_du_forum": "comment améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Bonjour,\nJe suis d'accord avec ton point sur la collaboration. De plus, j'ajouterais que plus les gens avec qui on travaille sont différents de nous, plus cela nous ouvre à des idées différentes, et ainsi, plus de créativité.\nBon travail et joli poster !"
-                ]
-            },
-            {
-                "titre_du_forum": "8 façon d'être créatif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime bien ton point sur le changement d'environnement. J'aimerais rajouter que s'il n'est pas possible de se déplacer à une autre adresse complètement, le simple fait de se déplacer dans une autre pièce peut aider aussi. Par exemple, travailler dans le salon ou la cuisine au lieu de rester dans sa chambre peut aussi nous aider à changer nos idées. De plus, prendre des pauses de 5 minutes à chaque heure en sortant de la pièce peut aussi nous aider à sortir nos idées."
-                ]
-            },
-            {
-                "titre_du_forum": "7 pièges à éviter pour améliorer la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je suis bien d'accord avec ton point sur les connaissances biaisées. C'est un défi constant et nous devons constamment nous replacer afin de s'assurer que les informations que nous absorbons ne font pas que réaffirmer nos biais afin d'ouvrir notre esprit. J'aime bien le style que tu as utilisé ainsi que l'idée de montrer des points négatifs au lieu des points positifs. Bravo !"
-                ]
-            },
-            {
-                "titre_du_forum": "5 façons pour améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut, je suis bien d'accord avec le point 3 sur les contraintes. Le fait de rajouter des contraintes nous force à réfléchir afin de trouver des solutions qui sont plus créatives et qui n'auraient pas apparu sans ces dernières."
-                ]
-            },
-            {
-                "titre_du_forum": "5 jeux pour «BOOSTER» votre créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime beaucoup le style de l'affiche. Je trouve sympa les jeux que tu proposes, surtout que cela peut détendre l'atmosphère et rendre la séance d'idéation plus ludique, et qui sait, plus créative."
-                ]
-            },
-            {
-                "titre_du_forum": "Les 6 Superpouvoirs pour dynamiser ta Créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime bien le thème de bande dessinée de super héros afin de synthétiser les techniques de créativité. Cela résume bien ce qu'on a vu en classe."
-                ]
-            },
-            {
-                "titre_du_forum": "6 étapes et questions pour augmenter sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve intéressant le point 4 sur les cinq sens, mais as-tu pensé à la méditation pour augmenter la créativité ? C'est-à-dire qu'on pourrait utiliser la méditation et d'autre techniques de contemplation afin d'ouvrir notre esprit et se laisser aller dans des idées plus inhabituelles qu'à l'habitude."
-                ]
-            },
-            {
-                "titre_du_forum": "7 moyens d'être plus créatif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime bien les points 4 et 5 ! Il est clair que discuter avec des gens bien différents de soi peut ouvrir nos horizons et être alerte aux points de vue différents.\nJ'aime bien l'idée de jouer afin de creuser la curiosité. Je l'ai déjà essayé et je ressens que ça a fonctionné!"
-                ]
-            },
-            {
-                "titre_du_forum": "6 Techniques Pour Stimuler la Créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Selyan Boukaroura",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "7 moyens d'être plus créatif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Bonjour ! Voici mon poster proposant 7 moyens de booster sa créativité !Bonne lecture"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Tamara Kalout",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "5 façons d'améliorer sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Théo Dubus",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "6 façons de stimuler sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "6 façons de stimuler sa créativité"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Yasmine Chaabouni",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "5 Approches pour le développement de sa créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Ying Chen Gao",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "5 façons d'améliorer votre créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    ""
+                    "J'ai fait mon poster sous forme d'un site web interactif (on peut cliquer sur les sections pour plus d'info)https://yassine128.github.io/Creativite/"
                 ]
             }
         ]

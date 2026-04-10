@@ -1,611 +1,707 @@
 [
     {
-        "utilisateur": "Ahmed Baba Gah El Hilal",
+        "utilisateur": "Amina Djemah",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "LEGO Serious Play",
+                "titre_du_forum": "Des cannettes de Monster transformée en monstres",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "On sait tous que jouer aux legos joue un rôle essentiel dans le développement de la créativité, de l'intuition et des compétences en résolution de problèmes chez les enfants. Ils suivent d'abord les instructions des manuels pour assembler le modèle spécifique du manuel mais une fois les compétences de base acquises, ils finissent par explorer leur imagination en créant leurs propres ensembles et structures sans guide prédéfini, ce qui stimule leur capacité à innover et à expérimenter différentes combinaisons.J'ai récemment découvert le principe du programme LEGO Serious Play qui est une méthodologie qui utilise les briques LEGO pour favoriser la pensée créative et la résolution de problèmes dans des contextes professionnels. Les adultes utilisent LEGO Serious Play comme un outil de détente, mais aussi comme un moyen de brainstorming et de facilitation de processus créatifs au sein des entreprises. Comme quoi on peut jouer au legos même en travaillant."
+                    ""
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Aimée Christella Emerimana",
-        "total_des_commentaires": 10,
+        "utilisateur": "Antoine Lévesque",
+        "groupe": "Loutre",
+        "total_des_commentaires": 5,
         "forums": [
             {
-                "titre_du_forum": "Une poubelle de tri intelligente",
+                "titre_du_forum": "Art et créativité - Un mythe intemporel ?",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "hello\nJe suis un cours sur la valorisation de déchets et je trouve que ton idée de poubelle intelligente est vraiment révolutionnaire ! Imaginer un système capable non seulement de trier automatiquement les déchets, mais aussi de les valoriser directement, c’est une vision ambitieuse qui pourrait transformer notre manière de gérer les déchets à domicile.\nCela dit, il faut reconnaître que ce genre de technologie pose des défis techniques importants. Un tri automatique aussi sophistiqué nécessiterait des capteurs avancés, comme ceux utilisés dans le tri optique industriel, capables d'identifier les matériaux en fonction de leur composition. Ces technologies, bien que déjà existantes dans des centres de tri spécialisés, restent complexes et coûteuses, ce qui pourrait rendre un tel produit difficilement accessible pour un usage domestique.\nPour ce qui est de la transformation des déchets, l’idée de convertir les organiques en compost directement est déjà partiellement réalisable grâce à des solutions comme le Lomi ou le FoodCycler. Ces appareils de compostage à domicile transforment les restes de nourriture en compost en quelques heures. Bien qu’ils soient pratiques, ils ont eux aussi un coût non négligeable, ce qui limite leur adoption massive.\nTon projet, en intégrant à la fois le tri et la valorisation, pourrait aller encore plus loin, mais il faudrait sûrement un temps d’adaptation technologique et une baisse des coûts avant que cela devienne une solution viable pour le grand public."
+                    "J’ai trouvé cette réflexion vraiment intéressante, surtout parce qu’elle nuance bien l’idée qu’art et créativité sont automatiquement la même chose. J’aime le fait que le texte montre l’évolution de l’art à travers le temps, comme quelque chose qui se transforme avec les besoins, les techniques et la manière de voir le monde. Ça rappelle aussi que la créativité peut exister ailleurs que dans l’art, même si l’art en reste une expression très forte. Penses-tu qu'aujourd’hui encore, on associe trop facilement la créativité seulement au domaine artistique ?"
                 ]
             },
             {
-                "titre_du_forum": "Love, Death & Robots",
+                "titre_du_forum": "Chaîne Youtube Télé-Québec",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "j'ai découvert la série Love, Death & Robots cet été et vraiment je suis d'accord que c'est un vrai bijou en termes de créativité. Le format anthologique permet vraiment d’explorer des idées variées et originales, et chaque épisode apporte une expérience unique. Ce mélange de science-fiction, d’art et de philosophie donne des récits qui sont à la fois immersifs et percutants. Chaque épisode, c’est comme ouvrir un nouveau coffre au trésor : tu sais pas ce que tu vas trouver, mais t’es sûr que ça va te marquer.\n\nCe qui m’a le plus marqué, marqué, c’est cette capacité à mélanger science-fiction, philosophie, et art de manière si fluide. Genre, t’as des épisodes qui te scotchent avec des visuels de dingue, où le moindre détail visuel ou sonore te met dans l’ambiance. Et puis d’autres qui te surprennent avec des choix artistiques hyper audacieux, comme utiliser la danse ou des styles d’animation ultra-expérimentaux pour raconter des trucs super profonds.Cette diversité enrichit tellement l’ensemble et donne une vraie profondeur à la série.\nChaque épisode a son identité propre, mais tous partagent cette volonté de repousser les limites de la narration visuelle. C’est à la fois divertissant et réfléchi, et ça montre à quel point la fiction spéculative peut être innovante"
+                    "J’ai trouvé cette publication vraiment intéressante, surtout parce qu’elle montre qu’on peut faire preuve de créativité tout en valorisant le patrimoine. Je trouve ça cool que la rénovation de cette maison allumette permette de conserver un élément du passé tout en lui donnant une nouvelle vie. Ça prouve aussi que la créativité n’est pas seulement dans l’invention de quelque chose de complètement nouveau, mais aussi dans la manière de transformer et réinterpréter ce qui existe déjà. Penses-tu que ce type de projet est une des meilleures façons de rendre le patrimoine plus vivant et accessible aujourd’hui ?"
                 ]
             },
             {
-                "titre_du_forum": "LifeStraw, une réponse innovante aux crises humanitaires",
-                "nbre_de_commentaires": 2,
+                "titre_du_forum": "Et si on utilisait les rêves...",
+                "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "LifeStraw, un dispositif de filtration d’eau portable révolutionnaire. Imaginé à l’origine pour fournir une solution pratique aux populations vivant dans des zones confrontées à une pénurie d’eau potable, LifeStraw s’est imposé comme un outil essentiel en situation de crise humanitaire, tout en gagnant en popularité auprès des aventuriers et survivalistes.Le concept initial est simple mais brillant : un filtre en forme de paille capable de purifier jusqu'à 4 000 litres d’eau, soit assez pour une personne pendant environ trois ans. Grâce à une technologie de membranes en fibres creuses, il élimine 99,999% des bactéries, des microplastiques et des protozoaires, sans nécessiter de piles ou de produits chimiques. Les modèles plus récents, comme LifeStraw Flex ou LifeStraw Home, vont encore plus loin en filtrant des contaminants comme le plomb et d'autres métaux lourds.Cette créativité va au-delà de l’objet lui-même : LifeStraw a également été conçu pour des déploiements en grande échelle lors de catastrophes naturelles, comme les séismes en Haïti en 2010 ou les inondations au Pakistan la même année. Les dispositifs gravitent aussi autour d’un impact social fort, avec des programmes qui ont fourni de l’eau potable à plus d’un million d’enfants dans les écoles rurales du Kenya.",
-                    "Oui, je suis d'accord avec toi, malheureusement ce sont les personnes qui en ont le moins besoin qui peuvent se l'offrir. Ce qui m’étonne encore plus, c’est le manque de projets inspirés par celui-là. On pourrait imaginer des alternatives moins coûteuses ou des partenariats stratégiques avec des ONG, des associations ou même des initiatives locales dans les zones où l’accès à l’eau potable est une véritable urgence.\n\nIl est surprenant que cette technologie innovante, qui a pourtant un potentiel humanitaire énorme, ne soit pas davantage adaptée ou répliquée pour répondre aux besoins des populations vulnérables. Cela soulève aussi une question importante sur la responsabilité des entreprises innovantes : jusqu’où devraient-elles aller pour s’assurer que leurs produits bénéficient aux personnes qui en ont vraiment besoin ? Peut-être qu’avec plus de sensibilisation ou de pression de la part des leaders il y aurait une différence?"
+                    "Je trouve ça vraiment intéressant, parce que ça rejoint bien l’idée vue en cours que la créativité ne part pas de rien, mais d’éléments déjà présents dans notre tête. Les rêves donnent un peu l’impression que le cerveau mélange librement plein de souvenirs, d’images et de sensations pour créer quelque chose de nouveau. Je pense que c’est peut-être pour ça qu’on peut parfois avoir des idées originales après avoir rêvé, même si tout semble bizarre sur le coup. Est-ce que vous pensez que les rêves pourraient être une forme de créativité “inconsciente” du cerveau ?"
                 ]
             },
             {
-                "titre_du_forum": "Les bonnets en satin pour protéger les cheveux crépus",
+                "titre_du_forum": "La lumiere tamisée favoriserait la créativité ?",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Oh wow Félix, je suis trop contente que tu partages ça ! La protection des cheveux afro, c’est vraiment un sujet important et, honnêtement, une belle opportunité pour montrer de la créativité. C’est fou à quel point c’est souvent oublié. Y’a tellement peu de marques qui proposent des produits adaptés pour ce type de cheveux, et franchement, c’est super frustrant. Alors savoir que quelqu’un a pris l’initiative de répondre à ce besoin, ça me fait vraiment plaisir !\n\nD'ailleurs, il n'y a pas longtemps je cherchais un bonnet de piscine, et devine quoi ? J’ai dû passer une commande spéciale, parce que les bonnets qu’on trouve partout sont faits pour des cheveux fins et sont beaucoup trop petits. Sérieusement, c’est pas pratique du tout. Alors oui, je salue complètement cette invention, c’est tellement nécessaire. Merci encore d’avoir partagé ça !"
+                    "J’ai trouvé ce point vraiment intéressant, surtout parce qu’il montre que l’environnement peut influencer la créativité de façon plus subtile qu’on le pense. J’aime aussi la nuance apportée entre “sortir de sa zone de confort” et simplement se sentir moins observé ou moins jugé, parce que ce n’est pas du tout la même chose. Ça rejoint bien l’idée que la créativité peut être favorisée quand on se sent plus libre psychologiquement et moins dans l’auto-censure. Penses-tu qu’on pourrait appliquer ce principe à d’autres aspects de l’environnement, comme le bruit, l’espace ou même la présence d’autres personnes ?"
                 ]
             },
             {
-                "titre_du_forum": "\"Poésie en live\"",
+                "titre_du_forum": "Maud Cohen sur développement du campus",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "okok super bon concept j'adore. Pour quelqu'un qui aime écrire je trouve que c'est une bonne idée pour booster la créativité parce que parfois, l'envie d'écrire est là mais le sujet peut parfois être difficile à trouver pour tout canaliser. Ton idée est large et très peu contraignant, j'aime l'idée d'écrire de short poems pour des inconnus. je vais absolument essayer de le faire et c'est sûr que je crée une page insta pour partager mes mini créations. Une autre chose que je trouve cool dans ton idée c'est que ça oblige d'utiliser un crayon et du papier, chose que je fais moins quand je compose parce que mon réflexe est d'utiliser le téléphone. il y a vraiment une valeur artistique ajoutée au fait d'utiliser les médiums traditionnels, et ça permet d'annoter directement pour explorer plusieurs idées en même temps."
-                ]
-            },
-            {
-                "titre_du_forum": "Eugène Freyssinet - Béton Précontraint",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C’est fascinant de voir comment une observation pratique a pu conduire à une innovation aussi majeure que le béton précontraint ! Freyssinet a vraiment su utiliser les propriétés intrinsèques des matériaux à son avantage. Le béton, avec sa résistance exceptionnelle à la compression mais sa faiblesse en traction, est un bon exemple de matériau anisotrope en termes de contraintes. En revanche, l’acier, super résistant en traction, vient parfaitement compenser ce défaut.\nL’idée de précontraindre le béton, c’est un peu comme si on anticipait les \"points faibles\" du matériau pour les neutraliser avant qu’ils ne deviennent un problème. Pour quelqu'un en génie chimique, je vois ça comme une optimisation  d'un procédé en modifiant les conditions initiales pour garantir que le produit final fonctionne au mieux, ici en \"préchargeant\" la matrice de béton.\nEt ce qui est malin, c’est que cette compression préliminaire ne modifie pas la structure chimique du béton, mais agit directement sur sa répartition des contraintes mécaniques. Résultat : des ponts, des dalles et même des tours qui peuvent supporter des charges bien plus importantes tout en étant plus légers. C’est génial de voir la chimie et la mécanique des matériaux travailler main dans la main comme ça !\n\nenfin une invention qui touche le génie"
-                ]
-            },
-            {
-                "titre_du_forum": "Danse -  Révolution",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "salut,\nC'est nice de lire votre réflexion sur cette performance! meme si tu ne te considère pas comme un expert en danse, ton observation sur les mouvements, les émotions et la connexion entre les danseurs montre que tu as été très attentif aux détails essentiels qui rendent une performance mémorable.\n\nLes distorsions corporelles et les expressions faciales que tu mentionne sont des éléments souvent utilisés pour raconter une histoire et transmettre des émotions dans la danse contemporaine ou expressive. Cela montre que les artistes ont su établir un lien avec le public, ce qui est l’un des objectifs principaux de ce genre de performance.\nLe fait que les mouvements semblaient synchronisés avec la musique et se fondaient harmonieusement dans l’ensemble de la chorégraphie souligne également leur maîtrise technique et leur sens artistique"
-                ]
-            },
-            {
-                "titre_du_forum": "Martial Richoz",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Wow, quelle histoire! Martial Richoz, alias \"l'homme-bus\", c'est vraiment un personnage unique en son genre. C’est tellement touchant de voir comment il a transformé son amour des trolleybus et sa situation en quelque chose de créatif et complètement hors du commun. il a littéralement inventé son propre monde, avec des passagers imaginaires, des horaires, des bruits de bus... Franchement, ça force l’admiration !\nEt ce qui est encore plus beau, c’est que ses chariots se retrouvent dans la Collection de l'Art Brut. Ça prouve à quel point sa démarche, aussi atypique soit-elle, a une valeur artistique et humaine. Il n’a pas eu besoin de suivre des règles ou de chercher à plaire : il a juste exprimé ce qu’il avait en lui, de la manière la plus sincère et spontanée possible. C’est ça, de l’art brut! Cette pureté et cette authenticité qu’on ne retrouve pas forcément dans l’art \"traditionnel\"."
-                ]
-            },
-            {
-                "titre_du_forum": "Jordan Peterson - IQ and creativity link",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C’est super intéressant comme réflexion, et je suis totalement d’accord avec l’idée que créativité et intelligence, même si elles sont liées, ne vont pas forcément toujours de pair. T’as beau avoir un QI qui crève le plafond, si tu restes bloqué dans des schémas trop rigides, tu risques de passer à côté de l’originalité.\n\nLa vraie créativité, c’est cette capacité à sortir des sentiers battus, à connecter des idées qui semblent incompatibles au premier abord, et surtout à transformer tout ça en quelque chose de concret. Ce n’est pas juste une question d’intelligence brute, mais aussi de curiosité, de persévérance et, franchement, de culot parfois.\n\nEt puis, comme tu dis, l’environnement joue un rôle énorme. Si t’es dans un contexte où tu peux expérimenter, te tromper, recommencer, c’est là que la magie opère. Parce que la créativité, c’est pas juste avoir des idées : c’est les pousser jusqu’à ce qu’elles prennent vie, même si ça veut dire échouer un paquet de fois avant d’y arriver.\nBref, le QI, c’est cool, mais sans cette petite étincelle de folie et une bonne dose de motivation, ça reste un potentiel qui dort."
+                    "Je trouve ça vraiment intéressant comme idée, parce qu’on parle souvent de créativité de façon très abstraite, mais beaucoup moins des espaces concrets qui peuvent réellement la favoriser. J’avoue que je suis aussi curieux de voir à quoi vont ressembler ces environnements, parce que ce n’est pas juste une question de mettre du matériel créatif, mais surtout de créer un lieu qui donne envie d’échanger, tester et réfléchir autrement. Je pense que l’aménagement d’un campus peut vraiment avoir un impact sur la manière dont les étudiants collaborent et développent leurs idées."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Ali Jaidi",
+        "utilisateur": "Caroline Gagnon",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Eugène Freyssinet - Béton Précontraint",
+                "titre_du_forum": "Pinterest",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Eugène Freyssinet a découvert le principe du béton précontraint en observant le comportement du béton lors de la construction de ponts en béton armé. Il a constaté que le béton, bien qu'excellent en compression, présentait des faiblesses en traction, entraînant des fissures et des déformations. Pour remédier à ces problèmes, il a eu l'idée d'appliquer une compression initiale au béton en tendant des câbles d'acier avant le coulage. Une fois le béton durci, la libération de la tension des câbles transférait une force de compression au béton, augmentant ainsi sa résistance aux forces de traction. Cette innovation a été brevetée en 1928 et a révolutionné la construction en permettant la réalisation de structures plus légères et plus résistantes."
+                    "J’aime beaucoup utiliser l’application Pinterest, particulièrement pour trouver de l’inspiration en décoration et en mode. Ce qui me plaît le plus est la grande variété d’idées proposées, qui me permet d’explorer différents styles et façons de créer avec des objets du quotidien. Parmi les images qui m’inspirent, certains items se démarquent par leur originalité et leur créativité.1. Rangement à bijoux2. Chandelier en CD pour un effet boule disco3. Magazine effet texturé"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Alice De Rette",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Martial Richoz",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Martial Richoz est une personnalité suisse, né à Lausanne. Il est passionné par les trolleybus, mais à cause de son invalidité il ne peut pas devenir conducteur. Il conçoit donc des chariots, ressemblant à des bus, qu'il \"conduit\" dans Lausanne. Il respecte des horaires et des tracés précis, parle à des passagers imaginaires auxquels il vend des ticket, imite les bruits du bus. Il est surnommé : \"l'homme bus\". Michel Etter réalise notamment un film documentaire sur lui en  1983 : Martial dit l'homme-bus.Ses chariots sont encore conservé dans à la Collection de l'Art Brut à Lausanne. L'art brut désigne des créations artistiques réalisées en dehors des circuits officiels de l'art, souvent par des individus sans formation artistique ou par des personnes en situation de marginalité. Ces œuvres sont caractérisées par leur spontanéité, leur authenticité et leur absence de contraintes esthétiques ou techniques. La créativité dans l'art brut se manifeste par une expression libre et sans filtre des émotions, des expériences et des idées de l'artiste. Loin des normes académiques, les artistes d'art brut créent des œuvres directement issues de leur vécu intérieur, ce qui leur confère une force brute et une originalité unique. C'est exactement ce qui rend les chariots de Martial Richoz particulièrement touchant. Il ressentait un besoin de contact avec l'extérieur et l'a fait d'une façon unique et personnelle."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Beatriz Andrade-Odar",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Scénariser des activités pédagogiques - actualités UQAM",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Une initiative de personnes diplômées en éducation sont présentées lors d’un événement virtuel après la pandémie COVID-19 qui a montré certaines fragilités du système.Scénariser des activités pédagogiquesJohanne Rocheleau (Ph.D. en éducation, 2008) a élaboré un concept de design infopédagogique pour concevoir des formations en ligne et hybrides adaptées à l’enseignement supérieur et au secteur privé. Inspirée par le format des séries télévisées, elle propose des scénarios d’apprentissage immersifs où les participants, en équipe, doivent résoudre des problématiques pour aider un personnage fictif. Ce processus inclut des recherches en ligne, le visionnage de vidéos et la lecture d’articles. Ce projet vise à renforcer des valeurs clés comme la bienveillance, la collaboration, la réflexion critique, la pertinence et l’engagement. Je trouve que ce processus est une méthode d'enseignement intéréssante et qui  respecte les résultats de mon article scientifique qui démontrait les bonnes méthodes pour inciter la créativité des étudiants à travers leurs études STEM-STEAM. En effet, la liberté dans le processus et un environnement propice pour les projets aide au processus créatifs, et ici, la scénarisation viens s'inscrire dans ces critères! Aussi, le fait de mettre les étudiants à travailler en équipe aide au processus créatifs et aux brainstomings qui peuvent survenirs à la rechecrhe d'idées. En bref, cette méthode pédagogique est un comportement créatif génial qui peut vraiment dynamiser les cours et surtout laisser pleine place aux différents processus créatifs à travers la recherche de solutions pour les scénarios."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Clarice Goulet",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Attraper les déchets fluviaux avec des bulles",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Récemment, j'ai appris que des inventeurs néerlandais ont créé un moyen très efficace pour récupérer les déchets qui flottent dans nos rivières avant qu'ils atteignent l'océan, à bas prix et à faible technologie et besoin de main d'oeuvre. Il s'agit d'un long tuyau, posé en diagonale du fleuve en son fond, et percé de trous à intervalles réguliers. Ces trous créent un mur de bulles qui force les déchets plastiques à remonter à la surface, puis à longer le mur jusqu'à un bac de collecte situé en aval. Non seulement ce dispositif s'est prouvé très efficace lors de premières installations, il est également facilement adaptable pour une multitude de localisations.Il est également inoffensif pour les poissons et autres habitants de la rivière, qui peuvent traverser les bulles sans problème. En prime, ces tuyaux contribuent à la réoxygénation de la zone."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Emmanuel Merakos",
+        "utilisateur": "Dounia Hage",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Love, Death & Robots",
+                "titre_du_forum": "Des cannettes de Monster transformée en monstres",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Love, Death\n& Robots Volume 2 met en avant la créativité grâce à son format\nanthologique, permettant à une variété d’auteurs et de réalisateurs d’explorer\ndes idées nouvelles et originales, rappelant la méthode de stimulus aléatoire\nutilisée pour stimuler l’innovation. Chaque épisode est une expérience unique,\ncombinant des disciplines variées telles que la science-fiction, l’art, et la\nphilosophie, tout en repoussant les limites des récits traditionnels. Par\nexemple, certains épisodes utilisent une combinaison de sons et de visuels pour\nintensifier l’impact émotionnel, rendant les histoires plus immersives et\npercutantes. D’autres intègrent des formes d’expression artistique comme la\ndanse pour transmettre des messages complexes de manière abstraite, enrichissant\nainsi la profondeur des récits. Ce mélange de médiums et d’approches contribue\nà une narration qui n’est pas seulement divertissante, mais aussi innovante et\naudacieuse. Les styles visuels variés et les histoires distinctes permettent\nd’apporter des perspectives multiples, tout en conservant une identité commune\nqui célèbre la créativité dans la fiction spéculative. Cette diversité dans les\nthèmes et les techniques garantit que chaque épisode reste mémorable et\nengageant, offrant une vision unique et contemporaine de la narration visuelle."
+                    "Je trouve intéressant que l’œuvre parte d’un objet industriel ultra standardisé pour lui donner une identité unique. Ça illustre bien comment la créativité peut transformer un produit de consommation en objet narratif. On ne voit plus la marque, on voit un personnage."
                 ]
             },
             {
-                "titre_du_forum": "Danse -  Révolution",
+                "titre_du_forum": "Un TOUSKI",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Ton commentaire est vraiment cool et montre que t’as une belle curiosité pour la danse, même si c’est pas un domaine où t’as forcément beaucoup d’expérience.\nC’est génial que t’aies remarqué les distorsions des corps et les expressions faciales, ça prouve que t’as bien ressenti la performance. Le fait que tu parles d’histoire, d’émotions et de ce que les danseurs veulent transmettre, c’est exactement ce qui fait vibrer dans ce genre d’art.\nEt demander l’avis des autres, c’est top pour avoir des perspectives différentes et peut-être confirmer ton ressenti. Franchement, ton commentaire donne envie de mater la vidéo pour voir ce qui t’a autant marqué !"
+                    "La créativité culinaire apparaît souvent par contrainte : quand il ne reste que quelques ingrédients au frigo. Le fait de combiner des éléments qui ne sont pas prévus ensemble oblige à expérimenter. La contrainte devient alors moteur d’innovation. On appelle cela un touski au Québec soit un : tout ce qui reste. J'utilise souvent cette méthode pour faire mes repas et ne pas gaspiller de la nourriture et cela me pousse à créer de nouvelles recettes ou fusionner des repas existants."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Fatima Zahra Diker",
+        "utilisateur": "John Abou Nakoul",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Forum de créativité dans la programmation",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Lien du forum reddit : https://www.reddit.com/r/creativecoding/Je suis tombé sur ce forum Reddit, et en tant qu'ingénieur logiciel, j'ai trouvé ça très intéressant de voir comment le code peut devenir un médium artistique. On a tendance à voir la programmation comme un outil purement fonctionnel, mais cette communauté montre qu'elle peut aussi être un processus créatif. J'ai également trouvé ça intéressant voir comment l'utilisation de AI peut aider certains programmeurs à atteindre une idée sans encontrer trop de blocs techniques. C'est comme si maintenant on peut coder toutes les idées qui nous viennent en tête sans se dire \"ça serait trop difficile a implementer\"."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Julien Légaré",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "The Lord Of The Rings",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Personellement, c’est plus la créativité au niveau de l’adaptation qui m’intéresse! Comment transformer un récit existant en images? Quels sont les meilleurs choix a faire, les meilleures scènes à adapter? Ca serait cool de savoir a quel point le réalisateur connaissait bien les oeuvres avant de les adapter!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Juliette Morency",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Du ballet au patinage artistique",
+                "titre_du_forum": "7 Paintings",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Tu as tout à fait raison. Fusionner le patinage artistique avec la danse classique est une idée géniale. La technique et la grâce du ballet apportent effectivement une dimension unique aux performances sur glace. En plus, l'aspect fluide des transitions du ballet pourrait vraiment sublimer les mouvements du patinage artistique, tout en ajoutant un côté visuel impressionnant. Je suis curieuse de voir si des artistes ont déjà exploré cette fusion sur scène."
+                    "7 Paintings est un diner de 7 services où la présentation de plats est transformé en plusieurs oeuvres d'art immersives. Je trouve ça fascinant comment on peut combiner l'art et la nourriture. Je vous mets le lien si jamais vous voulez aller voir: https://www.7paintings.com/montreal"
                 ]
             },
             {
-                "titre_du_forum": "Le robot optimus de Tesla",
+                "titre_du_forum": "Un TOUSKI",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Les comportements créatifs du robot Optimus de Tesla se manifestent à travers sa capacité à s'adapter et à interagir de manière autonome avec son environnement. Grâce à l'intelligence artificielle et au machine learning, Optimus analyse en temps réel les obstacles et ajuste sa trajectoire en conséquence, montrant une capacité à résoudre des problèmes de manière dynamique. Il apprend de ses expériences, améliorant constamment ses performances, qu'il s'agisse de manipuler des objets délicats ou d'accomplir des tâches plus complexes. En outre, Optimus prend des décisions indépendantes pour déterminer la méthode la plus efficace pour accomplir une tâche, comme naviguer dans un espace encombré. Il optimise également ses processus pour accomplir les tâches plus rapidement ou plus efficacement. En automatisant des tâches humaines répétitives, telles que la manutention d'objets lourds, il permet aux humains de se concentrer sur des activités plus créatives. Ainsi, Optimus incarne un comportement créatif, alliant innovation technologique et amélioration de l'efficacité dans des environnements industriels."
+                    "C'est vrai je n'avais jamais pensé au côté créatif derrière ce réflexe!"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Félix Noël",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Apprendre facilement une langue : Duolingo !",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C'est effectivement un bel exemple Isaline!\nLa méthode d'apprentissage du Duolingo est super créative, mais je dirais aussi que leur approche marketing l'est beaucoup aussi ! En intégrant des références à la pop culture, comme des citations de séries cultes telles que Friends ou The Office, Duolingo rend les leçons bien plus mémorables. Leur capacité à inclure des \"memes\" tendances et des références issues des réseaux sociaux rend le contenu non seulement plus amusant, mais aussi plus ancré dans l'actualité. Cela motive les utilisateurs à revenir régulièrement et transforme l’apprentissage en une activité ludique, loin d’être une corvée. Ils font beaucoup de publicité sur les réseaux également, ce qui vient rejoindre les potentiels utilisateurs qui aiment leur genre de contenu (un peu sadique parfois, mais très drôle). Même si des études montrent que l'application n'est pas toujours suffisante pour atteindre un niveau avancé, c’est un excellent complément ou point de départ. Leur créativité, qui associe la psychologie, le design ludique et la pop-culturel, a véritablement révolutionné l’apprentissage des langues."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Giorgia Piscicelli",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Innovation vs. Regulation: The Case of the Tesla Cybertruck",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "In Miami, I had the opportunity to see the Cybertruck, Tesla's new vehicle, characterized by its bold and revolutionary design. With its angular lines and futuristic appearance, it represents a true departure from traditional car models. However, in Italy, the Cybertruck is not yet available, primarily due to difficulties in complying with European road safety regulations. Its unusual shape and the materials used may not fully meet the required standards for road circulation in Europe, such as those related to safety in case of an accident or visibility.This contrast highlights one of the main challenges that innovations often face: while new ideas and technologies have the potential to bring significant advancements, they can also be met with resistance, especially when they don’t immediately fit within existing legal frameworks. Regulations, which are designed to ensure safety and consistency, sometimes struggle to keep up with the pace of technological progress. This gap between innovation and regulation can slow down the adoption of new technologies, even when they offer great promise."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Isaline de Montety",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Apprendre facilement une langue : Duolingo !",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "De nombreuses fois avant de partir en voyage, je me replonge dans mes cours de langue, je vais retrouver des fiches et exercices qui trainent pour me remettre à niveau et pouvoir réintégrer la base de la langue. Et c'est pénible. Pour moi, c'était surtout l'anglais et l'espagnol ! C'est pour ça que je voulais partager la créativité des créateurs de l'application Duolingo. Ils ont transformé l’apprentissage des langues, souvent perçu comme fastidieux, en un jeu engageant et accessible à tous. Ce qui rend leur approche innovante, c'est l'utilisation de mécanismes de gamification : badges, scores, rappels interactifs et compétitions amicales. Ils ont su associer psychologie comportementale et design ludique pour motiver les utilisateurs à progresser de manière régulière, même avec des sessions courtes. Cette capacité à rendre un processus complexe amusant et addictif est un exemple inspirant de créativité qui combine technologie, pédagogie et design."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Jasmin Loranger",
+        "utilisateur": "Laureanne Tetreault",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 3,
         "forums": [
             {
-                "titre_du_forum": "Du ballet au patinage artistique",
+                "titre_du_forum": "Biomimétisme en architecture",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Je ne suis pas un pratiquant de ces disciplines, mais ton partage me donne envie de voir ce que leur mixte donnerait. Il me semble que les mouvements du ballet, avec leur raffinement et leur précision, doivent bien s’intégrer au patinage, où la fluidité et la maîtrise des lignes sont déjà essentielles. \nLes arabesques et les attitudes sur glace, portées par l’élan naturel du patinage, doivent être magnifiques à voir, presque comme si la danse prenait une nouvelle dimension, libérée par l’espace et la vitesse.\nJe crois que l'on peut aussi dire de cette idée que ça pousse la créativité dans les chorégraphies en élargissant les possibilités artistiques."
+                    "J'ai trouvé le cours où on a parlé de biomimétisme vraiment intéressant et j'ai vu passer ce bâtiment au Zimbabwe sur le site Science Mystérieuse. Il s'inspire d'une termitière. Comme l'article le mentionne \"Les termitières sont des chefs-d’œuvre de la régulation thermique naturelle, permettant aux termites de maintenir une température intérieure constante malgré les fluctuations extrêmes de la température extérieure. L’Eastgate Building utilise un système de ventilation similaire, composé de canaux et de conduits qui permettent à l’air de circuler de manière efficace. Ce système ingénieux réduit considérablement la nécessité de climatisation artificielle, entraînant une économie d’énergie de 35% par rapport aux bâtiments traditionnels\". Je vous laisse sur une photo : L’Eastgate Building à Harare, au ZimbabweVoici l'article : 13 Exemples de Biomimétisme Inspirés par la Nature"
                 ]
             },
             {
-                "titre_du_forum": "Innovation vs. Regulation: The Case of the Tesla Cybertruck",
+                "titre_du_forum": "Des cannettes de Monster transformée en monstres",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Interesting observation! The Cybertruck is undeniably bold, its design almost feels like something out of science fiction. Its futuristic aesthetic and use of unconventional materials really challenge what we expect from vehicles today.\n\nThe regulatory challenges in Europe make sense, especially with how strict standards are around safety and visibility. I imagine the Cybertruck’s sharp angles and rigid materials might not perform as well in crash tests designed for more traditional vehicle shapes. \n\nThis innovation clashing with regulation will probably forces industries to evolve. Regulations may adapt over time to accommodate such designs, or innovators like Tesla may need to rethink their approach to balance creativity with compliance. Either way, it’s a reminder that progress is rarely linear. Maybe we will see a \"Europeanized\" Cybertruck in the future."
+                    "Salut Amina, est-ce que c'est toi qui a réalisé ce projet ? Vraiment intéressant niveau marketing pour la compagnie ! Surtout si quelque chose du genre serait utilisé dans le temps de l'Halloween. Avec les nombreuses compagnies de boissons énergisantes auxquelles on a accès maintenant, c'est important pour les compagnies d'être créatif dans leur façon de représenter leur produit."
                 ]
             },
             {
-                "titre_du_forum": "Apprendre facilement une langue : Duolingo !",
+                "titre_du_forum": "Postmodern Jukebox",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Replonger dans des fiches ou des exercices qui datent pour réviser ne me semble pas très encourageant je comprends que tu trouve cela pénible.\n\nDuolingo, c’est vrai que c’est une révolution dans ce domaine. Ils ont trouvé une manière de rendre l’apprentissage non seulement accessible, mais aussi émotionnellement engageant. Par exemple, l’introduction des personnages avec leurs petites personnalités distinctes (comme Duo, le hibou encourageant mais un peu insistant), ça crée une sorte de connexion avec l’utilisateur.\n\nAu-delà des badges ou des rappels, leur approche s’adapte aux nouvelles technologies et aux besoins des utilisateurs : la possibilité d’apprendre avec des podcasts, d’explorer des histoires interactives, ou encore d’avoir des leçons adaptées à ton niveau grâce à l’intelligence artificielle. En plus de gamifier l’expérience ils la personnalisent pour te guidé. Presque comme si tu étais accompagné par un mentor virtuel.\n\nCe qui m’impressionne aussi, un peu comme Félix a commenté, c’est leur capacité à intégrer la culture des langues dans l’apprentissage. Dans certaines leçons tu découvres des expressions idiomatiques, des coutumes, ou même des touches d’humour spécifiques à une langue."
+                    "C'est vrai que c'est cool ! Et c'est plaisant de voir des covers réalisé par des humains et non par l'IA. On a parlé dans le cours que l'IA était plus créatif qu'un pourcentage important de la population alors je trouve ça bien d'encourager réalisé par des humains"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Jean-Philippe Bernard",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Danse -  Révolution",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La semaine dernière, j'ai écouté une danse qui m'a paru très créative comparativement aux danses que j'ai vu tout au long de la saison de révolution. Par contre, il est important de mentionner que je ne suis pas un grand connaisseur sur tout ce qui englobe la danse. C'est donc dans le but de savoir s'il y a certaine personne qui s'y connait davantage et de commenter si cette danse était réellement créative comme je le suppose.En effet, Les mouvements de distorsion des corps et les expressions faciales des deux danseurs m'ont vraiment impressionné. Il y avait une signification, une histoire et des émotions qui voulait être partagés à l'auditoire. Je trouvais que les mouvements par moment suivaient très bien la danse et se jumelait bien. Dans l'ensemble, une superbe belle performance des deux artistes que j'ai bien aimée. Dites-moi ce que vous en pensé.Voici le lien, bonne écoute https://www.tvaplus.ca/video/rev6-ep07-perfo-isolee-jstyle-et-valmont-tva-389953736"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Kenza Baspin",
-        "total_des_commentaires": 3,
-        "forums": [
-            {
-                "titre_du_forum": "Une poubelle de tri intelligente",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Depuis quelque temps, je suis confrontée à un problème : le tri des déchets. Chez moi comme à l’école, il y a toujours une hésitation au moment de jeter un emballage. Est-ce que c’est recyclable ? Faut-il le rincer avant ? Où mettre les déchets organiques ? Ces questions, aussi simples qu’elles paraissent, entraînent souvent des erreurs de tri, ce qui finit par nuire à l’efficacité du recyclage. Sans compter que, dans notre quotidien chargé, prendre le temps de tout vérifier peut vite devenir décourageant.\nEn réfléchissant à ce problème, une idée m’est venue : pourquoi ne pas créer une poubelle intelligente ? Une poubelle capable de trier automatiquement les déchets sans que je doive me poser toutes ces questions. Je me suis imaginée un appareil équipé de capteurs capables de reconnaître les matériaux : plastique, métal, papier, organique, etc. Il suffirait de jeter les déchets dans un compartiment unique, et la poubelle ferait le reste en les triant dans des sections dédiées.\nMais en poussant l’idée plus loin, je me suis dit : pourquoi s’arrêter là ? Et si cette poubelle pouvait aussi transformer les déchets ? Par exemple, les déchets organiques pourraient être convertis en compost directement utilisable pour mes plantes, et les plastiques pourraient être broyés et préparés pour le recyclage, voire transformés en filaments pour une imprimante 3D à domicile. Ce serait un moyen non seulement de simplifier le tri, mais aussi de valoriser immédiatement les déchets, tout en réduisant leur impact environnemental."
-                ]
-            },
-            {
-                "titre_du_forum": "Mon opposé",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Hello Ravy, ton point est vraiment pertinent et ça me fait penser à une discussion que j’ai eue cette semaine avec un ami : sommes-nous toujours attirés par des personnes ayant des points de vue et des valeurs similaires aux nôtres pour former nos cercles proches ? On en est venus à la conclusion que ça dépend beaucoup des personnes et des sujets abordés.\nPar exemple, sur un sujet comme le sexisme, si une femme discute avec quelqu’un qui ne partage pas son vécu, cela peut donner lieu à une discussion plus tendue, car ce thème peut la toucher profondément. En revanche, pour d’autres sujets, comme les idées politiques, tout dépend des valeurs de chacun : certaines divergences peuvent être compatibles et enrichissantes, tandis que d’autres peuvent être perçues comme des désaccords fondamentaux, voire rédhibitoires. C’est vraiment une question de nuances et de priorités personnelles."
-                ]
-            },
-            {
-                "titre_du_forum": "Les bonnets en satin pour protéger les cheveux crépus",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Hello Niamké!Ton sujet tombe vraiment à pic ! J’y avais pensé il y a quelque temps, surtout avec l’hiver qui approche. Quand le froid attaque les oreilles, on veut se protéger mais les bonnets en coton posent un vrai problème pour ceux qui ont les cheveux frisés. Non seulement ils absorbent toute l’hydratation, mais en plus, ils laissent mes cheveux complètement aplatis ou ébouriffés. C’est tellement frustrant. L’idée d’intégrer un tissu en soie à l’intérieur des bonnets serait un Life Changer ! La soie préserverait l’hydratation naturelle des cheveux et réduirait les frisottis, ce qui rendrait les bonnets plus respectueux des cheveux texturés. Sinon, il y a la possibilité de porter comme un cache-oreille... mais bon il ne faut pas qu'il neige/pleuve (if you know, you know :') )!"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Kirollos Guendi",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Danse -  Révolution",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ton commentaire montre une belle appréciation de la performance, soulignant l'impact des distorsions corporelles et des expressions faciales des danseurs. T'as remarqué l'harmonie entre les mouvements et la transmission d'émotions, ce qui témoigne d'une bonne perception de la danse.\n Même sans être un expert, ton ressenti est une bonne chose, car la créativité dans la danse se mesure souvent à la capacité de toucher le public.\nL'important, en tant que spectateur, est de ressentir et d'interpréter une œuvre, et mon ressenti aussi a été très positif."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Laure-Anne Margaux Réau",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "\"Malaisant\" de Arte",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "\"Malaisant\" est une webSérie de Louise Condémi et produite par Apaches Films, 2022Elle est diffusée sur le compte instagram de @arte_asuivre sous forme de story, disponible en story à la une (https://www.instagram.com/stories/highlights/17872552307734307/) ou bien sur le site de arte.tv (https://www.arte.tv/digitalproductions/en/malaisant/)C'est une histoire de deux adolescents qui travaillent ensemble dans un magasin de gaufres. On suit leur romance naissante et leur découverte de leurs corps. On suit chaque jour les aventures de l'un ou l'autre, comme si on regardait les story de nos amis. Ils utilisent des filtres, des légendes, repost des fausses story de leurs amis, des captures d'écran de conversations, des features de insta (ex: les comptes à rebours pour les prochains épisodes), etc. C'est super intimiste, on a vraiment l'impression de partager le quotidien des personnages fictifs. En plus, on a vraiment le point de vue des deux personnages, ce n'est pas un oeil omniscient ou extérieur, mais on est vraiment invité dans leur histoire, comme si on les connaissait, comme si on faisait partie de leur monde.Je trouve que la chaîne Arte est super créative. C'est la première fois que je vois une fiction diffusée sous ce format là, en réutilisant les codes des réseaux sociaux. Arte se met au gout du jour et tente des nouveaux formats, avec succès! En plus d'être créatif, ce format garde vraiment l'attention du public. Les story de Arte se glissent dans nos abonnements, parmi les story de nos amis. Cela crée vraiment un rapport de proximité."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Louis-Philippe Bock",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Organisez vos recettes à un seul endroit",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut! Oui je l’ai vu essayer et c’est vraiment bien fait pour vrai j’ai eu beaucoup de plaisir à l’utiliser! Par contre, il faudrait plus d’image pour accentuer l’aspect unique de chaque recette"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Lydia Ouaret",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Organisez vos recettes à un seul endroit",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Hey tout le monde ! Si vous aimez cuisiner, j’ai une appli à vous partager : Recipe Me. Elle regroupe automatiquement vos recettes de Pinterest, Insta ou autres, sans avoir à tout copier-coller. Fini le chaos dans les notes ou les captures d’écran perdues !Tout est organisé et facile à retrouver. À essayer ! 😊"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Marina Guendi",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Jordan Peterson - IQ and creativity link",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce passage met en lumière l'idée que la créativité et l'intelligence sont souvent associées, mais ne sont pas synonymes. Un QI élevé peut augmenter la probabilité qu'une personne soit créative, car les individus intelligents ont souvent une pensée plus flexible et une capacité à voir des connexions que d'autres ne voient pas. Cependant, la véritable créativité va au-delà de l'intelligence mesurable par les tests de QI. Elle inclut l'aptitude à produire des œuvres originales, qu'il s'agisse d'inventions, de performances ou d'art. Cette capacité ne se limite pas seulement à un haut potentiel intellectuel, mais nécessite également l'engagement dans des processus de pensée créative, la motivation et souvent un environnement favorable.Les réalisations créatives sont donc le fruit d'une combinaison de facteurs, incluant mais ne se limitant pas à un QI élevé. Elles requièrent également une certaine propension à explorer et à expérimenter, ainsi qu'une capacité à surmonter les échecs et à persévérer dans la réalisation d'idées novatrices. En somme, bien que le QI puisse jouer un rôle dans la créativité, c'est l'interaction complexe entre la pensée imaginative, l'innovation, et la production tangible qui définissent véritablement une personne créative.https://youtu.be/tNofqf7De2E?si=0ZhGJDZ97pj7h-PM"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Matéo Farines",
-        "total_des_commentaires": 3,
-        "forums": [
-            {
-                "titre_du_forum": "Attraper les déchets fluviaux avec des bulles",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Salut Clarice, \n\nC'est une innovation vraiment impressionnante ! Ce dispositif semble offrir une solution simple et efficace contre la pollution plastique dans les rivières, et ce qui le rend encore plus remarquable, c’est qu’il repose sur une technologie à faible coût et nécessite peu de main-d'œuvre.\nJe savais que des filtres étaient déjà utilisés dans les rivières, comme des filets placés à la sortie des canalisations ou des réceptacles fonctionnant comme des aspirateurs pour piéger les déchets. Il suffit ensuite de remplacer le filtre de temps en temps.\nC'est fascinant de voir à quel point la créativité peut être mise au service de l'écologie, et jusqu'à quel point des solutions comme celle-ci peuvent être commercialisées."
-                ]
-            },
-            {
-                "titre_du_forum": "Upcycling",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je remarque de plus en plus sur les réseaux sociaux des créateurs de contenu qui se lancent dans l'upcycling, un terme qui désigne la pratique de transformer des objets ou matériaux usagés en nouveaux produits ayant une valeur ajoutée. Ce processus est vraiment fascinant, car il permet non seulement de lutter contre le gaspillage, mais aussi de réutiliser des vêtements abîmés, notamment ceux issus de la fast fashion, qui sont souvent négligés une fois usés ou démodés. Plutôt que de jeter ces vêtements, l'upcycling leur donne une nouvelle vie, en leur offrant une seconde chance tout en réduisant notre impact environnemental.Ce qui est encore plus intéressant, c'est que les possibilités de création sont offertes par l'upcycling semblent infinies. Par exemple, il est tout à fait possible de transformer un vieux manteau d'hiver en une sacoche unique, en utilisant les matériaux du manteau, qui peuvent être particulièrement adaptés à ce genre de projet. La texture et la solidité des tissus d'un manteau d'hiver, comme la laine ou le cachemire, peuvent offrir des caractéristiques très intéressantes pour créer un accessoire à la fois durable et original. Cela montre à quel point l'upcycling permet de libérer la créativité, tout en favorisant des pratiques plus durables et responsables."
-                ]
-            },
-            {
-                "titre_du_forum": "Souplex à Paris: Quand les sous-sols deviennent des lofts de réve.",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C’est un sujet vraiment fascinant ! La transformation des sous-sols à Paris en espaces habitables semble répondre à un besoin croissant de logements dans une ville où l’immobilier est de plus en plus cher et rare\nCe que tu viens de nous montrer illustre parfaitement le talent créatif des agents immobiliers dans ce contexte, ainsi que leur capacité à s'adapter face à des défis tels que le manque d'espace ou les difficultés liées à la distance pour effectuer une visite.Peut-être qu'un jour, s'il y a plus de place dans les sous-sols, on finira par aménager les greniers des maisons et des bâtiments."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Meriem Hassani",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "L'innovation cyclonique : La révolution de Dyson dans le nettoyage domestique",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "James Dyson, inventeur de l'aspirateur sans sac, a observé que l’efficacité des aspirateurs traditionnels diminuait à mesure que le sac se remplissait, à cause de l’accumulation de poussière qui obstruait l'aspiration. Au lieu de poursuivre la conception d'aspirateurs avec sacs, il a imaginé une solution novatrice reposant sur la séparation de l’air et de la poussière par force centrifuge. Après plusieurs années de recherches et de prototypes, il a mis au point un système cyclonique qui permet de séparer la poussière de l’air sans avoir besoin d'un sac. Ce concept, breveté en 1986, a non seulement amélioré l'efficacité des aspirateurs, mais a aussi donné naissance à de nouvelles technologies dans le domaine du nettoyage domestique, bouleversant ainsi l'industrie."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Mountaga Camara",
+        "utilisateur": "Louis-Alexis Pâquet",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "\"Poésie en live\"",
-                "nbre_de_commentaires": 2,
-                "commentaires": [
-                    "J'ai découvert un concept brise glace dans ma passion (la poésie) cette semaine. Chaque fois que tu prends les transports en commun, tu te lances un défi créatif — écrire un poème sur ce que tu vois ou ressens autour de toi, en quelques minutes seulement en gros comme on l'a vu en cours, on recherche un stumulus aléatoire. Ça pourrait être inspiré par les gens autour de toi, des objets, des bruits, des ambiances. Et à la fin du trajet, soit tu le notes dans un carnet, soit tu vas plus loin et tu le partages directement avec les autres passagers ! (Faut pas être timide je vous l'accorde lol). Par exemple, tu pourrais lire le poème à voix basse, presque comme une performance discrète, ou même laisser un petit mot sur ton siège. Ce qui est cool, c'est que c'est à la fois créatif et social. Ça rajoute un côté éphémère et spontané à l’écriture. On sort du cadre habituel du bureau ou de l’atelier d'écriture, et ça devient une sorte de performance rapide, où chaque trajet est une occasion de capturer quelque chose d'unique. Et pourquoi pas ? Ça pourrait même déboucher sur une série d’anecdotes ou de réflexions sur les interactions humaines en ville ! Plus d'infos sur ce lien  Accueil - Poésie romande",
-                    "Ça fait plaisir de voir quelqu’un qui écrit et de partager des astuces avec!  Tu peux aussi me partager ta page Insta pour que je te lise si t’es à l’aise avec ça ;) . Un autre concept intéressant serait peut être de faire de petites vidéos sur tonton où tu écris et tu remets le papier à la personne en lien avec l’évènement sur lequel tu as écris par exemple. J’aurais aimé le faire mais je suis pas branché réseaux sociaux xD"
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Niamké Jean-Félix Ahonzo",
-        "total_des_commentaires": 3,
-        "forums": [
-            {
-                "titre_du_forum": "Les bonnets en satin pour protéger les cheveux crépus",
-                "nbre_de_commentaires": 3,
-                "commentaires": [
-                    "Récemment je scrollais Instagram et j'ai vu un jeune de mon âge qui a créé sa marque de bonnet en satin, des casquettes et des sweats à capuche en satin pour protéger les cheveux crépus. En sachant que, les cheveux crépus nécessitent beaucoup d'entretien et souvent les bonnets en coton ou en autres matières ont tendance à assécher ces cheveux et/ou les mettre en désordre. Le bonnet en satin et conseillé pour éviter l'assèchement et pour conserver les soins d'huile et autres qui sont appliqués sur les cheveux. J'ai vraiment trouvé ça créatif surtout c'est quelque chose qui pourrait etre très utile pour certains jeunes de la communauté noire. En plus ses produits sont vraiment beaux. Ces quelques images proviennent d'instagram",
-                    "Oui, vraiment j'ai trouvé son idée tellement innovante et en plus au delà de la protection des cheveux afro, le bonnet en satin protège tous les autres types de cheveux. Tellement d'accord avec toi qu'il n'y a pas vraiment de marques qui proposent de quoi spécifiquement pour les cheveux crépus. Ça pourrait être aussi intéressant, un bonnet de natation en satin pourquoi pas!",
-                    "Exactement, tu peux passer des heures à entretenir tes cheveux et ils se retrouvent en désordre ou comme tu as dit aplatis juste parce que tu n'as pas l'accessoire adéquat pour les protéger. Et oui, je vois ce que tu veux dire concernant la pluie haha."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Nisrine Hamroun",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Robin Williams dans Dead Poets Society",
+                "titre_du_forum": "Recette improvisée",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Un exemple du comportement créatif que j'ai trouvé particulièrement inspirant est dans le film Dead Poets Society, surtout dans le rôle du professeur John Keating qui incarne un professeur hors de l'ordinaire grâce à sa manière d'enseignement qui sort du commun et des standards. Son enseignement repose sur des techniques qui dépassent la simple transmission de connaissances. En effet, il pousse les élèves à trouver d'autres perspectives et points de vue originaux. Un exemple de son comportement créatif durant le film est qu'il a poussé ses élèves à voir littéralement le monde d'un point de vue différent, pas dans le sens figuré mais réellement, ils devaient se tenir sur leurs bureaux d'une manière non standard et trouver d'autres perspectives. Il encourage à ne pas prendre la voie traditionnelle pour comprendre tout ce qui se passe dans notre monde. Il les pousse à comprendre le monde, mais d'une autre manière, et par cela, illustre son comportement créatif qui est de changer la perspective pour trouver des solutions originales. Tout au long du film, le professeur pousse ses élèves à écouter une voix intérieure et à chercher la beauté dans les moments anodins de notre quotidien. Il se défie quotidiennement pour se libérer des attentes sociales et familiales afin de trouver sa propre liberté créative et sa propre manière de s'exprimer."
+                    "C'est une suggestion relativement normale, mais quand je prépare mes repas pour la semaine, je pars généralement de ce que j’ai déjà dans ma cuisine plutôt que de suivre une recette précise. J’essaie de sortir différents ingrédients, surtout ceux que j’utilise moins souvent comme certaines épices ou aliments qui traînent, puis j’improvise la recette au fur et à mesure. Ça me permet d’éviter le gaspillage, de varier mes repas d’une semaine à l’autre et aussi de découvrir de nouvelles combinaisons auxquelles je n’aurais pas pensé autrement."
+                ]
+            },
+            {
+                "titre_du_forum": "Trompe l’oeil",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "moi aussi j'adore les trompes l'oeil, excellent partage!"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Paloma Bert",
+        "utilisateur": "Lylia Bouricha",
+        "groupe": "Loutre",
         "total_des_commentaires": 4,
         "forums": [
             {
-                "titre_du_forum": "Une poubelle de tri intelligente",
+                "titre_du_forum": "Créativité artificielle et créativité naturelle",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Hello Kenza,\nJe trouve ton idée super ! C'est vrai qu'on y comprend pas grand chose au tri, surtout quand on passe d'un pays à l'autre et que les normes et les coutumes varient. Mais je me suis questionnée sur la faisabilité technique de ton projet. L’intégration de capteurs capables de reconnaître les matériaux (plastique, métal, papier, organique) est techniquement envisageable grâce aux technologies existantes (spectroscopie infrarouge, les capteurs optiques...). En centralisant le tri dans un seul compartiment, cette solution simplifierait les gestes du quotidien tout en réduisant les erreurs de tri. \nEn revanche, je ne suis pas convaincue quand à l'ajout d'une fonctionnalité de transformation des déchets. L'idée d'un composteur intégré serait un atout majeur mais elle présente beaucoup de défis techniques tels que le coût de fabrication, l’entretien (ex. nettoyage des capteurs, gestion des odeurs) et la diversité des réglementations locales sur le tri. Malgré ces contraintes, le projet a un fort potentiel pour contribuer à une gestion plus durable des déchets à l’échelle individuelle!! J'espère sincèrement que des gens se pencheront sur l'idée"
+                    "Je te rejoins sur ton opinion. Je trouve que c'est ce qui donne de la valeur à nos créations, quelles qu'elles soient. Un processus de réflexion humaine et qui montre qui nous sommes, notre façon de penser, notre background et tous les autres enjeux qui influent notre créativité."
                 ]
             },
             {
-                "titre_du_forum": "Mon opposé",
+                "titre_du_forum": "Documentaire ARTE sur la créativité et le bonheur",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Hello Ravy, \nJe n'avais pas la connaissance de cette IA et je trouve la démarche d'aller se confronter à des avis opposés à soi très intéressante ! Mais ne pense tu pas qu'il serait encore plus informatif et pédagogique d'aller discuter avec des vraies personnes en allant par exemple à des conférences sur des sujets qui ne nous intéressent (à priori) pas ou à des meeting politiques d'un groupe opposé ou encore en rejoignant des groupes de débat ?"
+                    "Ce n'est pas exactement un comportement créatif, mais plutôt un documentaire que je voulais partager avec vous. watchCe documentaire ARTE est très intéressant et fait le lien entre la créativité et le bonheur. On parle du sens que l’on donne à notre vie et le rôle de la créativité dedans. L’environnement dans lequel on est une clé à notre créativité. La positivité, des contraintes bien définies permettent aussi d’être plus créatif et donc plus heureux. \nCe que j’ai beaucoup aimé c’est qu’il brise aussi cette idée du génie créatif qui est très solitaire et dépressif, et donne de résultats merveilleux par sa solitude alors que la majorité des processus créatifs proviennent d’interactions que nous avons avec d’autres personnes.\n“la creativite engendre le bonheur à partir du moment où l’on donne un sens à sa vie”. Par la créativité et nos motivations profondes, nous nous récompensons en créant et ça instaure un bonheur en nous."
                 ]
             },
             {
-                "titre_du_forum": "LifeStraw, une réponse innovante aux crises humanitaires",
+                "titre_du_forum": "Emballage plastique remplacé par feuille de bananiers",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Wouaw c'est super ! Je n'ai jamais entendu parler de cette innovation. Je trouve ça assez étonnant dans le contexte actuel, cet outil serait d'une grande aide s'il était déployé en Palestine par exemple. Je me suis questionnée sur la raison de cet \"échec\" de déploiement du produit. Une paille coût entre 20 et 25 euros, ce qui la rend totalement inaccessible pour le public soi disant visé. La produit de l'entreprise est super mais la démarche a l'air purement commerciale. Je suis allée sur le site de l'entreprise et je n'ai vu aucun projet de collaboration avec des gouvernements ou des ONG. Le produit semble exclusivement destiné aux randonneurs. Quel dommage..."
+                    "Je suis tombée sur cet article qui explique qu'un supermarché thaïlandais a décidé de se débarrasser des emballages plastiques et utiliser des feuilles de bananiers pour emballer des produits. C'est très intéressant car les bananes sont parmi les fruits les plus présents de cette région. Ainsi, il s'agit d'une solution réellement bonne pour l'environnement et qui ne nécessite pas de production au préalable.https://www.forbes.com/sites/trevornace/2019/03/25/thailand-supermarket-uses-banana-leaves-instead-of-plastic-packagingDans l'idéal, nous n'aurions même pas besoin d'emballer les fruits et légumes, mais cette solution est évidemment nettement meilleure que les sachets ou emballages plastiques inutiles que nous trouvons aux supermarchés."
                 ]
             },
             {
-                "titre_du_forum": "Robin Williams dans Dead Poets Society",
+                "titre_du_forum": "How to grow a chair",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Salut Nisrine, \nPour ce qui est de la démarque du professeur, je trouve qu'elle se rapproche de l'idée derrière la tenue du cahier d'observation. Il nous force à nous attarder sur des choses qui n'auraient retenu que quelques secondes de notre attention normalement et à nous questionner sur pourquoi cela a retenu notre attention. Dans mon cas, mes observations étaient souvent des questionnements (pourquoi on a peur de l'ennuie, pourquoi les oignons nous font pleurer ect...) qui seraient rester sans réponse en temps normal mais le cahier d'observation m'a poussé à aller chercher des réponses. Je vais essayer de garder l'habitude de noter mes questionnements pour revenir dessus plus tard. \nConcernant ta deuxième reflexion sur trouver la beauté dans les choses de notre quotidien. Si c'est une démarche / idée qui t'a plu, je peux te remarquer le film \"American Beauty\" qui traitre - en autres- de ce sujet. C'est un film super, très beau, qui a d'ailleurs reçu plusieurs oscars."
+                    "C'est super marrant! J'aime beaucoup cette idée. C'est vrai que beaucoup d'objet de notre quotidien sont faits de plastiques, ce qui les rend à la fois laids et peu originaux. Cette idée nous rappelle que nous avions l'habitude de nous assoir à terre, idée agréable et esthétiquement jolie."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Raphaël Delforge",
+        "utilisateur": "Malika Mandiaba Diaby",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Carnet Raphaël Delforge",
+                "titre_du_forum": "7 Paintings",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Voici mon carnet comportant des partages de réflexions créatives."
+                    "Je suis tombée sur une vidéo de l’expérience hier soir. C’est fascinant à voir. C’est une expérience originale et nouvelle qui fusionnent plusieurs disciplines et stimule plusieurs sens chez les clients et ils participent à l’expérience. En plus, les plats racontent des histoires liées à des artistes connus !! À essayer un de ces jours peut-être!"
                 ]
             },
             {
-                "titre_du_forum": "Julio Cortazar : Hopscotsch",
+                "titre_du_forum": "Voir les choses sous un autre angle",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Le comportement créatif que je voudrais partager ici est celui de Julio Cortázar, écrivain franco-argentin qui a écrit le livre Hopscotsch, publié en 1963.Ce livre est ce qu'on qualifie en critique littéraire un \"stream of consciousness\", c'est à dire qu'il suit la conscience de l'auteur, spontanée et déstructurée. Le but est de montrer la pluralité et la multitude de pensée qui traverse l'esprit de l'auteur de manière simultanée. Ce qui est particulièrement créatif dans la rédaction de ce livre est comment Cortázar illustre et met en avant cette pluralité de la pensée dans un livre, un support qui contraire relate des faits de manière séquentielle, linéaire et chronologique.Cortázar propose 2 séquences de chapitres différents pour lire l'entièreté du livre, et qui ne sont pas forcément dans l'ordre de lecture normale. Cela permet de suivre justement le processus de pensée de l'auteur sous 2 perspectives différentes.Je trouve cela très créatif."
+                    "J’ai trouvé cette exposition de Tom Deininger vraiment intéressante. Selon l’angle dans lequel on regarde, l’œuvre change complètement. De face c’est un oiseau assez normal puis de profil, c’est un assemblage d’objets, d’éléments inattendus.Ça m’a fait réfléchir au fait qu’on pense souvent connaître au premier regard, mais en réalité il faut changer de perspective pour voir ce qu’il y a réellement derrière.L’oeuvre te pousse à observer différemment, admirer le processus de création et elle évolue selon le regard qu’on lui porte.Source : https://vt.tiktok.com/ZSHr6WYjy/"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Ravy Por",
+        "utilisateur": "Maria Fernanda Facetti",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "« How to unlock creativity through boredom » - TEDX",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce titre a particulièrement attiré mon attention puisque je n'associe pas l'ennui à la créativité. En effet, je perçois la créativité comme un processus stimulant et divertissant. Je trouve donc qu'il serait inhabituel et meme unatural que l'ennui stimule notre créativité. Cependant, la speaker dit que l'ennui peux nous pousser à developper des nouvelles curiosités et nous pousser vers une exploration. Et vous, pensez-vous que l’ennui est nécessaire à la créativité ?"
+                ]
+            },
+            {
+                "titre_du_forum": "The Lord Of The Rings",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'avoue que ça serait intéressant de voir le processus créatif des gens qui ont crée lord of the rings. En effet, le monde qu'il ont crée sort de la réalité et est uniquement un monde imaginaire."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Maya Zedek",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Mon opposé",
+                "titre_du_forum": "Une potentielle application du Stimulus Aléatoire",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Récemment, j'ai eu des discussions avec une personne dont la personnalité et les valeurs sont totalement opposées aux miennes. Je n'ai personne dans mon entourage proche qui ressemble à cette personne, appelons-là ZZZ.Il s'agit de données humaines et extérieures à moi qui n'est pas une IA générative, avec lesquelles je peux interagir et poser des questions pour augmenter ma compréhension. Je cherchais à obtenir des perspectives différentes et représentatives de certaines personnes dans la société et pas seulement en interrogant des bases de données. Parfois choquantes, certaines de ses réflexions me poussent à prendre du recul et à les examiner. Ce sont des points de vue intéressants qui, appliqués différemment, pourraient avoir un impact sur moi. Je pense que ZZZ incarne de manière plus poussée les principes du livre The Subtle Art of Not Giving a F***."
+                    "Cette image illustre le stimulus aléatoire en utilisant un fruit pour réinventer la présentation de bijoux. En exploitant la similarité entre la forme d'un quartier d'agrume et celle d'une oreille, le créateur utilise le fruit comme une métaphore active qui brise les codes traditionnels. Ce contraste saisissant entre la fraîcheur organique et le minéral génère une rupture cognitive, prouvant que l'introduction d'un élément extérieur sans rapport direct permet de débloquer la pensée et de produire une solution mémorable.Lien vers a publication Instagram : https://www.instagram.com/p/DRyLKDTjMhw/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA== Auteur : beautyambra"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Sara Beddouch",
-        "total_des_commentaires": 10,
+        "utilisateur": "Mohamed Benbrika",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 8,
         "forums": [
             {
-                "titre_du_forum": "Attraper les déchets fluviaux avec des bulles",
+                "titre_du_forum": "Emballage créatif",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "C'est une incroyable idée très créative! J'aime la simplicité de l'idée qui semble efficace, peu coûteuse, accessible, sans pour autant être \"overengineered\". Les déchets marins sont un problème écologique majeur aujourd'hui. Justement, mon projet de fin d'année portait sur le développement d'une application pour tracer les déchets plastiques dans les corps marins. C'est à travers ce projet que j'ai réalisé à quel point les plastiques contaminent nos eaux, à un point tel que les poissons ont les intestins remplis de microplastiques. C'est surtout les méso et microplastiques qui sont difficiles à retirer et qui causent le plus de pollution, car leur taille minuscule et leur propriétés physiques font qu'ils ne sont pas évident à filtrer. Le fait de mieux comprendre ce genre de contraintes nous ouvrira des opportunités de trouver d'autre idées créatives comme cette dernière afin de nettoyer les corps marins de ces déchets."
+                    "Salut ! Je vous partage cette vidéo que j’ai vue en scrollant : https://youtube.com/shorts/ziif_JivgFQ?si=rY9wTDmCQFaOTIYlJe trouve ça assez original et en plus si ça peut aider à réduire la consommation de plastique why not ! De plus je me demande comment il a eu l’idée, peut-être avec la technique d’élément aléatoire? Il est tombé sur une image de conserve de tomate et ça a donné l’idée ?"
                 ]
             },
             {
-                "titre_du_forum": "Du ballet au patinage artistique",
+                "titre_du_forum": "Et si on utilisait les rêves...",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "J'adore ton idée de mélanger plusieurs sports! J'ai moi-même des amis qui pratiquent le sport \"martial arts tricking\", et c'est une discipline relativement nouvelle qui implique à mélanger plusieurs sports tels que la gymnastique et divers arts martiaux afin de créer des suites de mouvements fluides et uniques. Tout comme ton mélange de patinage artistique et de danse classique, cela permet de mélanger différentes pratiques afin de créer de toutes nouvelles combinaisons de mouvements uniques où la limite est vraiment l'imagination, et bien sûr les limites physiques de sa propre condition."
+                    "Tu vois, moi je le vois un peu différemment. J'avais lu quelque part que même dans nos rêves, on ne peut pas créer quelque chose que notre cerveau n'a pas déjà vu ou remarqué et en fait, ça revient un peu à ce qu'on disant sur la créativité en cours, ça ne vient pas de nulle part. Peut-être que pendant les rêves, notre cerveau a plus de liberté et arrive à mieux faire des liens et que à ce moment là ça génère des idées originales ?"
                 ]
             },
             {
-                "titre_du_forum": "Innovation vs. Regulation: The Case of the Tesla Cybertruck",
+                "titre_du_forum": "La lumiere tamisée favoriserait la créativité ?",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "I definitely agree that the Cybertruck is a departure from traditional car designs. However, I must respectfully push back a little bit on your point about regulations, as constraints can push us to develop solutions in ways that are creative while solving them. On top of that, security constraints exist for valid reasons, and one could well argue how the truck's large shape could be dangerous and many situations. \nUsually, the first product to enter a new space is not the best. It is more the next iterations that build around them that prove themselves to be more adequate. Who knows, what could its next generation look like?"
+                    "Je vous partage un truc intéressant : l’article scientifique présenté par le youtubeur ne dit pas que la lumière tamisée nous aide à “think outside the box” en nous poussant hors de notre zone de confort. Au contraire, il suggère que l’obscurité réduit le sentiment d’être observé ou évalué, ce qui diminue l’auto-censure et donne une sensation de liberté psychologique — et c’est ça qui favoriserait la créativité (du moins c’est ce que j’ai compris) . Du coup je trouve ça assez drôle de voir comment le short YouTube simplifie ça en mode “think outside the box ”, alors que l’article parle plutôt de se sentir moins jugé que de sortir de sa zone de confort.Short YouTube  : https://youtube.com/shorts/B30fvWl3kgM?si=9Uv-BSaH-6-kVe-yArticle scientifique : https://www.sciencedirect.com/science/article/abs/pii/S0272494413000261"
                 ]
             },
             {
-                "titre_du_forum": "Une poubelle de tri intelligente",
+                "titre_du_forum": "Les balades imaginaires",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Salut Kenza,\nJ'aime vraiment ton idée! C'est tout à fait vrai que faire le tri des déchets manuellement est une tâche qui peut être compliquée, surtout lorsqu'il est temps de trier les différents numéros de plastique. J'aime aussi comment tu as itéré ton idée en plusieurs évolutions de produit.\nDurant un hackaton, j'ai moi-même tenté de faire un projet similaire à l'aide de capteurs RFID. C'est similaire au processus des magasins UNIQLO où on peut payer nous-mêmes sans avoir à scanner manuellement les vêtements. De plus, on pourrait aussi penser à une technologie de capteurs laser afin de faire le triage. Il faudrait probablement faire une étude comparative de cycle de vie des différentes technologies afin de déterminer laquelle est la plus écologique."
+                    "Je vous partage cet excellent compte Instagram. C’est super créatif je trouve. Je vous laisse découvrir, les posts parlent d’eux même : https://www.instagram.com/grossomodo._"
                 ]
             },
             {
-                "titre_du_forum": "Mon opposé",
+                "titre_du_forum": "Maud Cohen sur développement du campus",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Je suis tout à fait d'accord avec toi! Je crois que l'humain va naturellement être attiré aux gens similaires à eux. Cependant, il faut faire attention à ne pas tomber dans un \"Echo chamber\" et discuter avec des gens très différents de nous nous permet de toujours garder des perspectives différentes en tête. En fin de compte, cela enrichit notre esprit de points de vue différents, mais aussi en termes de connaissances et de savoir-faire. Le tout peut nous donner des pistes plus créatives pour résoudre les problèmes auxquels on fait face."
+                    "Intéressant en effet. Merci pour le partage, étant en cours, je ne pouvais pas assister en direct à la conférence ! J'espère qu'ils ne vont pas tomber dans le piège basique de : On va mettre des tableaux et des crayons pour dessiner ..."
                 ]
             },
             {
-                "titre_du_forum": "LEGO Serious Play",
+                "titre_du_forum": "Musée ou maison ?",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Bonjour,\nMerci d'avoir partagé ce concept! Je ne le connaissais pas et je peux imaginer comment le fait de prendre le temps de construire une idée avec des LEGOs (le concept de \"learning by doing\" mentionné dans la vidéo TED Talk de L'innovation frugale) peut pousser notre créativité. Cela nous fait réfléchir/construire des idées d'une différente façon et peut ouvrir des nouvelles portes vers des idées que nous n'aurions pas imaginées."
+                    "Je suis tombé sur la chaîne vidéo de ce gars qui fait plein de trucs dans sa maison. On dirait vraiment un musée. Mais celle que j’ai beaucoup aimé c’est celle là ! J’aime beaucoup comment il a utilisé les cônes pour faire reproduire leffet de yeux qui suivent. C’est vraiment trop cool !  https://youtube.com/shorts/MeoPzFZ-4gQ?si=6K5WR87-atTS6fC-"
                 ]
             },
             {
-                "titre_du_forum": "L'innovation cyclonique : La révolution de Dyson dans le nettoyage domestique",
+                "titre_du_forum": "Pareidolia",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "J’aime bien ton idée, Syntich, de donner une nouvelle vie à nos déchets! Ça fait réfléchir à ce que pourrait être l’aspirateur du futur. Peut-être qu’on n’utiliserait pas d’air, mais plutôt des propriétés physiques. Par exemple, un matériau qui attirerait les déchets, un peu comme un aimant pour les métaux. On pourrait aussi imaginer un aspirateur qui ne ferait pas que trier, mais qui transformerait les déchets directement sur place. Par exemple, les déchets organiques pourraient être compressés pour devenir du compost!"
+                    "Aujourd'hui, j'ai découvert un comportement créatif basé sur l'observation : la paréidolie. C'est cette tendance naturelle de notre cerveau à identifier des formes familières, souvent des visages, dans des objets inanimés ou des motifs aléatoires. C'est fascinant parce que ça montre que la créativité n'est pas toujours une question de fabrication complexe, mais souvent une question de perception : il s'agit de voir le potentiel expressif caché dans les objets les plus banals de notre quotidien ! Je vous partage un lien reddit ou les gens postent les différentes observations qu'ils font ! Pictures of things that look like other things."
                 ]
             },
             {
-                "titre_du_forum": "Love, Death & Robots",
+                "titre_du_forum": "Project Hail Mary",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "C’est un vrai bijou d’animation. Chaque épisode a son propre style et raconte sa propre histoire. Et quand on regarde, on peut les analyser de plein de façons et retrouver des thèmes communs. On sent vraiment qu’il y a un travail énorme derrière chaque épisode, où tout est pensé pour marquer les esprits, que ce soit dans les visuels, les récits ou les idées.\n\nCe qui me fascine, c’est comment l’animation est utilisée pour raconter ces histoires. Ce n’est pas juste beau à regarder, c’est un outil puissant pour transmettre des émotions et des idées. Par exemple, une animation hyper réaliste peut renforcer l’intensité et le réalisme d’une situation, tandis qu’un style plus abstrait nous invite à explorer des concepts ou des mondes imaginaires de manière beaucoup plus libre. Et parce que chaque épisode est unique, on fait beaucoup plus de liens entre ce qu’on voit et ce qu’on ressent, ce qui nous inspire davantage dans nos réflexions.\n\nEnfin, la diversité des réalisateurs et des studios ajoute une richesse énorme au processus créatif. Chaque créateur apporte sa propre vision et ses techniques, ce qui permet à la série de constamment se renouveler. Franchement, c’est ce qui rend la série aussi unique!"
-                ]
-            },
-            {
-                "titre_du_forum": "Apprendre facilement une langue : Duolingo !",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je voulais ajouter à cette discussion. J'avais regardé le TED talk suivant: How to Make Learning as Addictive as Social Media\n\nEn gros, l’histoire derrière Duolingo est vraiment inspirante. L’un des co-fondateurs, Luis von Ahn, vient du Guatemala, un pays où beaucoup de gens n’ont pas accès à une bonne éducation, surtout dans les zones les plus pauvres. Il a remarqué que même si beaucoup de personnes ne savaient pas lire ou écrire correctement, presque tout le monde avait un téléphone. Cette observation l’a poussé à se poser la question suivante: et si on utilisait les téléphones pour rendre l’apprentissage accessible à tous, peu importe leur origine ou leur situation financière? Cette idée de donner une chance égale à tout le monde a vraiment été le moteur de leur projet.\n\nCe qui rend leur approche si créative, c’est la manière dont ils ont intégré des idées qui fonctionnent déjà dans des applications populaires comme les jeux et les réseaux sociaux, puis les ont adaptées à l’apprentissage des langues. Par exemple, ils ont ajouté des streaks (les séries de jours d’utilisation), des badges, des rappels personnalisés et même des compétitions entre utilisateurs. Ces mécanismes rendent l’apprentissage motivant et ludique, au lieu d’être une tâche ennuyeuse.\n\nIls ont également compris l’importance des réseaux sociaux pour engager leur communauté. Leur mascotte est devenue une véritable icône grâce aux \"memes\" qu’ils diffusent en ligne. Même leurs rappels un peu \"passifs-agressifs\" apportent une touche d’humour qui marche très bien. Cela donne envie de rester engagé avec l’application.\n\nAu final, ils ont réussi à combiner leur objectif de rendre l’éducation accessible à tous avec des techniques modernes comme la gamification et le marketing viral. C’est un excellent exemple de créativité guidée par une mission!"
-                ]
-            },
-            {
-                "titre_du_forum": "Les grand originaux sont les plus procrastinateurs?",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Les grand originaux sont les plus procrastinateurs 🤔\n\n\n    Je me souviens encore du jour où, en pleine réflexion sur ma procrastination, je suis tombée sur une vidéo qui a changé ma perspective. Avant, je voyais la procrastination comme un obstacle, puis j'ai découvert \"The surprising habits of original thinkers\" d'Adam Grant.\n\n\n        https://www.youtube.com/watch?v=fxbCHn6gE3U\n    \n\n\n    Une phrase m'a particulièrement marquée: \"La procrastination est un vice quand il s'agit de productivité, mais elle peut être une vertu pour la créativité.\"\n\n\n\n    Adam Grant explique que les esprits les plus créatifs sont souvent ceux qui démarrent rapidement un projet, mais prennent le temps de le peaufiner. Ils sont rapides à commencer, mais lents à terminer, laissant ainsi leurs idées mûrir et évoluer.\n\n\n\n    \n\n\n\n    Léonard de Vinci a mis 16 ans à achever la Mona Lisa. Ce qui pourrait passer pour de la procrastination était en réalité une incubation créative. Il a expérimenté, affiné et laissé son œuvre évoluer avec le temps.\n\n\n\n    \n\n\n\n    De même, Martin Luther King Jr. a retravaillé son discours jusqu'au petit matin. Sur scène, il a improvisé le célèbre \"I have a dream\", une phrase absente de son texte original. Sa procrastination lui a permis de rester ouvert à l'inspiration du moment.\n\n\nLes premiers originaux sont rarement les meilleurs\n\n\n    On pense souvent qu'il faut être le premier pour marquer les esprits. Mais il est souvent plus efficace d'améliorer une idée existante, toute la base de l'innovation incrémentale. Pour être original, il ne s'agit pas d'être le premier, mais d'être différent et meilleur.\n\n\nLe doute dans le processus créatif \n\n\n    Dans le processus créatif, nous traversons tous des phases de doute. Adam Grant distingue deux types de doutes:\n\n\n\n    \n\n\n\n    Doute de l'idée (étape 3): Stimule, nous pousse à tester, affiner et améliorer notre concept.\n    Doute de soi (étape 4): Paralyse, nous fait croire que nous ne sommes pas à la hauteur.\n\n\n\n    La clé est d'éviter de transformer le doute de l'idée en doute de soi et accepter que les premiers brouillons ne seront pas parfaits, mais qu’ils sont essentiels pour progresser. Tester, essayer, se tromper, ça fait partie du processus et c’est bien mieux que de ne rien faire par peur de l’échec ou du rejet. Ce qu’il faut vraiment craindre, c’est l'inaction!\n\n\n    Justement, cette vidéo m’a fait voir la procrastination sous un autre angle. Plutôt que de la combattre, je choisis maintenant de la considérer comme un outil pour enrichir mes idées et stimuler ma créativité. Alors, la prochaine fois que vous vous surprenez à procrastiner, dites-vous que vous êtes peut-être en train de laisser germer une idée révolutionnaire."
+                    "Hier, je suis allé regarder project hail Mary au cinéma. Sans vous spoil mais pendant le film, il y’avait beaucoup de l’humain qui apprend aux autres êtres comment on fait certaines choses. Mais je me suis dit que ça aurait été intéressant de voir si les aliens pouvaient eux aussi nous apprendre des choses et je me suis dit que c’était sûrement une tâche très compliquée pour les scénaristes d’imaginer quelque chose de créatif. Et même la vision qu’on a des “aliens” est tellement humanisée, notre cerveau est incapable de sortir de ses biais et de ce qu’il connaît. On les imagine comme être sociaux aussi, avec une langue etc. Ou sinon on les imagine comme des animaux, eux nous comprendraient mais pas nous. Mais en fait, on ne peut rien imaginer de différent de ce que notre cerveau connaît. Je trouve ça cool car ça rend la tâche des scénaristes beaucoup plus compliquée mais en même temps je trouve que c’est un peu nul car au final tous le films de science fiction se ressemblent…"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Syntich Kalala Tshibanda",
+        "utilisateur": "Mohamed Waridi Bennouna",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Forum de créativité dans la programmation",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "je trouve que c'est super parce qu'aujourd'hui, plusieurs sites web commencent à tous se ressembler. On voit les mêmes designs et mises en page. Du coup, voir que la programmation peut servir à créer quelque chose de créatif et original, c'est cool. De ce que je vois, on peut créer des sites webs créatifs si la personne décide de bien décrire à l'IA ce qu'elle veut, sinon, ce sera un design comme les autres"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nicolas Laniel",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 7,
+        "forums": [
+            {
+                "titre_du_forum": "Biomimétisme en architecture",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Effectivement, c'est un bon exemple de ce que le biomimétisme peut accomplir de plus concret. Ce qui est impressionnant avec le batiment, c'est qu'il ne se contente pas d'imiter l'esthétique de la nature, il en reproduit l'intelligence fonctionnelle aussi. C'est fascinant de voir comment une structure organique offre une solution à la fois écologique et pratique. C'est encore plus crucial dans les régions où la chaleur est un enjeu majeur, prouvant qu'en observant mieux la nature, on peut concevoir des infrastructures qui respirent intelligemment plutôt que de lutter contre le climat que par la technologie."
+                ]
+            },
+            {
+                "titre_du_forum": "Créativité et argents",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tombé sur ce TikTok dans mon fil d'actualité et j'ai trouvé intéressant de voir la vision de la rémunération dans un métier que la société juge \"créatif\". Souvent, on reçoit une paie à l'heure ou à l'année, mais pour eux à quoi cela ressemble et quels sont les principaux défis ?https://vt.tiktok.com/ZSHmomN8E/"
+                ]
+            },
+            {
+                "titre_du_forum": "Emballage plastique remplacé par feuille de bananiers",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui est brillant ici, c'est que ce supermarché a trouvé une alternative qui est à la fois écologique et profondément pratique. En utilisant une ressource locale et abondante, ils éliminent le besoin de créer des matériaux synthétiques polluants. C’est le remplacement idéal puisqu'on passe d'un déchet plastique éternel à une solution biodégradable qui ne demande aucune transformation industrielle complexe. C'est la preuve qu'en observant simplement ce que la nature nous offre déjà sur place, on peut protéger l'environnement sans sacrifier l'aspect fonctionnel de l'emballage."
+                ]
+            },
+            {
+                "titre_du_forum": "Et si on utilisait les rêves...",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Effectivement, ça pose la question du fameux déjà-vu qu'on ressent parfois. Le sentiment étrange d’avoir déjà vécu une scène, mot pour mot et geste pour geste, comme si le présent n’était qu’une rediffusion d’un film dont on est l'acteur. On a presque l'impression que la réalité bug et nous donne un petit aperçu de ce qui va suivre. Comment interpréter ce sentiment alors qu'on sait pertinemment que cet instant précis n'a jamais eu lieu auparavant ?"
+                ]
+            },
+            {
+                "titre_du_forum": "L'IA et la photographie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C'est fascinant de voir à quel point notre regard a changé. Aujourd'hui, face à l'inusité notre premier réflexe n'est plus l'émerveillement, mais le doute. On cherche la faille algorithmique avant de chercher l'émotion. C’est un coup dur pour les artistes car le travail acharné est souvent balayé par un simple constat de génération artificielle. On perd cette capacité à s'arrêter devant le réel pour simplement apprécier l'effort humain. Désormais, l'artiste ne doit plus seulement créer, il doit prouver qu'il existe rendant le rapport à la créativité aussi puissant que fragile."
+                ]
+            },
+            {
+                "titre_du_forum": "Truc et astuce",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cet homme est apparu plusieurs fois dans mon fil d'actualité et ça me fait toujours rire de voir à quel point on utilise mal certains objets du quotidien. Il y a souvent des astuces toutes bêtes pour accomplir la même tâche sans forcer. Il commence d'ailleurs chaque vidéo en disant : \"Voici des choses que je ne savais pas avant d'avoir la trentaine\". Au fond, ça montre bien à quel point on est créatifs pour se débrouiller par nous-mêmes, quitte à réinventer la roue sans jamais avoir jeté un œil aux vraies instructions.https://www.tiktok.com/@sidneyraz?_r=1&_t=ZS-954fF9Rd6YR"
+                ]
+            },
+            {
+                "titre_du_forum": "Utilisation créative packaging",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tombé sur cette vidéo et j'ai vraiment aimé le fait que le packaging ne soit pas juste là pour protéger. Il s'imprègne totalement du produit pour le mettre en valeur, avec ce retour à la source. Le packaging n'est plus un simple contenant, mais il devient la véritable signature du produithttps://vt.tiktok.com/ZSHe56hHX/"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nofissa Khaif",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Souplex à Paris: Quand les sous-sols deviennent des lofts de réve.",
+                "titre_du_forum": "L'art anamorphique",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "J'ai suivi cette émission\nsur YouTube, sur la nouvelle tendance sur la rénovation des sous-sols à Paris.\nC'est une histoire de l'immobilier qui devient très difficile à Paris où pour\ntrouver un espace pour se loger devient un casse-tête. Pour remédier à cela,\nles agences immobilières proposent une solution qui consiste à transformer les\nsous-sols des anciens boutiques, usines, cave de vin, ou réserve au charbon en\nhabitation nécessitant des travaux de rénovation.\n\nDans cette émission, on parle des quelques familles\nqui ont réussi à transformer des sous-sols en des anciennes usines en\nhabitation. C’est grâce aux agences immobilières qui sont au commande,\nidentifient les sous-sols délaissés/abandonnés qu’eux vont proposer à leurs\nmultiples clients en quête d'un espace avec un coût globalement avoisinant le 30%\ndu coût réel suivant la localisation.\n\nLe plus impressionnant c'est lors de la rénovation que\nj'ai trouvé l'innovation, le petit espace qui manquait la lumière, mais avec l'emploi\ndes matériaux comme les murs en plâtre et des plaques en vitre que l’espace est\nsuffisamment éclairé grâce à la lumière reçue à travers les plaques en vitre dont\nle reflet se fait dans la pièce.\n\nAutre innovation que j'ai remarquée c’est auprès des\nagences immobilières, les petites agences utilisent plus le système de visites\nvirtuelles en lieu et place de visite en site que les grandes agences immobilières\nutilisent afin de limiter les déplacements et augmentent leurs présences en\nligne avec plusieurs offres et avec un gros budget de marketing.  Souplex à Paris"
+                    "J’ai vu cette vidéo YouTube sur l’art anamorphique et j’ai trouvé ça vraiment intéressant. Je connaissais déjà un peu le principe, mais pas à ce point-là. Ce que j’aime dans ce type de création, c’est que ce n’est pas juste un dessin ou une illusion “belle à regarder”. Tout repose sur la perspective et sur la manière dont notre cerveau interprète l’image. Je trouve ça fascinant parce qu’on part parfois de quelque chose qui semble complètement déformé, mais vu du bon angle, tout devient clair. Ça montre une forme de créativité qui joue directement avec la perception.Lien de la vidéo: Anamorphic Mural Painting Timelapse: Transforming a Hallway into a 3D Illusion"
                 ]
             },
             {
-                "titre_du_forum": "L'innovation cyclonique : La révolution de Dyson dans le nettoyage domestique",
+                "titre_du_forum": "Trompe l’oeil",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Salut Meriem,\nJe suis vraiment très enthousiaste de cette idée où d'une part l'aspirateur aide à résoudre un problème qui est d'aspiré la poussière afin de rendre l'espace propre, mais d'autre part le problème est transféré ailleurs. Le faite de proposer cette solution d'aspirateur sans sac, c'est vraiment très intéressant. Moi j'étais même entrain de réfléchir sur une solution ou en lieu et place de vider la poubelle on pourrait utiliser ces déchets ménagers directement chez nous comme combustible afin de produire de l'électricité pour le chauffage ou pour cuisiner."
+                    "Ça me fait penser au fait qu’en ce moment, il y a aussi beaucoup de trompe-l’œil qui ressemblent exactement à ce qu’ils goûtent, par exemple un dessert en forme de pomme qui goûte vraiment la pomme. Je trouve ça intéressant parce qu’on pourrait se demander si c’est moins créatif que quand l’intérieur surprend complètement, mais au final pas forcément. Dans un cas, la créativité est dans le contraste et dans la surprise et dans l’autre, elle est dans le fait de réussir à recréer quelque chose de manière vraiment cohérente."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Yasmine Chaabouni",
-        "total_des_commentaires": 2,
+        "utilisateur": "Rayane Ighil",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Du ballet au patinage artistique",
+                "titre_du_forum": "Postmodern Jukebox",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Se lancer dans le patinage artistique après plusieurs années de pratique de danse classique peut être une opportunité incroyable pour développer un style unique je trouve! En intégrant des mouvements emblématiques du ballet, comme les arabesques, les attitudes et les pliés, les sauts et les jetés directement dans les chorégraphies sur glace ça peut ajouter une touche de grâce et de raffinement supplémentaires. En choisissant des musiques classiques telles que celles du Lac des Cygnes ou Giselle, ces réinterprétations pourraient marier l'élégance et la technique. De plus, la maîtrise des transitions acquise en danse classique apportent une fluidité exceptionnelle en renforçant l’harmonie et l’originalité des performances.A mon avis, fusionner le patinage artistique et le ballet, deux univers distincts mais complémentaires, permet de créer une harmonie unique entre grâce et technique!"
+                    "Postmodern jukebox font des cover de chansons populaires mais avec un style retro/vintage. En voici une que j'aime beaucoup où ils présentent leur interprétation vintage de la chanson rock Sweet child o' mine de Guns N Roses. Je sais qu'en classe on a mentionné qu'interpréter une oeuvre de façon différente n'est pas toujours créatif mais je trouve personnellement leur travail unique et ça met ensemble deux styles différent en incorporant des instruments différents de l'originale et des chanteurs très talentueux qui eux aussi amène une touche spéciale.Voici le lien vers la chanson: Sweet Child O'Mine"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Richema Métellus",
+        "groupe": "Loutre",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "Emballage plastique remplacé par feuille de bananiers",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai vraiment aimé ton partage ! C’est un super exemple de créativité pratique et écologique. Utiliser les feuilles de bananier, qui sont abondantes localement, pour remplacer le plastique est à la fois simple, logique et ingénieux. On voit qu’ils ont su tirer parti de ce qu’ils avaient déjà sous la main plutôt que d’inventer quelque chose de compliqué. Ça rejoint bien l’idée qu’une bonne solution créative n’est pas forcément high-tech, parfois c’est juste observer son environnement et transformer une ressource locale en alternative durable. Et comme tu le dis, c’est clairement mieux que tous ces emballages plastiques inutiles."
                 ]
             },
             {
-                "titre_du_forum": "Une poubelle de tri intelligente",
+                "titre_du_forum": "This is not…this is…",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Salut Kenza ! J'ai eu exactement la même réflexion que toi il y a quelque temps, et c'est vraiment fascinant! \nCette idée me semble très pratique, car ce moment d'hésitation qu'on a souvent avant de jeter un déchet représente une véritable problématique je trouve. Qu'on le veuille ou non, on n'est pas tous au même niveau d'information sur le tri des déchets, et les campagnes de sensibilisation ne sont pas encore suffisantes pour rendre ce geste automatique pour tout le monde. L'idée d'une poubelle équipée d'une caméra intelligente pour faire le tri à notre place est géniale car ça éliminerait les doutes et garantirait que chaque déchet parte au bon endroit. Cependant, comme Aimée l’a souligné, une telle solution serait probablement coûteuse, ce qui reste un obstacle à sa généralisation! \nCela dit, cette innovation soulève aussi la question de la responsabilité individuelle. Au-delà de l’aspect pratique, elle pourrait nous inviter à repenser notre rapport à la consommation et au recyclage, en nous poussant à être plus conscients des déchets que nous produisons! Peut-être qu’une telle technologie, en simplifiant le processus, nous encouragerait à adopter de meilleurs réflexes, tout en nous montrant que le tri est un geste essentiel et à la portée de tous."
+                    "Je vous partage une vidéo que j’ai vue sur TikTok. C’est le concept du « this is not a… this is… » (ceci n'est pas… c'est…), qui est assez populaire en ce moment. Ça m’a fait penser au jeu qu’on faisait durant les cours en ligne. Dans la vidéo, on voit des formes très simples que les enfants transforment en dessins. Honnêtement, je les trouve vraiment créatifs et talentueux.\nÇa m’a aussi fait penser à la pensée divergente dont on parle dans le cours. Pour moi, ça représente bien ce que c’est être créatif : être capable de trouver plusieurs idées à partir de quelque chose de très simple. Ça demande d’être ouvert et de sortir un peu de sa façon habituelle de penser.\nDans les commentaires, certaines personnes disent qu’elles ont perdu leur créativité en grandissant. Je trouve ça dommage de voir les choses comme ça, parce qu’en réalité on ne la perd pas, on l’utilise juste moins et on ne la développe pas assez. Selon moi, la créativité est un processus accessible à tous. Il ne s’agit pas forcément d’un talent artistique exceptionnel, mais plutôt d’une capacité à jouer avec les idées, à expérimenter et à transformer une idée simple en plusieurs idées.\nJe pense que ce genre d’exercice montre justement que la créativité peut se travailler et qu’elle n’est pas réservée aux enfants. Parfois, il suffit simplement de se laisser un peu plus de liberté pour explorer différentes idées. Dans un contexte de travail ou d’études, adopter un comportement créatif signifie souvent prendre le temps de regarder un problème sous plusieurs angles. Parfois, une solution innovante peut émerger simplement en changeant la façon dont on interprète une situation initiale.\n[Fichier joint : v1c044g50000d6u77mvog65mkr25f780.mp4]"
+                ]
+            },
+            {
+                "titre_du_forum": "Trompe l’oeil",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'aime beaucoup le concept de trompe l'œil. Ce que je trouve fascinant, c’est le côté surprenant. On est un peu trompé par ce qu’on voit, et ça rend l’expérience encore plus amusante quand on se rend compte que c’est en fait un dessert. Ça montre aussi à quel point les pâtissiers peuvent être créatifs, parce qu’ils doivent penser à la fois au goût, à la texture et à l’apparence. Je trouve que c’est un bon exemple de créativité, parce qu’on prend quelque chose de simple comme un dessert et on le transforme en quelque chose d’inattendu. Ça montre qu’avec un peu d’imagination, on peut vraiment jouer avec les perceptions des gens.\n[Fichier joint : v0f025gc0000cnf5f9fog65tfeojo76g.mp4]"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Rim Zoglat",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Et si on utilisait les rêves...",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C’est intéressant ce que tu dis sur le fait que notre cerveau ne crée rien complètement à partir de zéro. Mais en même temps ça m’a toujours intrigué que dans les rêves on voit parfois des personnes qu’on a l’impression de n'avoir jamais vues et qu'on ne connait pas. On a presque l’impression que notre cerveau invente des visages. Peut-être que ce sont en fait des fragments de visages qu’on a déjà vus dans la réalité que le cerveau recombine sans qu’on s’en rende compte."
+                ]
+            },
+            {
+                "titre_du_forum": "L'IA et la photographie",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "https://www.instagram.com/p/DWRsWwFjL0f/?igsh=MWxrcmhubG9tNzg4dA==J’ai vu passer cette publication sur Instagram d’un photographe qui montrait une photo d'un lit en plein milieu de la Seine. Beaucoup de gens ont immédiatement pensé que c’était de l’IA alors que c'était bien réel et le photographe a du se justifier et le prouver. Le photographe explique qu’il a simplement vu un lampadaire au bord de l’eau et que ça lui a donné l’inspiration d’imaginer une scène avec un lit à cet endroit et il est revenu le lendemain matin pour prendre ces photos\nMais au dela des photos, ça m’a fait réfléchir à notre rapport à la créativité aujourd’hui. Le fait que beaucoup de personnes aient directement pensé à l’IA montre qu’on associe de plus en plus les images “improbables” à de la génération artificielle. On peut passer à côté d’un travail créatif réel simplement parce qu’on suppose que c’est de l’IA. Du coup on prend même plus le temps d’observer et on fait perdre de la légitimité à pleins d'artistes. Actuellement on valorise la créativité, mais en même temps on devient plus \"craintif\" face à ce qui sort de l’ordinaire."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ryan Llaguri",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Créativité artificielle et créativité naturelle",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En rédigeant mon projet personnel, j'ai découvert des articles sur l'IA et son rôle dans la créativité. La créativité naturelle vient du cerveau humain. Elle est influencée par les émotions, l’expérience, la culture et la mémoire personnelle. Elle permet de donner du sens, d’exprimer une intention et de produire quelque chose d’unique.La créativité artificielle, fonctionne différemment. Elle analyse d’immenses quantités de données et génère des idées en combinant des informations apprises. Elle ne ressent rien, mais elle peut créer des textes, des images ou des solutions nouvelles à partir de modèles existants.Le lien entre les deux repose sur les associations. Le cerveau humain relie des idées grâce à son expérience. L’IA relie des données grâce à des algorithmes. En analysant le côté neurologique du processus de créativité, je ressens une meilleure clarté dans mon propre processus créatif grâce à une meilleure compréhension physique de son fonctionnement. J’ai aussi remarqué que l’assemblage des idées n’est pas aléatoire. Le processus créatif naturel est influencé par les émotions. Certains jours, je me sens plus créatif que d’autres, selon mon humeur."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ryles Hedi Cherif",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Art abstrait &amp; créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'aime beaucoup les tableaux qui sont faits à l'essai-erreur que beaucoup critiquent, car c'est tellement abstrait que ça lui donne un charme unique. Certains osent dire que ce n'est pas de la vrai art, car c'est trop \"simple\" à faire selon eux. Que l'Artiste a juste \"jeté\" de la peinture avec différentes couleurs sur la toile. Mais ils ne prennent pas en compte qu'il fallait d'abord avoir cette idée avant de la faire. De plus, ces tableaux sont fait à l'instinct, donc après chaque coup de pinceau, l'artiste peut developper de nouvelles idées qu'il appliquera sur sa toile à l'aide de différentes textures, couleurs et formes. Par exemple, le logo Nike n'est qu'un trait, pourtant des gens sont prêts à mettre des centaines de dollars sur une veste juste parce qu'elle a ce petit trait."
+                ]
+            },
+            {
+                "titre_du_forum": "Trompe l’oeil",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C'est vrai que lorsque les trompe l'oeil sont bien faits, ils sont vraiment impréssionnant. Tu t'attends à manger une pomme, mais l'intérieur est un coulis de framboise."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sara-Maude Sauvé",
+        "groupe": "Loutre",
+        "total_des_commentaires": 3,
+        "forums": [
+            {
+                "titre_du_forum": "7 Paintings",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Wow très intéressant, merci Juliette!"
+                ]
+            },
+            {
+                "titre_du_forum": "The Lord Of The Rings",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Récemment, j'ai réécouté les 3 films de la trilogie The Lord of the Rings et j'ai été fascinée par les décors grandioses et la diversité de personnages. Je me suis dit qu'il faut avoir tellement de créativité et un esprit imaginatif pour premièrement écrire, décrire et imaginer ce monde, mais aussi pour le mettre en image pour pouvoir plonger le public dans cet univers. Aussi, j'ai été fascinée d'apprendre que l'auteur des romans a inventé plusieurs langues différentes!"
+                ]
+            },
+            {
+                "titre_du_forum": "Un TOUSKI",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Très intéressant, je fais ça moi aussi!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Serena-Mputu Nkongolo",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Faire de la laine à partir de ses cheveux",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Voici une vidéo Tiktok que j'ai trouvée super intéressante! C'est une fille qui essaie de transformer ses cheveux en \"laine\". Elle prend le temps d'expliquer tout son processus, ses essais/erreurs, etc. Je trouve que ça représente très bien une démarche créative!https://vt.tiktok.com/ZSHmoxEm1/"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sofyan Emad Khayyal",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Et si on utilisait les rêves...",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Les rêves m’ont toujours intrigué. Souvent ils sont vraiment bizarres et ne suivent pas beaucoup de logique, mais en même temps ils peuvent être très fascinants. On peut voir des scènes ou des idées auxquelles on n’aurait jamais pensé quand on est réveillé. Je trouve que c’est intéressant parce que ça montre que notre cerveau peut créer des choses très originales sans qu’on essaie vraiment. Des fois, ces images ou ces idées peuvent même inspirer quelque chose de créatif, comme une histoire, un dessin ou une nouvelle façon de voir les choses."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Thibault Fourvel",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "How to grow a chair",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Voici un tutoriel étonnant et original pour apprendre à faire \"pousser une chaise\".Lien Instagram : https://www.instagram.com/p/DTQOjJPjQeq/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA=="
+                ]
+            },
+            {
+                "titre_du_forum": "Wonder trois quatre ou l'improvisation musicale",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Samedi 21 mars, j'ai eu la chance d'assister à un show d'improvisation musicale présenté par le groupe Wonder trois quatre au Café Campus. Le concept est simple : Le temps d'une soirée, le lieu est transformé en un véritable studio de radio. Un homme qui joue l'animateur énonce le prochain titre (proposé par la public et généralement loufoque) qui va être joué sur la station en précisant le nom de la chanson, le nom du groupe, le style musical (pas forcément un style qui existe, j'ai par exemple eu droit à de la techno scandinave ou du métal médiéval) ainsi qu'un brève mise en contexte sur la chanson. Un groupe, composé de 2 chanteurs, de 5 musiciens et d'un chef d'orchestre, doivent alors composer en live un son qui suivent la chanson énoncée sans réelle concertation. Tout est donc inventé sur le champ, que ce soit la mélodie, les paroles ou le refrain.Cela donne donc lieu à des chansons comiques mais aussi étonnamment entraînante et bien réalisée. J'ai été impressionné par la capacité des artistes à improviser sur le champ une chanson de toute pièce, et sans fausses notes, qui correspond aux critères énoncés même ceux-ci n'avaient aucun sens.Je pense que l'on peut donc parler ici de créativité, tout d'abord grâce au mélange des disciplines : improvisation, musique, chant, radio etc... mais aussi par la spontanéité et la réactivité et presque la capacité \"instinctive\" des artistes à créer tout cela. Je me suis d'ailleurs demandé si les artistes étaient performants car ils avaient une bonne oreille et une très bonne capacité d'improvisation ou simplement car ils ont une très grande connaissance des styles musicaux, des accords et des instruments qui fonctionnent entre eux. A mon sens c'est probablement un mélange des deux, mais dans tous les cas c'est une très belle performance créative.Voici le lien du groupe si vous souhaitez en savoir plus ou avoir quelques exemples de leurs prestations : https://www.wondertroisquatre.com/"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Thomas Fournier-Joanisse",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Chaîne Youtube Télé-Québec",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé plusieurs vidéos super intéressantes sur la chaîne YouTube de Télé-Québec, dont celle-ci ! C’est une maison allumette de l’époque qui a été rénovée de manière créative et qui permet de préserver le patrimoine. Je vous recommande fortement d’aller la visionner, ainsi que les autres vidéos de la chaîne.https://youtu.be/c36UogCCEz0?si=-MJDlwQ3od8AYcFl"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Vincent Lachapelle",
+        "groupe": "Flamant rose",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Art et créativité - Un mythe intemporel ?",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Nous l'avons vu en classe : « artistique » n'est pas synonyme de « créatif ». L'association directe de l'art et de la créativité est un mythe bien ancré dans notre société. Ainsi, le titre de ce recueil m'a bien fait sourire. Je me suis quand même arrêté un instant pour feuilleter ces pages. L'art d'il y a 30 000 ans est très différent de celui d'aujourd'hui : un bâton avec quelques engravures représentant un animal ; des peintures monochromes de la vie quotidienne ; un monticule de roches, méticuleusement empilé afin d'apéser les mauvais esprits. J'ai alors vu ces hommes et ces femmes, encore impuissants face aux forces de la nature, maîtrisant à peine le feu, apprendre à donter l'art pour communiquer entre eux. À travers ce livre, j'ai vu leur art s'agrandir par l'ajout de textures et de couleurs, se raffiner par celui des perspectives et des contrastes, se complexifier par le développement de techniques et de la science. Ainsi, si l'art n'est pas l'incarnation de la créativité, c'est bien de la créativité de nos ancêtres dont résulte l'art contemporain."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Warda Belem",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Absurd trolley problems",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je me suis rappelée du trolley problem que j’avais vu il y a longtemps, donc je suis allée rejouer avec par curiosité : https://neal.fun/absurd-trolley-problems/\nAu début, j’étais vraiment en mode logique. J’essayais de faire le “bon choix”, un peu comme un problème d’optimisation classique. Puis je suis tombée sur un scénario où il fallait choisir entre sauver mon meilleur ami ou dévier le train vers 5 inconnus.\nEt là, ça m’a un peu stoppée.\nParce que logiquement, sauver 5 personnes semble être la meilleure option. Mais en même temps, ce n’était plus du tout abstrait. C’était beaucoup plus personnel. Au final… j’ai quand même choisi de sauver les 5, donc oui, j’ai “sacrifié” mon meilleur ami. Mais ce qui m’a surprise, c’est que la majorité des gens n’a pas fait le même choix.\nÇa m’a fait réaliser que même dans un truc qui a l’air très logique au départ, les réponses deviennent vite très différentes dès qu’on ajoute un facteur émotionnel. Et surtout, je me suis rendu compte qu’à partir de ce moment-là, ce n’était plus une question d’optimisation pour moi, mais de valeurs."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "William Parker",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Parler avec ses mains",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Cette vidéo sur TikTok est tellement intéressante. Je trouve que c'est bien pensé d'utiliser des senseurs dans la main pour détecter les mouvements, et puis avec ces mouvements, déterminer les mot associés. Il permet à ceux n'ayant plus l'habilité à communiquer de le faire de façon simple et intuitive pour eux. https://vt.tiktok.com/ZSHuHakbD/"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Xavier Schlegel",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Maud Cohen sur développement du campus",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Maud Cohen a annoncé que le projet de développement du campus de Poly qui va commencer ce printemps va ajouter des environnements qui vont être conçus pour stimuler la créativité. Je suis très curieux de voir c'est quoi ces environnements qu'elle mentionne.liens du clip: https://youtube.com/clip/UgkxcgIT0eTQeKh2j87vKkH9srMDdXkjI-Kg?si=0Zw7uyB1rtMM_JD8"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Yacine Barka",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Musique avec des objets du quotidien",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve que le fait d'enregistrer des sons banals de notre environnement (cliquetis d'un clavier, machine à café, bruits de pas) pour les assembler et composer des rythmes musicaux uniques est vraiment une excellente idée qui nous permet de mieux écouter le monde qui nous entoure et cela peut surprendre à quel point le résultat final peut être épatant. Voir le résultat final de la vidéo de Andrew Huang : https://youtu.be/vbPeAU_3zbk?t=576"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Yassine Seddaoui",
+        "groupe": "Loutre",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Biomimétisme des maillots de bain",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La peau de requin est couverte de minuscules écailles en forme de dents appelées denticules dermaux, qui créent des micro-turbulences dans l'eau et réduisent la traînée hydrodynamique. Des ingénieurs ont reproduit cette microstructure sur des maillots de bain et des coques de bateaux pour obtenir le même effet. Ils ont utilisé le biomimétisme et ont copier une solution que la nature a mis des millions d'années à perfectionner pour résoudre un problème humain."
                 ]
             }
         ]

@@ -16,6 +16,7 @@
 
     const userData = {};
     const processedPostIds = new Set();
+    let groupHits = 0, groupMisses = 0;
 
     // Collect discussions AND their titles from the forum view page (paginated)
     async function collectDiscussions(forumViewUrl) {
@@ -29,15 +30,12 @@
             if (!resp.ok) { console.warn('Échec :', pageUrl); break; }
             const doc = parser.parseFromString(await resp.text(), 'text/html');
 
-            // Each discussion row has a link with the title in textContent and title attribute
             doc.querySelectorAll('tr.discussion a[href*="/mod/forum/discuss.php?d="]').forEach(a => {
                 const m = a.href.match(/discuss\.php\?d=(\d+)/);
                 if (!m) return;
                 const id = m[1];
                 const titleText = normName(a.getAttribute('title') || a.textContent);
-                // Skip empty titles (e.g. author avatars linking to the discussion)
                 if (!titleText) return;
-                // First occurrence wins; the topic cell comes before the "last post" cell
                 if (!discussions.has(id)) {
                     discussions.set(id, {
                         url: `https://moodle.polymtl.ca/mod/forum/discuss.php?d=${id}`,
@@ -67,6 +65,30 @@
         return Array.from(discussions.values());
     }
 
+    // Robust group detection — checks aria-label, alt, title, and href
+    function detectGroup(article) {
+        const containers = article.querySelectorAll('.author-groups-container');
+        for (const container of containers) {
+            const link = container.querySelector('a[aria-label]');
+            const ariaLabel = link ? link.getAttribute('aria-label') || '' : '';
+            const img = container.querySelector('img');
+            const imgAlt = img ? img.getAttribute('alt') || '' : '';
+            const imgTitle = img ? img.getAttribute('title') || '' : '';
+            const href = link ? link.getAttribute('href') || '' : '';
+            const haystack = `${ariaLabel} ${imgAlt} ${imgTitle} ${href}`;
+
+            // Loutre = IND8108_01C = group 248117
+            if (/IND8108[_\s-]*01C/i.test(haystack) || /group=248117/.test(haystack)) {
+                return 'Loutre';
+            }
+            // Flamant rose = IND8108_02C = group 248116
+            if (/IND8108[_\s-]*02C/i.test(haystack) || /group=248116/.test(haystack)) {
+                return 'Flamant rose';
+            }
+        }
+        return null;
+    }
+
     // Extract posts from a discussion page
     function extractPosts(doc) {
         const out = [];
@@ -90,13 +112,8 @@
             });
             if (attachments.length) text = (text + '\n' + attachments.join('\n')).trim();
 
-            // Group detection — French labels
-            let groupLabel = null;
-            article.querySelectorAll('.author-groups-container img').forEach(img => {
-                const id = ((img.getAttribute('alt') || '') + ' ' + (img.getAttribute('title') || '')).trim();
-                if (/IND8108_02C/i.test(id)) groupLabel = 'Loutre';
-                else if (/IND8108_01C/i.test(id)) groupLabel = 'Flamant rose';
-            });
+            const groupLabel = detectGroup(article);
+            if (groupLabel) groupHits++; else groupMisses++;
 
             out.push({ name, comment: text, groupLabel });
         });
@@ -152,8 +169,16 @@
         } catch (e) { console.error('Erreur forum', forumUrl, e); }
     }
 
-    // Second pass: propagate group labels across all entries for the same user
-    // (in case a user's group only appeared in some posts)
+    // Diagnostics
+    console.log(`Détection de groupe — trouvés : ${groupHits}, manqués : ${groupMisses}`);
+    const byGroup = { 'Loutre': 0, 'Flamant rose': 0, 'Inconnu': 0 };
+    for (const n of Object.keys(userData)) {
+        const g = userData[n].groupLabel || 'Inconnu';
+        byGroup[g] = (byGroup[g] || 0) + 1;
+    }
+    console.log('Répartition des utilisateurs par groupe :', byGroup);
+
+    // Fill in 'Inconnu' for any remaining users without a detected group
     for (const name of Object.keys(userData)) {
         if (!userData[name].groupLabel) userData[name].groupLabel = 'Inconnu';
     }
