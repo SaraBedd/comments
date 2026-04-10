@@ -1,266 +1,499 @@
 [
     {
-        "utilisateur": "Anyssa Côté-Lefort",
-        "groupe": "Loutre",
+        "utilisateur": "Adame Oumamass",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui m’a marqué, c’est l’idée que la créativité commence très tôt, dès qu’on donne un sens personnel à ce qu’on apprend. Même une petite idée ou une nouvelle façon de comprendre quelque chose peut être considérée comme créative. Ça change beaucoup la façon de voir la créativité. On comprend que ce n’est pas seulement créer quelque chose de révolutionnaire, mais aussi progresser petit à petit, apprendre, expérimenter et développer ses idées avec le temps."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Amélie Ducharme",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Oui, je trouve que cette\nclassification est pertinente, puisqu’elle permet de reconnaître la créativité\nà différents niveaux. Elle valorise la créativité de chacun, même lorsqu’elle\nn’est ni révolutionnaire ni exceptionnelle. Cela me semble important, car\nreconnaître et valider les efforts créatifs d’une personne peut l’encourager à\ndévelopper davantage sa créativité. À l’inverse, si seules les idées\nextraordinaires, comme celles de Van Gogh ou de Marie Curie, étaient mises de\nl’avant, plusieurs individus pourraient se sentir moins interpellés à tenter\nd’être créatifs. Ainsi, ce modèle peut être vu comme une forme d’échelle de la\ncréativité, permettant de motiver même ceux qui ne se considèrent pas créatifs\nà repousser leurs propres limites."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Antoine Lévesque",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai aimé que le texte explique que la créativité n’est pas seulement réservée aux grands génies ou aux artistes célèbres. Le modèle des quatre C permet de voir qu’il existe plusieurs niveaux de créativité, même dans l’apprentissage ou dans la vie de tous les jours. J’ai trouvé ça intéressant parce que ça rend la créativité plus accessible et moins intimidante. Ça montre aussi qu’on peut être créatif sans forcément produire quelque chose d’extraordinaire aux yeux du monde."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Caroline Gagnon",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La lecture du texte de Kaufman et Beghetto m’a amené à réfléchir à ma propre perception de la créativité. Avant de lire cet article, j’avais tendance à voir la créativité selon une logique beaucoup plus simple, presque binaire : soit une personne était créative, soit elle ne l’était pas. Autrement dit, je percevais la créativité comme quelque chose d'existant ou non, sans vraiment considérer les différents degrés ou étapes possibles dans son développement. Le modèle des quatre C (mini-c, little-c, Pro-c et Big-C) m’a permis de comprendre que la créativité est en réalité un processus progressif et nuancé. Je n’avais jamais considéré que le simple fait de comprendre une idée basée sur un élément préexistant (par exemple: comprendre un problème de mathématiques) pouvait déjà être une forme de créativité. Dans ma vision précédente, seules les grandes idées ou les innovations importantes auraient été considérées comme créatives. Finalement, la distinction entre little-c et Pro-c montre que la créativité peut aussi se développer avec l’expérience et la pratique dans un domaine professionnel. Cela m’a fait réaliser que la créativité n’est pas seulement un talent inné, mais qu’elle peut évoluer avec le temps."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Dounia Hage",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Après la lecture du texte de Kaufman, ce que je retiens surtout, c’est que le modèle des quatre C permet de mieux comprendre la créativité comme un processus évolutif plutôt que comme une étiquette fixe. On parle souvent de créativité comme d’un trait qu’on possède ou non, mais ici on voit qu’elle peut se transformer et se développer à travers différentes étapes. Cette idée m’a particulièrement marqué.\nJe trouve intéressant que le modèle distingue clairement le mini-c du little-c. On a tendance à valoriser ce qui est visible, ce qui produit un résultat concret, mais Kaufman rappelle que l’interprétation personnelle d’un concept – même si elle ne mène pas encore à une production spectaculaire – est déjà une forme de créativité. Ça change la manière dont on peut percevoir l’apprentissage. En ce sens, la créativité n’est plus seulement liée à la performance, mais aussi à la compréhension et à l’appropriation d’idées.\nJe trouve aussi que l’ajout du Pro-c est essentiel. Souvent, on parle soit des grands génies, soit des activités créatives du quotidien, mais on oublie toute la zone intermédiaire des professionnels compétents qui innovent dans leur domaine sans nécessairement devenir « légendaires ». Pourtant, ce sont eux qui font avancer concrètement les disciplines. Cette nuance rend le modèle plus réaliste.\nÀ mon avis, l’intérêt principal de cette classification est qu’elle permet d’éviter deux extrêmes : idéaliser la créativité comme quelque chose de rare et inaccessible, ou au contraire la banaliser complètement. Elle montre que la créativité peut être présente à différents niveaux, selon le contexte, l’expérience et le développement personnel. Ça donne une vision plus complète et plus nuancée du phénomène, ce que je trouve particulièrement pertinent dans un cours sur la créativité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Emma-Rose Martineau",
+        "groupe": "otter",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Toutes les formes de créativité",
-                "nbre_de_commentaires": 1,
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
                 "commentaires": [
-                    "Je suis en accord avec toi, j'ai trouvé aussi que la ligne est difficile à tracer entre Pro-C et Big-C. Pour moi, j'ai vu Pro-C comme étant un progrès dans un domaine quelconque (plus professionnel), sans pour autant avoir tout bouleversé. Big-C, je le vois plus comme un élément qui vient changer les choses et qui dure dans le temps, mais surtout, qui obtient une certaine reconnaissance (ex : obtention de prix importants).\nToutefois, ça reste encore un peu flou dans ma tête."
-                ]
-            },
-            {
-                "titre_du_forum": "Les degrés de créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je suis totalement en accord avec ce que tu dis. En décomposant la créativité en niveaux, le modèle la rend beaucoup moins intimidante."
+                    "Je suis d'accord. Moi aussi en lisant le texte j'ai eu l'impression qu'il s'agissait d'une forme d'échelle. Je ne sais pas si c'est moi, mais j'ai senti un peu que les niveaux avaient un lien avec le niveau d'utilité des idées, de commercialisation. Que plus l'idée était dans le Mini-c plus l'idée n'avait pas vraiment de pertinence à être commercialisée, mais plus qu'elle était dans le Pro-c, plus elle devrait être commercialisée.",
+                    "En lisant le texte, je me suis posée la question si les niveaux de créativité sont réellement atteignables, surtout en ce qui concerne le Big-C. J'ai l'impression que plus le temps avance, plus on spécialise dans nos domaines, plus il sera difficile pour un individu de faire une percée qui sera révolutionnaire. Je crois aussi, que les grosses innovations de nos jours sont beaucoup plus des réalisations d'équipe. Je me pose donc la question si ce niveau en 2026 aussi réaliste à atteindre qu'il y a quelques siècles ou tout était à découvrir."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Audrey Ann Lamirande-Bolduc",
-        "groupe": "Flamant rose",
+        "utilisateur": "Erika Vaillancourt",
+        "groupe": "flamingo",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Les degrés de créativité",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "J’ai trouvé intéressant que le modèle des quatre C (mini-c, little-c, Pro-c, Big-C) élargisse la vision de la créativité. J’aime particulièrement l’idée du mini-c, qui reconnaît la valeur des petites découvertes personnelles dans l’apprentissage, souvent négligées. Le Pro-c ajoute aussi une nuance importante en valorisant les créateurs qui atteignent un haut niveau professionnel sans forcément devenir des « génies » reconnus. Ça rend la créativité plus accessible et montre qu’elle existe à plusieurs niveaux évolutifs"
+                    "La théorie des quatre niveaux de créativité est intéressante parce qu’elle montre que la créativité ne concerne pas seulement les grandes inventions. Le concept de mini-c est pertinent, car il explique que la créativité peut apparaître avec l’apprentissage, quand une personne comprend un concept  d’une différente façon.  Cette approche est utile pour l’école parce qu’elle valorise les idées des étudiants, même si les idées ne sont pas les meilleurs. cette approche permet donc de mieux comprendre que la créativité est un processus qui se développe graduellement et peut évoluer avec le temps."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Ewald Jordan Ngandjui Tchuente",
-        "groupe": "Loutre",
+        "utilisateur": "Gabriel Asselin",
+        "groupe": "flamingo",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Mon projet personnel et  le modèle des « 4 C »",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Cet article m’a particulièrement interpellé puisque je travaille sur un projet personnel à caractère entrepreneurial pour mon projet final en genie logiciel. Le modèle des « 4 C » de Kaufman et Beghetto m’a permis de mieux situer la créativité dans ce contexte : elle ne se limite pas aux grandes découvertes (Big-C), mais inclut aussi les apprentissages personnels (mini-c) et les innovations professionnelles (Pro-c).\nDans le cadre du développement de mon application, cette perspective m’aide à valoriser chaque étape du processus, même les plus petites idées ou expérimentations, comme faisant pleinement partie de la démarche créative."
+                    "Je trouves très intéressant de lire un article scientifique sur la créativité. Tout d'abord, je trouve que oui la classification est pertinente car il me paraît évident que la créativité est nuancé, cela ne se résume pas à \"être créatif ou non\". La classification est intéréssante dû au spectre de l'être qu'elle englobe : le cognitif, l'environnement de l'individu, le niveau d'expertise et le génie hors du commun.Je pense que c'est intéressant car le modèle donne un modèle crédiblemais j'ai des doutes sur à quel point il peut être appliqué réellement. Il est bon car il permet de valoriser des formes de créativités qui sont souvent délaissées  ou insoupçonnées. Enfin, cette classification me semble utile car il pourrait permettre d'établir une base dans l'évaluation de la créativité."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Fanta Sacko",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Un modèle qui déculpabilise la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J’ai bien aimé ce texte. Le modèle 4 C casse enfin la vision binaire de la créativité et remet l’accent sur le processus: on peut être créatif à son échelle (mini-c, little-c) sans viser le génie (Big-C). Ça déculpabilise et ça donne des repères concrets pour progresser vers le Pro-c. Perso, ça me parle pour situer nos projets du cours et voir comment mesurer un vrai pas en avant."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Justin Bourassa",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Associer créativité et reconnaissance",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve que la classification des 4C de Kaufman est vraiment pertinente. Elle montre que la créativité, ce n’est pas juste les grandes œuvres ou les succès qu’on voit partout. On est de plus en plus dans la compétition et on ne célèbre que les meilleurs, ceux qui réussissent de façon visible. Du coup, toutes les petites idées, nos découvertes et même les essais ratés sont souvent ignorés. Cette classification permet justement de reconnaître toutes ces formes de créativité et d’encourager chacun à créer à sa manière et ça sans se comparer aux autres."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Laurence Corbeil",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Modèle des 4 C",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce texte de Kaufman et Beghetto sur le modèle des 4 C de la créativité m’a fait réfléchir à la manière dont on perçoit la créativité au quotidien. J’aime que les auteurs brisent l'opposition un peu dépassée entre les petits créatifs (little-c) et les grands génies (Big-C) pour proposer une vision plus nuancée de la réalité. Le concept de mini-c est particulièrement intéressant parce qu'il montre que la créativité est déjà présente dans le simple fait d’apprendre quelque chose et de lui donner une signification personnelle. Je trouve que ça rend la créativité plus accessible puisque ce n’est plus présenté comme un don rare, mais un processus naturel qu’on peut tous vivre et apprendre, même à petite échelle. Le Pro-c est aussi une belle façon de valoriser ceux qui deviennent experts créatifs dans leur domaine sans forcément atteindre le statut de “génie reconnu”. Je trouve que cette manière de présenter le modèle est positif parce qu’il enlève en partie la pression d’être exceptionnel et de se comparer aux autres pour se trouver créatif. Le texte valorise les progrès, les apprentissages, les essais, et pas seulement les résultats qui sortent des normes. Dans un monde où on glorifie souvent des gens qui sont extrêmement créatifs, c’est rafraîchissant qu’on reconnaisse aussi la créativité d’un prof, d’un ingénieur ou d’un élève qui trouve une idée originale. Ce texte me fait penser que la créativité n’est pas juste un résultat, mais un processus, et qu’on peut tous évoluer entre les différents C à plusieurs moments de notre vie et selon différents contextes."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Marc Awaad",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Mérite de la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La lecture de cet article m’a fait réaliser que la créativité forme vraiment un continuum. Ça va de nos petites idées personnelles (mini-c) jusqu’à l’expertise qu’on développe avec le temps (Pro-c), et parfois même jusqu’au génie qui marque l’histoire (Big-C). Voir la créativité comme quelque chose qui se développe rend le concept plus accessible pour tout le monde, tout en rappelant que le travail des créateurs expérimentés mérite aussi d’être reconnu, et pas juste les génies ou la créativité du quotidien."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Mohamed Adlane Oussaada",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Une vision plus inclusive de la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve que la classification des 4C de Kaufman et Beghetto est vraiment pertinente, parce qu’elle élargit notre vision de la créativité bien au-delà des « génies » ou des grandes réussites qu’on a l’habitude de célébrer. Elle rappelle que la créativité existe aussi dans les petites découvertes personnelles du quotidien (mini-c), dans les réalisations plus concrètes mais non professionnelles (little-c), ou encore dans le travail soutenu de ceux qui développent une vraie expertise sans devenir des figures historiques (Pro-c).Dans un monde où l’on valorise surtout la performance et la compétition, ce modèle permet de reconnaître chaque étape, chaque essai et chaque progression. Il peut autant servir à mieux comprendre et soutenir la créativité en éducation que dans les milieux de travail, et surtout à encourager chacun à créer sans se comparer aux autres."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Nathan Satchlian",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Les 4C et la créativité quotidienne",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Tout à fait d’accord avec ce que tu dis ! En fait, je pense qu’enseigner ce modèle serait une très bonne idée, parce qu’il enlève beaucoup de pression autour du mot “créatif”. Il ne s’agit plus de produire quelque chose d’extraordinaire, mais simplement d’être capable de remarquer, d’interpréter et de donner du sens, même dans les petits moments du quotidien. D’une certaine façon, ce modèle reflète ce que ce cours essaie de nous enseigner et il change notre perspective pour rendre le chemin vers les “Big-C” beaucoup plus atteignable, et par conséquent plus motivant à poursuivre."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Noah Lehideux",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Pertinence et utilité de la classification des 4C",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J’aime beaucoup ton commentaire, mais il serait pertinent d’ajouter que le modèle des 4 C décrit la créativité comme une continuum plutôt qu’une qualité réservée à l’élite de la société. En effet, en décomposant la créativité en quatre groupes (Mini-C, Little-C, Pro-C et Big-C), il enlève l’idée que seulement les grandes découvertes ou les avancées majeures sont les seules à pouvoir être considérées comme créatives."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Omar Ben Khaled",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Pertinence et utilité de la classification des 4C",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La classification de Kaufman et Beghetto est pertinente, car elle élargit la vision de la créativité au-delà du Big-C et du little-c. Elle met en valeur la créativité personnelle et professionnelle. Elle peut servir à mieux comprendre et évaluer la créativité en éducation comme en milieu de travail."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Othmane Lakhdar",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Toutes les formes de créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Après lecture du modèle des « Four C » proposé par Kaufman et Beghetto, je trouve que leur distinction entre mini-c, little-c, Pro-c et Big-C apporte une vraie clarté à la compréhension de la créativité. Leur approche met en lumière que la créativité ne se limite pas aux génies ou aux grandes inventions, mais qu’elle est présente dans l’apprentissage quotidien et dans le développement progressif d’un individu. Je suis particulièrement d’accord avec l’idée que la créativité du type mini-c mérite d’être reconnue, car elle valorise les petites découvertes personnelles souvent ignorées. Par contre, je pense que le modèle devient un peu complexe lorsqu’il s’agit de tracer précisément la frontière entre Pro-c et Big-C, ce qui montre que la créativité reste un concept difficile à catégoriser complètement."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Salma Latfi",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "nuances de la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce que je trouve particulièrement intéressant dans le modèle des quatre C proposé par Kaufman et Beghetto, c’est la manière dont il expose les angles morts des classifications traditionnelles de la créativité. L’article montre bien que le problème n’est pas seulement de distinguer le génie du quotidien, mais surtout de combler les zones grises que le duo Big-C et little-c laisse dans l’ombre. L’introduction de mini-c me semble particulièrement révolutionnaire parce qu’elle repositionne la créativité comme un processus fondamental d’apprentissage, où la valeur est d’abord personnelle et non évaluée selon des standards professionnels. Le fait que des micro-insights vécus dans une salle de classe ou dans l’exploration intuitive d’un enfant soient enfin reconnus comme de la créativité à part entière change profondément la manière dont on envisage le développement créatif. À l’autre extrême, la catégorie Pro-c est tout aussi éclairante. Elle permet de redonner une légitimité à toutes ces contributions expertes qui dépassent largement le bricolage amateur sans pour autant entrer dans la postérité. En ce sens, l’un des apports majeurs de l’article est de mettre en lumière la dimension développementale de la créativité : ce n’est pas une essence, mais une trajectoire, avec des transitions, des plateaux, parfois même des destinations finales différentes. En clarifiant ces nuances, Kaufman et Beghetto offrent un cadre beaucoup plus fidèle à la réalité de ce que signifie devenir créatif, et surtout à la diversité des chemins possibles."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Sucy Han",
-        "groupe": "Loutre",
+        "utilisateur": "Geneviève Tardif",
+        "groupe": "otter",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Les 4C et la créativité quotidienne",
-                "nbre_de_commentaires": 1,
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
                 "commentaires": [
-                    "Cet article m’a amené à revoir ma conception de la créativité. Avant, je pensais qu’elle était surtout liée aux grands génies ou aux artistes célèbres, ce que le modèle Big-C illustre bien. Pourtant, le modèle des 4C m’a fait comprendre que la créativité existe à plusieurs niveaux et qu’elle est présente dans notre quotidien, comme j'ai pu le constater en faisant cahier d'observation. La notion de mini-c est directement reliée au but du cahier d'observations. Elle montre que la créativité commence dès que nous donnons un sens personnel à nos expériences, ce que j'ai pu appliqué durant mes observations pendant la session. Ce modèle me semble très utile pour l’éducation, puisqu'il valorise toutes les formes de créativité, pas seulement celles qui sont reconnues par la société."
-                ]
-            },
-            {
-                "titre_du_forum": "Mon projet personnel et  le modèle des « 4 C »",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C'est intéressant de voir comment tu as pu utilisé le méthode des 4C concrètement dans ton projet. Je trouve ça plaisant que tu as appliqué la matière du cours de créativité à d'autres cours de Polytechnique, un bon exemple d'interdisciplinarité."
+                    "ton commentaire est très pertinent et je suis vraiment d'accord avec toi que la créativité est un spectre et non quelque chose de noir ou blanc. Je pense aussi que c'est très subjectif et que je pourrais penser que quelque chose est très créatif alors qu'une autre personne en dirait le contraire.",
+                    "J'ai trouvé le texte vraiment intéressant et je trouve que ça montre un modèle complètement différent de ce qu'on entend généralement avec la créativité. L'idée de séparer le créativité en 4 niveaux: mini-c, little-c, pro-c et big c, montre que tout le monde peut être créatif, autant au quotidien que de façon plus grande. Ça rend la créativité plus inclusive et réaliste et ça montre qu'on ne peut pas avoir une idée créative de génie du premier coup."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Tarek Halabi",
-        "groupe": "Loutre",
+        "utilisateur": "John Abou Nakoul",
+        "groupe": "flamingo",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Texte de Kaufman - 4C",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "J’ai trouvé que le modèle des quatre C de Kaufman et Beghetto met en avant une vision de la créativité plus accessible et moins binaire. J’aime particulièrement l’idée du mini-c, qui reconnaît la valeur des petites découvertes personnelles dans l’apprentissage, et celle du Pro-c, qui apporte une nuance importante en mettant en avant les créateurs professionnels sans les comparer directement aux grands génies du Big-C. Ce modèle montre que la créativité peut exister à différents niveaux et qu’elle évolue comme un processus, ce qui aide à la penser non pas comme un don rare mais comme une progression que chacun peut vivre."
+                    "J'aime la classification de Kaufman parce que je trouve qu'elle ajoute les niveaux mini-c et pro-c aux concepts déjà existants. Je trouve aussi que cela permet de bien illustrer que la créativité est un processus évolutif qui se développe avec le temps. Ça permet de éviter la comparaison injuste entre les découvertes d'un étudiant en apprentissage avec les découvertes de génie historique. Le modèle de Kaufman pourrait aider dans le milieu de l'éducation pour aider les professeurs à mieux reconnaitre et encourager le potentiel créatif de chaque personne sans les décourager."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Tia Guy Assaf",
-        "groupe": "Loutre",
-        "total_des_commentaires": 3,
-        "forums": [
-            {
-                "titre_du_forum": "Les degrés de créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je suis aussi d’accord avec vous deux. Ce que j’ai aimé dans le texte, c’est que le modèle des 4C montre que même les petites découvertes personnelles, souvent issues d’essais et d’erreurs, ont une vraie valeur créative. Le mini-c illustre bien cette idée que la créativité fait partie du processus d’apprentissage, pas seulement du résultat final."
-                ]
-            },
-            {
-                "titre_du_forum": "Un modèle qui déculpabilise la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je pense aussi que le modèle nous invite à valoriser les échecs créatifs. Le mini-c, surtout, inclut ces moments d’essai-erreur où on apprend en explorant. Ça enlève la peur de ne pas “réussir” et montre que chaque étape du processus a une valeur créative en soi."
-                ]
-            },
-            {
-                "titre_du_forum": "La responsabilité créative dans le modèle des 4C",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "En lisant le texte de Kaufman et Beghetto, j’ai trouvé très intéressant que le modèle des 4C (mini-c, little-c, Pro-c, Big-C) ne se limite pas à décrire des niveaux de créativité, mais qu’il montre aussi une évolution du rôle du créateur dans la société. À mesure qu’on passe du mini-c, centré sur les découvertes personnelles, au Pro-c et au Big-C, la créativité prend une portée plus large et peut influencer les autres.\nJe pense donc que ce modèle soulève aussi la question de la responsabilité éthique du créateur : plus on progresse, plus nos idées ont un impact sur le monde. J’aime cette idée parce qu’elle relie la créativité non seulement à l’innovation, mais aussi à la conscience de ses conséquences sociales, culturelles ou environnementales. Ça donne au modèle une dimension humaine et réflexive que je trouve très pertinente."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Xavier St-Germain",
-        "groupe": "Flamant rose",
+        "utilisateur": "Juliette Morency",
+        "groupe": "otter",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Une catégorisation ou un spectre ?",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Pas comme l'auteur, je soupçonne que la créativité ne suit pas un modèle de catégorie ,mais plutôt un spectre de grandeur. Cependant, l'article va  dans la bonne direction ,puisq'elle représente la créativité sous différents niveaux . De plus, l'auteur cite le fait que plusieurs recherches sont en développement et que celles-ci ne sont pas obliger de repescter le modèle que l'article propose. Selon moi l'article est pertinent,puisqu'il peut servir de base pour ainsi mieux catégoriser la créativité . Ma principale critique concerne la manière dont l’auteur définit les œuvres relevant du Big-C. Il les qualifie selon leur importance historique et leur influence durable sur un domaine donné. L’histoire humaine est complexe et souvent façonnée par ceux qui la documentent et la transmettent. Cela rend difficile l’évaluation objective de la “grandeur” d’une œuvre, d’autant plus que des créations similaires ont parfois émergé dans le passé sans avoir été reconnues ou liées entre elles. Ainsi, la distinction du Big-C repose sur des critères qui peuvent être biaisés ou incomplets."
+                    "Je trouve très intéressant le modèle de Kaufman. Je n'avais pas pensé à séparer de cette manière la créativité, mais il est tout à fait vrai que la créativité se retrouve sous plusieurs formes. De plus, le niveau mini-c peut rentrer dans le little-c qui eux peuvent rentrer dans le Pro-C ou le Big-C. Ce revient à dire que des petites choses du quotidien peuvent nous amener à découvrir des grandes choses si on se laisse les explorer."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Juliette Saint-Germain",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Kaufman propose un modèle se présentant sous 4 niveaux de créativité : mini-c, little-c, pro-C et big-C. Ces 4 niveaux permettent de représenter l'éventail complet de la créativité allant simplement de la créativité personnelle à la créativité exceptionnelle telle que celle d'Einstein. Ceci permet donc de dire qu'une simple idée créative et nouvelle pour un individu, même si elle existe déjà, peut être considérée comme le premier niveau de ce modèle. Je trouve très intéressant les différents niveaux, puisque bien que les frontières ne soient pas fixes, il est possible de déterminer assez facilement où un individu se situe. La majorité de la population ne dépasse pas le \"litte-c\" puisqu'à partir du pro-C, une expertise du domaine est nécessaire. Je trouve bien que même les petites idées extraodinaires pour quelqu'un, mais simples et anodines pour un autre soient tout de même considérées comme de la créativié. Cela permet de représenter le niveau de tous et chacun!Je pense que cette classification pourrait servir à déterminer le niveau de créativité d'une idée. En effet, en se basant sur la description des niveaux et en effectuant des recherches sur le domaine, il serait possible de classifier l'idée d'un individu. Je trouverais cela pertinent pour connaitre à quel point la créativité de l'idée est développée."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Laureanne Tetreault",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Après avoir lu le texte de Kaufman, je trouve que la classification est vraiment pertinente, surtout parce qu’elle montre que la créativité n’est pas juste réservée aux génies ou aux artistes. Ça aide à comprendre que la créativité peut prendre plusieurs formes et qu’elle peut aussi se développer avec le temps. Ce qui m’a le plus marquée, c’est le mini-c. Le fait de considérer la façon personnelle dont on comprend ou apprend quelque chose comme une forme de créativité, je n’y avais jamais vraiment pensé avant. Ça m’a fait réaliser que même dans des situations très simples, comme quand on travaille sur un devoir ou qu’on essaie de comprendre un nouveau concept, on est déjà dans un processus créatif. Je pense que cette classification peut surtout servir à valoriser la créativité au quotidien, notamment à l’école. Elle enlève un peu la pression de devoir être original ou exceptionnel et met plutôt l’accent sur le cheminement et l’évolution des idées, ce que je trouve vraiment pertinent."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Louis-Alexis Pâquet",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Personnellement, je trouve la classification pertinente parce qu’elle m’a fait réaliser que la créativité n’est pas seulement liée à des grandes réalisations, mais aussi à des petits moments qu’on vit tous. Ça rend le concept beaucoup plus concret et accessible. J'ai souvent eu l'impression de juste pas être à niveau au sens de la créativité, parce que je suis pas très artistique(idée reçue non fondée), mais avec ce texte c'est comme si maintenant je peux me sentir plus apte à exprimer la créativité.Je trouve aussi intéressant que ça enlève un peu la pression de devoir être « exceptionnel » pour être considéré créatif. Au contraire, ça valorise le processus et l’évolution, ce qui est plus motivant, encore une fois.",
+                    "C'est un bon point que t'amène, je pensais que plus t'étais doué, plus tu étais créatif, mais la corrélation n'est pas directe effectivement."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Malika Mandiaba Diaby",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je comprends que l'étude de Kaufman montre que la créativité peut se manifester dans les petits actes et qu'elle n'est pas forcément pour les personnes exceptionnelles. Il est possible de passer par différentes étapes de créativités. La classification semble pertinente car elle n'exclut personne et ne réduit pas la créativité au génie ou au don inné. Ce modèle permet de reconnaitre la créativité même du plus petit degré, d'encourager les personnes à développer leur créativité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Maria Fernanda Facetti",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Salut Dounia.\nJe suis d’accord avec toi sur le fait que le modèle des quatre C permet de voir la créativité comme quelque chose d’évolutif aulieu de fixe. Ça rend le concept plus accessible, surtout dans un contexte d’apprentissage, où on développe nos capacités.\nJe rajouterais que ce modèle peut aussi être motivant, parce qu’il permet de voir une progression possible. On peut passer du mini-c au little-c, puis éventuellement vers le Pro-c avec de l’effort et de l’expérience."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Maya Zedek",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Ton commentaire met bien en valeur l’apport principal du modèle des 4C, notamment sa capacité à rendre la créativité plus accessible et moins élitiste. Tu soulignes avec justesse que ce modèle permet de valoriser à la fois les débuts (mini-c) et l’expertise (Pro-c), ce qui évite les comparaisons décourageantes et reconnaît la créativité comme un processus évolutif. J’ajouterais cependant une nuance intéressante : même si ce modèle libère de la pression d’être “exceptionnel”, il rappelle aussi que les différents niveaux de créativité impliquent des exigences différentes (temps, effort, reconnaissance sociale). Autrement dit, il ne s’agit pas seulement de démocratiser la créativité, mais aussi de mieux comprendre ses conditions de développement. Ton interprétation est donc très pertinente, et tu pourrais encore l’enrichir en insistant sur cette idée de progression structurée, qui relie apprentissage, motivation et expertise.",
+                    "L’article met en évidence une vision nuancée et dynamique de la créativité, en montrant qu’elle ne peut pas être réduite à une opposition simpliste entre créativité exceptionnelle et créativité ordinaire, mais qu’elle s’inscrit plutôt dans un continuum de développement allant de la créativité personnelle (mini-c) jusqu’à la créativité reconnue historiquement (Big-C) . Cette approche permet de dépasser les discours contemporains qui tendent à instrumentaliser la créativité, notamment dans les industries créatives où elle est souvent présentée comme une ressource économique, ou encore dans le contexte de l’intelligence artificielle qui interroge les spécificités de la créativité humaine. En introduisant des niveaux intermédiaires comme le Pro-c, l’article montre que la créativité est aussi un processus long, lié à l’apprentissage, à l’expertise et à la reconnaissance progressive, et non simplement un don ou un produit immédiatement valorisable. Cette perspective permet également de revaloriser les formes de créativité du quotidien tout en évitant de les confondre avec la créativité professionnelle ou exceptionnelle, ce qui répond directement aux limites des discours qui généralisent la créativité à tous les individus sans distinction. Ainsi, l’article propose un cadre théorique plus complet qui met en lumière les tensions entre démocratisation de la créativité et reconnaissance des différentes formes de travail créatif, en soulignant que comprendre la créativité nécessite de prendre en compte à la fois ses dimensions individuelles, sociales et évolutives."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mohamed Amine Mallekh",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé intéressant que le texte montre que la créativité n’est pas seulement réservée aux personnes douées, mais qu’elle peut aussi se développer graduellement chez tout le monde. J’aime aussi l’idée qu’il existe plusieurs niveaux de créativité, parce que ça rend le concept plus réaliste et plus proche de ce qu’on vit dans l’apprentissage et dans la vie de tous les jours."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mohamed Benbrika",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve cette classification vraiment intéressante parce qu'elle casse enfin le cliché qui veut que la créativité appartienne seulement aux génies ou aux artistes. Ça rend le concept beaucoup plus humain et accessible : au lieu de voir ça comme un don magique, on comprend que c'est un parcours qui commence dès qu'on apprend un truc nouveau. Ce qui m'a parlé, c'est le mini-c. On reconnaît enfin que le simple fait de donner un sens personnel à une idée, c’est déjà un acte créatif en soi. Je trouve ça super encourageant pour les débutants ; ça permet de ne pas se sentir 'écrasé' tout de suite en se comparant à des professionnels par exemple. D'un autre côté, le pro-c est aussi intéressant car ça donne une place méritée aux experts qui maîtrisent leur métier grâce à des années d'expérience, même s'ils ne sont pas des célébrités. Au final, je pense que ce modèle est surtout motivant parce qu'il nous libère de l'obsession de devoir absolument 'marquer l'histoire'. On peut juste se concentrer sur notre propre progression, que ce soit pour notre future carrière ou juste pour le plaisir de créer à notre échelle."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mohamed Waridi Bennouna",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis d'accord avec l'auteur quand il a réfuté l'idée que la créativité est réservée aux génies ou aux amateurs. Comme on l'a vu dans le cours, toute personne peut être créative, et d'après l'auteur chaque personne peut vivre des experiences différentes, depuis l'enfance jusqu'au milieu professionnel. Il affirme également que la créativité est à tous et lui donne une structure, utile pour la recherche et la pratique.Je trouve la classification pertinente, vu qu'elle se distingue sur plusieurs niveaux, et permet ainsi de mieux représenter la diversité sous les différentes formes de la créativité. Je la trouve utile, car elle évite de mettre dans la même catégorie une découverte personnelle, ou une expertise professionnelle. Classifier la créativité pourrait servir à mieux comprendre son développement, et mieux l'étudier en recherche."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nicolas Laniel",
+        "groupe": "otter",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Je trouve cette classification intéressante, car elle casse le cliché que la créativité appartienne seulement aux génies ou aux artistes. J'aime l'idée d'un modèle qui transforme la créativité en quelque chose de beaucoup plus humain et accessible. Au lieu de voir ça comme un don magique, on l'illustre comme un parcours qui commence dès qu'on apprend quelque chose de nouveau. Avec le mini-c, on reconnaît enfin que le simple fait d'apprendre et de comprendre quelque chose de nouveau est déjà un acte créatif en soi. Le fait de donner un sens personnel à une idée permet d'encourager les débutants sans les écraser tout de suite en les comparant à des professionnels. D'un autre côté, l'ajout du Pro-c donne une place méritée aux experts qui maîtrisent leur métier grâce à leur expérience, même s'ils ne sont pas des célébrités. C'est gratifiant de voir que l'expertise technique est enfin reconnue comme une forme de créativité de haut niveau.Concrètement, cette classification peut servir d’outil de repère, surtout dans le monde de l'éducation ou au travail. Elle permet d'enlever la pression de devoir être exceptionnel tout de suite et met plutôt l'accent sur le cheminement et l'évolution des idées. Elle aide à valoriser les découvertes quotidiennes tout en montrant que devenir un innovateur professionnel est un long chemin de maturation qui demande du temps et de la pratique. Je trouve modèle motivant, car ça nous libère de l'obsession de devoir marquer l'histoire et nous permet de nous concentrer sur notre propre progression, que ce soit pour s'épanouir professionnellement ou simplement pour le plaisir de découvrir et de créer à notre échelle.",
+                    "Merci du commentaire effectivement c'est une bonne nuance."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nofissa Khaif",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Pour ma part, oui, je trouve que cette classification est pertinente parce qu’elle montre que la créativité n’est pas juste quelque chose qu’on a ou qu’on n’a pas. Elle permet de voir qu’il existe plusieurs niveaux, donc une vision plus nuancée de la créativité. Je pense qu’elle peut surtout servir à mieux reconnaître et valoriser la créativité dans différents contextes, pas seulement dans les grandes idées exceptionnelles. Par exemple, elle peut être utile à l’école pour voir la créativité aussi dans l’apprentissage et dans l’évolution d’une idée, pas seulement dans le résultat final."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Richema Métellus",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai beaucoup aimé le modèle des 4C (mini-c, little-c, Pro-c et Big-C) présenté par Kaufman et Beghetto, surtout parce qu’il rend la créativité plus accessible et permet de la concevoir comme une progression allant de l’apprentissage personnel jusqu’aux réalisations reconnues historiquement. On sort un peu de l’idée que la créativité appartient seulement aux grands génies ou aux innovations majeures. Le fait d’inclure des niveaux comme mini-c et little-c montre que la créativité est également présente dans les apprentissages et dans la vie quotidienne.\nLa distinction entre mini-c (créativité personnelle liée à l’apprentissage) et little-c (créativité du quotidien) m’a semblé particulièrement pertinente. Ça montre que même une compréhension personnelle ou une nouvelle façon de voir quelque chose peut être considérée comme créative. Dans un contexte scolaire, je trouve que c’est rassurant, parce que ça valorise le processus d’apprentissage et pas seulement les productions exceptionnelles.\nJe me suis quand même demandé si les frontières entre les niveaux sont toujours claires. Par exemple, une idée personnelle peut parfois évoluer, se développer et prendre plus d’ampleur avec le temps. Est-ce que ces catégories sont vraiment distinctes, ou plutôt graduelles et évolutives?"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Rim Zoglat",
+        "groupe": "otter",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Je suis d’accord avec toi sur le fait que ce modèle rend la créativité beaucoup plus accessible. Par rapport à ta question sur les frontières entre les niveaux j’ai aussi l’impression qu’elles ne sont pas complètement fixes. Je les vois plutôt comme des étapes dans une possible progression. Une idée qui naît comme mini-c peut évoluer avec l’expérience et éventuellement devenir professionnelle. Donc pour moi, les catégories sont utiles pour comprendre les types de créativité mais elles restent assez graduelles et évolutives.",
+                    "Pendant le cours, on avait parlé du mythe selon lequel la créativité est quelque chose qu’on a ou qu’on n’a pas. Le modèle des 4C déconstruit justement ce mythe puisqu’il montre que la créativité peut se développer de manière incrémentale. Avant d'en découvrir plus sur ce modèle, je comprenais l’idée que l’expertise joue un rôle dans l’évaluation de la créativité mais je ne voyais pas vraiment comment on pouvait distinguer différents niveaux. Je trouve que cette classification est pertinente parce qu’elle permet justement de mieux comprendre ces différences notamment entre la créativité personnelle, la créativité du quotidien et la créativité reconnue dans un domaine. Elle peut aussi servir à valoriser les formes de créativité plus petites qui sont souvent ignorées."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Ryles Hedi Cherif",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le modèle de Kaufman est intéressant parce qu'il montre que la créativité c'est pas juste pour les génies. Le mini-c creativity m'a parlé parce que ça valorise même les petites découvertes qu'on fait lorsqu'on apprend quelque chose. Une remaque que j'ai, c'est qu'en pratique dans la \"vraie vie\" les écarts entre les niveaux semblent plus difficiles à appliquer."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sara-Maude Sauvé",
+        "groupe": "flamingo",
+        "total_des_commentaires": 4,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 4,
+                "commentaires": [
+                    "Oui, c'était très intéressant!",
+                    "Le texte de Kaufman introduit les 4 C, soit les quatre niveaux de la créativité, permettant ainsi de rajouter une nuance entre la créativité ordinaire (little C) et la créativité avancée (Big C). Ils introduisent le mini-c, soit des interprétations personnelles provenant d'un processus d'apprentissage, et le Pro C, qui représente la créativité acquise d'apprentissage et professionnelle. Cela permet de comprendre que la créativité est accessible à tous et qu'on peut la développer et la maîtriser dans son domaine d'expertise.",
+                    "Très belle analyse Selma ! C'est vrai qu'on peut voir que la créativité est accessible à tous.",
+                    "En effet!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Selma Bicha",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le modèle des « Four C » de la créativité proposé par Kaufman et Beghetto permet de nuancer la vision traditionnelle qui opposait seulement créativité ordinaire (little-c) et créativité exceptionnelle (Big-C). Ce que je trouve particulièrement intéressant, c’est l’ajout du mini-c, qui reconnaît la créativité dans le processus d’apprentissage, même si elle n’est pas visible ou reconnue socialement. Par exemple, lorsqu’un étudiant comprend un concept d’une nouvelle manière qui a du sens pour lui, c’est déjà une forme de créativité.  Cela change la façon dont on perçoit la créativité à l’école, car ça montre qu’elle ne se limite pas aux productions finales ou aux personnes « talentueuses ». Aussi, le niveau Pro-c est pertinent parce qu’il valorise les professionnels créatifs qui ne sont pas nécessairement des génies reconnus mondialement, mais qui contribuent quand même de manière importante dans leur domaine. Globalement, ce modèle rend la créativité plus accessible et montre qu’elle peut évoluer tout au long de la vie."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Serafin Saritsky Ramirez",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le modèle des quatre C permet de mieux comprendre la créativité comme un processus évolutif Cette approche est intéressante en contexte éducatif et professionnel, car elle met de l'avant le progrè individuel et encourage le développement des capacités créatives. Le texte offre une bonne clartée conceptuelle dans un cadre théorique permettant d'analyser la créativité dans différents contextes."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Serena-Mputu Nkongolo",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé l’article intéressant, surtout parce qu’il propose une vision plus nuancée de la créativité que la distinction classique entre “Big-C” et “little-c”. Le modèle des quatre niveaux (mini-c, little-c, Pro-c, Big-C) permet de mieux comprendre que la créativité n’est pas seulement réservée aux « génies », mais qu’elle peut aussi se développer progressivement à travers l’apprentissage et l’expérience. J’ai particulièrement trouvé pertinent le concept de mini-c, qui reconnaît la créativité dans le processus d’apprentissage lui-même, comme le fait d’interpréter une nouvelle idée ou de faire un lien personnel avec un concept. Cela amène une perspective intéressante sur la créativité au quotidien."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sofia Rose Beaudry",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve que cet article explique d'une manière différente la créativité. C'est intéressant que l'explication parle à tout le monde. En effet, les 4C permettent de comprendre que tous peuvent être créatifs, ce qui est à la fois inclusif et personnalisable. Il est facile de s'identifier à un ou plusieurs C, mini-c, little-c, pro-C et big-C, dans différentes sphères de la vie. Que ce soit au niveau personnelle, professionnelle ou même dans ton quotidien, la créativité peut évoluer. Ça montre aussi que la créativité ne s'applique pas seulement pour les grandes innovations ou découvertes qui deviennent populaires. Il se peut que dans ta vie personnelle tu sois créatif, mais que personne le reconnaisse."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Thomas Fournier-Joanisse",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve que la théorie des 4 C (mini-C, little-C, Pro-C et\nBig-C) permet de rendre la créativité accessible à tous. En effet, Kaufman\nexplique que la créativité n’est pas réservée uniquement aux grands inventeurs\net génies de notre histoire. Les processus créatifs sont partout, autant à\ntravers nos découvertes personnelles/apprentissages que par les grandes réalisations. Je\ntrouve que la classification est super intéressante, car elle permet, en\nquelque sorte, de briser le cliché de « tu nais créatif ou non ». En effet, la\ncréativité n’est pas réservée à certaines personnes, celle-ci est présente sous\nplusieurs formes accessibles à tous."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Warda Belem",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La classification est utile parce qu'elle dit quelque chose de simple et important : tout le monde est créatif, mais pas de la même façon ni au même niveau. Le mini-c reconnaît qu'apprendre quelque chose de nouveau d'une façon qui fait sens pour soi, c'est déjà un acte créatif. Ça change le regard qu'on porte sur les étudiants et sur soi-même. En pratique, ça permet aussi de calibrer les attentes : on n'évalue pas un travail de cours avec les mêmes critères qu'une contribution professionnelle."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "William Parker",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve que l’article apporte un point très intéressant sur la créativité, car il montre qu’elle existe aussi en dehors des normes classiques de la recherche, souvent limitées à little-c et Big-C. J’apprécie aussi le fait qu’il reconnaisse que la perception de la créativité évolue avec le temps, puisqu’elle peut se manifester dans plusieurs aspects de la vie. Cela permet de voir que, dans la vie professionnelle, le fait de concevoir de nouvelles idées à partir de son expertise et de son expérience personnelle pour résoudre un problème est aussi une forme de créativité qui mérite d’être reconnue. J’aime particulièrement cette idée, parce qu’elle valorise les efforts créatifs des individus, même lorsqu’ils ne changent pas l’histoire d’un domaine."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Yacine Barka",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai vraiment aimé cet article qui apporte une nuance à la créativité en la décomposant en quatre différents stades comme le mini-c qui est l'éveil lors de l'apprentissage, le little-c qui est l'expression au quotidien, le pro-c qui est l'expertise professionnelle et la big-c qui est les génies qui ont marqué l'histoire. J'ai trouvé la façon de nommer avec les C particulièrement créatif, car cela rend la théorie immédiatement mémorable et intuitive."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Yassine Seddaoui",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui m'a le plus frappé dans le modèle des 4C c'est la notion de mini-c parce qu'elle valide quelque chose qu'on vit tous sans jamais vraiment le nommer. Quand on comprend un concept pour la première fois à notre façon ou qu'on fait un lien inattendu entre deux idées en classe c'est déjà de la créativité même si personne d'autre ne le voit. Je trouve que c'est une perspective qui change vraiment la manière de se percevoir comme apprenant. Le modèle m'a aussi fait réfléchir à la catégorie Pro-c qui reconnaît l'expertise créative des professionnels sans exiger qu'ils soient des génies reconnus par l'histoire. Dans mon domaine d'études, ça veut dire que travailler sérieusement et développer une vraie compétence c'est déjà une forme de créativité qui mérite d'être prise au sérieux. En fin de compte, ce que je retiens c'est que la créativité n'est pas une destination réservée à quelques-uns mais un chemin que tout le monde parcourt à son rythme."
                 ]
             }
         ]

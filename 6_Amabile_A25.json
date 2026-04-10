@@ -1,245 +1,467 @@
 [
     {
-        "utilisateur": "Anyssa Côté-Lefort",
-        "groupe": "Loutre",
+        "utilisateur": "Adame Oumamass",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Un point intéressant dans le texte, c’est le rôle de l’environnement de travail. Par exemple, elle explique que des choses comme trop de pression, des critiques négatives ou une culture trop rigide peuvent bloquer la créativité. À l’inverse, un environnement où les gens peuvent proposer des idées librement, collaborer et prendre des risques va vraiment aider à être créatif. J’ai aussi trouvé intéressant l’exemple de E Ink, où on voit concrètement comment la créativité fonctionne en pratique. Les personnes avaient des compétences différentes, étaient très motivées, et travaillaient dans un environnement qui encourageait les idées originales. Et surtout, leur processus n’était pas linéaire, ils ont testé plein d’idées, échoué plusieurs fois, puis ajusté leur approche jusqu’à trouver une solution."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Amélie Ducharme",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Selon moi, c’est un modèle qui\nfait beaucoup de sens. Quand je repense à des moments où j’ai eu des idées\ncréatives, il y avait la plupart des éléments qu’elle nomme qui étaient\nprésents. Par exemple, pour trouver mon idée de projet personnel, j’ai choisi\nun sujet dans lequel j’ai beaucoup de connaissances et de compétences. J’ai\naussi réussi à accepter le fait que j’allais avoir plusieurs idées moins pertinentes\navant de trouver la bonne ce qui m’a permis d’ouvrir mes horizons. Ensuite, mon\nsujet est quelque chose qui me passionne et que j’aime beaucoup. Finalement,\nj’ai pu discuter de mes idées avec mes amis qui m’écoutaient et m’apportaient\nleur opinion sur le sujet."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Antoine Lévesque",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Wow, très beau ce que tu as écrits Thomas. De mon côté, j’ai aimé que le texte montre que la créativité ne dépend pas seulement du talent, mais aussi de la motivation, des compétences et de l’environnement. J’ai trouvé particulièrement intéressant le rôle de la motivation intrinsèque, parce que ça montre qu’on est souvent plus créatif quand on aime vraiment ce qu’on fait. Le texte rappelle aussi que l’environnement peut soit aider, soit bloquer la créativité, ce que je trouve très vrai dans les études ou au travail. Au final, j’ai trouvé cette approche très concrète, parce qu’elle relie bien la créativité à des conditions réelles."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Caroline Gagnon",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce texte de Teresa Amabile m’a particulièrement intéressé parce qu’il montre que la créativité ne dépend pas seulement du talent individuel, mais aussi de plusieurs facteurs qui interagissent entre eux. J’ai trouvé pertinente l’idée que la créativité repose sur trois composantes internes à la personne: les compétences dans un domaine, les processus liés à la créativité et la motivation intrinsèque auxquelles s’ajoute l’influence de l’environnement social. Cela permet de comprendre que même une personne très compétente peut avoir de la difficulté à être créative si elle manque de motivation ou si le contexte dans lequel elle travaille n’encourage pas l’exploration d’idées nouvelles. Ce qui m’a aussi surpris, c'est l’importance accordée à la motivation intrinsèque. Le texte suggère que les individus sont souvent plus créatifs lorsqu’ils travaillent par intérêt, curiosité ou plaisir plutôt que sous une pression externe. Cette idée aide à expliquer pourquoi certaines idées émergent plus facilement lorsque l’on est réellement intéressé par une tâche."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Dounia Hage",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que j’ai apprécié dans le texte d’Amabile, c’est le fait qu’elle présente la créativité comme un système complet plutôt qu’un simple « talent ». On comprend que produire une idée nouvelle et appropriée ne dépend pas seulement de l’inspiration, mais d’un équilibre entre plusieurs composantes : les compétences dans le domaine, la façon de penser, la motivation et même l’environnement social.\nL’élément qui m’a le plus marqué est l’importance de la motivation intrinsèque. L’idée que les gens sont plus créatifs lorsqu’ils travaillent par intérêt, curiosité ou défi personnel plutôt que pour une récompense externe me semble très réaliste. Ça explique pourquoi certaines contraintes ou formes de pression peuvent parfois bloquer la créativité au lieu de la stimuler. Mais j’ai aussi trouvé intéressant qu’Amabile nuance son propos avec le concept de « synergie motivationnelle » : certaines récompenses peuvent soutenir la créativité si elles renforcent le sentiment de compétence ou donnent plus de moyens pour explorer une idée.\nJ’ai aussi aimé que la théorie inclue l’environnement social. Souvent, on parle de créativité comme si elle venait uniquement de l’individu, mais ici on voit clairement que le climat de travail, la liberté accordée, la collaboration ou même la culture organisationnelle peuvent faire une grande différence. Ça rend la théorie très applicable au monde professionnel.\nEnfin, le modèle du processus créatif présenté dans le schéma (identification du problème, préparation, génération d’idées, validation et communication) montre que la créativité n’est pas un moment unique d’illumination, mais un cycle avec des retours en arrière et des ajustements. Ça rejoint bien l’idée que la créativité est un processus dynamique.\nGlobalement, je trouve que cette théorie est particulièrement pertinente parce qu’elle relie la psychologie individuelle et le contexte organisationnel. Elle donne une vision structurée et concrète de la créativité, ce qui la rend utile autant pour comprendre le phénomène que pour essayer de le favoriser en pratique."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Emma-Rose Martineau",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis vraiment d’accord avec toi, ça ressemble aussi beaucoup à mon processus créatif! La passion pour un sujet me motive beaucoup plus, j’ai vraiment l’impression de ne pas compter mes heures dans ces cas-là. Pour mon projet personnel, j’étais vraiment investie parce que j’aimais ce que je faisais. Ça correspond quand même bien à la motivation intrinsèque qui est expliquée dans le modèle d’Amabile. Je pense aussi que l’environnement joue un grand rôle. Comme toi, je demande souvent l’avis de mon entourage, et comme ils n’ont pas les mêmes expériences et intérêts que moi, cela m’aide à ouvrir de nouvelles perspectives et à stimuler ma créativité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Erika Vaillancourt",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce texte montre que la créativité ne vient pas seulement du talent, mais d’un mélange de connaissances, de motivation et d’environnement. Amabile explique que quand une personne aime vraiment ce qu’elle fait et qu’elle a la liberté d’explorer des idées, elle a plus de chances d’être créative. Ça montre aussi que le contexte de travail joue un grand rôle, parce qu’un milieu trop strict peut facilement bloquer les nouvelles idées."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Gabriel Asselin",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans l'article Componential Theory of \nCreativity,  l'auteur décrit un modèle de la créativité qui se base sur 4 éléments : processus créatifs, les compétences, la motivation et l'environnement. Je trouve que ce modèle est en effet assez représentatif de mon expérience de créativité. La créativité est issue d'un concours de facteurs, pas d'un seul. C'est une vision que je trouve plus juste que les théories qui réduisent la créativité à un trait de personnalité ou à une technique. De plus, la motivation comme facteur me paraît trop souvent oublié. Il est évident mais néammoins important de mentionner que si l'individu en processus créatif n'est pas motivé, peu de chances à ce que le processus soit fructueux.Le modèle est très pertinent et se rattache directement à mon expérience de processus créatif."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Geneviève Tardif",
+        "groupe": "otter",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Rôle de la motivation intrinsèque",
-                "nbre_de_commentaires": 1,
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
                 "commentaires": [
-                    "Effectivement, j’ai l’impression qu’on peut même faire un parallèle avec Abstract et Chef’s Table, où les personnes étaient parfois guidées par leurs émotions et par ce qui les motivait, plutôt que, comme tu l’as bien dit, lorsqu’on est forcé de produire un résultat créatif."
-                ]
-            },
-            {
-                "titre_du_forum": "Évolution de la théorie",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Un point que j'ai trouvé intéressant dans cet article est l'évolution de la théorie à travers le temps. En effet, c'est uniquement à partir de 2008 que l'état affectif s'ajoute à la théoriqe comme étant un facteur d'influence de la créativité. Considérant qu'elle a été créée en 1983, je trouve ça a pris beaucoup d'années avant d'être intégré."
+                    "c'est intéressant de faire cette introspection là et de penser à comment tu as appliqué les principes du texte pendant ton projet personnel!",
+                    "Je pense que\nce texte a été celui qui était le plus intéressant pour moi. Je suis vraiment d’accord\navec l’importance de la motivation intrinsèque dans la créativité et je pense\nque c’est la clé pour réussir n’importe quoi dans la vie. Sans la motivation\nintrinsèque, je pense que c’est difficile d’accomplir des grands exploits. Je\nsuis aussi en accord avec les autres facteurs comme l’environnement et les connaissances\ndans le domaine, tel que discuté en classe en début de session. C’est aussi vrai\nqu’il faut avoir une combinaison de tous les facteurs."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Audrey Ann Lamirande-Bolduc",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 3,
-        "forums": [
-            {
-                "titre_du_forum": "Rôle de la motivation intrinsèque",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Effectivement, le rôle central de la motivation intrinsèque me parle beaucoup à moi aussi. Je trouve que ca vient également renforcer le fait que l’innovation ne vient pas seulement des compétences ou du talent, mais est aussi affectée grandement par la passion et le sentiment de liberté qu’on ressent en travaillant."
-                ]
-            },
-            {
-                "titre_du_forum": "La créativité sous forme de travail évolutif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce que je trouve particulièrement intéressant dans le texte d’Amabile, c’est sa vision du processus créatif comme un enchaînement souple d’étapes plutôt qu’une méthode rigide. Elle montre que l’analyse du problème, la génération d’idées et la validation des solutions se nourrissent mutuellement dans un va-et-vient constant. Cette approche rend la créativité beaucoup plus réaliste : elle n’est pas un “moment d’inspiration magique”, mais un travail évolutif fait d’essais, d’erreurs et d’ajustements."
-                ]
-            },
-            {
-                "titre_du_forum": "Opinion sur le texte d'amabile",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je partage tout à fait vos points de vue, surtout sur l’importance de l’environnement et des valeurs collectives dans l’expression de la créativité. Ce que j’ajouterais, c’est qu’Amabile montre bien que cette interaction entre les composantes internes (comme la motivation et les compétences) et externes (comme le climat social ou culturel) crée un véritable effet multiplicateur. Même une personne très compétente peut voir sa créativité freinée si le contexte est trop rigide, alors qu’un milieu ouvert et valorisant peut transformer de simples idées en innovations concrètes."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Aurélie Nichols",
-        "groupe": "Loutre",
+        "utilisateur": "John Abou Nakoul",
+        "groupe": "flamingo",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Motivation en entreprise",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Le début de ce texte sur la motivation individuel me rappelait beaucoup la théorie qui a été vue dans le cadre de ce cours et je n'était pas surprise de lire les 4 éléments jouant un rôle dans la créativité d'un individu. Ce qui m'a plus intéressé était l'évolution de la théorie, en se concentrant davantage à la créativité en entreprise. Dans mon article scientifique, les expériences effectuées ont obtenus des résultats très similaires sur l'impact d'un manque de ressources et sur l'importance de la motivation intrinsèque sur la créativité des employés."
+                    "Le modèle se rattache avec mon expérience de processus créatif, parce que les trois composantes internes (expertise du domaine, processus créatifs et motivation intrinsèque) correspondent à des réalités. Je remarque que quand je travaille sur quelque chose qui me passionne vraiment, je persiste plus longtemps, j'explore plus de pistes. Ce que je trouve aussi qui est vrai, est que l'idée de la motivation extrinsèque peut freiner la créativité. Par exemple, je trouve que dans beaucoup de contextes scolaires, on ressent la pression de bien faire ce qui peut pousser à faire des solutions sûres plutôt qu'originales. Je trouve que l'environnement social comme composante externe est aussi intéressante. Un groupe de personnes qui acceptent des idées bizarres peut produire plus d'idées que l'inverse, comme l'exemple du MIT Lab dans le texte."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Édouard Chartrand",
-        "groupe": "Flamant rose",
+        "utilisateur": "Juliette Morency",
+        "groupe": "otter",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "La créativité sous forme de travail évolutif",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "J'allais dans la même direction que vous dans ma réflexion sur ce texte.\nL'aspect itératif jumelé aux quatres composantes est vraiment intéressant et directement ancré dans le contenu du cours. L'exemple de l'E ink a été pour moi assez enrichissant, je trouve qu'il couvrait très bien la théorie présentée (et en plus je l'ai lu sur ma liseuse, ça m'a fait sourire!)"
+                    "Selon Amabile, les 4 composantes essentielles de la créativité sont les compétences liées au domaine, les capacités cognitives et traits de personnalité, la motivation intrinsèque et l'environnement social. Je trouve cela intéressant, puisque selon moi, ils sont tous interreliées à l'environnement social. En effet, ton environnement social, soit d'où tu viens te pousse à avoir plus ou moins de chances dans la vie. Donc, plus ou moins de motivations, plus d'éducation et donc des compétences et des capacités cognitives. Ceci reflète donc que pas tout le monde a les mêmes chances dans la vie et que les chances universelles face à la créativité (production d'idées) sont plus grandes que celles face à l'innovation (mise en oeuvre des idées). Ces compétences choisies sont similaires à celle vue en cours et bien séparées selon moi."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Ewald Jordan Ngandjui Tchuente",
-        "groupe": "Loutre",
+        "utilisateur": "Juliette Saint-Germain",
+        "groupe": "flamingo",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Origine de la créativité",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "L’article met en lumière que la créativité n’est pas seulement une question d’inspiration soudaine mais dépend d’une combinaison de compétences domain-spécifiques, de processus pertinents de pensée créative, de motivation intrinsèque, et d’un environnement social favorable.\nIl rappelle aussi que même les récompenses ou structures externes peuvent nuire à la créativité si elles diminuent la motivation intrinsèque ou bloquent le processus créatif."
+                    "Ce modèle se rattache à mon expérience de processus créatif notamment en ce qui concerne la motivation intrinsèque. En effet, comme pour le projet personnel, je me devais de trouver un sujet qui me passionne, sans quoi, je perds vite l'intérêt. Ceci rejoint les propos d'Amabile concernant la motivation intrinsèque. J'ai aussi choisi un domaine que je connaissais afin d'avoir le plus d'expertise possible pour réaliser mon idée créative!"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Fanta Sacko",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "La créativité sous forme de travail évolutif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve votre point de vue très juste, surtout sur l’idée que la créativité n’est pas un “moment magique”, mais bien un travail progressif. Ce que j’ai trouvé intéressant dans le texte d’Amabile, c’est que son modèle montre pourquoi ce va-et-vient entre essais, erreurs et ajustements fonctionne : les quatre composantes du processus créatif (motivation, expertise, méthodes de pensée, environnement social) interagissent et nourrissent le travail créatif à chaque étape.\nÇa m’a fait comprendre que si une idée progresse, ce n’est pas juste grâce à l’inspiration, mais parce que ces composantes sont bien activées ensemble. Cela rend la créativité beaucoup plus accessible : ce n’est pas un “talent”, c’est un système qui peut être construit et amélioré."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Justin Bourassa",
-        "groupe": "Flamant rose",
+        "utilisateur": "Louis-Alexis Pâquet",
+        "groupe": "flamingo",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "Opinion sur le texte d'amabile",
-                "nbre_de_commentaires": 1,
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
                 "commentaires": [
-                    "J’ai trouvé cette théorie très intéressante parce qu’elle montre que la créativité n’est pas réservée à des personnes exceptionnelles, mais qu’elle peut venir de chacun si les bonnes conditions sont réunies. J’aime l’idée que notre entourage et notre motivation jouent un rôle aussi important que le talent. Par contre, je pense que la théorie aurait pu parler davantage de l’influence de la société ou de la culture, qui ont aussi un impact sur la façon dont on exprime notre créativité."
-                ]
-            },
-            {
-                "titre_du_forum": "Évolution de la théorie",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Tu as raison, c’est intéressant de voir que l’état affectif n’a été ajouté qu’en 2008. Ça montre que la recherche sur la créativité évolue avec le temps. Je pense que les émotions ont longtemps été sous-estimées, alors qu’elles influencent beaucoup notre façon de penser et de créer. L’ajout de ce facteur rend la théorie d’Amabile plus complète et plus proche de la réalité."
+                    "environnement et motivation(discipline) >>> compétences,  effectivement",
+                    "j'aime ce texte plus que les autres : Au lieu de rester dans quelque chose d’abstrait, il montre clairement que la créativité dépend de plusieurs éléments qui doivent fonctionner ensemble, comme les connaissances, la manière de penser, la motivation et l’environnement .Ce que j’ai aimé, c’est l’importance donnée à la motivation personnelle. Ça montre que ce n’est pas juste une question de compétence, mais aussi d’intérêt réel pour ce qu’on fait. Personnellement, ça m’a fait réaliser que même si quelqu’un est compétent, il ne sera pas forcément créatif s’il n’est pas engagé dans ce qu’il fait ou s’il est dans un environnement qui ne l’encourage pas. Vouloir >>> compétence (comme dans les sports en fait et dans la vie en général)"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Marc Awaad",
-        "groupe": "Loutre",
+        "utilisateur": "Malika Mandiaba Diaby",
+        "groupe": "otter",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Créativité et récompenses",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "J’ai trouvé bien intéressant le lien entre le développement de la créativité et les récompenses. Amabile montre que les récompenses ne nuisent pas toujours à la créativité, mais que tout dépend de leur effet perçu. Si elles donnent l’impression de contrôler, elles réduisent la motivation intrinsèque, mais si elles reconnaissent la compétence ou soutiennent l’effort, elles peuvent au contraire renforcer l’envie de créer. Cette nuance apporte un éclairage utile sur la façon de motiver quelqu’un sans limiter sa créativité."
+                    "Selon Amabile, la créativité dépend de 4 compétences essentielles : les compétences liée à l'expertise, les processus favorables à la créativité, la motivation intrinsèque, l'environnement social. Cette vision rejoint ce qui a été dit en classe avec l'importance des facteurs externes et internes, cognitifs et organisationnels pour développer une démarche créative. Je suis plus créative lorsque j’ai suffisamment d’expertise pour comprendre le problème, lorsque je peux penser librement, explorer différentes éléments, m'exprimer et quand l’intérêt que je porte à la tâche me motive. Dans un environnement ouvert, sans jugement et avec de la collaboration, mes idées émergent plus facilement. La créativité augmente lorsque ces éléments collaborent en même temps et sont en symbiose."
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Nathan Satchlian",
-        "groupe": "Flamant rose",
+        "utilisateur": "Maria Fernanda Facetti",
+        "groupe": "otter",
         "total_des_commentaires": 1,
         "forums": [
             {
-                "titre_du_forum": "Rôle de la motivation intrinsèque",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Je suis du même avis. Je remarque que je trouve mes meilleures idées quand je suis motivé intrinsèquement. Bien sûr, une partie de ça vient du fait que je suis prêt à mettre plus d’heures, mais je pense aussi que la motivation facilite l’accès à toute la « mind map » liée à nos  « domain-relevant skills ». En fait, je crois que les personnes qu’on considère comme les plus créatives sont surtout celles qui savent optimiser l’interaction entre les quatres différentes composantes de la créativité mentionné dans l'article."
+                    "Dans cet article, Teresa M. Amabile présente la théorie componentielle de la créativité, un modèle qui explique les conditions nécessaires pour qu’une personne produise un travail créatif. J'ai trouvé cette théorie intéressante car je trouve que lorsqu'on demande une solution créative un peut s'assurer d'incorporer ces différentes composantes et conditions afin de réussir à atteindre l'objectif"
                 ]
             }
         ]
     },
     {
-        "utilisateur": "Othmane Lakhdar",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "La passion comme moteur essentiel de la créativité selon Amabile",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Dans son texte, Amabile explique que la créativité dépend à la fois des compétences, des processus cognitifs et de la motivation intrinsèque, tout en étant fortement influencée par l’environnement social. Je trouve cette approche pertinente, surtout l’idée que la passion pour une tâche stimule vraiment la créativité."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Salma Latfi",
-        "groupe": "Flamant rose",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "La nuance essentielle de la motivation dans la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce que je trouve particulièrement frappant dans cet article, c’est la nuance qu’Amabile apporte à son propre principe d’intrinsic motivation. On retient souvent son message comme étant « les récompenses tuent la créativité », mais ici elle complexifie vraiment cette idée en introduisant la notion de motivational synergy où certains apports extrinsèques, lorsqu’ils confirment la compétence ou renforcent l’autonomie, peuvent au contraire amplifier l’engagement intrinsèque. Cela rend la théorie beaucoup plus applicable dans les organisations réelles, où les systèmes d’évaluation et de reconnaissance ne peuvent pas simplement disparaître. Cette évolution montre à quel point les théories de la créativité doivent être sensibles aux dynamiques psychologiques mais aussi contextuelles du travail moderne. C’est probablement une des forces de ce modèle : sa capacité à intégrer progressivement la réalité organisationnelle sans perdre son ancrage psychologique initial."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Sucy Han",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Les facteurs de la créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La théorie de cet article appuie beaucoup les faits que nous avons abordé en classe, comme la motivation intrinsèque et l'environnement social. Nos intérêts et nos passions orientent beaucoup nos décisions créatives, comme lors du choix de sujet pour le projet personnel. Comme j'ai pu le constater en faisant mon projet, j'ai eu beaucoup plus de plaisir à faire un produit qui m'intéressait, même en sachant qu'il avait une récompense externe relié (soit la note ou encore la reconnaissance). Pour ce qui est des facteurs d'environnement, j'ai trouvé intéressant que l'auteure mentionne certains aspects qui défavorisent la motivation intrinsèque, comme le contrôle excessif et la pression."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Tarek Halabi",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Opinion sur Amabile",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce qui me semble moins convaincant dans l’article d’Amabile, c’est que plusieurs conclusions apparaissent presque évidentes une fois formulées. Par exemple, l’idée que la créativité est favorisée par un environnement qui encourage l’autonomie, la collaboration et la reconnaissance paraît assez intuitive, et on pourrait dire qu’elle relève davantage du bon sens que d’une véritable découverte théorique."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Tia Guy Assaf",
-        "groupe": "Loutre",
-        "total_des_commentaires": 1,
-        "forums": [
-            {
-                "titre_du_forum": "Rôle de la motivation intrinsèque",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce qui m’a frappée dans ce modèle, c’est l’importance donnée à la motivation intrinsèque dans le processus créatif. Je me reconnais dans cette idée, car souvent mes meilleures idées émergent quand je suis guidée par la curiosité ou le plaisir, et non par une pression externe. Cela m’a fait réfléchir à la manière dont mes propres projets évoluent selon mes sources de motivation."
-                ]
-            }
-        ]
-    },
-    {
-        "utilisateur": "Wilfried Fonkoua Kaptue",
-        "groupe": "Flamant rose",
+        "utilisateur": "Maya Zedek",
+        "groupe": "flamingo",
         "total_des_commentaires": 2,
         "forums": [
             {
-                "titre_du_forum": "La créativité sous forme de travail évolutif",
-                "nbre_de_commentaires": 1,
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
                 "commentaires": [
-                    "Oui bien dit Audrey Ann ! 😊\nJ’ai eu la même impression en lisant Amabile ; sa façon de décrire la créativité comme un processus vivant, fait d’essais et d’erreurs, rend le concept beaucoup plus concret. On sent que la créativité, c’est avant tout une construction progressive, pas juste une idée qui tombe du ciel !"
+                    "Ton commentaire met très bien en évidence un point central de la théorie d’Amabile : le rôle clé de la motivation intrinsèque dans la créativité. Tu as raison de souligner qu’elle est souvent le moteur des réalisations importantes, mais ce qui est intéressant dans l’article, c’est justement qu’elle n’est pas suffisante à elle seule. Amabile insiste sur le fait que la créativité émerge d’une combinaison de facteurs et de motivation, compétences et environnement, et que c’est leur interaction qui détermine le niveau de créativité . \nOn peut même aller un peu plus loin : une personne très motivée mais sans expertise ou dans un environnement contraignant aura du mal à produire des idées réellement créatives.",
+                    "L’article d’Amabile propose une vision particulièrement structurée de la créativité en montrant qu’elle ne dépend pas uniquement d’un processus cognitif, mais d’un équilibre entre plusieurs composantes essentielles : les compétences dans un domaine, les capacités de pensée créative, la motivation intrinsèque et l’environnement social . Ce qui est particulièrement intéressant, c’est l’importance accordée à la motivation intrinsèque, présentée comme un moteur central de la créativité : on est plus créatif lorsque l’on agit par intérêt, plaisir ou défi personnel plutôt que pour des récompenses externes. Cela permet de mieux comprendre pourquoi certaines conditions de travail ou d’apprentissage peuvent soit favoriser, soit freiner la créativité. L’article montre également que la créativité ne se développe pas isolément, mais dans un contexte social qui peut encourager l’innovation (collaboration, liberté, reconnaissance) ou au contraire la bloquer (pression, critique excessive, rigidité). Ainsi, cette approche met en évidence que la créativité est à la fois individuelle et collective, et qu’elle résulte d’une interaction constante entre facteurs internes et externes, ce qui en fait un phénomène complexe mais aussi modulable selon les contextes."
                 ]
-            },
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mohamed Amine Mallekh",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
             {
-                "titre_du_forum": "Opinion sur le texte d'amabile",
+                "titre_du_forum": "Unknown Title",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Je suis entièrement d'accord avec Justin : ce que j'aime dans la théorie d'Amabile, c'est qu'elle rend la créativité accessible à tous. Elle démontre qu'il ne s'agit pas d'un talent exclusif à une élite, mais d'une aptitude que tout un chacun peut cultiver si son environnement est propice et sa motivation authentique..J’aime aussi l’idée que la créativité découle d'un équilibre entre passion, compétences et environnement social. A l'instar de Justin, je trouve préférable d'intégrer l'aspect culturel et sociétal, étant donné que nos valeurs et nos vécus communs ont un impact considérable sur la façon dont nous exprimons et stimulons notre créativité."
+                    "J’ai trouvé intéressant que ce texte montre que la créativité ne dépend pas seulement du talent, mais aussi de la motivation, des connaissances et de l’environnement. J’aime surtout l’idée qu’on est plus créatif quand on fait quelque chose par intérêt réel, et pas juste par obligation. Ça montre aussi qu’un bon contexte peut aider les idées à sortir, alors qu’un environnement trop rigide peut facilement les bloquer."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Mohamed Waridi Bennouna",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve que ça ressemble un peu à mon experience, parce qu'il montre que la créativité dépend de plusieurs éléments complémentaires : l'expertise, la façon de penser et l'environnement. Je remarque moi aussi que je suis plus créatif quand je maitrise le sujet, et quand la tâche m'interesse vraiment. Mais je ne serai pas vraiment d'accord avec la pression, puisque les deadlines peuvent surtout stimuler ma créativité au lieu de la bloquer, ex: trouver une solution en si peu de temps, ici je vois le temps comme une contrainte, et comme vu dans le cours, le fait d'avoir des contraintes améliore la créativité et fait émerger de différentes solutions."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nicolas Laniel",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En m’appuyant sur la théorie de Teresa Amabile, j’ai pu analyser mon processus créatif pour le projet personnel comme la rencontre de quatre composantes essentielles. Mes compétences liées au domaine, forgées par ma formation d'ingénieur, ont servi de base technique pour assembler mes objets et juger de leur viabilité. Parallèlement, mes processus liés à la créativité m'ont permis de briser la fixation fonctionnelle et de sortir de mes réflexes habituels de performance grâce à une tolérance accrue pour l'ambiguïté. Ma motivation pour la tâche a évolué d'une contrainte académique vers une passion intrinsèque lorsque j'ai utilisé l'humour comme levier de résolution, confirmant que l'on est plus créatif quand on est stimulé par le défi du travail lui-même. Enfin, l'environnement social de la matière, par son absence de modèle rigide et sa sécurité psychologique, a agi comme un stimulant indispensable. Ce cadre m'a permis de transformer mon appréhension initiale en une démarche structurée, passant de l'identification du problème à la validation de mes prototypes."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Nofissa Khaif",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans mon expérience, la motivation joue probablement le plus. Quand je suis réellement intéressée par ce que je fais, j’ai plus d’idées et plus envie de chercher plus loin, tandis que quand je fais quelque chose juste par obligation, c’est beaucoup plus difficile d’avoir un vrai élan créatif. Le texte insiste d’ailleurs sur l’importance de la motivation intrinsèque, ce que j’ai trouvé assez réaliste. Je trouve aussi que le rôle de l’environnement social est vrai, parce que selon le contexte, on peut soit se sentir à l’aise d’essayer des idées, soit se bloquer plus vite."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Richema Métellus",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que j’ai retenu du texte d’Amabile, c’est surtout l’idée que la créativité ne dépend pas seulement des capacités d’une personne, mais aussi de sa motivation et de son environnement. J’aime beaucoup la façon dont la théorie componentielle montre que la créativité n’est pas seulement une question de « talent », mais plutôt un mélange entre ce qu’on sait déjà faire dans un domaine, notre façon de penser différemment, et surtout la motivation intrinsèque. J’ai trouvé intéressant qu’elle insiste autant sur la motivation intrinsèque, c'est-à-dire le fait de faire une activité par intérêt ou par plaisir, comme élément central de la créativité.Ça m’a fait réfléchir à des situations scolaires ou professionnelles où on peut se sentir plus ou moins créatif selon le contexte. Par exemple, quand on fait un travail par curiosité ou par engagement personnel, on a souvent plus d’idées et plus d'initiatives que quand on le fait seulement pour une note ou une évaluation. Ça rejoint bien ce qu’elle explique sur l’impact parfois négatif des récompenses externes. À l’inverse, quand une tâche est associée à une contrainte forte ou à une échéance stressante, j’ai plutôt l’impression que la créativité se bloque. Le rôle de l’environnement, notamment la pression ou le contrôle excessif, me semble donc particulièrement juste.Je me demande toutefois comment cette idée s’applique dans des contextes où les contraintes externes sont inévitables, comme à l’école ou au travail. Certaines formes d’évaluation ou de reconnaissance peuvent-elles soutenir la créativité plutôt que la freiner? Plus largement, certaines contraintes peuvent-elles coexister avec la créativité, ou la réduisent-elles presque toujours? D’autres ont-ils aussi remarqué cette différence selon le type de motivation dans leurs études ou leur travail?"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Rim Zoglat",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve que ce modèle se rattache assez bien à mon expérience surtout sur le lien entre motivation et créativité. Quand un sujet m’intéresse vraiment j’ai beaucoup plus envie d’aller chercher loin, donc au final ça augmente aussi mon expertise et les deux sont un peu liés. Cependant, pour l'auteur l’environnement est surtout présenté comme quelque chose qui peut freiner la créativité avec la pression ou les contraintes. Alors que personnellement, même si ça me stresse, les deadlines me donnent plutôt un \"boost\" et une motivation en plus pour avancer."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sara-Maude Sauvé",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Le texte d'Amabile met en évidence le rôle de la motivation intrinsèque dans la créativité. En effet, l’auteur souligne que la créativité est née grâce à plusieurs facteurs, dont la motivation, l'environnement, le contexte et les compétences et les interactions entre ceux-ci. Ici, on peut faire le lien entre le texte de l'auteur et l'activité de la carte mentale des facteurs influençant la créativité. Je me souviens que certains avaient souligné la motivation dans leurs cartes!",
+                    "Très bien! C'est comme dans l'activité où on faisait un mind map sur les facteurs qui influencent la créativité!"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Selma Bicha",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le modèle componentiel d’Amabile est intéressant parce qu’il montre que la créativité ne dépend pas seulement des capacités individuelles, mais aussi du contexte dans lequel une personne évolue. Plus précisément, la créativité repose sur trois éléments internes (les connaissances dans un domaine, les capacités à penser de manière créative et la motivation intrinsèque) ainsi qu’un élément externe, soit l’environnement social.  Ce que je trouve particulièrement important, c’est le rôle de la motivation intrinsèque : une personne est plus créative lorsqu’elle fait une tâche par intérêt ou plaisir plutôt que pour une récompense externe. Cela remet en question certaines pratiques, par exemple à l’école ou au travail, où on mise beaucoup sur les notes ou les récompenses. Finalement, ce modèle complète bien les autres textes en montrant que la créativité n’est pas seulement un processus cognitif ou biologique, mais aussi influencée par l’environnement et les conditions de travail."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Serafin Saritsky Ramirez",
+        "groupe": "flamingo",
+        "total_des_commentaires": 2,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 2,
+                "commentaires": [
+                    "Ca fait des belles références aux mythes qu'on a vue en classe en début de session!",
+                    "Amabile montre que pour être créatif, il faut à la fois des connaissances dans un domain. Ca permet de faire le lien au mythe qui dit que c'est ceux qui on peu de connaissances peuvent réellement être créatif. On peut voir que la créativité peut se développer et qu’elle dépend aussi de l’environnement et de l’intérêt qu’on a pour une tâche."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Serena-Mputu Nkongolo",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé le texte intéressant, surtout parce qu’il explique la créativité de façon vraiment structurée. Le fait que ça repose sur plusieurs composantes (les compétences, la façon de penser, la motivation et l’environnement) montre bien que ce n’est pas juste une question de talent, mais plutôt un ensemble de facteurs qui interagissent. J’ai aussi trouvé intéressant le fait que la motivation intrinsèque soit mise de l’avant, parce que ça montre que l’intérêt pour la tâche joue un rôle important dans la créativité."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Sofia Rose Beaudry",
+        "groupe": "otter",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce modèle ressemble beaucoup à mon processus créatif. Dans un premier temps, lorsque je réfléchis à soit résoudre un problème ou bien à trouver un idée, il est certain que je vais me baser et naviguer dans les connaissances que je possède et dans ce que je suis bonne. Aussi, je trouve que les intérêts ont un grand rôle à jouer. Lorsque je travaille sur quelque chose qui me passionne ou bien que je pense à quelque chose qui est dans mes intérêts, je trouve que j'ai de meilleures idées et je travaille plus fort sans même me forcer à le faire, donc plus de motivation que le mentionne l'article. Ainsi, c'est là que ma créativité sort le plus. Par exemple, j'ai remarqué que lorsque je pensais à des idées pour le projet personnel, la majorité des idées que je lançais étaient dans mon champ d'intérêt. Plus j'avançais dans mon processus, plus je demandais l'avis de mon entourage ce qui a finalement influencé mon idée final."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Thomas Fournier-Joanisse",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La théorie proposée par Teresa Amabile propose 4 composantes essentielles pour la créativité : domain-relevant skills (compétences propres au domaine), creativity-relevant processes (processus favorables à la créativité), task motivation (motivation liée à la tâche) et social environment (environnement social).\nPour ce qui est de mon expérience personnelle de créativité, je trouve que les deux critères qui influencent le plus (positivement) ma créativité sont les compétences propres au domaine et ma motivation liée à la tâche. En effet, je trouve que lorsque je débute un processus créatif, les compétences que j’ai dans le domaine visé sont essentielles. Ceci est entre autres vrai, car ces compétences me permettent de mieux comprendre la problématique à laquelle je m’attaque, et même, dans certains cas, de trouver des problématiques propres au domaine.\nDe plus, la motivation liée à la tâche est essentielle pour moi afin que je persévère dans mon processus créatif. En effet, sans cette motivation intrinsèque qui me propulse à continuer, il arriverait que je n’aie plus d’intérêt à poursuivre le processus. C’est pourquoi je dois être intéressé par la tâche entreprise et elle doit m’apporter une certaine satisfaction.\nLes autres composantes ont aussi un impact sur mes processus créatifs, mais elles ont moins de poids dans mon cas !"
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Warda Belem",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En lisant ce modèle, j'ai repensé à des moments où j'ai produit quelque chose dont j'étais vraiment satisfaite. Ce n'était jamais sous la contrainte d'une deadline serrée ou d'une évaluation imminente. C'était quand le problème m'avait accrochée, quand je voulais le résoudre pour moi. Amabile appelle ça la motivation intrinsèque et je pense que c'est la composante la plus honnête du modèle. Elle décrit quelque chose de réel. Ce qui m'a aussi parlé, c'est l'idée que la créativité dépend d'un environnement. J'ai remarqué que dans des contextes où l'erreur est mal vue, je prends moins de risques dans mes idées. Le modèle nomme ça clairement, et ça aide à comprendre pourquoi certains contextes de travail étouffent la créativité sans qu'on sache exactement pourquoi."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "William Parker",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’aime que\nl’article montre aussi l’importance d’un environnement social qui favorise le\nprocessus créatif chez une personne. J’aime qu’ils expliquent, dans\nl’exemple du laboratoire, la nécessité de pouvoir exprimer ses idées sans\ncraindre de répercussions, puisque cela peut influencer la motivation\nintrinsèque. De plus, j’aime que l’exemple montre que les étudiants pouvaient être\nautonomes dans le laboratoire et faire leur propre processus créatif.\nCependant, je me demande honnêtement si les entreprises ont vraiment la\ncapacité d’adopter de telles mesures, car elles doivent livrer un produit à la\nfin, et cette pression externe peut influencer leur créativité et leur\nmotivation intrinsèque en cas d’échec."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Xavier Schlegel",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le point sur la motivation intrinsèque est vraiment celui qui m’a le plus marqué dans le texte. Je pense que les trois autres composantes sont également pertinentes, mais la motivation intrinsèque est souvent ce qui pousse réellement les gens à utiliser leur compétences technique et leur créativité. En regardant le monde, on peut s’apercevoir que les gens qui contribuent le plus au développement de nouvelles technologies selon moi sont ceux que l’on pourrait écouter pendant des heures et des heures juste à parler de leur passion. Un exemple simple serait Linus Torvalds, le créateur de Linux et git. Il a réussi à produire le système d'opération le plus utilisé au monde, sur lequel reposent les plus grandes entreprises, et ce complètement gratuitement et par pure passion, car il croyait à l’open source. Sa motivation intrinsèque a été l’élément déclencheur et le plus important à mon avis, mais il n’aurait jamais atteint son objectif sans les autres composantes, soit son expertise, sa capacité à penser de manière créative et son environnement social, qui ont permis à toute une communauté de participer à l'amélioration du projet par la suite."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Yacine Barka",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai vraiment apprécié cette lecture, particulièrement la section sur les composantes de la créativité, car son contenu est très semblable à ce que nous avons appris en cours. Par exemple, il y a 3 facteurs interne comme la compétence lié à un domaine, les processus lié à créativité et la motivation. Et pour ce des facteurs externe, il y a l'environnement social."
+                ]
+            }
+        ]
+    },
+    {
+        "utilisateur": "Yassine Seddaoui",
+        "groupe": "flamingo",
+        "total_des_commentaires": 1,
+        "forums": [
+            {
+                "titre_du_forum": "Unknown Title",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai bien aimé ce texte parce qu'il montre que la créativité c'est pas juste quelque chose qu'on a ou qu'on a pas, mais plutôt quelque chose qui dépend de plusieurs éléments en même temps. Ce que j'ai trouvé le plus intéressant c'est l'idée que les récompenses peuvent en fait nuire à la créativité, parce que c'est pas vraiment ce qu'on pense spontanément. L'exemple de Ink était aussi utile pour rendre la théorie plus concrète et facile à comprendre."
                 ]
             }
         ]
