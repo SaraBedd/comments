@@ -1,7 +1,7 @@
 [
     {
         "utilisateur": "Adame Oumamass",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "utilisateur": "Amélie Ducharme",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "utilisateur": "Antoine Lévesque",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "utilisateur": "Caroline Gagnon",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "utilisateur": "Dounia Hage",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "utilisateur": "Emma-Rose Martineau",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -85,7 +85,7 @@
     },
     {
         "utilisateur": "Erika Vaillancourt",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -99,7 +99,7 @@
     },
     {
         "utilisateur": "Francis Trahan",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -113,7 +113,7 @@
     },
     {
         "utilisateur": "Gabriel Asselin",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -127,28 +127,28 @@
     },
     {
         "utilisateur": "Geneviève Tardif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "texte de Gabora",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C’est pertinent\nde penser au point de vue neurologique de la créativité. Je ne savais pas que certains\ngroupes de neurones sont seulement activés dans certains contextes et que la\ncréativité fonctionne en alternant entre les modes associatifs et analytiques. Je\nn’ai pas été surprise du rôle de la mémoire dans tout ça et comment ça nous\npermet de faire des associations entre différents contextes."
-                ]
-            },
             {
                 "titre_du_forum": "lecture de Gabora",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Je trouve ça vraiment pertinent ton point que c'est un texte plutôt explicatif et non sur des méthodes. Je pense que justement avec ces explications ça devrait être plus facile de développer des méthodes puisque maintenant on comprend plus concrètement comment la créativité fonctionne d'un point de vue neurologique."
                 ]
+            },
+            {
+                "titre_du_forum": "texte de Gabora",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C’est pertinent\nde penser au point de vue neurologique de la créativité. Je ne savais pas que certains\ngroupes de neurones sont seulement activés dans certains contextes et que la\ncréativité fonctionne en alternant entre les modes associatifs et analytiques. Je\nn’ai pas été surprise du rôle de la mémoire dans tout ça et comment ça nous\npermet de faire des associations entre différents contextes."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Jason Nader",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -162,7 +162,7 @@
     },
     {
         "utilisateur": "John Abou Nakoul",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -176,7 +176,7 @@
     },
     {
         "utilisateur": "Juliette Saint-Germain",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -190,7 +190,7 @@
     },
     {
         "utilisateur": "Khaoula Wakkach",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -211,7 +211,7 @@
     },
     {
         "utilisateur": "Louis-Alexis Pâquet",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -225,7 +225,7 @@
     },
     {
         "utilisateur": "Malika Mandiaba Diaby",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -239,7 +239,7 @@
     },
     {
         "utilisateur": "Maria Fernanda Facetti",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -253,7 +253,7 @@
     },
     {
         "utilisateur": "Maya Zedek",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -274,7 +274,7 @@
     },
     {
         "utilisateur": "Mohamed Waridi Bennouna",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -288,7 +288,7 @@
     },
     {
         "utilisateur": "Nicolas Laniel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -309,7 +309,7 @@
     },
     {
         "utilisateur": "Nofissa Khaif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -323,7 +323,7 @@
     },
     {
         "utilisateur": "Richema Métellus",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -337,7 +337,7 @@
     },
     {
         "utilisateur": "Rim Zoglat",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -358,7 +358,7 @@
     },
     {
         "utilisateur": "Ryan Llaguri",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -372,28 +372,28 @@
     },
     {
         "utilisateur": "Sara-Maude Sauvé",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Texte de Gabora",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Le texte de Gabora explique que la créativité provient aléatoirement et de deux méthodes cognitives: la pensée associative (innatendue) et analytique (logique, rationnelle). Il explique aussi le processus neurologique de la créativité en introduisant le concept de neurds. Ce texte montre que la créativité n'est pas due au hasard, mais bien à un usage de la mémoire où les neurds relient des concepts que nous avions appris ou vécus et qu'il est important de changer d'environnement et d'idées. Ce texte montre encore une fois que la créativité est un processus métacognitif accessible à tous et qui se travail!"
-                ]
-            },
             {
                 "titre_du_forum": "Gabora",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Oui, je trouve ça intéressant et on peut aussi faire des liens au cours !"
                 ]
+            },
+            {
+                "titre_du_forum": "Texte de Gabora",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le texte de Gabora explique que la créativité provient aléatoirement et de deux méthodes cognitives: la pensée associative (innatendue) et analytique (logique, rationnelle). Il explique aussi le processus neurologique de la créativité en introduisant le concept de neurds. Ce texte montre que la créativité n'est pas due au hasard, mais bien à un usage de la mémoire où les neurds relient des concepts que nous avions appris ou vécus et qu'il est important de changer d'environnement et d'idées. Ce texte montre encore une fois que la créativité est un processus métacognitif accessible à tous et qui se travail!"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Selma Bicha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -407,7 +407,7 @@
     },
     {
         "utilisateur": "Serafin Saritsky Ramirez",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -422,7 +422,7 @@
     },
     {
         "utilisateur": "Serena-Mputu Nkongolo",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -436,7 +436,7 @@
     },
     {
         "utilisateur": "Sofia Rose Beaudry",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -450,7 +450,7 @@
     },
     {
         "utilisateur": "Thomas Fournier-Joanisse",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -464,7 +464,7 @@
     },
     {
         "utilisateur": "Warda Belem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -478,7 +478,7 @@
     },
     {
         "utilisateur": "William Parker",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -492,7 +492,7 @@
     },
     {
         "utilisateur": "Yassine Seddaoui",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {

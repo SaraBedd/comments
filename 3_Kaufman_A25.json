@@ -1,7 +1,7 @@
 [
     {
         "utilisateur": "Adame Oumamass",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "utilisateur": "Amélie Ducharme",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "utilisateur": "Antoine Lévesque",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "utilisateur": "Caroline Gagnon",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "utilisateur": "Dounia Hage",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "utilisateur": "Emma-Rose Martineau",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -92,7 +92,7 @@
     },
     {
         "utilisateur": "Erika Vaillancourt",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -106,7 +106,7 @@
     },
     {
         "utilisateur": "Gabriel Asselin",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -120,7 +120,7 @@
     },
     {
         "utilisateur": "Geneviève Tardif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -141,7 +141,7 @@
     },
     {
         "utilisateur": "John Abou Nakoul",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -155,7 +155,7 @@
     },
     {
         "utilisateur": "Juliette Morency",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -169,7 +169,7 @@
     },
     {
         "utilisateur": "Juliette Saint-Germain",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -183,7 +183,7 @@
     },
     {
         "utilisateur": "Laureanne Tetreault",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -197,7 +197,7 @@
     },
     {
         "utilisateur": "Louis-Alexis Pâquet",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -218,7 +218,7 @@
     },
     {
         "utilisateur": "Malika Mandiaba Diaby",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -232,7 +232,7 @@
     },
     {
         "utilisateur": "Maria Fernanda Facetti",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -246,7 +246,7 @@
     },
     {
         "utilisateur": "Maya Zedek",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -267,7 +267,7 @@
     },
     {
         "utilisateur": "Mohamed Amine Mallekh",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -281,7 +281,7 @@
     },
     {
         "utilisateur": "Mohamed Benbrika",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -295,7 +295,7 @@
     },
     {
         "utilisateur": "Mohamed Waridi Bennouna",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -309,7 +309,7 @@
     },
     {
         "utilisateur": "Nicolas Laniel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -324,7 +324,7 @@
     },
     {
         "utilisateur": "Nofissa Khaif",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -338,7 +338,7 @@
     },
     {
         "utilisateur": "Richema Métellus",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -352,28 +352,28 @@
     },
     {
         "utilisateur": "Rim Zoglat",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Repenser la créativité à travers le modèle des 4C de Kaufman et Beghetto",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je suis d’accord avec toi sur le fait que ce modèle rend la créativité beaucoup plus accessible. Par rapport à ta question sur les frontières entre les niveaux j’ai aussi l’impression qu’elles ne sont pas complètement fixes. Je les vois plutôt comme des étapes dans une possible progression. Une idée qui naît comme mini-c peut évoluer avec l’expérience et éventuellement devenir professionnelle. Donc pour moi, les catégories sont utiles pour comprendre les types de créativité mais elles restent assez graduelles et évolutives."
-                ]
-            },
             {
                 "titre_du_forum": "Kaufman",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Pendant le cours, on avait parlé du mythe selon lequel la créativité est quelque chose qu’on a ou qu’on n’a pas. Le modèle des 4C déconstruit justement ce mythe puisqu’il montre que la créativité peut se développer de manière incrémentale. Avant d'en découvrir plus sur ce modèle, je comprenais l’idée que l’expertise joue un rôle dans l’évaluation de la créativité mais je ne voyais pas vraiment comment on pouvait distinguer différents niveaux. Je trouve que cette classification est pertinente parce qu’elle permet justement de mieux comprendre ces différences notamment entre la créativité personnelle, la créativité du quotidien et la créativité reconnue dans un domaine. Elle peut aussi servir à valoriser les formes de créativité plus petites qui sont souvent ignorées."
                 ]
+            },
+            {
+                "titre_du_forum": "Repenser la créativité à travers le modèle des 4C de Kaufman et Beghetto",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis d’accord avec toi sur le fait que ce modèle rend la créativité beaucoup plus accessible. Par rapport à ta question sur les frontières entre les niveaux j’ai aussi l’impression qu’elles ne sont pas complètement fixes. Je les vois plutôt comme des étapes dans une possible progression. Une idée qui naît comme mini-c peut évoluer avec l’expérience et éventuellement devenir professionnelle. Donc pour moi, les catégories sont utiles pour comprendre les types de créativité mais elles restent assez graduelles et évolutives."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Ryles Hedi Cherif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -387,9 +387,16 @@
     },
     {
         "utilisateur": "Sara-Maude Sauvé",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 4,
         "forums": [
+            {
+                "titre_du_forum": "Commentaire texte Kaufman",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "En effet!"
+                ]
+            },
             {
                 "titre_du_forum": "Kaufman",
                 "nbre_de_commentaires": 2,
@@ -404,19 +411,12 @@
                 "commentaires": [
                     "Le texte de Kaufman introduit les 4 C, soit les quatre niveaux de la créativité, permettant ainsi de rajouter une nuance entre la créativité ordinaire (little C) et la créativité avancée (Big C). Ils introduisent le mini-c, soit des interprétations personnelles provenant d'un processus d'apprentissage, et le Pro C, qui représente la créativité acquise d'apprentissage et professionnelle. Cela permet de comprendre que la créativité est accessible à tous et qu'on peut la développer et la maîtriser dans son domaine d'expertise."
                 ]
-            },
-            {
-                "titre_du_forum": "Commentaire texte Kaufman",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "En effet!"
-                ]
             }
         ]
     },
     {
         "utilisateur": "Selma Bicha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -430,7 +430,7 @@
     },
     {
         "utilisateur": "Serafin Saritsky Ramirez",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -444,7 +444,7 @@
     },
     {
         "utilisateur": "Serena-Mputu Nkongolo",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -458,7 +458,7 @@
     },
     {
         "utilisateur": "Sofia Rose Beaudry",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -472,7 +472,7 @@
     },
     {
         "utilisateur": "Thomas Fournier-Joanisse",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -486,7 +486,7 @@
     },
     {
         "utilisateur": "Warda Belem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -500,7 +500,7 @@
     },
     {
         "utilisateur": "William Parker",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -514,7 +514,7 @@
     },
     {
         "utilisateur": "Yacine Barka",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -528,7 +528,7 @@
     },
     {
         "utilisateur": "Yassine Seddaoui",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {

@@ -1,7 +1,7 @@
 [
     {
         "utilisateur": "Adame Oumamass",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "utilisateur": "Amélie Ducharme",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "utilisateur": "Antoine Lévesque",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "utilisateur": "Caroline Gagnon",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "utilisateur": "Dounia Hage",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "utilisateur": "Emma-Rose Martineau",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -85,7 +85,7 @@
     },
     {
         "utilisateur": "Erika Vaillancourt",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -99,7 +99,7 @@
     },
     {
         "utilisateur": "Gabriel Asselin",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -113,7 +113,7 @@
     },
     {
         "utilisateur": "Geneviève Tardif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -134,7 +134,7 @@
     },
     {
         "utilisateur": "Jason Nader",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -148,7 +148,7 @@
     },
     {
         "utilisateur": "John Abou Nakoul",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -162,7 +162,7 @@
     },
     {
         "utilisateur": "Juliette Saint-Germain",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -183,7 +183,7 @@
     },
     {
         "utilisateur": "Khaoula Wakkach",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -197,7 +197,7 @@
     },
     {
         "utilisateur": "Laureanne Tetreault",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -211,49 +211,49 @@
     },
     {
         "utilisateur": "Louis-Alexis Pâquet",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "lubart",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Le texte montre que la créativité repose sur un processus structuré mais flexible, où l’on passe par différentes étapes comme comprendre le problème, générer des idées et les évaluer. Dans ce contexte, je trouve intressant que ça enlève un peu le côté mystérieux de la créativité. Ça donne l’impression que c’est quelque chose sur lequel on peut réellement travailler. Personnellement, ça me fait voir les blocages autrement : au lieu de penser que je ne suis pas créatif, je me dis que je suis peut-être juste pris dans une étape et que j’ai besoin de changer d’angle."
-                ]
-            },
             {
                 "titre_du_forum": "Le modèle du processus créatif de Lubart",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "C'est fou jme disais la même chose, on dirait que c'est quand on pense moins au problème, que la solution arrive."
                 ]
+            },
+            {
+                "titre_du_forum": "lubart",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le texte montre que la créativité repose sur un processus structuré mais flexible, où l’on passe par différentes étapes comme comprendre le problème, générer des idées et les évaluer. Dans ce contexte, je trouve intressant que ça enlève un peu le côté mystérieux de la créativité. Ça donne l’impression que c’est quelque chose sur lequel on peut réellement travailler. Personnellement, ça me fait voir les blocages autrement : au lieu de penser que je ne suis pas créatif, je me dis que je suis peut-être juste pris dans une étape et que j’ai besoin de changer d’angle."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Maria Fernanda Facetti",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Texte de Lubart",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve ça intéressant comment tu mentionnes les différents aspects de la créativité. En effet, les idées, émotions , pensés sont tous des composantes qui influencent notre créativité. Cet aspect que tu rélève est intéressant car ça veut dire qu'on peut stimuler notre créativité de plusieurs façon différentes."
-                ]
-            },
             {
                 "titre_du_forum": "article",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "J'ai apprécié lire un article qui remet en question le modèle classique du processus créatif. En effet, je trouve que souvent lors du processus créatif ces étapes peuvent être faites dans les désodre sans suivre un chemin linéaire.Je suis d'accord avec l,auteur lorsqu'il mentionne que la créativité mobilise plusieurs sous-processus cognitifs. À mon avis cet approche proposée reflété mieux la réalité surtout dans un contexte multidisciplinaires."
                 ]
+            },
+            {
+                "titre_du_forum": "Texte de Lubart",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve ça intéressant comment tu mentionnes les différents aspects de la créativité. En effet, les idées, émotions , pensés sont tous des composantes qui influencent notre créativité. Cet aspect que tu rélève est intéressant car ça veut dire qu'on peut stimuler notre créativité de plusieurs façon différentes."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Maya Zedek",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -274,7 +274,7 @@
     },
     {
         "utilisateur": "Mohamed Amine Mallekh",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -288,7 +288,7 @@
     },
     {
         "utilisateur": "Mohamed Benbrika",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -302,7 +302,7 @@
     },
     {
         "utilisateur": "Nicolas Laniel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -316,7 +316,7 @@
     },
     {
         "utilisateur": "Nofissa Khaif",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -330,7 +330,7 @@
     },
     {
         "utilisateur": "Richema Métellus",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -344,7 +344,7 @@
     },
     {
         "utilisateur": "Rim Zoglat",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -358,7 +358,7 @@
     },
     {
         "utilisateur": "Ryan Llaguri",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -372,28 +372,28 @@
     },
     {
         "utilisateur": "Sara-Maude Sauvé",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Texte de Lubart",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Selon le modèle de base, la créativité est définie en 4 étapes: préparation, incubation, illumination et vérification. Ce modèle linéaire, assez simple, est donc remis en question et s'avère beaucoup plus complexe. En effet, il ne réflète pas l'entièreté du processus nécessaire à la créativité, et certaines études prouvent que la créativité est un processus dynamique et qui est composé de sous-processus. Ce n'est donc pas un séquence, mais plusieurs idées, émotions, pensées qui s'entremêlent à différents moments et qui varie pour chacun. Ce texte met ainsi en évidence, tel qu'on l'a exploré en cours, que la créativité est un processus métacognitif et qu'elle n'est pas une recette parfaite et facile!"
-                ]
-            },
             {
                 "titre_du_forum": "Lubart",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Moi aussi j'ai trouver ça intéressant la notion de sous-processus comme génération d'idées!"
                 ]
+            },
+            {
+                "titre_du_forum": "Texte de Lubart",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Selon le modèle de base, la créativité est définie en 4 étapes: préparation, incubation, illumination et vérification. Ce modèle linéaire, assez simple, est donc remis en question et s'avère beaucoup plus complexe. En effet, il ne réflète pas l'entièreté du processus nécessaire à la créativité, et certaines études prouvent que la créativité est un processus dynamique et qui est composé de sous-processus. Ce n'est donc pas un séquence, mais plusieurs idées, émotions, pensées qui s'entremêlent à différents moments et qui varie pour chacun. Ce texte met ainsi en évidence, tel qu'on l'a exploré en cours, que la créativité est un processus métacognitif et qu'elle n'est pas une recette parfaite et facile!"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Selma Bicha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -407,7 +407,7 @@
     },
     {
         "utilisateur": "Serafin Saritsky Ramirez",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -428,7 +428,7 @@
     },
     {
         "utilisateur": "Serena-Mputu Nkongolo",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -442,7 +442,7 @@
     },
     {
         "utilisateur": "Sofia Rose Beaudry",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -456,7 +456,7 @@
     },
     {
         "utilisateur": "Thomas Fournier-Joanisse",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -470,7 +470,7 @@
     },
     {
         "utilisateur": "Warda Belem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -484,7 +484,7 @@
     },
     {
         "utilisateur": "William Parker",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -498,7 +498,7 @@
     },
     {
         "utilisateur": "Yassine Seddaoui",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {

@@ -1,7 +1,7 @@
 [
     {
         "utilisateur": "Adame Oumamass",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "utilisateur": "Amina Djemah",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "utilisateur": "Anass Siraj",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "utilisateur": "Ayoub Issiakhem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "utilisateur": "Caroline Gagnon",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "utilisateur": "Clémentine Chailleux",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -85,16 +85,9 @@
     },
     {
         "utilisateur": "Dounia Hage",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 3,
         "forums": [
-            {
-                "titre_du_forum": "Poster",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve l’idée intéressante parce que c’est une situation concrète, donc ça sort des exemples classiques."
-                ]
-            },
             {
                 "titre_du_forum": "La carte au trésor créatif 🏴‍☠️",
                 "nbre_de_commentaires": 1,
@@ -108,12 +101,19 @@
                 "commentaires": [
                     "J'’ai voulu représenter la créativité comme un entraînement de natation, parce que comme dans le sport, elle se développe avec la pratique, les essais/erreurs et l’environnement. Je me suis basé sur les concepts vus en cours comme le rôle du besoin, de la discipline et du bagage technique. Étant moi-même nageuse, c’est ce qui m’a donné l’idée de faire ce parallèle.Note: Utilisation de AI pour simuler l'image (Chat GPT)"
                 ]
+            },
+            {
+                "titre_du_forum": "Poster",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve l’idée intéressante parce que c’est une situation concrète, donc ça sort des exemples classiques."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Emilien Bel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -127,7 +127,7 @@
     },
     {
         "utilisateur": "Emma-Rose Martineau",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -148,28 +148,28 @@
     },
     {
         "utilisateur": "Erika Vaillancourt",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Manifeste de l'astronaute créatif",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Très original comme Poster, j'adore le thème de l'espace et la création de nouvelle galaxie"
-                ]
-            },
             {
                 "titre_du_forum": "8 façons de développer sa créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     ""
                 ]
+            },
+            {
+                "titre_du_forum": "Manifeste de l'astronaute créatif",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Très original comme Poster, j'adore le thème de l'espace et la création de nouvelle galaxie"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Francis Trahan",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -183,21 +183,21 @@
     },
     {
         "utilisateur": "Gabriel Asselin",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
                 "titre_du_forum": "Poster créativité",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Voici mon poster !Poster\n[Fichier: Poster]"
+                    "Voici mon poster !Poster\n[Fichier joint : Poster]"
                 ]
             }
         ]
     },
     {
         "utilisateur": "Grégory Lagrandcourt",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -211,7 +211,7 @@
     },
     {
         "utilisateur": "Jason Nader",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -225,7 +225,7 @@
     },
     {
         "utilisateur": "John Abou Nakoul",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -239,7 +239,7 @@
     },
     {
         "utilisateur": "Julien Légaré",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -253,7 +253,7 @@
     },
     {
         "utilisateur": "Juliette Morency",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -267,7 +267,7 @@
     },
     {
         "utilisateur": "Juliette Saint-Germain",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -281,28 +281,28 @@
     },
     {
         "utilisateur": "Khaoula Wakkach",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Poster creativite",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Tellement originale comme idée ! Ça m’a vraiment impressionné."
-                ]
-            },
             {
                 "titre_du_forum": "An article about creativity from the magazine ten voge",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "J’ai représenté le poster comme s’il était tiré d’un magazine pour adolescent(e)s, car je trouve ce format à la fois attirant et amusant. Tout a été réalisé sur Canva."
                 ]
+            },
+            {
+                "titre_du_forum": "Poster creativite",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Tellement originale comme idée ! Ça m’a vraiment impressionné."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Kiné Marie Dieng",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -316,7 +316,7 @@
     },
     {
         "utilisateur": "Malika Mandiaba Diaby",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -330,7 +330,7 @@
     },
     {
         "utilisateur": "Maria Fernanda Facetti",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -344,7 +344,7 @@
     },
     {
         "utilisateur": "Maya Zedek",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -365,7 +365,7 @@
     },
     {
         "utilisateur": "Mélodie Thomas",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -379,7 +379,7 @@
     },
     {
         "utilisateur": "Mohamed Benbrika",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -393,7 +393,7 @@
     },
     {
         "utilisateur": "Mohamed Waridi Bennouna",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -414,7 +414,7 @@
     },
     {
         "utilisateur": "Nofissa Khaif",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -435,7 +435,7 @@
     },
     {
         "utilisateur": "Olivia Danan",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -449,7 +449,7 @@
     },
     {
         "utilisateur": "Rayane Ighil",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -463,7 +463,7 @@
     },
     {
         "utilisateur": "Richema Métellus",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -477,7 +477,7 @@
     },
     {
         "utilisateur": "Rim Zoglat",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -491,7 +491,7 @@
     },
     {
         "utilisateur": "Ryan Llaguri",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -505,7 +505,7 @@
     },
     {
         "utilisateur": "Sara-Maude Sauvé",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -526,7 +526,7 @@
     },
     {
         "utilisateur": "Selma Bicha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -540,7 +540,7 @@
     },
     {
         "utilisateur": "Serafin Saritsky Ramirez",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -554,7 +554,7 @@
     },
     {
         "utilisateur": "Serena-Mputu Nkongolo",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -568,7 +568,7 @@
     },
     {
         "utilisateur": "Thibault Fourvel",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -582,7 +582,7 @@
     },
     {
         "utilisateur": "Wadie Aymen Ghennani",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -596,7 +596,7 @@
     },
     {
         "utilisateur": "Warda Belem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -610,7 +610,7 @@
     },
     {
         "utilisateur": "William Parker",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -624,7 +624,7 @@
     },
     {
         "utilisateur": "Yacine Barka",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -638,7 +638,7 @@
     },
     {
         "utilisateur": "Yassine Seddaoui",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {

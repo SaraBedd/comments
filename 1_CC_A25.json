@@ -1,7 +1,7 @@
 [
     {
         "utilisateur": "Amina Djemah",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -15,28 +15,14 @@
     },
     {
         "utilisateur": "Antoine Lévesque",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 5,
         "forums": [
-            {
-                "titre_du_forum": "La lumiere tamisée favoriserait la créativité ?",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J’ai trouvé ce point vraiment intéressant, surtout parce qu’il montre que l’environnement peut influencer la créativité de façon plus subtile qu’on le pense. J’aime aussi la nuance apportée entre “sortir de sa zone de confort” et simplement se sentir moins observé ou moins jugé, parce que ce n’est pas du tout la même chose. Ça rejoint bien l’idée que la créativité peut être favorisée quand on se sent plus libre psychologiquement et moins dans l’auto-censure. Penses-tu qu’on pourrait appliquer ce principe à d’autres aspects de l’environnement, comme le bruit, l’espace ou même la présence d’autres personnes ?"
-                ]
-            },
             {
                 "titre_du_forum": "Art et créativité - Un mythe intemporel ?",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "J’ai trouvé cette réflexion vraiment intéressante, surtout parce qu’elle nuance bien l’idée qu’art et créativité sont automatiquement la même chose. J’aime le fait que le texte montre l’évolution de l’art à travers le temps, comme quelque chose qui se transforme avec les besoins, les techniques et la manière de voir le monde. Ça rappelle aussi que la créativité peut exister ailleurs que dans l’art, même si l’art en reste une expression très forte. Penses-tu qu'aujourd’hui encore, on associe trop facilement la créativité seulement au domaine artistique ?"
-                ]
-            },
-            {
-                "titre_du_forum": "Maud Cohen sur développement du campus",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je trouve ça vraiment intéressant comme idée, parce qu’on parle souvent de créativité de façon très abstraite, mais beaucoup moins des espaces concrets qui peuvent réellement la favoriser. J’avoue que je suis aussi curieux de voir à quoi vont ressembler ces environnements, parce que ce n’est pas juste une question de mettre du matériel créatif, mais surtout de créer un lieu qui donne envie d’échanger, tester et réfléchir autrement. Je pense que l’aménagement d’un campus peut vraiment avoir un impact sur la manière dont les étudiants collaborent et développent leurs idées."
                 ]
             },
             {
@@ -52,12 +38,26 @@
                 "commentaires": [
                     "Je trouve ça vraiment intéressant, parce que ça rejoint bien l’idée vue en cours que la créativité ne part pas de rien, mais d’éléments déjà présents dans notre tête. Les rêves donnent un peu l’impression que le cerveau mélange librement plein de souvenirs, d’images et de sensations pour créer quelque chose de nouveau. Je pense que c’est peut-être pour ça qu’on peut parfois avoir des idées originales après avoir rêvé, même si tout semble bizarre sur le coup. Est-ce que vous pensez que les rêves pourraient être une forme de créativité “inconsciente” du cerveau ?"
                 ]
+            },
+            {
+                "titre_du_forum": "La lumiere tamisée favoriserait la créativité ?",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé ce point vraiment intéressant, surtout parce qu’il montre que l’environnement peut influencer la créativité de façon plus subtile qu’on le pense. J’aime aussi la nuance apportée entre “sortir de sa zone de confort” et simplement se sentir moins observé ou moins jugé, parce que ce n’est pas du tout la même chose. Ça rejoint bien l’idée que la créativité peut être favorisée quand on se sent plus libre psychologiquement et moins dans l’auto-censure. Penses-tu qu’on pourrait appliquer ce principe à d’autres aspects de l’environnement, comme le bruit, l’espace ou même la présence d’autres personnes ?"
+                ]
+            },
+            {
+                "titre_du_forum": "Maud Cohen sur développement du campus",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je trouve ça vraiment intéressant comme idée, parce qu’on parle souvent de créativité de façon très abstraite, mais beaucoup moins des espaces concrets qui peuvent réellement la favoriser. J’avoue que je suis aussi curieux de voir à quoi vont ressembler ces environnements, parce que ce n’est pas juste une question de mettre du matériel créatif, mais surtout de créer un lieu qui donne envie d’échanger, tester et réfléchir autrement. Je pense que l’aménagement d’un campus peut vraiment avoir un impact sur la manière dont les étudiants collaborent et développent leurs idées."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Caroline Gagnon",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -71,28 +71,28 @@
     },
     {
         "utilisateur": "Dounia Hage",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Un TOUSKI",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La créativité culinaire apparaît souvent par contrainte : quand il ne reste que quelques ingrédients au frigo. Le fait de combiner des éléments qui ne sont pas prévus ensemble oblige à expérimenter. La contrainte devient alors moteur d’innovation. On appelle cela un touski au Québec soit un : tout ce qui reste. J'utilise souvent cette méthode pour faire mes repas et ne pas gaspiller de la nourriture et cela me pousse à créer de nouvelles recettes ou fusionner des repas existants."
-                ]
-            },
             {
                 "titre_du_forum": "Des cannettes de Monster transformée en monstres",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Je trouve intéressant que l’œuvre parte d’un objet industriel ultra standardisé pour lui donner une identité unique. Ça illustre bien comment la créativité peut transformer un produit de consommation en objet narratif. On ne voit plus la marque, on voit un personnage."
                 ]
+            },
+            {
+                "titre_du_forum": "Un TOUSKI",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La créativité culinaire apparaît souvent par contrainte : quand il ne reste que quelques ingrédients au frigo. Le fait de combiner des éléments qui ne sont pas prévus ensemble oblige à expérimenter. La contrainte devient alors moteur d’innovation. On appelle cela un touski au Québec soit un : tout ce qui reste. J'utilise souvent cette méthode pour faire mes repas et ne pas gaspiller de la nourriture et cela me pousse à créer de nouvelles recettes ou fusionner des repas existants."
+                ]
             }
         ]
     },
     {
         "utilisateur": "John Abou Nakoul",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -106,7 +106,7 @@
     },
     {
         "utilisateur": "Julien Légaré",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -120,28 +120,28 @@
     },
     {
         "utilisateur": "Juliette Morency",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Un TOUSKI",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C'est vrai je n'avais jamais pensé au côté créatif derrière ce réflexe!"
-                ]
-            },
             {
                 "titre_du_forum": "7 Paintings",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "7 Paintings est un diner de 7 services où la présentation de plats est transformé en plusieurs oeuvres d'art immersives. Je trouve ça fascinant comment on peut combiner l'art et la nourriture. Je vous mets le lien si jamais vous voulez aller voir: https://www.7paintings.com/montreal"
                 ]
+            },
+            {
+                "titre_du_forum": "Un TOUSKI",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C'est vrai je n'avais jamais pensé au côté créatif derrière ce réflexe!"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Laureanne Tetreault",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 3,
         "forums": [
             {
@@ -169,37 +169,30 @@
     },
     {
         "utilisateur": "Louis-Alexis Pâquet",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Trompe l’oeil",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "moi aussi j'adore les trompes l'oeil, excellent partage!"
-                ]
-            },
             {
                 "titre_du_forum": "Recette improvisée",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "C'est une suggestion relativement normale, mais quand je prépare mes repas pour la semaine, je pars généralement de ce que j’ai déjà dans ma cuisine plutôt que de suivre une recette précise. J’essaie de sortir différents ingrédients, surtout ceux que j’utilise moins souvent comme certaines épices ou aliments qui traînent, puis j’improvise la recette au fur et à mesure. Ça me permet d’éviter le gaspillage, de varier mes repas d’une semaine à l’autre et aussi de découvrir de nouvelles combinaisons auxquelles je n’aurais pas pensé autrement."
                 ]
+            },
+            {
+                "titre_du_forum": "Trompe l’oeil",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "moi aussi j'adore les trompes l'oeil, excellent partage!"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Lylia Bouricha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 4,
         "forums": [
-            {
-                "titre_du_forum": "Emballage plastique remplacé par feuille de bananiers",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je suis tombée sur cet article qui explique qu'un supermarché thaïlandais a décidé de se débarrasser des emballages plastiques et utiliser des feuilles de bananiers pour emballer des produits. C'est très intéressant car les bananes sont parmi les fruits les plus présents de cette région. Ainsi, il s'agit d'une solution réellement bonne pour l'environnement et qui ne nécessite pas de production au préalable.https://www.forbes.com/sites/trevornace/2019/03/25/thailand-supermarket-uses-banana-leaves-instead-of-plastic-packagingDans l'idéal, nous n'aurions même pas besoin d'emballer les fruits et légumes, mais cette solution est évidemment nettement meilleure que les sachets ou emballages plastiques inutiles que nous trouvons aux supermarchés."
-                ]
-            },
             {
                 "titre_du_forum": "Créativité artificielle et créativité naturelle",
                 "nbre_de_commentaires": 1,
@@ -208,66 +201,73 @@
                 ]
             },
             {
-                "titre_du_forum": "How to grow a chair",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "C'est super marrant! J'aime beaucoup cette idée. C'est vrai que beaucoup d'objet de notre quotidien sont faits de plastiques, ce qui les rend à la fois laids et peu originaux. Cette idée nous rappelle que nous avions l'habitude de nous assoir à terre, idée agréable et esthétiquement jolie."
-                ]
-            },
-            {
                 "titre_du_forum": "Documentaire ARTE sur la créativité et le bonheur",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Ce n'est pas exactement un comportement créatif, mais plutôt un documentaire que je voulais partager avec vous. watchCe documentaire ARTE est très intéressant et fait le lien entre la créativité et le bonheur. On parle du sens que l’on donne à notre vie et le rôle de la créativité dedans. L’environnement dans lequel on est une clé à notre créativité. La positivité, des contraintes bien définies permettent aussi d’être plus créatif et donc plus heureux. \nCe que j’ai beaucoup aimé c’est qu’il brise aussi cette idée du génie créatif qui est très solitaire et dépressif, et donne de résultats merveilleux par sa solitude alors que la majorité des processus créatifs proviennent d’interactions que nous avons avec d’autres personnes.\n“la creativite engendre le bonheur à partir du moment où l’on donne un sens à sa vie”. Par la créativité et nos motivations profondes, nous nous récompensons en créant et ça instaure un bonheur en nous."
+                ]
+            },
+            {
+                "titre_du_forum": "Emballage plastique remplacé par feuille de bananiers",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tombée sur cet article qui explique qu'un supermarché thaïlandais a décidé de se débarrasser des emballages plastiques et utiliser des feuilles de bananiers pour emballer des produits. C'est très intéressant car les bananes sont parmi les fruits les plus présents de cette région. Ainsi, il s'agit d'une solution réellement bonne pour l'environnement et qui ne nécessite pas de production au préalable.https://www.forbes.com/sites/trevornace/2019/03/25/thailand-supermarket-uses-banana-leaves-instead-of-plastic-packagingDans l'idéal, nous n'aurions même pas besoin d'emballer les fruits et légumes, mais cette solution est évidemment nettement meilleure que les sachets ou emballages plastiques inutiles que nous trouvons aux supermarchés."
+                ]
+            },
+            {
+                "titre_du_forum": "How to grow a chair",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "C'est super marrant! J'aime beaucoup cette idée. C'est vrai que beaucoup d'objet de notre quotidien sont faits de plastiques, ce qui les rend à la fois laids et peu originaux. Cette idée nous rappelle que nous avions l'habitude de nous assoir à terre, idée agréable et esthétiquement jolie."
                 ]
             }
         ]
     },
     {
         "utilisateur": "Malika Mandiaba Diaby",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Voir les choses sous un autre angle",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J’ai trouvé cette exposition de Tom Deininger vraiment intéressante. Selon l’angle dans lequel on regarde, l’œuvre change complètement. De face c’est un oiseau assez normal puis de profil, c’est un assemblage d’objets, d’éléments inattendus.Ça m’a fait réfléchir au fait qu’on pense souvent connaître au premier regard, mais en réalité il faut changer de perspective pour voir ce qu’il y a réellement derrière.L’oeuvre te pousse à observer différemment, admirer le processus de création et elle évolue selon le regard qu’on lui porte.Source : https://vt.tiktok.com/ZSHr6WYjy/"
-                ]
-            },
             {
                 "titre_du_forum": "7 Paintings",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Je suis tombée sur une vidéo de l’expérience hier soir. C’est fascinant à voir. C’est une expérience originale et nouvelle qui fusionnent plusieurs disciplines et stimule plusieurs sens chez les clients et ils participent à l’expérience. En plus, les plats racontent des histoires liées à des artistes connus !! À essayer un de ces jours peut-être!"
                 ]
+            },
+            {
+                "titre_du_forum": "Voir les choses sous un autre angle",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J’ai trouvé cette exposition de Tom Deininger vraiment intéressante. Selon l’angle dans lequel on regarde, l’œuvre change complètement. De face c’est un oiseau assez normal puis de profil, c’est un assemblage d’objets, d’éléments inattendus.Ça m’a fait réfléchir au fait qu’on pense souvent connaître au premier regard, mais en réalité il faut changer de perspective pour voir ce qu’il y a réellement derrière.L’oeuvre te pousse à observer différemment, admirer le processus de création et elle évolue selon le regard qu’on lui porte.Source : https://vt.tiktok.com/ZSHr6WYjy/"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Maria Fernanda Facetti",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "The Lord Of The Rings",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'avoue que ça serait intéressant de voir le processus créatif des gens qui ont crée lord of the rings. En effet, le monde qu'il ont crée sort de la réalité et est uniquement un monde imaginaire."
-                ]
-            },
             {
                 "titre_du_forum": "« How to unlock creativity through boredom » - TEDX",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Ce titre a particulièrement attiré mon attention puisque je n'associe pas l'ennui à la créativité. En effet, je perçois la créativité comme un processus stimulant et divertissant. Je trouve donc qu'il serait inhabituel et meme unatural que l'ennui stimule notre créativité. Cependant, la speaker dit que l'ennui peux nous pousser à developper des nouvelles curiosités et nous pousser vers une exploration. Et vous, pensez-vous que l’ennui est nécessaire à la créativité ?"
                 ]
+            },
+            {
+                "titre_du_forum": "The Lord Of The Rings",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'avoue que ça serait intéressant de voir le processus créatif des gens qui ont crée lord of the rings. En effet, le monde qu'il ont crée sort de la réalité et est uniquement un monde imaginaire."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Maya Zedek",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -281,28 +281,14 @@
     },
     {
         "utilisateur": "Mohamed Benbrika",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 8,
         "forums": [
             {
-                "titre_du_forum": "Project Hail Mary",
+                "titre_du_forum": "Emballage créatif",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Hier, je suis allé regarder project hail Mary au cinéma. Sans vous spoil mais pendant le film, il y’avait beaucoup de l’humain qui apprend aux autres êtres comment on fait certaines choses. Mais je me suis dit que ça aurait été intéressant de voir si les aliens pouvaient eux aussi nous apprendre des choses et je me suis dit que c’était sûrement une tâche très compliquée pour les scénaristes d’imaginer quelque chose de créatif. Et même la vision qu’on a des “aliens” est tellement humanisée, notre cerveau est incapable de sortir de ses biais et de ce qu’il connaît. On les imagine comme être sociaux aussi, avec une langue etc. Ou sinon on les imagine comme des animaux, eux nous comprendraient mais pas nous. Mais en fait, on ne peut rien imaginer de différent de ce que notre cerveau connaît. Je trouve ça cool car ça rend la tâche des scénaristes beaucoup plus compliquée mais en même temps je trouve que c’est un peu nul car au final tous le films de science fiction se ressemblent…"
-                ]
-            },
-            {
-                "titre_du_forum": "La lumiere tamisée favoriserait la créativité ?",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Je vous partage un truc intéressant : l’article scientifique présenté par le youtubeur ne dit pas que la lumière tamisée nous aide à “think outside the box” en nous poussant hors de notre zone de confort. Au contraire, il suggère que l’obscurité réduit le sentiment d’être observé ou évalué, ce qui diminue l’auto-censure et donne une sensation de liberté psychologique — et c’est ça qui favoriserait la créativité (du moins c’est ce que j’ai compris) . Du coup je trouve ça assez drôle de voir comment le short YouTube simplifie ça en mode “think outside the box ”, alors que l’article parle plutôt de se sentir moins jugé que de sortir de sa zone de confort.Short YouTube  : https://youtube.com/shorts/B30fvWl3kgM?si=9Uv-BSaH-6-kVe-yArticle scientifique : https://www.sciencedirect.com/science/article/abs/pii/S0272494413000261"
-                ]
-            },
-            {
-                "titre_du_forum": "Maud Cohen sur développement du campus",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Intéressant en effet. Merci pour le partage, étant en cours, je ne pouvais pas assister en direct à la conférence ! J'espère qu'ils ne vont pas tomber dans le piège basique de : On va mettre des tableaux et des crayons pour dessiner ..."
+                    "Salut ! Je vous partage cette vidéo que j’ai vue en scrollant : https://youtube.com/shorts/ziif_JivgFQ?si=rY9wTDmCQFaOTIYlJe trouve ça assez original et en plus si ça peut aider à réduire la consommation de plastique why not ! De plus je me demande comment il a eu l’idée, peut-être avec la technique d’élément aléatoire? Il est tombé sur une image de conserve de tomate et ça a donné l’idée ?"
                 ]
             },
             {
@@ -313,10 +299,10 @@
                 ]
             },
             {
-                "titre_du_forum": "Musée ou maison ?",
+                "titre_du_forum": "La lumiere tamisée favoriserait la créativité ?",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Je suis tombé sur la chaîne vidéo de ce gars qui fait plein de trucs dans sa maison. On dirait vraiment un musée. Mais celle que j’ai beaucoup aimé c’est celle là ! J’aime beaucoup comment il a utilisé les cônes pour faire reproduire leffet de yeux qui suivent. C’est vraiment trop cool !  https://youtube.com/shorts/MeoPzFZ-4gQ?si=6K5WR87-atTS6fC-"
+                    "Je vous partage un truc intéressant : l’article scientifique présenté par le youtubeur ne dit pas que la lumière tamisée nous aide à “think outside the box” en nous poussant hors de notre zone de confort. Au contraire, il suggère que l’obscurité réduit le sentiment d’être observé ou évalué, ce qui diminue l’auto-censure et donne une sensation de liberté psychologique — et c’est ça qui favoriserait la créativité (du moins c’est ce que j’ai compris) . Du coup je trouve ça assez drôle de voir comment le short YouTube simplifie ça en mode “think outside the box ”, alors que l’article parle plutôt de se sentir moins jugé que de sortir de sa zone de confort.Short YouTube  : https://youtube.com/shorts/B30fvWl3kgM?si=9Uv-BSaH-6-kVe-yArticle scientifique : https://www.sciencedirect.com/science/article/abs/pii/S0272494413000261"
                 ]
             },
             {
@@ -327,10 +313,17 @@
                 ]
             },
             {
-                "titre_du_forum": "Emballage créatif",
+                "titre_du_forum": "Maud Cohen sur développement du campus",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Salut ! Je vous partage cette vidéo que j’ai vue en scrollant : https://youtube.com/shorts/ziif_JivgFQ?si=rY9wTDmCQFaOTIYlJe trouve ça assez original et en plus si ça peut aider à réduire la consommation de plastique why not ! De plus je me demande comment il a eu l’idée, peut-être avec la technique d’élément aléatoire? Il est tombé sur une image de conserve de tomate et ça a donné l’idée ?"
+                    "Intéressant en effet. Merci pour le partage, étant en cours, je ne pouvais pas assister en direct à la conférence ! J'espère qu'ils ne vont pas tomber dans le piège basique de : On va mettre des tableaux et des crayons pour dessiner ..."
+                ]
+            },
+            {
+                "titre_du_forum": "Musée ou maison ?",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Je suis tombé sur la chaîne vidéo de ce gars qui fait plein de trucs dans sa maison. On dirait vraiment un musée. Mais celle que j’ai beaucoup aimé c’est celle là ! J’aime beaucoup comment il a utilisé les cônes pour faire reproduire leffet de yeux qui suivent. C’est vraiment trop cool !  https://youtube.com/shorts/MeoPzFZ-4gQ?si=6K5WR87-atTS6fC-"
                 ]
             },
             {
@@ -339,12 +332,19 @@
                 "commentaires": [
                     "Aujourd'hui, j'ai découvert un comportement créatif basé sur l'observation : la paréidolie. C'est cette tendance naturelle de notre cerveau à identifier des formes familières, souvent des visages, dans des objets inanimés ou des motifs aléatoires. C'est fascinant parce que ça montre que la créativité n'est pas toujours une question de fabrication complexe, mais souvent une question de perception : il s'agit de voir le potentiel expressif caché dans les objets les plus banals de notre quotidien ! Je vous partage un lien reddit ou les gens postent les différentes observations qu'ils font ! Pictures of things that look like other things."
                 ]
+            },
+            {
+                "titre_du_forum": "Project Hail Mary",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Hier, je suis allé regarder project hail Mary au cinéma. Sans vous spoil mais pendant le film, il y’avait beaucoup de l’humain qui apprend aux autres êtres comment on fait certaines choses. Mais je me suis dit que ça aurait été intéressant de voir si les aliens pouvaient eux aussi nous apprendre des choses et je me suis dit que c’était sûrement une tâche très compliquée pour les scénaristes d’imaginer quelque chose de créatif. Et même la vision qu’on a des “aliens” est tellement humanisée, notre cerveau est incapable de sortir de ses biais et de ce qu’il connaît. On les imagine comme être sociaux aussi, avec une langue etc. Ou sinon on les imagine comme des animaux, eux nous comprendraient mais pas nous. Mais en fait, on ne peut rien imaginer de différent de ce que notre cerveau connaît. Je trouve ça cool car ça rend la tâche des scénaristes beaucoup plus compliquée mais en même temps je trouve que c’est un peu nul car au final tous le films de science fiction se ressemblent…"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Mohamed Waridi Bennouna",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -358,14 +358,14 @@
     },
     {
         "utilisateur": "Nicolas Laniel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 7,
         "forums": [
             {
-                "titre_du_forum": "Emballage plastique remplacé par feuille de bananiers",
+                "titre_du_forum": "Biomimétisme en architecture",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Ce qui est brillant ici, c'est que ce supermarché a trouvé une alternative qui est à la fois écologique et profondément pratique. En utilisant une ressource locale et abondante, ils éliminent le besoin de créer des matériaux synthétiques polluants. C’est le remplacement idéal puisqu'on passe d'un déchet plastique éternel à une solution biodégradable qui ne demande aucune transformation industrielle complexe. C'est la preuve qu'en observant simplement ce que la nature nous offre déjà sur place, on peut protéger l'environnement sans sacrifier l'aspect fonctionnel de l'emballage."
+                    "Effectivement, c'est un bon exemple de ce que le biomimétisme peut accomplir de plus concret. Ce qui est impressionnant avec le batiment, c'est qu'il ne se contente pas d'imiter l'esthétique de la nature, il en reproduit l'intelligence fonctionnelle aussi. C'est fascinant de voir comment une structure organique offre une solution à la fois écologique et pratique. C'est encore plus crucial dans les régions où la chaleur est un enjeu majeur, prouvant qu'en observant mieux la nature, on peut concevoir des infrastructures qui respirent intelligemment plutôt que de lutter contre le climat que par la technologie."
                 ]
             },
             {
@@ -376,17 +376,17 @@
                 ]
             },
             {
+                "titre_du_forum": "Emballage plastique remplacé par feuille de bananiers",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui est brillant ici, c'est que ce supermarché a trouvé une alternative qui est à la fois écologique et profondément pratique. En utilisant une ressource locale et abondante, ils éliminent le besoin de créer des matériaux synthétiques polluants. C’est le remplacement idéal puisqu'on passe d'un déchet plastique éternel à une solution biodégradable qui ne demande aucune transformation industrielle complexe. C'est la preuve qu'en observant simplement ce que la nature nous offre déjà sur place, on peut protéger l'environnement sans sacrifier l'aspect fonctionnel de l'emballage."
+                ]
+            },
+            {
                 "titre_du_forum": "Et si on utilisait les rêves...",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Effectivement, ça pose la question du fameux déjà-vu qu'on ressent parfois. Le sentiment étrange d’avoir déjà vécu une scène, mot pour mot et geste pour geste, comme si le présent n’était qu’une rediffusion d’un film dont on est l'acteur. On a presque l'impression que la réalité bug et nous donne un petit aperçu de ce qui va suivre. Comment interpréter ce sentiment alors qu'on sait pertinemment que cet instant précis n'a jamais eu lieu auparavant ?"
-                ]
-            },
-            {
-                "titre_du_forum": "Biomimétisme en architecture",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Effectivement, c'est un bon exemple de ce que le biomimétisme peut accomplir de plus concret. Ce qui est impressionnant avec le batiment, c'est qu'il ne se contente pas d'imiter l'esthétique de la nature, il en reproduit l'intelligence fonctionnelle aussi. C'est fascinant de voir comment une structure organique offre une solution à la fois écologique et pratique. C'est encore plus crucial dans les régions où la chaleur est un enjeu majeur, prouvant qu'en observant mieux la nature, on peut concevoir des infrastructures qui respirent intelligemment plutôt que de lutter contre le climat que par la technologie."
                 ]
             },
             {
@@ -414,28 +414,28 @@
     },
     {
         "utilisateur": "Nofissa Khaif",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Trompe l’oeil",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ça me fait penser au fait qu’en ce moment, il y a aussi beaucoup de trompe-l’œil qui ressemblent exactement à ce qu’ils goûtent, par exemple un dessert en forme de pomme qui goûte vraiment la pomme. Je trouve ça intéressant parce qu’on pourrait se demander si c’est moins créatif que quand l’intérieur surprend complètement, mais au final pas forcément. Dans un cas, la créativité est dans le contraste et dans la surprise et dans l’autre, elle est dans le fait de réussir à recréer quelque chose de manière vraiment cohérente."
-                ]
-            },
             {
                 "titre_du_forum": "L'art anamorphique",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "J’ai vu cette vidéo YouTube sur l’art anamorphique et j’ai trouvé ça vraiment intéressant. Je connaissais déjà un peu le principe, mais pas à ce point-là. Ce que j’aime dans ce type de création, c’est que ce n’est pas juste un dessin ou une illusion “belle à regarder”. Tout repose sur la perspective et sur la manière dont notre cerveau interprète l’image. Je trouve ça fascinant parce qu’on part parfois de quelque chose qui semble complètement déformé, mais vu du bon angle, tout devient clair. Ça montre une forme de créativité qui joue directement avec la perception.Lien de la vidéo: Anamorphic Mural Painting Timelapse: Transforming a Hallway into a 3D Illusion"
                 ]
+            },
+            {
+                "titre_du_forum": "Trompe l’oeil",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ça me fait penser au fait qu’en ce moment, il y a aussi beaucoup de trompe-l’œil qui ressemblent exactement à ce qu’ils goûtent, par exemple un dessert en forme de pomme qui goûte vraiment la pomme. Je trouve ça intéressant parce qu’on pourrait se demander si c’est moins créatif que quand l’intérieur surprend complètement, mais au final pas forcément. Dans un cas, la créativité est dans le contraste et dans la surprise et dans l’autre, elle est dans le fait de réussir à recréer quelque chose de manière vraiment cohérente."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Rayane Ighil",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -449,7 +449,7 @@
     },
     {
         "utilisateur": "Richema Métellus",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 3,
         "forums": [
             {
@@ -460,24 +460,24 @@
                 ]
             },
             {
-                "titre_du_forum": "Trompe l’oeil",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime beaucoup le concept de trompe l'œil. Ce que je trouve fascinant, c’est le côté surprenant. On est un peu trompé par ce qu’on voit, et ça rend l’expérience encore plus amusante quand on se rend compte que c’est en fait un dessert. Ça montre aussi à quel point les pâtissiers peuvent être créatifs, parce qu’ils doivent penser à la fois au goût, à la texture et à l’apparence. Je trouve que c’est un bon exemple de créativité, parce qu’on prend quelque chose de simple comme un dessert et on le transforme en quelque chose d’inattendu. Ça montre qu’avec un peu d’imagination, on peut vraiment jouer avec les perceptions des gens.\n[Fichier: v0f025gc0000cnf5f9fog65tfeojo76g.mp4]"
-                ]
-            },
-            {
                 "titre_du_forum": "This is not…this is…",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
-                    "Je vous partage une vidéo que j’ai vue sur TikTok. C’est le concept du « this is not a… this is… » (ceci n'est pas… c'est…), qui est assez populaire en ce moment. Ça m’a fait penser au jeu qu’on faisait durant les cours en ligne. Dans la vidéo, on voit des formes très simples que les enfants transforment en dessins. Honnêtement, je les trouve vraiment créatifs et talentueux.\nÇa m’a aussi fait penser à la pensée divergente dont on parle dans le cours. Pour moi, ça représente bien ce que c’est être créatif : être capable de trouver plusieurs idées à partir de quelque chose de très simple. Ça demande d’être ouvert et de sortir un peu de sa façon habituelle de penser.\nDans les commentaires, certaines personnes disent qu’elles ont perdu leur créativité en grandissant. Je trouve ça dommage de voir les choses comme ça, parce qu’en réalité on ne la perd pas, on l’utilise juste moins et on ne la développe pas assez. Selon moi, la créativité est un processus accessible à tous. Il ne s’agit pas forcément d’un talent artistique exceptionnel, mais plutôt d’une capacité à jouer avec les idées, à expérimenter et à transformer une idée simple en plusieurs idées.\nJe pense que ce genre d’exercice montre justement que la créativité peut se travailler et qu’elle n’est pas réservée aux enfants. Parfois, il suffit simplement de se laisser un peu plus de liberté pour explorer différentes idées. Dans un contexte de travail ou d’études, adopter un comportement créatif signifie souvent prendre le temps de regarder un problème sous plusieurs angles. Parfois, une solution innovante peut émerger simplement en changeant la façon dont on interprète une situation initiale.\n[Fichier: v1c044g50000d6u77mvog65mkr25f780.mp4]"
+                    "Je vous partage une vidéo que j’ai vue sur TikTok. C’est le concept du « this is not a… this is… » (ceci n'est pas… c'est…), qui est assez populaire en ce moment. Ça m’a fait penser au jeu qu’on faisait durant les cours en ligne. Dans la vidéo, on voit des formes très simples que les enfants transforment en dessins. Honnêtement, je les trouve vraiment créatifs et talentueux.\nÇa m’a aussi fait penser à la pensée divergente dont on parle dans le cours. Pour moi, ça représente bien ce que c’est être créatif : être capable de trouver plusieurs idées à partir de quelque chose de très simple. Ça demande d’être ouvert et de sortir un peu de sa façon habituelle de penser.\nDans les commentaires, certaines personnes disent qu’elles ont perdu leur créativité en grandissant. Je trouve ça dommage de voir les choses comme ça, parce qu’en réalité on ne la perd pas, on l’utilise juste moins et on ne la développe pas assez. Selon moi, la créativité est un processus accessible à tous. Il ne s’agit pas forcément d’un talent artistique exceptionnel, mais plutôt d’une capacité à jouer avec les idées, à expérimenter et à transformer une idée simple en plusieurs idées.\nJe pense que ce genre d’exercice montre justement que la créativité peut se travailler et qu’elle n’est pas réservée aux enfants. Parfois, il suffit simplement de se laisser un peu plus de liberté pour explorer différentes idées. Dans un contexte de travail ou d’études, adopter un comportement créatif signifie souvent prendre le temps de regarder un problème sous plusieurs angles. Parfois, une solution innovante peut émerger simplement en changeant la façon dont on interprète une situation initiale.\n[Fichier joint : v1c044g50000d6u77mvog65mkr25f780.mp4]"
+                ]
+            },
+            {
+                "titre_du_forum": "Trompe l’oeil",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'aime beaucoup le concept de trompe l'œil. Ce que je trouve fascinant, c’est le côté surprenant. On est un peu trompé par ce qu’on voit, et ça rend l’expérience encore plus amusante quand on se rend compte que c’est en fait un dessert. Ça montre aussi à quel point les pâtissiers peuvent être créatifs, parce qu’ils doivent penser à la fois au goût, à la texture et à l’apparence. Je trouve que c’est un bon exemple de créativité, parce qu’on prend quelque chose de simple comme un dessert et on le transforme en quelque chose d’inattendu. Ça montre qu’avec un peu d’imagination, on peut vraiment jouer avec les perceptions des gens.\n[Fichier joint : v0f025gc0000cnf5f9fog65tfeojo76g.mp4]"
                 ]
             }
         ]
     },
     {
         "utilisateur": "Rim Zoglat",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -498,7 +498,7 @@
     },
     {
         "utilisateur": "Ryan Llaguri",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -512,30 +512,37 @@
     },
     {
         "utilisateur": "Ryles Hedi Cherif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
+            {
+                "titre_du_forum": "Art abstrait &amp; créativité",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'aime beaucoup les tableaux qui sont faits à l'essai-erreur que beaucoup critiquent, car c'est tellement abstrait que ça lui donne un charme unique. Certains osent dire que ce n'est pas de la vrai art, car c'est trop \"simple\" à faire selon eux. Que l'Artiste a juste \"jeté\" de la peinture avec différentes couleurs sur la toile. Mais ils ne prennent pas en compte qu'il fallait d'abord avoir cette idée avant de la faire. De plus, ces tableaux sont fait à l'instinct, donc après chaque coup de pinceau, l'artiste peut developper de nouvelles idées qu'il appliquera sur sa toile à l'aide de différentes textures, couleurs et formes. Par exemple, le logo Nike n'est qu'un trait, pourtant des gens sont prêts à mettre des centaines de dollars sur une veste juste parce qu'elle a ce petit trait."
+                ]
+            },
             {
                 "titre_du_forum": "Trompe l’oeil",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "C'est vrai que lorsque les trompe l'oeil sont bien faits, ils sont vraiment impréssionnant. Tu t'attends à manger une pomme, mais l'intérieur est un coulis de framboise."
                 ]
-            },
-            {
-                "titre_du_forum": "Art abstrait & créativité",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'aime beaucoup les tableaux qui sont faits à l'essai-erreur que beaucoup critiquent, car c'est tellement abstrait que ça lui donne un charme unique. Certains osent dire que ce n'est pas de la vrai art, car c'est trop \"simple\" à faire selon eux. Que l'Artiste a juste \"jeté\" de la peinture avec différentes couleurs sur la toile. Mais ils ne prennent pas en compte qu'il fallait d'abord avoir cette idée avant de la faire. De plus, ces tableaux sont fait à l'instinct, donc après chaque coup de pinceau, l'artiste peut developper de nouvelles idées qu'il appliquera sur sa toile à l'aide de différentes textures, couleurs et formes. Par exemple, le logo Nike n'est qu'un trait, pourtant des gens sont prêts à mettre des centaines de dollars sur une veste juste parce qu'elle a ce petit trait."
-                ]
             }
         ]
     },
     {
         "utilisateur": "Sara-Maude Sauvé",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 3,
         "forums": [
+            {
+                "titre_du_forum": "7 Paintings",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Wow très intéressant, merci Juliette!"
+                ]
+            },
             {
                 "titre_du_forum": "The Lord Of The Rings",
                 "nbre_de_commentaires": 1,
@@ -549,19 +556,12 @@
                 "commentaires": [
                     "Très intéressant, je fais ça moi aussi!"
                 ]
-            },
-            {
-                "titre_du_forum": "7 Paintings",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Wow très intéressant, merci Juliette!"
-                ]
             }
         ]
     },
     {
         "utilisateur": "Serena-Mputu Nkongolo",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -575,7 +575,7 @@
     },
     {
         "utilisateur": "Sofyan Emad Khayyal",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -589,7 +589,7 @@
     },
     {
         "utilisateur": "Thibault Fourvel",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -610,7 +610,7 @@
     },
     {
         "utilisateur": "Thomas Fournier-Joanisse",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -624,7 +624,7 @@
     },
     {
         "utilisateur": "Vincent Lachapelle",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -638,7 +638,7 @@
     },
     {
         "utilisateur": "Warda Belem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -652,7 +652,7 @@
     },
     {
         "utilisateur": "William Parker",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -666,7 +666,7 @@
     },
     {
         "utilisateur": "Xavier Schlegel",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -680,7 +680,7 @@
     },
     {
         "utilisateur": "Yacine Barka",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -694,7 +694,7 @@
     },
     {
         "utilisateur": "Yassine Seddaoui",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {

@@ -1,7 +1,7 @@
 [
     {
         "utilisateur": "Adame Oumamass",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -15,7 +15,7 @@
     },
     {
         "utilisateur": "Amélie Ducharme",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -29,7 +29,7 @@
     },
     {
         "utilisateur": "Antoine Lévesque",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -43,7 +43,7 @@
     },
     {
         "utilisateur": "Caroline Gagnon",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "utilisateur": "Dounia Hage",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -71,7 +71,7 @@
     },
     {
         "utilisateur": "Emma-Rose Martineau",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -85,7 +85,7 @@
     },
     {
         "utilisateur": "Erika Vaillancourt",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -99,7 +99,7 @@
     },
     {
         "utilisateur": "Gabriel Asselin",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -113,7 +113,7 @@
     },
     {
         "utilisateur": "Geneviève Tardif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -134,7 +134,7 @@
     },
     {
         "utilisateur": "John Abou Nakoul",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -148,7 +148,7 @@
     },
     {
         "utilisateur": "Juliette Morency",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -162,7 +162,7 @@
     },
     {
         "utilisateur": "Juliette Saint-Germain",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -176,28 +176,28 @@
     },
     {
         "utilisateur": "Louis-Alexis Pâquet",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Commentaire texte d'Amabile",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "environnement et motivation(discipline) >>> compétences,  effectivement"
-                ]
-            },
             {
                 "titre_du_forum": "amabile",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "j'aime ce texte plus que les autres : Au lieu de rester dans quelque chose d’abstrait, il montre clairement que la créativité dépend de plusieurs éléments qui doivent fonctionner ensemble, comme les connaissances, la manière de penser, la motivation et l’environnement .Ce que j’ai aimé, c’est l’importance donnée à la motivation personnelle. Ça montre que ce n’est pas juste une question de compétence, mais aussi d’intérêt réel pour ce qu’on fait. Personnellement, ça m’a fait réaliser que même si quelqu’un est compétent, il ne sera pas forcément créatif s’il n’est pas engagé dans ce qu’il fait ou s’il est dans un environnement qui ne l’encourage pas. Vouloir >>> compétence (comme dans les sports en fait et dans la vie en général)"
                 ]
+            },
+            {
+                "titre_du_forum": "Commentaire texte d'Amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "environnement et motivation(discipline) >>> compétences,  effectivement"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Malika Mandiaba Diaby",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -211,7 +211,7 @@
     },
     {
         "utilisateur": "Maria Fernanda Facetti",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -225,28 +225,28 @@
     },
     {
         "utilisateur": "Maya Zedek",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "texte d'Amabile",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ton commentaire met très bien en évidence un point central de la théorie d’Amabile : le rôle clé de la motivation intrinsèque dans la créativité. Tu as raison de souligner qu’elle est souvent le moteur des réalisations importantes, mais ce qui est intéressant dans l’article, c’est justement qu’elle n’est pas suffisante à elle seule. Amabile insiste sur le fait que la créativité émerge d’une combinaison de facteurs et de motivation, compétences et environnement, et que c’est leur interaction qui détermine le niveau de créativité . \nOn peut même aller un peu plus loin : une personne très motivée mais sans expertise ou dans un environnement contraignant aura du mal à produire des idées réellement créatives."
-                ]
-            },
             {
                 "titre_du_forum": "La créativité comme équilibre entre motivation, compétences et environnement",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "L’article d’Amabile propose une vision particulièrement structurée de la créativité en montrant qu’elle ne dépend pas uniquement d’un processus cognitif, mais d’un équilibre entre plusieurs composantes essentielles : les compétences dans un domaine, les capacités de pensée créative, la motivation intrinsèque et l’environnement social . Ce qui est particulièrement intéressant, c’est l’importance accordée à la motivation intrinsèque, présentée comme un moteur central de la créativité : on est plus créatif lorsque l’on agit par intérêt, plaisir ou défi personnel plutôt que pour des récompenses externes. Cela permet de mieux comprendre pourquoi certaines conditions de travail ou d’apprentissage peuvent soit favoriser, soit freiner la créativité. L’article montre également que la créativité ne se développe pas isolément, mais dans un contexte social qui peut encourager l’innovation (collaboration, liberté, reconnaissance) ou au contraire la bloquer (pression, critique excessive, rigidité). Ainsi, cette approche met en évidence que la créativité est à la fois individuelle et collective, et qu’elle résulte d’une interaction constante entre facteurs internes et externes, ce qui en fait un phénomène complexe mais aussi modulable selon les contextes."
                 ]
+            },
+            {
+                "titre_du_forum": "texte d'Amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ton commentaire met très bien en évidence un point central de la théorie d’Amabile : le rôle clé de la motivation intrinsèque dans la créativité. Tu as raison de souligner qu’elle est souvent le moteur des réalisations importantes, mais ce qui est intéressant dans l’article, c’est justement qu’elle n’est pas suffisante à elle seule. Amabile insiste sur le fait que la créativité émerge d’une combinaison de facteurs et de motivation, compétences et environnement, et que c’est leur interaction qui détermine le niveau de créativité . \nOn peut même aller un peu plus loin : une personne très motivée mais sans expertise ou dans un environnement contraignant aura du mal à produire des idées réellement créatives."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Mohamed Amine Mallekh",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -260,7 +260,7 @@
     },
     {
         "utilisateur": "Mohamed Waridi Bennouna",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -274,7 +274,7 @@
     },
     {
         "utilisateur": "Nicolas Laniel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -288,7 +288,7 @@
     },
     {
         "utilisateur": "Nofissa Khaif",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -302,7 +302,7 @@
     },
     {
         "utilisateur": "Richema Métellus",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -316,7 +316,7 @@
     },
     {
         "utilisateur": "Rim Zoglat",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -330,28 +330,28 @@
     },
     {
         "utilisateur": "Sara-Maude Sauvé",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Texte d'Amabile",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Le texte d'Amabile met en évidence le rôle de la motivation intrinsèque dans la créativité. En effet, l’auteur souligne que la créativité est née grâce à plusieurs facteurs, dont la motivation, l'environnement, le contexte et les compétences et les interactions entre ceux-ci. Ici, on peut faire le lien entre le texte de l'auteur et l'activité de la carte mentale des facteurs influençant la créativité. Je me souviens que certains avaient souligné la motivation dans leurs cartes!"
-                ]
-            },
             {
                 "titre_du_forum": "Amabile",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Très bien! C'est comme dans l'activité où on faisait un mind map sur les facteurs qui influencent la créativité!"
                 ]
+            },
+            {
+                "titre_du_forum": "Texte d'Amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Le texte d'Amabile met en évidence le rôle de la motivation intrinsèque dans la créativité. En effet, l’auteur souligne que la créativité est née grâce à plusieurs facteurs, dont la motivation, l'environnement, le contexte et les compétences et les interactions entre ceux-ci. Ici, on peut faire le lien entre le texte de l'auteur et l'activité de la carte mentale des facteurs influençant la créativité. Je me souviens que certains avaient souligné la motivation dans leurs cartes!"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Selma Bicha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -365,28 +365,28 @@
     },
     {
         "utilisateur": "Serafin Saritsky Ramirez",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Texte d'Amabile",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ca fait des belles références aux mythes qu'on a vue en classe en début de session!"
-                ]
-            },
             {
                 "titre_du_forum": "Texte d'amabile",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Amabile montre que pour être créatif, il faut à la fois des connaissances dans un domain. Ca permet de faire le lien au mythe qui dit que c'est ceux qui on peu de connaissances peuvent réellement être créatif. On peut voir que la créativité peut se développer et qu’elle dépend aussi de l’environnement et de l’intérêt qu’on a pour une tâche."
                 ]
+            },
+            {
+                "titre_du_forum": "Texte d'Amabile",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ca fait des belles références aux mythes qu'on a vue en classe en début de session!"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Serena-Mputu Nkongolo",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -400,7 +400,7 @@
     },
     {
         "utilisateur": "Sofia Rose Beaudry",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -414,7 +414,7 @@
     },
     {
         "utilisateur": "Thomas Fournier-Joanisse",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -428,7 +428,7 @@
     },
     {
         "utilisateur": "Warda Belem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -442,7 +442,7 @@
     },
     {
         "utilisateur": "William Parker",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -456,7 +456,7 @@
     },
     {
         "utilisateur": "Xavier Schlegel",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -470,7 +470,7 @@
     },
     {
         "utilisateur": "Yacine Barka",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -484,7 +484,7 @@
     },
     {
         "utilisateur": "Yassine Seddaoui",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {

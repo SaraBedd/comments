@@ -1,7 +1,7 @@
 [
     {
         "utilisateur": "Adame Oumamass",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -22,28 +22,28 @@
     },
     {
         "utilisateur": "Alexis Doré",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef’s table : Niki Nakayama",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Dans Chef’s Table, Niki Nakayama transmet\nprofondément qui elle est à travers sa cuisine. Sa nourriture devient\nune forme d’expression personnelle, presque intime. Elle s’inspire de la nature,\ndes saisons et de la tradition du kaiseki, tout en y intégrant sa propre\nsensibilité et son vécu. De ce fait, grâce à sa créativité, son kaiseki est différent\nde ce que l’on s’attend habituellement."
-                ]
-            },
             {
                 "titre_du_forum": "Chef's Table - Dan Barber",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "La créativité du chef Dan Barber est intimement liée au\nmouvement, à l’observation et aux saisons. Il explique que ses meilleures idées\némergent lorsqu’il pratique du sport, moments où son esprit se libère et où la\nréflexion devient plus instinctive. Sa démarche créative repose aussi sur une\nprofonde curiosité : il passe beaucoup de temps à investiguer, à remettre en\nquestion les saveurs et à se demander pourquoi un aliment goûte meilleur\nou différemment. Cette quête du sens guide son travail en cuisine. De plus, sa\ncréativité suit le rythme des saisons : il compose ses plats à partir de ce que\nla ferme lui offre, s’adaptant à la nature plutôt que de la contraindre. À\nl’image de nos ancêtres, il cuisine avec ce qui est disponible, faisant de la\ncontrainte saisonnière une source d’innovation et d’authenticité."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef’s table : Niki Nakayama",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans Chef’s Table, Niki Nakayama transmet\nprofondément qui elle est à travers sa cuisine. Sa nourriture devient\nune forme d’expression personnelle, presque intime. Elle s’inspire de la nature,\ndes saisons et de la tradition du kaiseki, tout en y intégrant sa propre\nsensibilité et son vécu. De ce fait, grâce à sa créativité, son kaiseki est différent\nde ce que l’on s’attend habituellement."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Amélie Ducharme",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -64,7 +64,7 @@
     },
     {
         "utilisateur": "Amina Djemah",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -85,7 +85,7 @@
     },
     {
         "utilisateur": "Anass Siraj",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -99,28 +99,28 @@
     },
     {
         "utilisateur": "Anthony Depachtère",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's Table : Norma Listman & Saqib Keval",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Leur créativité m’a semblé fortement influencée par le croisement de leurs cultures et de leurs parcours personnels. Ils transforment ces identités multiples en une force créative, en mélangeant des traditions plutôt qu’en les opposant.\nJ’ai aussi perçu une créativité guidée par des valeurs et un engagement clair. Le sens donné à leur cuisine oriente leurs choix et nourrit l’innovation, montrant que l’intention et le contexte jouent un rôle central dans le processus créatif."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract : Jonathan Hoefler",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Chez Jonathan Hoefler, j’ai surtout remarqué une créativité qui naît des contraintes. La typographie est pour lui une réponse à des problèmes précis (par ex. l'usage, la lisibilité, ou le contexte), ce qui montre que le cadre et les limites peuvent stimuler la création plutôt que la freiner.\nSa démarche repose aussi sur la patience et l’expertise : beaucoup d’observation, d’itérations et d’attention aux détails. J'y ai vu et compris que la créativité peut être progressive et méthodique, ce qui me rappelle nos pratiques en génie."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef's Table : Norma Listman &amp; Saqib Keval",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Leur créativité m’a semblé fortement influencée par le croisement de leurs cultures et de leurs parcours personnels. Ils transforment ces identités multiples en une force créative, en mélangeant des traditions plutôt qu’en les opposant.\nJ’ai aussi perçu une créativité guidée par des valeurs et un engagement clair. Le sens donné à leur cuisine oriente leurs choix et nourrit l’innovation, montrant que l’intention et le contexte jouent un rôle central dans le processus créatif."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Antoine Lévesque",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -141,49 +141,49 @@
     },
     {
         "utilisateur": "Ayoub Issiakhem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's table - Kwame Onwuachi",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Effectivement, Kwame Onwuachi est un bon exemple d’authenticité et de mise en valeur de son identité à travers son travail. Cette identité s’est construite à partir d’une jeunesse turbulente et d’un parcours pas comme les autres. La grande diversité culturelle qui l'entourait à New York, son passage au Nigeria où il a été profondément immergé dans la culture et ses nombreux échecs ont fortement influencé sa vision et sa créativité.\n\nL’ensemble de ces expériences lui a permis de développer une vaste palette de connaissances dans le domaine de la cuisine, ainsi qu’une forte volonté de réussir et de constamment se dépasser. Cependant, ce désir de réussite et de survie a parfois pris le dessus sur son identité et sa créativité, l’amenant à s’adapter à certains compromis, comme lorsqu'il modifiait ses menus en écoutant ces investisseurs. Au final, Kwame a réalisé que c’est en restant authentique et fidèle à son identité qu’il a connu le plus grand succès.\n\nSa créativité s’est donc construite à travers son vécu, ses expériences, ses échecs, sa culture et son entourage. En apprenant à mieux comprendre son identité, il a su l’utiliser comme un outil pour s’épanouir pleinement."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Christoph Niemann : Illustration",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Je te rejoins sur ce point, car ce qui m’a le plus intéressé dans l’approche de Niemann est sa volonté de laisser une grande place à l’interprétation, qu’il utilise effectivement comme un outil de réflexion comme tu l'as mentionné. Cette démarche est très similaire à son recours à l’abstraction. On peut le voir lorsqu’il prend comme exemple les adultes dans Charlie Brown, qui ne sont jamais représentés visuellement. Bien que leur présence soit évidente, le spectateur ne les voit jamais, ce qui lui permet de construire sa propre représentation mentale plutôt que de se faire imposer une vision spécifique.\n\nCe concept d’abstraction et de liberté d’interprétation représente selon moi un très bel exemple de créativité. Il permet de raconter une même histoire à travers un dessin, tout en offrant une infinité d'interprétations possibles. Le travail de Niemann ne possède pas de cadre rigide autour de l'art, ce qui élimine une forme de plafond interprétatif, laissant ainsi au public la liberté de vivre une expérience personnalisée et imaginaire."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef's table - Kwame Onwuachi",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Effectivement, Kwame Onwuachi est un bon exemple d’authenticité et de mise en valeur de son identité à travers son travail. Cette identité s’est construite à partir d’une jeunesse turbulente et d’un parcours pas comme les autres. La grande diversité culturelle qui l'entourait à New York, son passage au Nigeria où il a été profondément immergé dans la culture et ses nombreux échecs ont fortement influencé sa vision et sa créativité.\n\nL’ensemble de ces expériences lui a permis de développer une vaste palette de connaissances dans le domaine de la cuisine, ainsi qu’une forte volonté de réussir et de constamment se dépasser. Cependant, ce désir de réussite et de survie a parfois pris le dessus sur son identité et sa créativité, l’amenant à s’adapter à certains compromis, comme lorsqu'il modifiait ses menus en écoutant ces investisseurs. Au final, Kwame a réalisé que c’est en restant authentique et fidèle à son identité qu’il a connu le plus grand succès.\n\nSa créativité s’est donc construite à travers son vécu, ses expériences, ses échecs, sa culture et son entourage. En apprenant à mieux comprendre son identité, il a su l’utiliser comme un outil pour s’épanouir pleinement."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Béatrice Gregory",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Abstract- Isle Crawford- Design intérieur",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Tout à fait d’accord! Ilse mentionne au tout début de l’épisode que nous passons presque de 87% de notre temps à l’intérieur, donc notre environnement affecte inévitablement comment nous nous sentons, le design intérieur est un outil pour améliorer notre humanité. Je trouve que sa créativité se manifeste dans la façon qu’elle perçoit les milieux intérieurs. Elle priorise comment on se sent dans un espace, pour satisfaire le subconscient, notre bien-être, que nous nous sentions bien en plus que l’espace soit beau. Aussi, comment les humains sentions comportent dans certains espaces influence comment elle fait ses designs. Enfin, elle priorise beaucoup les valeurs humaines qu’elle décrit comme « non-négociables ». Elle apporte beaucoup d’empathie, de collaboration et d’écoute pour vraiment comprendre le besoin de ses clients. Ses designs sont très beau et rendent effectivement les espaces intérieurs très beau mais aussi viables!"
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Es Delvin: Stage Design",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "J’ai trouvé que le travail d’Es Delvin est inspiré par la lumière et ce que tous les jeux de lumières peuvent créer. L’épisode commence avec elle qui déchire un morceau de papier et tire son inspiration de celui-ci. Elle mentionne aussi qu’elle ne sait pas ce qu’elle va créer jusqu’à ce qu’elle sache ce qu’est le projet. Aussi, elle est en mesure de créer des designs sans savoir comment ils fonctionnent, comme la scène de pluie dans un théâtre. La créativité d’Es pourrait aussi venir partiellement de ses parents qui sont tous les deux un peu dans le domaine des arts, ils réutilisent des objets pour leur donner une nouvelle vie comme une table faite de planches d’échafauds. Pour ses clients musicaux, elle doit aussi écouter leurs musique pour développer une idée sur comment la scène sera montée et projetée pour vraiment exprimer la vision de l’artiste. Il semble aussi que les formes prismatiques ont une fa de place dans ses designs de scène, mais chaque scène différente l’une de l’autre!"
                 ]
+            },
+            {
+                "titre_du_forum": "Abstract- Isle Crawford- Design intérieur",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Tout à fait d’accord! Ilse mentionne au tout début de l’épisode que nous passons presque de 87% de notre temps à l’intérieur, donc notre environnement affecte inévitablement comment nous nous sentons, le design intérieur est un outil pour améliorer notre humanité. Je trouve que sa créativité se manifeste dans la façon qu’elle perçoit les milieux intérieurs. Elle priorise comment on se sent dans un espace, pour satisfaire le subconscient, notre bien-être, que nous nous sentions bien en plus que l’espace soit beau. Aussi, comment les humains sentions comportent dans certains espaces influence comment elle fait ses designs. Enfin, elle priorise beaucoup les valeurs humaines qu’elle décrit comme « non-négociables ». Elle apporte beaucoup d’empathie, de collaboration et d’écoute pour vraiment comprendre le besoin de ses clients. Ses designs sont très beau et rendent effectivement les espaces intérieurs très beau mais aussi viables!"
+                ]
             }
         ]
     },
     {
         "utilisateur": "Caroline Gagnon",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -204,30 +204,37 @@
     },
     {
         "utilisateur": "Charles-Éric Pelletier",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's Table - Niki Nakayama",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La créativité de Niki Nakayama est guidée par la tradition kaiseki, qu’elle utilise comme base pour créer une cuisine plus moderne et personnelle. Son parcours dans un milieu où les femmes sont peu mises de l’avant l’a poussée à se démarquer par la précision et la cohérence de son travail. Installée à Los Angeles, elle a trouvé la liberté nécessaire pour adapter les techniques japonaises à son propre style. Sa démarche repose sur la discipline, l’attention au détail et l’envie d’exprimer son histoire à travers ses plats."
-                ]
-            },
             {
                 "titre_du_forum": "Chef's Table - Francis Mallmann",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "La créativité de Francis Mallmann est surtout influencée par son lien avec la Patagonie. Cet environnement éloigné l’a amené à développer une cuisine centrée sur le feu et sur une approche plus instinctive. Même s’il a été formé dans la haute gastronomie française, il s’est rapidement détaché des règles trop strictes pour suivre une méthode plus libre et personnelle. Cette volonté d’indépendance, combinée à la simplicité de son mode de vie, a façonné un style qui mise sur l’authenticité et la force des éléments naturels."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef's Table - Niki Nakayama",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La créativité de Niki Nakayama est guidée par la tradition kaiseki, qu’elle utilise comme base pour créer une cuisine plus moderne et personnelle. Son parcours dans un milieu où les femmes sont peu mises de l’avant l’a poussée à se démarquer par la précision et la cohérence de son travail. Installée à Los Angeles, elle a trouvé la liberté nécessaire pour adapter les techniques japonaises à son propre style. Sa démarche repose sur la discipline, l’attention au détail et l’envie d’exprimer son histoire à travers ses plats."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Clémentine Chailleux",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 3,
         "forums": [
+            {
+                "titre_du_forum": "Abstract - Christoph Neimann : Illustration",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce que j'ai remarqué surtout, c’est la façon dont l’illustration est présentée comme un outil de réflexion plutôt qu’un simple “joli dessin”. On voit que Niemann ne cherche pas tant à impressionner par sa technique qu’à trouver une idée forte, claire et presque évidente une fois qu’on la voit. Son travail montre que l’abstraction n’est pas uniquement un manque de détails, mais aussi une manière de dire plus avec moins, en jouant avec les symboles, les objets du quotidien et les associations d’idées. L’épisode donne aussi l’impression que la créativité est un mélange entre spontanéité et discipline comme si chaque illustration était une pensée transformée en image même si la réalisation des illustrations est aussi plaisant que difficile."
+                ]
+            },
             {
                 "titre_du_forum": "Abstract - Christoph Niemann : Illustration",
                 "nbre_de_commentaires": 1,
@@ -241,19 +248,12 @@
                 "commentaires": [
                     "Ce que j’ai surtout remarqué c’est la manière dont le graphisme est présenté comme une forme de conversation visuelle avec le public plutôt qu’un simple agencement d’éléments esthétiques. On voit que Scher ne crée pas seulement des formes et des lettres, mais qu’elle cherche à capturer et transmettre une attitude, une énergie ou une idée profondément ancrée dans le contexte culturel et social de chaque projet. Son travail montre que le graphisme n’est pas uniquement une question de style, mais aussi de signification, de sens et de relation aux spectateurs, que ce soit à travers une affiche, une identité visuelle ou une typographie expressive."
                 ]
-            },
-            {
-                "titre_du_forum": "Abstract - Christoph Neimann : Illustration",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce que j'ai remarqué surtout, c’est la façon dont l’illustration est présentée comme un outil de réflexion plutôt qu’un simple “joli dessin”. On voit que Niemann ne cherche pas tant à impressionner par sa technique qu’à trouver une idée forte, claire et presque évidente une fois qu’on la voit. Son travail montre que l’abstraction n’est pas uniquement un manque de détails, mais aussi une manière de dire plus avec moins, en jouant avec les symboles, les objets du quotidien et les associations d’idées. L’épisode donne aussi l’impression que la créativité est un mélange entre spontanéité et discipline comme si chaque illustration était une pensée transformée en image même si la réalisation des illustrations est aussi plaisant que difficile."
-                ]
             }
         ]
     },
     {
         "utilisateur": "Dounia Hage",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -274,7 +274,7 @@
     },
     {
         "utilisateur": "Emilien Bel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -288,7 +288,7 @@
     },
     {
         "utilisateur": "Emma-Rose Martineau",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -309,7 +309,7 @@
     },
     {
         "utilisateur": "Erika Vaillancourt",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -330,28 +330,28 @@
     },
     {
         "utilisateur": "Francis Trahan",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef’s table - Tim Raue",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La créativité de Tim Raue prend racine dans son enfance à Berlin, marquée par un environnement dur, instable et souvent violent. Après avoir déménagé à 9 ans chez son père violent, la cuisine devient son seul refuge. Les saveurs et les textures lui offrent une sensation de sécurité, et ce lien émotionnel profond avec la nourriture le marquera pour toujours. Après des années d’abus, il rejoint un gang et devient un agresseur dans son quartier défavorisé. C’est pourquoi il a réussi à briser le moule : intense, sans filtre, la violence qu’il a vécue lui a appris que le monde est un combat, et il sait se battre.\nSa créativité est aussi portée par une ambition très nette : se distinguer et imposer son identité. Il refuse la neutralité et la moyenne, parce que pour lui, être “comme tout le monde” revient à disparaître. Cette volonté de se démarquer l’amène à prendre des risques, à assumer des choix forts, et à construire un univers cohérent qui porte sa signature. Il ne cherche pas seulement à réussir techniquement, il veut marquer, provoquer une réaction, et devenir incontournable. Son amour pour la cuisine asiatique (qui était nettement rejetée par les critiques allemandes à cette époque) n’a pas pu être rejeté. C’est cette obsession de “faire son propre nom” et de pousser la cuisine qu’il aime en se foutant des critiques qui pousse sa créativité à briser des murs et à emmener la cuisine berlinoise dans un nouveau monde de saveurs."
-                ]
-            },
             {
                 "titre_du_forum": "Chef's table - Albert Adrià",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Ce qui a permis\nà Albert Adrià d’innover autant dans le monde de la cuisine est sa mentalité qu’il\nnomme « l’avant-garde ». Selon lui, les idées et les concepts s’enchaine\ninfiniment, il n’y a pas de règle ni de limitation. Il dit que la créativité\nnaît d’une liberté totale sur ce qui est possible : « si tu penses que 1 + 1 =\n2, tu ne feras jamais rien de nouveau ».\n\nUn autre\nfacteur clé est son travail acharné. Il cherche constamment des applications\npossibles à ce qu’il observe presque 24 heures\nsur 24.Pendant des années, il disposait d’un atelier dont l’objectif était de créer 45 plats par\nsaison. Durant sa période à El Bulli, le restaurant familial, le total des\ncréations a atteint environ 1 800 plats.\n\nLorsqu’il\nouvre son nouveau restaurant, il enchaîne des journées de 15 heures et remet\nsans cesse le « bon sens » en question. Il pousse les idées toujours plus loin,\nen recherchant davantage de sophistication, en brisant des règles et en testant\nce qu’il y a « après », puis encore « après ». Son succès dans ses propres\nprojets a consolidé son statut de référence decréativité dans le monde culinaire."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef’s table - Tim Raue",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La créativité de Tim Raue prend racine dans son enfance à Berlin, marquée par un environnement dur, instable et souvent violent. Après avoir déménagé à 9 ans chez son père violent, la cuisine devient son seul refuge. Les saveurs et les textures lui offrent une sensation de sécurité, et ce lien émotionnel profond avec la nourriture le marquera pour toujours. Après des années d’abus, il rejoint un gang et devient un agresseur dans son quartier défavorisé. C’est pourquoi il a réussi à briser le moule : intense, sans filtre, la violence qu’il a vécue lui a appris que le monde est un combat, et il sait se battre.\nSa créativité est aussi portée par une ambition très nette : se distinguer et imposer son identité. Il refuse la neutralité et la moyenne, parce que pour lui, être “comme tout le monde” revient à disparaître. Cette volonté de se démarquer l’amène à prendre des risques, à assumer des choix forts, et à construire un univers cohérent qui porte sa signature. Il ne cherche pas seulement à réussir techniquement, il veut marquer, provoquer une réaction, et devenir incontournable. Son amour pour la cuisine asiatique (qui était nettement rejetée par les critiques allemandes à cette époque) n’a pas pu être rejeté. C’est cette obsession de “faire son propre nom” et de pousser la cuisine qu’il aime en se foutant des critiques qui pousse sa créativité à briser des murs et à emmener la cuisine berlinoise dans un nouveau monde de saveurs."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Gabriel Asselin",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -365,7 +365,7 @@
     },
     {
         "utilisateur": "Geneviève Tardif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -386,7 +386,7 @@
     },
     {
         "utilisateur": "Grégory Lagrandcourt",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -407,7 +407,7 @@
     },
     {
         "utilisateur": "Jason Nader",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -428,7 +428,7 @@
     },
     {
         "utilisateur": "John Abou Nakoul",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -449,7 +449,7 @@
     },
     {
         "utilisateur": "Juha Vuorenhela",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -463,7 +463,7 @@
     },
     {
         "utilisateur": "Julien Légaré",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -477,7 +477,7 @@
     },
     {
         "utilisateur": "Juliette Morency",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -491,28 +491,28 @@
     },
     {
         "utilisateur": "Juliette Saint-Germain",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's Table - Grant Achatz",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Pour ce chef, tout est dans l’art. Comment peut-on transmettre une œuvre d’art dans un plat ? C’est la mission de Grant. Pour lui, la créativité, c’est de faire quelque chose d’impossible, qui n’a jamais été fait. Tout a commencé alors que ses parents étaient propriétaires d’un restaurant de type « diner » et que son oncle lui a fait goûter des frites entourées d’un cornichon. L’explosion de saveurs de sucré, salé et acide lui a indiqué la voie qu’il souhaitait suivre plus tard, en piquant sa curiosité sur les possibilités infinies de la cuisine. Sa créativité est parsemée des chefs qu’il a pu rencontrer au cours de sa carrière, mais aussi de son cancer, qui lui a fait perdre la capacité de goûter. Il a dû se réinventer et faire preuve de créativité pour créer de nouveaux plats pour son restaurant ; utiliser le dessin et davantage son cerveau que ses papilles pour inventer de nouvelles combinaisons."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Ian Spalter: Design numérique",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Pour Ian Spalter, le design est partout. Il travaille surtout dans l’interface utilisateur et souhaite rendre ses produits « fun ». Son processus créatif commence par définir le problème, le pourquoi et le quoi. Le remue-méninges avec plusieurs personnes fait aussi partie intégrante de ce processus. Ses inspirations viennent des autres designers, il observe comment eux ont résolu un certain problème, et il laisse germer cette observation en lui. Le support de ses parents lui a permis d’avoir les outils nécessaires, tels qu’un ordinateur, jeune, ce qui a stimulé sa créativité. Sa nationalité l’a aussi amené à se questionner sur qui il était. L’ensemble de son bagage personnel et de ses observations lui permettent donc d’être créatif."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef's Table - Grant Achatz",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Pour ce chef, tout est dans l’art. Comment peut-on transmettre une œuvre d’art dans un plat ? C’est la mission de Grant. Pour lui, la créativité, c’est de faire quelque chose d’impossible, qui n’a jamais été fait. Tout a commencé alors que ses parents étaient propriétaires d’un restaurant de type « diner » et que son oncle lui a fait goûter des frites entourées d’un cornichon. L’explosion de saveurs de sucré, salé et acide lui a indiqué la voie qu’il souhaitait suivre plus tard, en piquant sa curiosité sur les possibilités infinies de la cuisine. Sa créativité est parsemée des chefs qu’il a pu rencontrer au cours de sa carrière, mais aussi de son cancer, qui lui a fait perdre la capacité de goûter. Il a dû se réinventer et faire preuve de créativité pour créer de nouveaux plats pour son restaurant ; utiliser le dessin et davantage son cerveau que ses papilles pour inventer de nouvelles combinaisons."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Khaoula Wakkach",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -526,7 +526,7 @@
     },
     {
         "utilisateur": "Kiné Marie Dieng",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -547,7 +547,7 @@
     },
     {
         "utilisateur": "Laureanne Tetreault",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -568,28 +568,28 @@
     },
     {
         "utilisateur": "Louis-Alexis Pâquet",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "chef's table: vladimir mukhin",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "On comprend rapidement que la créativité de Vladimir Mukhin est très liée à son origine et à l’histoire de la Russie. Il utilise des recettes et des ingrédients traditionnels qu’il transforme avec des techniques modernes. Sa façon de créer repose beaucoup sur le fait de mélanger le passé et le présent, tout en cherchant à changer la perception de la cuisine russe à l’international. Sa créativité vient donc autant de la tradition que de son envie d’innover."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract: Bjarke Ingels",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Dans cet épisode, on voit que la créativité de Bjarke Ingels vient surtout des contraintes. Il est comme ça parce qu’il a appris très tôt à travailler avec des règles claires, des budgets limités et des attentes parfois contradictoires. Au lieu de choisir un camp, il cherche presque toujours à lier deux éléments ensemble : le pratique et le ludique, l’écologique et l’économique, la technique et le design. Pour lui, une bonne idée naît quand on réussit à faire cohabiter deux opposés dans un même projet. Cette façon de penser vient de son expérience en architecture, où chaque projet doit à la fois fonctionner, respecter le contexte et plaire aux usagers. Le travail d’équipe est aussi important, parce que ces combinaisons d’idées se construisent par discussions, essais et ajustements."
                 ]
+            },
+            {
+                "titre_du_forum": "chef's table: vladimir mukhin",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "On comprend rapidement que la créativité de Vladimir Mukhin est très liée à son origine et à l’histoire de la Russie. Il utilise des recettes et des ingrédients traditionnels qu’il transforme avec des techniques modernes. Sa façon de créer repose beaucoup sur le fait de mélanger le passé et le présent, tout en cherchant à changer la perception de la cuisine russe à l’international. Sa créativité vient donc autant de la tradition que de son envie d’innover."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Lylia Bouricha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 1,
         "forums": [
             {
@@ -603,7 +603,7 @@
     },
     {
         "utilisateur": "Malika Mandiaba Diaby",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -624,7 +624,7 @@
     },
     {
         "utilisateur": "Maria Fernanda Facetti",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -645,7 +645,7 @@
     },
     {
         "utilisateur": "Mark Vartazarmian",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -666,7 +666,7 @@
     },
     {
         "utilisateur": "Maya Zedek",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -687,28 +687,28 @@
     },
     {
         "utilisateur": "Mélodie Thomas",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's Table : Mashama Bailey",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "L'épisode raconte le parcours de Mashama Bailey, une chef cuisinière du restaurant Grey dans la ville de Savannah.Mashama Bailey, est très fortement influencée par son triste héritage historique, ses parents avaient connu la ségrégation en Amérique, et ils cherchaient à aller de l'avant, ils sacrifiaient énormément, notamment le plaisir de la nourriture, pour faire mieux. Mashama, quand à elle, a préféré s'approprier ce passé en le représentant dans ses plats, en associant la cuisine du sud avec quelque chose de raffiné, là aussi pour faire mieux. Elle a allié les deux phases de sa vie, sa vie dans le sud qui était simple et agréable et la cuisine qu'elle a apprise en France qui était compliquée et sophistiquée, tout comme sa vie à New York. Les parents de Mashama ont déménagé à New York quand elle avait 11 ans, et avec le plaisir de la nourriture, elle a également perdu sa communauté, quand elle était petite, dans les rues de Savannah, elle avait un sentiment de liberté et de convivialité, ses grands mères disaient que \"les repas étaient au cœur de nombreuses relations\" et je pense qu'elle a voulu également faire ressortir ce sentiment dans son travail en collaborant avec des producteurs locaux, en épousant les traditions locales, et en refaisant sortir les saveurs de sa communauté d'enfance, elle cherchait de nouveau à appartenir à ce monde, ce qui l'a beaucoup inspirée."
-                ]
-            },
             {
                 "titre_du_forum": "Chef's Table : Christina Tosi",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Cet épisode raconte l'histoire et le parcours de Christina Tosi, aujourd'hui pâtissière très populaire à New York, proposant des produits innovants ramenant tout droit en enfance.Aux vues de ses pâtisseries, il est évident que Christina Tosi tire énormément de créativité de son âme d'enfant qu'elle a su garder pour les goûts culinaires mais aussi sa façon de voir la vie : elle suit ses rêves, même si on le lui déconseille, et sa phrase \"la vie est trop courte pour compter les cookies\" le montre parfaitement. Mais elle tire énormément d'inspiration de la dualité de sa vie également : ses parents voulaient qu'elle soit la meilleure, elle était donc ambitieuse et voulait réussir dans la cuisine donc elle a appris avec des grands chefs, mais ce cadre trop strict et pas assez amusant pour elle l'a fait se rendre compte qu'elle ne voulait pas devenir ce genre de chefs. Bien que la critique la menait à s'intéresser et à découvrir plus, elle était vraiment inspirée uniquement quand elle avait des \"moments spirituels\" où elle improvisait avec ce qu'elle avait sous la main pour faire un dessert, qui était très loin d'être parfait, mais c'est ce qu'elle recherchait, retrouver son plaisir d'enfant à manger sans pouvoir s'arrêter. Un dernier énorme facteur d'influence, c'était l'héritage de la relation à la nourriture, elle avait appris de ses grands-mères et de sa mère à cuisiner pour donner , \"donner comme on donne de l'amour\" dit-elle, et je pense qu'elle a voulu faire ressortir dans son travail, l'amour que lui avait transmis les femmes de son entourage et le fait de faire ressortir les sentiments par la cuisine."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef's Table : Mashama Bailey",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "L'épisode raconte le parcours de Mashama Bailey, une chef cuisinière du restaurant Grey dans la ville de Savannah.Mashama Bailey, est très fortement influencée par son triste héritage historique, ses parents avaient connu la ségrégation en Amérique, et ils cherchaient à aller de l'avant, ils sacrifiaient énormément, notamment le plaisir de la nourriture, pour faire mieux. Mashama, quand à elle, a préféré s'approprier ce passé en le représentant dans ses plats, en associant la cuisine du sud avec quelque chose de raffiné, là aussi pour faire mieux. Elle a allié les deux phases de sa vie, sa vie dans le sud qui était simple et agréable et la cuisine qu'elle a apprise en France qui était compliquée et sophistiquée, tout comme sa vie à New York. Les parents de Mashama ont déménagé à New York quand elle avait 11 ans, et avec le plaisir de la nourriture, elle a également perdu sa communauté, quand elle était petite, dans les rues de Savannah, elle avait un sentiment de liberté et de convivialité, ses grands mères disaient que \"les repas étaient au cœur de nombreuses relations\" et je pense qu'elle a voulu également faire ressortir ce sentiment dans son travail en collaborant avec des producteurs locaux, en épousant les traditions locales, et en refaisant sortir les saveurs de sa communauté d'enfance, elle cherchait de nouveau à appartenir à ce monde, ce qui l'a beaucoup inspirée."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Mohamed Amine Mallekh",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -729,7 +729,7 @@
     },
     {
         "utilisateur": "Mohamed Benbrika",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 3,
         "forums": [
             {
@@ -740,24 +740,24 @@
                 ]
             },
             {
-                "titre_du_forum": "Chef's Table - Virgilio Martinez",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "J'ai choisi l'épisode sur Virgilio Martínez. Ce que j'ai trouvé marquant, c'est son approche : on ne va pas chez lui juste pour manger un plat comme un autre, mais pour manger un espèce d'écosystème.Il a tout structuré autour des altitudes (chaque plat correspond à une élévation précise des Andes ou de l'Amazonie). Pour y arriver, il ne s'est pas contenté de cuisiner : il a fait appel à sa sœur, Malena, pour apporter une vraie rigueur scientifique et cataloguer des ingrédients inconnus. C'est là qu'on voit que sa créativité vient d'une recherche immense sur le terrain et de données concrètes, pas juste d'une inspiration magique.D'ailleurs, c'était un pari risqué. Au début, les gens ne comprenaient pas son concept (ils voulaient du classique) et il a perdu pas mal de clients. Mais il a persisté dans sa vision et il a réussi dans son défi en faisant émaner tout un menu à partir d'une contrainte qu'il s'est fixée et aujourd'hui c'est un des chefs les plus reconnus pour leur créativitéé"
-                ]
-            },
-            {
                 "titre_du_forum": "Chef's table - Massimo Bottura",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "C'est un super exemple de résolution de problème. Mais je torouve qu'avant même le séisme, sa plus grosse contrainte a été le poids de la tradition ! Dans l'épisode, on voit que les habitants de Modene lui en voulaient de toucher aux recettes sacrées. Pour réussir à innover, il a dû prouver qu'il maîtrisait le sujet encore mieux que les traditionalistes. Ça rejoint un peu ce qu'on disait en classe : pour être créatif, il faut d'abord connaître les règles sur le bout des doigts. C'est cette expertise qui lui a permis de transformer la tradition en quelque chose de nouveau sans se faire rejeter définitivement par la communauté"
+                ]
+            },
+            {
+                "titre_du_forum": "Chef's Table - Virgilio Martinez",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "J'ai choisi l'épisode sur Virgilio Martínez. Ce que j'ai trouvé marquant, c'est son approche : on ne va pas chez lui juste pour manger un plat comme un autre, mais pour manger un espèce d'écosystème.Il a tout structuré autour des altitudes (chaque plat correspond à une élévation précise des Andes ou de l'Amazonie). Pour y arriver, il ne s'est pas contenté de cuisiner : il a fait appel à sa sœur, Malena, pour apporter une vraie rigueur scientifique et cataloguer des ingrédients inconnus. C'est là qu'on voit que sa créativité vient d'une recherche immense sur le terrain et de données concrètes, pas juste d'une inspiration magique.D'ailleurs, c'était un pari risqué. Au début, les gens ne comprenaient pas son concept (ils voulaient du classique) et il a perdu pas mal de clients. Mais il a persisté dans sa vision et il a réussi dans son défi en faisant émaner tout un menu à partir d'une contrainte qu'il s'est fixée et aujourd'hui c'est un des chefs les plus reconnus pour leur créativitéé"
                 ]
             }
         ]
     },
     {
         "utilisateur": "Mohamed Waridi Bennouna",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -778,7 +778,7 @@
     },
     {
         "utilisateur": "Nicolas Laniel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -799,28 +799,28 @@
     },
     {
         "utilisateur": "Olivia Danan",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's Table : Grant Achatz",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Grant Achatz, chef présenté dans Chef’s Table, transforme complètement l’expérience gastronomique. Pour lui, aller au restaurant ne se limite pas à manger : c’est avant tout une expérience immersive, comparable à une performance artistique. Inspiré par l’art contemporain et les galeries, il remet en question chaque élément du repas, de la nappe aux ustensiles, des assiettes à la présentation. Il explique que les règles limitent la créativité. Pour Grant, sa créativité est fortement influencée par sa curiosité, son désir de surprendre et sa volonté de rendre possible l’impossible. Il joue avec les illusions d’optique et se pose des questions comme : est-ce que je peux faire flotter un plat, rendre la nourriture invisible ou la transformer en quelque chose d’inattendu? Avec son équipe, il conçoit un menu entièrement nouveau environ tous les trois mois. Pour lui, ce qui compte, c’est la créativité, et non l’idée de créer un seul menu incroyable mais figé. Il cherche un changement constant qui pousse les frontières de la gastronomie à travers son restaurant Alinea."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Jonathan Hoefler : Typeface",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Dans l’épisode Typeface, on suit Jonathan Hoefler dans son processus de création typographique. Ayant grandi à New York, il tire une grande partie de son inspiration de son environnement. Il s’intéresse particulièrement aux objets du quotidien comme les montres et à la manière dont les chiffres y sont représentés. Il explique que l’idée d’une convergence entre deux systèmes complètement distincts, comme une ancienne montre et la typographie, le passionne. Durant sa jeunesse, c’est à travers les jeux vidéo et les magazines qu’il découvre l’impact de la typographie et développe progressivement une passion pour cette forme d’art. On remarque que sa créativité est fortement liée à sa curiosité. Par exemple, il s’intéresse à l’évolution de la typographie gothique et explore différents environnements, comme les cimetières, afin d’analyser la manière dont les lettres sont formées. Il mentionne aussi qu’avec la montée de la technologie, il fait face à de nouveaux défis, mais également à de nouvelles opportunités pour repousser les limites de ce qui était auparavant possible en typographie."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef's Table : Grant Achatz",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Grant Achatz, chef présenté dans Chef’s Table, transforme complètement l’expérience gastronomique. Pour lui, aller au restaurant ne se limite pas à manger : c’est avant tout une expérience immersive, comparable à une performance artistique. Inspiré par l’art contemporain et les galeries, il remet en question chaque élément du repas, de la nappe aux ustensiles, des assiettes à la présentation. Il explique que les règles limitent la créativité. Pour Grant, sa créativité est fortement influencée par sa curiosité, son désir de surprendre et sa volonté de rendre possible l’impossible. Il joue avec les illusions d’optique et se pose des questions comme : est-ce que je peux faire flotter un plat, rendre la nourriture invisible ou la transformer en quelque chose d’inattendu? Avec son équipe, il conçoit un menu entièrement nouveau environ tous les trois mois. Pour lui, ce qui compte, c’est la créativité, et non l’idée de créer un seul menu incroyable mais figé. Il cherche un changement constant qui pousse les frontières de la gastronomie à travers son restaurant Alinea."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Ophélie Sénéchal",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -841,7 +841,7 @@
     },
     {
         "utilisateur": "Rayane Ighil",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -862,28 +862,28 @@
     },
     {
         "utilisateur": "Richema Métellus",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef’s Table - Mashama Bailey",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Après avoir écouté l’épisode 1, saison 6, de Mashama Bailey, ce qui m’a marqué, c’est à quel point sa créativité est liée à son histoire personnelle et à son rapport au passé. On sent que sa cuisine ne vient pas seulement d’une envie d’innover, mais surtout d’un besoin de comprendre d’où elle vient et de redonner une place à des traditions longtemps oubliées.\nSon parcours influence énormément sa façon de créer. Elle a grandi dans le Sud des États-Unis, puis elle a été formée à la cuisine française et a travaillé dans des restaurants à New York. Cette combinaison se ressent dans ses plats, car il y a à la fois une grande rigueur technique et quelque chose de très émotionnel, presque intime. Sa créativité naît du dialogue entre ce qu’elle a appris professionnellement et ce qu’elle a vécu humainement. Elle ne cuisine pas pour impressionner, mais pour raconter une histoire. Le lieu de son restaurant joue aussi un rôle important dans sa créativité. The Grey est installé dans une ancienne gare routière marquée par la ségrégation raciale, et cet endroit chargé d’histoire l’inspire profondément. On comprend que l’espace, la mémoire du lieu et ce qu’il représente influencent directement sa manière de penser la cuisine et les menus qu’elle propose.\nCe qui ressort beaucoup dans l’épisode, c’est son engagement. Sa créativité est nourrie par une réflexion sur l’identité, la culture et la reconnaissance des racines afro-américaines dans la cuisine du Sud. Elle ne cherche pas simplement à créer quelque chose de nouveau, mais quelque chose de juste et de significatif. Cet épisode m’a fait réaliser que la créativité peut venir autant du vécu et de la mémoire que de l’imagination."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Ruth Carter : Costume Design",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Dans l’épisode consacré à Ruth Carter : Costume Design, saison 2, on comprend que, pour elle, le costume raconte une histoire. Ses créations sont tellement bien adaptées aux personnages qu’on les perçoit comme des habits réels, exprimant qui ils sont, d’où ils viennent et ce qu’ils représentent. Un facteur important de son processus créatif est sa lecture approfondie du script. Elle commence toujours par le décomposer afin de se poser des questions sur la palette de couleurs, la vision du réalisateur et la manière dont son travail s’intégrera à celui du reste de l’équipe. Cette étape lui permet de bien comprendre le contexte culturel et narratif avant de créer.\nLe costume agit comme un véritable langage visuel dans son processus créatif. Elle accorde une grande importance au choix des couleurs et des textures, car ce sont ces éléments qui permettent de communiquer des idées comme l’identité, le statut social ou l’ambiance d’une scène. C’est à cette étape qu’elle fait le plus appel à son imagination, tout en s’assurant que les choix visuels servent toujours l’histoire. La question de la représentation est également centrale dans son travail. En créant des costumes authentiques et puissants pour des personnages noirs, elle cherche à donner une visibilité et une dignité à des communautés souvent sous-représentées au cinéma. Ses costumes deviennent alors un moyen d’affirmation culturelle.\nSon travail est influencé par ses références personnelles et culturelles, notamment les années 1970, une époque qui lui est très chère. On le voit clairement dans le film Dolemite Is My Name, où cette période influence directement les styles, les matières et l’esthétique générale. Même dans des univers fictifs, comme Black Panther, elle s’inspire de traditions africaines réelles. Elle rappelle également que créer c’est aussi collaborer. Elle travaille étroitement avec les réalisateurs et les acteurs afin que chaque costume soutienne le récit et corresponde à la vision globale du film."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef’s Table - Mashama Bailey",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Après avoir écouté l’épisode 1, saison 6, de Mashama Bailey, ce qui m’a marqué, c’est à quel point sa créativité est liée à son histoire personnelle et à son rapport au passé. On sent que sa cuisine ne vient pas seulement d’une envie d’innover, mais surtout d’un besoin de comprendre d’où elle vient et de redonner une place à des traditions longtemps oubliées.\nSon parcours influence énormément sa façon de créer. Elle a grandi dans le Sud des États-Unis, puis elle a été formée à la cuisine française et a travaillé dans des restaurants à New York. Cette combinaison se ressent dans ses plats, car il y a à la fois une grande rigueur technique et quelque chose de très émotionnel, presque intime. Sa créativité naît du dialogue entre ce qu’elle a appris professionnellement et ce qu’elle a vécu humainement. Elle ne cuisine pas pour impressionner, mais pour raconter une histoire. Le lieu de son restaurant joue aussi un rôle important dans sa créativité. The Grey est installé dans une ancienne gare routière marquée par la ségrégation raciale, et cet endroit chargé d’histoire l’inspire profondément. On comprend que l’espace, la mémoire du lieu et ce qu’il représente influencent directement sa manière de penser la cuisine et les menus qu’elle propose.\nCe qui ressort beaucoup dans l’épisode, c’est son engagement. Sa créativité est nourrie par une réflexion sur l’identité, la culture et la reconnaissance des racines afro-américaines dans la cuisine du Sud. Elle ne cherche pas simplement à créer quelque chose de nouveau, mais quelque chose de juste et de significatif. Cet épisode m’a fait réaliser que la créativité peut venir autant du vécu et de la mémoire que de l’imagination."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Rim Zoglat",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -904,7 +904,7 @@
     },
     {
         "utilisateur": "Roxanne Labarre",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -925,28 +925,28 @@
     },
     {
         "utilisateur": "Ryan Llaguri",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Abstract - Ruth Carter",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ruth et sa créativité sont façonnées par une immersion dans l’histoire et la culture afro-américaine, qu’elle traduit en costumes . Son travail naît aussi d’un dialogue constant avec les acteurs."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Olafur Eliasson",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Olafur s’inspire de son environnement, notamment des chutes d’eau, de la lumière (comme l’optique des arcs-en-ciel) et de la géométrie, afin de façonner et transformer la perception du public à travers son art.Il s’inspire de la géométrie pour façonner l’architecture et cherche à déplacer la vérité en modifiant la perspective des spectateurs, selon l’angle à partir duquel l’œuvre est observée."
                 ]
+            },
+            {
+                "titre_du_forum": "Abstract - Ruth Carter",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ruth et sa créativité sont façonnées par une immersion dans l’histoire et la culture afro-américaine, qu’elle traduit en costumes . Son travail naît aussi d’un dialogue constant avec les acteurs."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Ryles Hedi Cherif",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -967,7 +967,7 @@
     },
     {
         "utilisateur": "Sandrine Allard",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -988,9 +988,16 @@
     },
     {
         "utilisateur": "Sara-Maude Sauvé",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 3,
         "forums": [
+            {
+                "titre_du_forum": "Chef's Table - Christina Tosi",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Dans cet épisode, on suit la vie et le parcours de Christina Tosi, une cheffe patissière américaine qui a fait carrière de sa passion pour la cuisine. L’épisode parle de son parcours académique et ses traditions familiales. Pour ses parents, la cuisine était un passe temps que l’on fait après le travail ou l’école. Elle a commencé à travailler dans des restaurants reconnus à New York, éloignée de sa famille. Après quelques années, elle décide de démarrer sa propre pâtisserie.\nChristina parle aussi du fait qu'avec des pâtisserie, elle peut être créative puisqu'à la base, le monde mangent des déserts pour se faire plaisir. Elle aime créer et réimaginer certains déserts. Certains décrivent ses déserts comme étant une voie pour s'exprimer. Far exemple, elle a servie un strawberry shortcake, que tous adorait et qui était différent et créatif. Elle connait tous les ingrédients et les techniques de cuisine, et par son intelligence intègre certaines techniques et saveurs dans ses créations. Par exemple, elle a créer un cereal milk panacota qui a ébloui le chef du restaurant pour lequel elle travaillait avant. Elle a ensuite décidé de créer Milk Bar avec ses idées créatives que tous ont adorés, grâce à son idée de lait au céréales."
+                ]
+            },
             {
                 "titre_du_forum": "Chefs Table - Will Goldfarb",
                 "nbre_de_commentaires": 2,
@@ -998,19 +1005,12 @@
                     "Dans cet épisode de Chef’s Table, on suit l’histoire de Will Goldfarb. Au début de l’épisode, il explique qu’il était connu à New York. Certains disent que ses plats sont comme de la magie, que le déssert est la partie la plus importante du repas. Il prouve que ses désserts peuvent être à la fois réfléchis et fascinants, en faisant référence à des films, de la musique et de l’art. Ensuite, le chef est allé à Bali pour pouvoir se sentir engagé et vivant, fuire la vie misérable de New York. Cela lui a permis d’avoir l’espace et le temps pour se ressourcer. Il explique qu’à Bali, il peut choisir son chocolat, le faire. Le chocolat est son ingrédient favori dans la cuisine. Il explore et réinvente des désserts avec des ingrédients frais qu’il a cueilli lui-même. Il est créatif, puisqu'il relie ses connaissances en cuisines avec des ingrédients de Bali. Par exemple, veut incorporer des herbes médicinales dans ses désserts. Il a réinventé une meringue délicieuse qui lui a pris 1 an à créer, il a changer les ratios pourqu'elle aille des racines indonésiennes et la nommer après le pays!Il explique qu'il a aussi travaillé dans un restaurant assez provocants qui cachait les yeux des clients, les ligotait, mettait des seringues dans les désserts et les plongeais dans le noir. Son idée était créative, mais étrange et pas populaire. Il s'est ensuite trouver un travail où il a oser être créatif, imaginer un déssert dans lequel tu peux te sentir à la plage, intéragir avec le plat, mais cleui-ci n'a pas été un succès. Je trouve ensuite que son concept de créer un restaurant servant seulement des désserts était très créative. Il servait un restaurant avec une cuisine ouverte dans lequel il servait un menu de dégustation de désserts.",
                     "Très belle anlyse, merci Sérafin !"
                 ]
-            },
-            {
-                "titre_du_forum": "Chef's Table - Christina Tosi",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Dans cet épisode, on suit la vie et le parcours de Christina Tosi, une cheffe patissière américaine qui a fait carrière de sa passion pour la cuisine. L’épisode parle de son parcours académique et ses traditions familiales. Pour ses parents, la cuisine était un passe temps que l’on fait après le travail ou l’école. Elle a commencé à travailler dans des restaurants reconnus à New York, éloignée de sa famille. Après quelques années, elle décide de démarrer sa propre pâtisserie.\nChristina parle aussi du fait qu'avec des pâtisserie, elle peut être créative puisqu'à la base, le monde mangent des déserts pour se faire plaisir. Elle aime créer et réimaginer certains déserts. Certains décrivent ses déserts comme étant une voie pour s'exprimer. Far exemple, elle a servie un strawberry shortcake, que tous adorait et qui était différent et créatif. Elle connait tous les ingrédients et les techniques de cuisine, et par son intelligence intègre certaines techniques et saveurs dans ses créations. Par exemple, elle a créer un cereal milk panacota qui a ébloui le chef du restaurant pour lequel elle travaillait avant. Elle a ensuite décidé de créer Milk Bar avec ses idées créatives que tous ont adorés, grâce à son idée de lait au céréales."
-                ]
             }
         ]
     },
     {
         "utilisateur": "Selma Bicha",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1031,7 +1031,7 @@
     },
     {
         "utilisateur": "Serafin Saritsky Ramirez",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1052,28 +1052,28 @@
     },
     {
         "utilisateur": "Serena-Mputu Nkongolo",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's Table - Ivan Orkin",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ivan vient de New York et a grandi dans une famille de classe moyenne supérieure. Il a toujours été le mouton noir de sa famille, car il avait beaucoup de difficultés à l’école et n’aimait pas suivre les règles.Il s'est toujours intéressé à la cuisine et c'est à 15 ans qu'il a découvert la culture japonaise en travaillant dans un restaurant japonais. Cela l'a poussé à apprendre le japonais et à aller vivre au Japon. C'est là-bas qu'il a réellement découvert la culture japonaise avec sa première femme. Plus tard, après le décès de celle-ci, il est retourné au Japon et c'est à ce moment qu'il a rencontré sa deuxième femme, qui l'a encouragé à croire en lui et à ouvrir son propre restaurant.Ivan n’a jamais aimé suivre les règles et a toujours préféré faire les choses à sa façon. Or, la cuisine japonaise est très rigide. Ce qu’il aime des ramen, c’est la liberté qu’ils offrent, puisqu’il n’y a pas une seule façon de les préparer. Son caractère rebelle est donc son plus grand facteur d’influence, car il l’a poussé à expérimenter, à apprendre par lui-même et à se démarquer en faisant les choses différemment."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Ruth Carter : Création de costumes",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Plus jeune, Ruth aimait le théâtre, et c’est de cette façon qu’elle a été approchée pour faire de la création de costumes. Pour elle, créer un costume, c’est raconter une histoire. Quand elle était plus jeune, elle passait beaucoup de temps à la bibliothèque à lire, surtout sur l’histoire, notamment l’esclavagisme et les droits civils. La lecture de l’histoire et de la poésie était pour elle une forme d’échappatoire, et elle intègre aujourd’hui ces influences dans ses costumes.\nElle fait des recherches très approfondies pour comprendre le monde dans lequel son personnage évolue et le contexte de son époque. Elle prend aussi le temps de bien lire le script afin de comprendre comment le personnage est perçu par les autres. Elle cherche à représenter la réalité le plus fidèlement possible, jusque dans les plus petits détails.\nPar ailleurs, sa mère étudiait en psychologie, ce qui lui a transmis une grande empathie. Ruth veut comprendre pourquoi les gens sont comme ils sont, et elle intègre cette réflexion dans son travail. Pour trouver de l’inspiration, elle se promène aussi dans les rues et observe les gens, en imaginant leurs histoires à partir de ce qu’elle voit."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef's Table - Ivan Orkin",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ivan vient de New York et a grandi dans une famille de classe moyenne supérieure. Il a toujours été le mouton noir de sa famille, car il avait beaucoup de difficultés à l’école et n’aimait pas suivre les règles.Il s'est toujours intéressé à la cuisine et c'est à 15 ans qu'il a découvert la culture japonaise en travaillant dans un restaurant japonais. Cela l'a poussé à apprendre le japonais et à aller vivre au Japon. C'est là-bas qu'il a réellement découvert la culture japonaise avec sa première femme. Plus tard, après le décès de celle-ci, il est retourné au Japon et c'est à ce moment qu'il a rencontré sa deuxième femme, qui l'a encouragé à croire en lui et à ouvrir son propre restaurant.Ivan n’a jamais aimé suivre les règles et a toujours préféré faire les choses à sa façon. Or, la cuisine japonaise est très rigide. Ce qu’il aime des ramen, c’est la liberté qu’ils offrent, puisqu’il n’y a pas une seule façon de les préparer. Son caractère rebelle est donc son plus grand facteur d’influence, car il l’a poussé à expérimenter, à apprendre par lui-même et à se démarquer en faisant les choses différemment."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Sofia Rose Beaudry",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1094,7 +1094,7 @@
     },
     {
         "utilisateur": "Sofyan Emad Khayyal",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1115,7 +1115,7 @@
     },
     {
         "utilisateur": "Sylia Merdjane",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1136,7 +1136,7 @@
     },
     {
         "utilisateur": "Thibault Fourvel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1157,7 +1157,7 @@
     },
     {
         "utilisateur": "Thomas Fournier-Joanisse",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1178,7 +1178,7 @@
     },
     {
         "utilisateur": "Vincent Coulombe",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1199,49 +1199,49 @@
     },
     {
         "utilisateur": "Vincent Lachapelle",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Abstract- Es Devlin: Stage Design",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Sa créativité a aussi grandement été inspirée par la chapelle qu'elle a cotée durant sa jeunesse. Les vitraux ont été sa voie d'entrée vers l'art des couleurs et de la lumière, qu'elle a ensuite intégrée à l'intérieur de ses œuvres. Ensuite, il y avait une maquette miniature de la ville où elle a passé une bonne partie de sa jeunesse. C'est à travers cette maquette qu'elle se mit à les utiliser pour raconter des histoires. Enfin, on ne peut pas passer à côté de son parcours universitaire en design de la scène. Dans le documentaire, elle dit que c'est entouré de ces gens ambitieux et créatifs qu'elle se sentit enfin chez elle. Il est donc clair que les artistes qu'elle y a rencontrées ont marqué sa vie et l'ont aidé à bâtir son espace des possibilités."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Neri Oxman, Architecture Bioclimatique",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "La nature est clairement un grand facteur d'influence pour Neri. Le jardin de sa grand-mère est pour elle un lieu de paix et de sérénité où elle aime se recueillir. Au MIT, elle allait se promener à l'abord de l'étang de Walden afin de se reconnecter avec la nature presque à tous les jours. Cette relation l'a sans doute grandement inspiré à l'intérieur de son travail. Dans ce documentaire, elle cite un dicton hébreu qui signifie : \"Tout est attendu, tout est déjà connu\". Ces paroles résument bien la pensée du biomimétisme, selon laquelle la nature possède déjà la solution à de nombreux problèmes contemporains.\n\nOr, la religion est aussi un facteur d'influence important pour elle. Tout au long du reportage, elle fait référence à des éléments du judaïsme, tels que l'arche de Noé, le jardin d'Éden et la prière. De par son témoignage, il est donc évident que sa façon de penser est imprégnée de la culture de son pays et que le judaïsme affecte son espace de possibilité. \n\nSa famille est aussi un grand facteur d'influence sur elle. Cette influence se sent par la relation qu'elle entretient avec son père et sa grand-mère.\n\nEnfin, il est clair que son expérience militaire l'a grandement affecté. Bien qu'elle en parle peu à l'intérieur du reportage, il est évident que les événements qu'elle a vécus l'ont profondément marqués."
                 ]
+            },
+            {
+                "titre_du_forum": "Abstract- Es Devlin: Stage Design",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Sa créativité a aussi grandement été inspirée par la chapelle qu'elle a cotée durant sa jeunesse. Les vitraux ont été sa voie d'entrée vers l'art des couleurs et de la lumière, qu'elle a ensuite intégrée à l'intérieur de ses œuvres. Ensuite, il y avait une maquette miniature de la ville où elle a passé une bonne partie de sa jeunesse. C'est à travers cette maquette qu'elle se mit à les utiliser pour raconter des histoires. Enfin, on ne peut pas passer à côté de son parcours universitaire en design de la scène. Dans le documentaire, elle dit que c'est entouré de ces gens ambitieux et créatifs qu'elle se sentit enfin chez elle. Il est donc clair que les artistes qu'elle y a rencontrées ont marqué sa vie et l'ont aidé à bâtir son espace des possibilités."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Wadie Aymen Ghennani",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef’s Table_ Massimo Bottura",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "Ce qui m’a marqué chez Massimo Bottura, c’est que sa créativité vient surtout de sa relation à la tradition italienne. Il y est très attaché, mais il refuse de la répéter telle quelle et choisit plutôt de la transformer, même si ça provoque au départ. Je sent aussi que l’art et l’émotion jouent un rôle central dans sa façon de créer : ses plats racontent une histoire plus qu’ils ne suivent une recette. Enfin, sa capacité à prendre des risques et à accepter l’échec influence beaucoup son processus créatif. Il ose se tromper, apprendre et avancer malgré les critiques, ce qui rend sa cuisine très personnelle."
-                ]
-            },
             {
                 "titre_du_forum": "chef's table _ Magnus Nilsson",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Ce qui m’a le plus marqué dans l’épisode de Magnus Nilsson, c’est la façon dont il transforme ce que plusieurs verraient comme des limites en véritable moteur de créativité. Le fait d’être installé dans une région très isolée du nord de la Suède l’éloigne des grandes scènes culinaires et des tendances internationales. Cette distance lui permet, selon moi, de se concentrer uniquement sur son propre univers, sans pression de comparaison, et de développer une identité culinaire très personnelle.Sa créativité est aussi profondément influencée par le climat et les saisons. Les hivers longs et la courte période de croissance l’obligent à repenser complètement la façon de cuisiner et de s’approvisionner. Cela le pousse à utiliser des techniques de conservation traditionnelles et à travailler avec ce que la nature lui offre réellement. J’ai l’impression que cette contrainte donne beaucoup de sens à sa cuisine, qui ne cherche pas à impressionner, mais plutôt à raconter un lieu et un mode de vie. Enfin, son parcours personnel, marqué par des doutes et un recul temporaire de la cuisine, semble lui avoir permis de revenir avec un regard plus mature. Pour moi, cet épisode montre que sa créativité ne vient pas de la liberté totale, mais du temps, de la contrainte et de la réflexion."
                 ]
+            },
+            {
+                "titre_du_forum": "Chef’s Table_ Massimo Bottura",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "Ce qui m’a marqué chez Massimo Bottura, c’est que sa créativité vient surtout de sa relation à la tradition italienne. Il y est très attaché, mais il refuse de la répéter telle quelle et choisit plutôt de la transformer, même si ça provoque au départ. Je sent aussi que l’art et l’émotion jouent un rôle central dans sa façon de créer : ses plats racontent une histoire plus qu’ils ne suivent une recette. Enfin, sa capacité à prendre des risques et à accepter l’échec influence beaucoup son processus créatif. Il ose se tromper, apprendre et avancer malgré les critiques, ce qui rend sa cuisine très personnelle."
+                ]
             }
         ]
     },
     {
         "utilisateur": "Warda Belem",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1262,7 +1262,7 @@
     },
     {
         "utilisateur": "William Parker",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1283,7 +1283,7 @@
     },
     {
         "utilisateur": "William-Henri Turgeon-Dupuis",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1304,7 +1304,7 @@
     },
     {
         "utilisateur": "Xavier Schlegel",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1325,7 +1325,7 @@
     },
     {
         "utilisateur": "Yacine Barka",
-        "groupe": "flamingo",
+        "groupe": "Flamant rose",
         "total_des_commentaires": 2,
         "forums": [
             {
@@ -1346,21 +1346,21 @@
     },
     {
         "utilisateur": "Yassine Seddaoui",
-        "groupe": "otter",
+        "groupe": "Loutre",
         "total_des_commentaires": 2,
         "forums": [
-            {
-                "titre_du_forum": "Chef's table - Massimo Bottura",
-                "nbre_de_commentaires": 1,
-                "commentaires": [
-                    "La créativité de Massimo Bottura est fortement influencée par les contraintes et les problèmes. Dans les premières minutes de l'épisode, une grande quantité de fromage est endommagée et risque d’être perdue. Pour éviter le gaspillage et les pertes économiques, son aide est demandée. Cette situation l’amène à créer une nouvelle recette en s’inspirant d’un plat traditionnel, le cacio e pepe, qu’il transforme en risotto. Sa créativité vient donc de sa capacité à adapter la tradition et à trouver des solutions pratiques. Sa cuisine n’est pas seulement créative pour l’esthétique, mais aussi pour son impact social. La recette est partagée largement, tout le fromage est vendu et aucun emploi n’est perdu."
-                ]
-            },
             {
                 "titre_du_forum": "Abstract - Tinker Hatfield : Footwear Design",
                 "nbre_de_commentaires": 1,
                 "commentaires": [
                     "Après une grave blessure et plusieurs chirurgies, Tinker voit sa carrière sportive compromise. À cause de sa blessure, il doit porter des chaussures adaptées, ce qui l’amène à en concevoir lui-même. Sa créativité vient surtout de la résolution de problèmes concrets et de l’expérimentation. Il s’inspire aussi d’autres domaines comme l’architecture. Par exemple, les Air Max sont inspirées du Centre Georges-Pompidou à Paris, qui expose ses structures internes, ce qui l’a amené à rendre visible le coussin d’air de la chaussure. Ainsi, la créativité de Tinker vient principalement de la résolution de problèmes concrets et de son inspiration tirée d’autres domaines."
+                ]
+            },
+            {
+                "titre_du_forum": "Chef's table - Massimo Bottura",
+                "nbre_de_commentaires": 1,
+                "commentaires": [
+                    "La créativité de Massimo Bottura est fortement influencée par les contraintes et les problèmes. Dans les premières minutes de l'épisode, une grande quantité de fromage est endommagée et risque d’être perdue. Pour éviter le gaspillage et les pertes économiques, son aide est demandée. Cette situation l’amène à créer une nouvelle recette en s’inspirant d’un plat traditionnel, le cacio e pepe, qu’il transforme en risotto. Sa créativité vient donc de sa capacité à adapter la tradition et à trouver des solutions pratiques. Sa cuisine n’est pas seulement créative pour l’esthétique, mais aussi pour son impact social. La recette est partagée largement, tout le fromage est vendu et aucun emploi n’est perdu."
                 ]
             }
         ]
